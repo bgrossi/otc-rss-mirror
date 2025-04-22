@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 1. Fetch RSS (force HTTP/1.1; fallback to CDN)
-            - name: Fetch RSS (with timeout, HTTP/1.1, fallback insecure)
+      - name: Fetch RSS (with timeout, HTTP/1.1, fallback insecure)
         run: |
           set -e
           # Try primary (strict TLS), then fallback (skip cert check)
