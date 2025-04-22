@@ -12,13 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 1. Fetch RSS (force HTTP/1.1; fallback to CDN)
-      - name: Fetch RSS
+            - name: Fetch RSS (with timeout, HTTP/1.1, fallback insecure)
         run: |
           set -e
-          curl --max-time 20 --retry 3 --retry-delay 5 -sSL --http1.1 -o rss.xml \
-            "https://www.otcmarkets.com/syndicate/rss.xml" \
-            || curl --max-time 20 --retry 3 --retry-delay 5 -sSL --http1.1 -o rss.xml \
-            "https://content.otcmarkets.com/syndicate/rss.xml"
+          # Try primary (strict TLS), then fallback (skip cert check)
+          curl --max-time 20 --retry 3 --retry-delay 5 -sSL --http1.1 \
+               -o rss.xml "https://www.otcmarkets.com/syndicate/rss.xml" \
+            || curl --max-time 20 --retry 3 --retry-delay 5 --insecure -sSL --http1.1 \
+               -o rss.xml "https://content.otcmarkets.com/syndicate/rss.xml"
 
       # 2. Convert to plain text with a time‑stamp header
       - name: Convert to plain text
