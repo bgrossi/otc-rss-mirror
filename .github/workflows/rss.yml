@@ -2,6 +2,7 @@ name: OTC RSS mirror
 on:
   schedule:
     - cron: "*/15 * * * *"     # every 15 minutes
+    - workflow dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
