@@ -1,13 +1,18 @@
 name: OTC RSS mirror
+
 on:
+  # ── run every 15 minutes ───────────────────────────
   schedule:
-    - cron: "*/15 * * * *"     # every 15 minutes
-    - workflow dispatch:
+    - cron: "*/15 * * * *"
+  # ── allow manual runs from the Actions tab ────────
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch RSS (primary or fallback, force HTTP/1.1)
+      # 1. Fetch RSS (force HTTP/1.1; fallback to CDN)
+      - name: Fetch RSS
         run: |
           set -e
           curl -sSL --http1.1 -o rss.xml \
@@ -15,6 +20,7 @@ jobs:
             || curl -sSL --http1.1 -o rss.xml \
             "https://content.otcmarkets.com/syndicate/rss.xml"
 
+      # 2. Convert to plain text with a time‑stamp header
       - name: Convert to plain text
         run: |
           {
@@ -22,3 +28,10 @@ jobs:
             echo
             cat rss.xml
           } > latest_otc_rss.txt
+
+      # 3. Upload as workflow artifact
+      - name: Upload artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest_otc_rss.txt
+          path: latest_otc_rss.txt
