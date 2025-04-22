@@ -1,0 +1,19 @@
+name: OTC RSS mirror
+on:
+  schedule:
+    - cron: "*/15 * * * *"     # every 15 minutes
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch RSS
+        run: |
+          curl -sSL "https://www.otcmarkets.com/syndicate/rss.xml" > rss.xml
+      - name: Strip XML header so it's plain text
+        run: |
+          sed '1s/^/OTC RSS mirror fetched: $(date -u)\n\n/' rss.xml > latest_otc_rss.txt
+      - name: Upload artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest_otc_rss.txt
+          path: latest_otc_rss.txt
