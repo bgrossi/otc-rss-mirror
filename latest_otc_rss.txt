@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 07:08:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 02:36:27 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[European Metals Holdings Ltd. (EMHXY: OTCQX International) | Notice of Annual General Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475278]]></link>
+<pubDate>Wed, 30 Apr 2025 02:48:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475278]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[European Metals Holdings Ltd.]]></category>
+<pink:symbol>EMHXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Atlantic Lithium Ltd. (ALLIF: OTCQX International) | Quarterly Activities and Cash Flow Reporting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ALLIF/news?id=475277]]></link>
@@ -578,18 +590,6 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Alkaline Water Company Inc. (The) (WTER: Pink Current) | The Alkaline Water Company Announces Co-Packing Agreement with Sang Beverages for TEN Alkaline Spring Water]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WTER/news?id=475043]]></link>
-<pubDate>Tue, 29 Apr 2025 06:00:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WTER/news?id=475043]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Alkaline Water Company Inc. (The)]]></category>
-<pink:symbol>WTER</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -840,7 +840,31 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[ROKO AB (ROKOF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ROKOF&actionDate=1745995466000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ROKOF/company-info">ROKO AB</a> (<a href="http://www.otcmarkets.com/stock/ROKOF">ROKOF</a>: OTC Link) - Venue Change - The symbol, ROKOF, no longer trades on Grey Market.  As of Wed, Apr 30, 2025, ROKOF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 02:44:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ROKOF&actionDate=1745995466000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ROKO AB]]></category>
+<pink:symbol>ROKOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745995464000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: OTC Link) - Venue Change - The symbol, TKMJF, no longer trades on Grey Market.  As of Wed, Apr 30, 2025, TKMJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 02:44:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745995464000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Telkom SA SOC Ltd]]></category>
+<pink:symbol>TKMJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745950114000]]></link>
 <description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: Grey Market) - Venue Change - The symbol, TKMJF, no longer trades on OTC Link.  As of Tue, Apr 29, 2025, TKMJF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 29 Apr 2025 14:08:34 EDT</pubDate>
@@ -849,7 +873,7 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <category><![CDATA[Telkom SA SOC Ltd]]></category>
 <pink:symbol>TKMJF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Carbine Resources Ltd. (CRNRF: Pink Current) | Venue Change]]></title>
@@ -932,30 +956,6 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Heramba Electric plc]]></category>
 <pink:symbol>PITEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RICEGROWERS LTD. (SGLLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SGLLF&actionDate=1745860459000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGLLF/company-info">RICEGROWERS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SGLLF">SGLLF</a>: Grey Market) - Venue Change - The symbol, SGLLF, no longer trades on OTC Link.  As of Mon, Apr 28, 2025, SGLLF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 13:14:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SGLLF&actionDate=1745860459000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RICEGROWERS LTD.]]></category>
-<pink:symbol>SGLLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zanaga Iron Ore Company Ltd. (ZNGGF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZNGGF&actionDate=1745840635000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZNGGF/company-info">Zanaga Iron Ore Company Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ZNGGF">ZNGGF</a>: OTC Link) - Venue Change - The symbol, ZNGGF, no longer trades on Grey Market.  As of Mon, Apr 28, 2025, ZNGGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 07:43:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZNGGF&actionDate=1745840635000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zanaga Iron Ore Company Ltd.]]></category>
-<pink:symbol>ZNGGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1128,6 +1128,18 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Siegfried Holdings Ltd (SGFEF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SGFEF&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFEF/company-info">Siegfried Holdings Ltd</a> (<a href="http://www.otcmarkets.com/stock/SGFEF">SGFEF</a>: Pink Limited) - Splits - Effective Tue, Apr 29, 2025, SGFEF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 10 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SGFEF&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Siegfried Holdings Ltd]]></category>
+<pink:symbol>SGFEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Capita PLC (CTAGF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGF&actionDate=1745899200000]]></link>
 <description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGD">CTAGF</a>: Pink Current) - Splits - Effective Tue, Apr 29, 2025, CTAGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 15 split. Due to the split, CTAGF is no longer valid. The new trading symbol is CTAGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1296,6 +1308,102 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Vystar Corp. (VYST: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VYST&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VYST/company-info">Vystar Corp.</a> (<a href="http://www.otcmarkets.com/stock/VYST">VYST</a>: OTCQB) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, VYST is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VYST&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vystar Corp.]]></category>
+<pink:symbol>VYST</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Thai Stanley Electric PCL (TSETF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSETF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSETF/company-info">Thai Stanley Electric PCL</a> (<a href="http://www.otcmarkets.com/stock/TSETF">TSETF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, TSETF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSETF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Thai Stanley Electric PCL]]></category>
+<pink:symbol>TSETF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKMJF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, TKMJF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKMJF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Telkom SA SOC Ltd]]></category>
+<pink:symbol>TKMJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[THOR EXPLORATION LTD. (THXPF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=THXPF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/THXPF/company-info">THOR EXPLORATION LTD.</a> (<a href="http://www.otcmarkets.com/stock/THXPF">THXPF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, THXPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=THXPF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[THOR EXPLORATION LTD.]]></category>
+<pink:symbol>THXPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Siegfried Holdings Ltd (SGFEF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGFEF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFEF/company-info">Siegfried Holdings Ltd</a> (<a href="http://www.otcmarkets.com/stock/SGFEF">SGFEF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, SGFEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGFEF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Siegfried Holdings Ltd]]></category>
+<pink:symbol>SGFEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ROKO AB (ROKOF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ROKOF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ROKOF/company-info">ROKO AB</a> (<a href="http://www.otcmarkets.com/stock/ROKOF">ROKOF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, ROKOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ROKOF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ROKO AB]]></category>
+<pink:symbol>ROKOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT RESOURCE ALAM INDONESIA TBK (PTRAF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTRAF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTRAF/company-info">PT RESOURCE ALAM INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/PTRAF">PTRAF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, PTRAF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTRAF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT RESOURCE ALAM INDONESIA TBK]]></category>
+<pink:symbol>PTRAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NIPPON INDOSARI CORPINDO TBK (NIPAF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NIPAF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NIPAF/company-info">NIPPON INDOSARI CORPINDO TBK</a> (<a href="http://www.otcmarkets.com/stock/NIPAF">NIPAF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, NIPAF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NIPAF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NIPPON INDOSARI CORPINDO TBK]]></category>
+<pink:symbol>NIPAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Spruce Biosciences, Inc. (SPRB: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPRB&actionDate=1745899200000]]></link>
 <description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPRB/company-info">Spruce Biosciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SPRB">SPRB</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, SPRB is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1318,42 +1426,6 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:symbol>SGLLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Heramba Electric plc (PITEF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PITEF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PITEF/company-info">Heramba Electric plc</a> (<a href="http://www.otcmarkets.com/stock/PITEF">PITEF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, PITEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PITEF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Heramba Electric plc]]></category>
-<pink:symbol>PITEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Nichiden Corp. (NCHDF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NCHDF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NCHDF/company-info">Nichiden Corp.</a> (<a href="http://www.otcmarkets.com/stock/NCHDF">NCHDF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, NCHDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NCHDF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nichiden Corp.]]></category>
-<pink:symbol>NCHDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atos Origin SA (AEXYD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AEXYD&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXYD/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXYD">AEXYD</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, AEXYD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AEXYD&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atos Origin SA]]></category>
-<pink:symbol>AEXYD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[WCF Bancorp, Inc. (WCFB: Pink Current) | Ex-Dividend]]></title>
@@ -1656,6 +1728,30 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Thai Stanley Electric PCL (TSETF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSETF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSETF/company-info">Thai Stanley Electric PCL</a> (<a href="http://www.otcmarkets.com/stock/TSETF">TSETF</a>: Pink Limited) - Tier Change - The symbol, TSETF, no longer is classified as Expert Market.  As of Wed, Apr 30, 2025, TSETF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSETF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Thai Stanley Electric PCL]]></category>
+<pink:symbol>TSETF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKMJF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: Pink Current) - Tier Change - The symbol, TKMJF, no longer is classified as Grey Market.  As of Wed, Apr 30, 2025, TKMJF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKMJF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Telkom SA SOC Ltd]]></category>
+<pink:symbol>TKMJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Troy Gold & Mineral Corp. (TGMR: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGMR&actionDate=1745985600000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGMR/company-info">Troy Gold & Mineral Corp.</a> (<a href="http://www.otcmarkets.com/stock/TGMR">TGMR</a>: Pink Current) - Tier Change - The symbol, TGMR, no longer is classified as Pink Limited.  As of Wed, Apr 30, 2025, TGMR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1690,30 +1786,6 @@ OTC RSS mirror fetched: Wed Apr 30 06:54:46 UTC 2025
 <pink:symbol>SSET</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SPO Global Inc. (SPOM: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPOM&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPOM/company-info">SPO Global Inc.</a> (<a href="http://www.otcmarkets.com/stock/SPOM">SPOM</a>: Pink Limited) - Tier Change - The symbol, SPOM, no longer is classified as Pink Current.  As of Wed, Apr 30, 2025, SPOM resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPOM&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SPO Global Inc.]]></category>
-<pink:symbol>SPOM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Reeltime Rentals, Inc. (RLTR: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RLTR/company-info">Reeltime Rentals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RLTR">RLTR</a>: Pink Limited) - Tier Change - The symbol, RLTR, no longer is classified as Pink Current.  As of Wed, Apr 30, 2025, RLTR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Reeltime Rentals, Inc.]]></category>
-<pink:symbol>RLTR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
