@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 12:15:01 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 12:55:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed Apr 30 12:15:01 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 08:06:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 08:46:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Alfa-Laval AB (ALFVY: Pink Limited) | ALFVY - Books will close today, April 30, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ALFVY/news?id=475340]]></link>
+<pubDate>Wed, 30 Apr 2025 08:42:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALFVY/news?id=475340]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Alfa-Laval AB]]></category>
+<pink:symbol>ALFVY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Mass Megawatts Wind Power, Inc. (MMMW: Pink Current) | Mass Megawatts Filed OTCID Management Certification]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MMMW/news?id=475328]]></link>
+<pubDate>Wed, 30 Apr 2025 08:17:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MMMW/news?id=475328]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mass Megawatts Wind Power, Inc.]]></category>
+<pink:symbol>MMMW</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Pan African Resources PLC (PAFRY: OTCQX International) | Notification of change in major shareholdings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=475326]]></link>
+<pubDate>Wed, 30 Apr 2025 08:09:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=475326]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pan African Resources PLC]]></category>
+<pink:symbol>PAFRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | Paradox project update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=475284]]></link>
@@ -554,42 +590,6 @@ OTC RSS mirror fetched: Wed Apr 30 12:15:01 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Current) | SMARTCARD MARKETING SYSTEMS INC. (OTC:SMKG)’S MINORITY INTEREST CO. XPAY.WORLDWIDE CORPORATION - PHILIPPINES (XPAY) ACHIEVES PCI DSS 4.0.1 CERTIFICATION FOR 4TH CONSECUTIVE YEAR]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475196]]></link>
-<pubDate>Tue, 29 Apr 2025 09:51:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475196]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
-<pink:symbol>SMKG</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Localiza Rent A Car SA (LZRFY: OTCQX International) | AGM & EGM - Consolidated Summary Statement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LZRFY/news?id=475195]]></link>
-<pubDate>Tue, 29 Apr 2025 09:36:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LZRFY/news?id=475195]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Localiza Rent A Car SA]]></category>
-<pink:symbol>LZRFY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FREEDOM FINL HLDGS INC. (FDVA: OTCQX U.S.) | Freedom Financial Holdings Announces Earnings for First Quarter of 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FDVA/news?id=475193]]></link>
-<pubDate>Tue, 29 Apr 2025 09:30:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FDVA/news?id=475193]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FREEDOM FINL HLDGS INC.]]></category>
-<pink:symbol>FDVA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -840,6 +840,18 @@ OTC RSS mirror fetched: Wed Apr 30 12:15:01 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[GBank Financial Holdings Inc. (GBFH: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GBFH&actionDate=1746016556000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBFH/company-info">GBank Financial Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBFH">GBFH</a>: Nasdaq) - Venue Change - The symbol, GBFH, no longer trades on OTC Link.  As of Wed, Apr 30, 2025, GBFH trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 08:35:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GBFH&actionDate=1746016556000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GBank Financial Holdings Inc.]]></category>
+<pink:symbol>GBFH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PURPOSE SOLANA ETF (PSNAF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PSNAF&actionDate=1746012820000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PSNAF/company-info">PURPOSE SOLANA ETF</a> (<a href="http://www.otcmarkets.com/stock/PSNAF">PSNAF</a>: OTC Link) - Venue Change - The symbol, PSNAF, no longer trades on Grey Market.  As of Wed, Apr 30, 2025, PSNAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -944,18 +956,6 @@ OTC RSS mirror fetched: Wed Apr 30 12:15:01 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[RICEGROWERS LTD.]]></category>
 <pink:symbol>SGLLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Spruce Biosciences, Inc. (SPRB: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SPRB&actionDate=1745902851000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPRB/company-info">Spruce Biosciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SPRB">SPRB</a>: OTC Link) - Venue Change - The symbol, SPRB, no longer trades on Nasdaq.  As of Tue, Apr 29, 2025, SPRB trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SPRB&actionDate=1745902851000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Spruce Biosciences, Inc.]]></category>
-<pink:symbol>SPRB</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
