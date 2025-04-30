@@ -36,12 +36,12 @@ jobs:
         test -s rss_full.xml || { echo "RSS download failed"; exit 1; }
 
 
-    - name: Trim to latest 150 items
+    - name: Trim to latest 250 items
       run: |
         awk '
           /<item>/ {c++}
-          c<=150   {print}
-          /<\/item>/ && c==150 {exit}
+          c<=250   {print}
+          /<\/item>/ && c==250 {exit}
         ' rss_full.xml > rss_trimmed.xml
         echo "OTC RSS mirror fetched: $(date -u)" > latest_otc_rss.txt
         cat rss_trimmed.xml >> latest_otc_rss.txt
