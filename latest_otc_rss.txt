@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 19:45:47 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 20:09:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Apr 30 19:45:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 15:26:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 16:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=475417]]></link>
+<pubDate>Wed, 30 Apr 2025 15:39:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=475417]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Honat Bancorp, Inc.]]></category>
+<pink:symbol>HONT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Pioneer Bankcorp Inc. (PBKC: Pink Current) | Pioneer Bankcorp announces 1st quarter earnings of $2.45 million or $2.17 per share.]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PBKC/news?id=475414]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Apr 30 19:45:47 UTC 2025
 <pink:symbol>RDFEF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Placement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=475268]]></link>
-<pubDate>Tue, 29 Apr 2025 21:57:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=475268]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tolu Minerals Limited]]></category>
-<pink:symbol>TOLUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
