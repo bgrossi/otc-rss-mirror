@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 04:10:24 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 29 Apr 2025 23:36:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 00:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[PO VALLEY ENERGY LTD. (PVLEF: OTCQB) | Notice of Annual General Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475270]]></link>
+<pubDate>Tue, 29 Apr 2025 23:58:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475270]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PO VALLEY ENERGY LTD.]]></category>
+<pink:symbol>PVLEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Quarterly Activities and Cashflow Report - March 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=475269]]></link>
@@ -578,18 +590,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[adidas AG (ADDYY: OTCQX International) | adidas delivers better-than-expected first quarter results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADDYY/news?id=475072]]></link>
-<pubDate>Tue, 29 Apr 2025 01:37:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADDYY/news?id=475072]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[adidas AG]]></category>
-<pink:symbol>ADDYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1104,30 +1104,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Cabo Verde Capital Inc. (VYRE: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=VYRE&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VYRE/company-info">Cabo Verde Capital Inc.</a> (<a href="http://www.otcmarkets.com/stock/VYRE">VYRE</a>: Pink Current) - Company Name Change - Cabo Verde Capital Inc. has changed its name to Vyre Network. The change goes into effect as of Mon, Apr 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=VYRE&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cabo Verde Capital Inc.]]></category>
-<pink:symbol>VYRE</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Acme Lithium Inc. (ACLHD: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACLHD&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACLHD/company-info">Acme Lithium Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACLHD">ACLHD</a>: OTCQB) - Company Name Change - Acme Lithium Inc. has changed its name to SURFACE METALS INC.. The change goes into effect as of Mon, Apr 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACLHD&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Acme Lithium Inc.]]></category>
-<pink:symbol>ACLHD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Capita PLC (CTAGF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGF&actionDate=1745899200000]]></link>
 <description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGD">CTAGF</a>: Pink Current) - Splits - Effective Tue, Apr 29, 2025, CTAGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 15 split. Due to the split, CTAGF is no longer valid. The new trading symbol is CTAGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1138,78 +1114,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:symbol>CTAGD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ALPHA ONE INC. (AOAO: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AOAO&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AOAOD/company-info">ALPHA ONE INC.</a> (<a href="http://www.otcmarkets.com/stock/AOAOD">AOAO</a>: Pink Current) - Splits - Effective Mon, Apr 28, 2025, AOAO: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 7 split. Due to the split, AOAO is no longer valid. The new trading symbol is AOAOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AOAO&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ALPHA ONE INC.]]></category>
-<pink:symbol>AOAOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atos Origin SA (AEXAY: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AEXAY&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXYD/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXYD">AEXAY</a>: Pink Limited) - Splits - Effective Mon, Apr 28, 2025, AEXAY: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 10000 split. Due to the split, AEXAY is no longer valid. The new trading symbol is AEXYD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AEXAY&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atos Origin SA]]></category>
-<pink:symbol>AEXYD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SURFACE METALS INC. (ACLHF: OTCQB) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ACLHF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACLHD/company-info">SURFACE METALS INC.</a> (<a href="http://www.otcmarkets.com/stock/ACLHD">ACLHF</a>: OTCQB) - Splits - Effective Mon, Apr 28, 2025, ACLHF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 3 split. Due to the split, ACLHF is no longer valid. The new trading symbol is ACLHD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ACLHF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SURFACE METALS INC.]]></category>
-<pink:symbol>ACLHD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tomoe Engineering Co. Ltd. (TMOHF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TMOHF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMOHF/company-info">Tomoe Engineering Co. Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TMOHF">TMOHF</a>: Pink Limited) - Splits - Effective Mon, Apr 28, 2025, TMOHF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TMOHF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tomoe Engineering Co. Ltd.]]></category>
-<pink:symbol>TMOHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MITSUI-SOKO HLDGS CO LTD (MSOKF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MSOKF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MSOKF/company-info">MITSUI-SOKO HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/MSOKF">MSOKF</a>: Pink Limited) - Splits - Effective Mon, Apr 28, 2025, MSOKF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MSOKF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MITSUI-SOKO HLDGS CO LTD]]></category>
-<pink:symbol>MSOKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[EDP Renovaveis SA (EDRVY: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDRVY&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EDRVY/company-info">EDP Renovaveis SA</a> (<a href="http://www.otcmarkets.com/stock/EDRVY">EDRVY</a>: Pink Limited) - Splits - Effective Mon, Apr 28, 2025, EDRVY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.011111 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDRVY&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EDP Renovaveis SA]]></category>
-<pink:symbol>EDRVY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Telkom SA SOC Ltd (TKMJF: Grey Market) | Reactivated Symbol]]></title>
@@ -1368,42 +1272,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TOLUF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TOLUF/company-info">Tolu Minerals Limited</a> (<a href="http://www.otcmarkets.com/stock/TOLUF">TOLUF</a>: OTCQX International) - Halted Security -  Effective Mon, Apr 28, 2025, TOLUF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TOLUF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tolu Minerals Limited]]></category>
-<pink:symbol>TOLUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CANADABIS CAP INC (CNADF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CNADF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CNADF/company-info">CANADABIS CAP INC</a> (<a href="http://www.otcmarkets.com/stock/CNADF">CNADF</a>: Pink Current) - Halted Security -  Effective Mon, Apr 28, 2025, CNADF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CNADF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CANADABIS CAP INC]]></category>
-<pink:symbol>CNADF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Quebec Precious Metals Corp. (CJCFF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CJCFF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CJCFF/company-info">Quebec Precious Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/CJCFF">CJCFF</a>: Pink Current) - Halted Security -  Effective Mon, Apr 28, 2025, CJCFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CJCFF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Quebec Precious Metals Corp.]]></category>
-<pink:symbol>CJCFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Spruce Biosciences, Inc. (SPRB: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPRB&actionDate=1745899200000]]></link>
 <description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPRB/company-info">Spruce Biosciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SPRB">SPRB</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, SPRB is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1462,66 +1330,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:symbol>AEXYD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zhengzhou Coal Mining Machinery Group Co Ltd (ZZCMF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZZCMF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZZCMF/company-info">Zhengzhou Coal Mining Machinery Group Co Ltd</a> (<a href="http://www.otcmarkets.com/stock/ZZCMF">ZZCMF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Apr 28, 2025, ZZCMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZZCMF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zhengzhou Coal Mining Machinery Group Co Ltd]]></category>
-<pink:symbol>ZZCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Yotta Acquisition Corporation (YOTAR: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=YOTAR&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YOTAR/company-info">Yotta Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/YOTAR">YOTAR</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Apr 28, 2025, YOTAR is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=YOTAR&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Yotta Acquisition Corporation]]></category>
-<pink:symbol>YOTAR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Yotta Acquisition Corporation (YOTA: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=YOTA&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YOTA/company-info">Yotta Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/YOTA">YOTA</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Apr 28, 2025, YOTA is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=YOTA&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Yotta Acquisition Corporation]]></category>
-<pink:symbol>YOTA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=WCMLF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) - Piggyback Qualified -  Effective Mon, Apr 28, 2025, WCMLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=WCMLF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[White Cliff Minerals Ltd]]></category>
-<pink:symbol>WCMLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Robert Walters Plc (RWALF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RWALF&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RWALF/company-info">Robert Walters Plc</a> (<a href="http://www.otcmarkets.com/stock/RWALF">RWALF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Apr 28, 2025, RWALF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RWALF&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Robert Walters Plc]]></category>
-<pink:symbol>RWALF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[WCF Bancorp, Inc. (WCFB: Pink Current) | Ex-Dividend]]></title>
@@ -1882,18 +1690,6 @@ OTC RSS mirror fetched: Wed Apr 30 03:47:44 UTC 2025
 <pink:symbol>MPIR</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Quantumzyme Corp. (QTZM: Pink Current) | Caveat Emptor Status Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=QTZM&actionDate=1745812800000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QTZM/company-info">Quantumzyme Corp.</a> (<a href="http://www.otcmarkets.com/stock/QTZM">QTZM</a>: Pink Current) - Caveat Emptor Status Change - The symbol, QTZM, has been added to the Caveat Emptor classification.  You may find a complete list of Caveat Emptor status changes at <a href="http://www.otcmarkets.com/market-activity/caveat-emptor-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=QTZM&actionDate=1745812800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Quantumzyme Corp.]]></category>
-<pink:symbol>QTZM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
