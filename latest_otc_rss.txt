@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 20:30:07 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 20:40:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Apr 30 20:30:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 16:06:27 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 16:36:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Limited) | CGAC - 2024 - Annual Report]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=475423]]></link>
+<pubDate>Wed, 30 Apr 2025 16:21:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=475423]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Code Green Apparel Corp.]]></category>
+<pink:symbol>CGAC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=475417]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Apr 30 20:30:07 UTC 2025
 <pink:symbol>PVLEF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Quarterly Activities and Cashflow Report - March 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=475269]]></link>
-<pubDate>Tue, 29 Apr 2025 22:25:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=475269]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brookside Energy Ltd.]]></category>
-<pink:symbol>RDFEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
