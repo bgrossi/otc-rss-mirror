@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 05:46:28 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 06:12:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed Apr 30 05:46:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 01:36:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 02:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Press release on the first quarter 2025 results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475275]]></link>
+<pubDate>Wed, 30 Apr 2025 02:04:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475275]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Repsol S.A.]]></category>
+<pink:symbol>REPYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information on the first quarter 2025 results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475274]]></link>
+<pubDate>Wed, 30 Apr 2025 02:03:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475274]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Repsol S.A.]]></category>
+<pink:symbol>REPYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475214]]></link>
+<pubDate>Wed, 30 Apr 2025 02:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475214]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: OTCQX International) | AMSC ASA (under liquidation) – CFO MORTEN BAKKE TO STEP DOWN IN CONNECTION WITH LIQUIDATION PROCESS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASCJF/news?id=475273]]></link>
@@ -551,42 +587,6 @@ OTC RSS mirror fetched: Wed Apr 30 05:46:28 UTC 2025
 <pink:symbol>PINWF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[European Metals Holdings Ltd. (EMHXY: OTCQX International) | Quarterly Activities/Appendix 5B Cash Flow Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475083]]></link>
-<pubDate>Tue, 29 Apr 2025 04:11:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475083]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[European Metals Holdings Ltd.]]></category>
-<pink:symbol>EMHXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information on the agreement for the sale to Stonepeak of 46.3% of a renewable portfolio of 777 MW in United States]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475082]]></link>
-<pubDate>Tue, 29 Apr 2025 03:35:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=475082]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Repsol S.A.]]></category>
-<pink:symbol>REPYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sparc AI Inc. (SPAIF: OTCQB) | SPARC AI Enhances Drone AI to Counter Jamming]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=475080]]></link>
-<pubDate>Tue, 29 Apr 2025 03:28:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=475080]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sparc AI Inc.]]></category>
-<pink:symbol>SPAIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
