@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 15:46:59 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 16:10:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed Apr 30 15:46:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 11:26:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 12:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Drilling contract signed at Jennings Pioneer]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=475396]]></link>
+<pubDate>Wed, 30 Apr 2025 11:59:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=475396]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lexington Gold Ltd.]]></category>
+<pink:symbol>LEXLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Roche Holding Ltd (RHHBY: OTCQX International) | CHMP recommends EU label update for Roche’s Phesgo to allow administration outside of clinical settings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475394]]></link>
+<pubDate>Wed, 30 Apr 2025 11:52:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475394]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Roche Holding Ltd]]></category>
+<pink:symbol>RHHBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Roche Holding Ltd (RHHBY: OTCQX International) | Roche granted FDA Breakthrough Device Designation for first AI-driven companion diagnostic for non-small cell lung cancer]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475393]]></link>
+<pubDate>Wed, 30 Apr 2025 11:51:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475393]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Roche Holding Ltd]]></category>
+<pink:symbol>RHHBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Licenses North Carolina Marketplace]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=475385]]></link>
@@ -551,42 +587,6 @@ OTC RSS mirror fetched: Wed Apr 30 15:46:59 UTC 2025
 <pink:symbol>BNIGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD. (GUELF: OTCQB) | Quarterly Activities Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=475262]]></link>
-<pubDate>Tue, 29 Apr 2025 20:12:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=475262]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD.]]></category>
-<pink:symbol>GUELF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Application for quotation of securities - CGS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=475261]]></link>
-<pubDate>Tue, 29 Apr 2025 19:57:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=475261]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cogstate Ltd.]]></category>
-<pink:symbol>COGZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Blue Star Helium Ltd. (BSNLF: Pink Current) | Bubba State 3 Initial Test Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=475260]]></link>
-<pubDate>Tue, 29 Apr 2025 19:38:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=475260]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Blue Star Helium Ltd.]]></category>
-<pink:symbol>BSNLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
