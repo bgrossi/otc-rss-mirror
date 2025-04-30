@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 15:08:41 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 10:46:27 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 11:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Licenses North Carolina Marketplace]]></title>
@@ -840,6 +840,18 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746024454000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Grey Market) - Venue Change - The symbol, PXMTF, no longer trades on OTC Link.  As of Wed, Apr 30, 2025, PXMTF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746024454000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
+<pink:symbol>PXMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[GBank Financial Holdings Inc. (GBFH: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GBFH&actionDate=1746016556000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBFH/company-info">GBank Financial Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBFH">GBFH</a>: Nasdaq) - Venue Change - The symbol, GBFH, no longer trades on OTC Link.  As of Wed, Apr 30, 2025, GBFH trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,16 +960,16 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[RICEGROWERS LTD. (SGLLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SGLLF&actionDate=1745909064000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGLLF/company-info">RICEGROWERS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SGLLF">SGLLF</a>: OTC Link) - Venue Change - The symbol, SGLLF, no longer trades on Grey Market.  As of Tue, Apr 29, 2025, SGLLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 02:44:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SGLLF&actionDate=1745909064000]]></guid>
+<title><![CDATA[PHAXIAM Therapeutics S.A (ERYFF: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ERYFF&actionDate=1746024454000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">ERYFF</a>: Grey Market) - Symbol Change - The symbol, ERYFF, is no longer a valid symbol for PHAXIAM Therapeutics S.A.  As of Wed, Apr 30, 2025, the new trading symbol is PXMTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ERYFF&actionDate=1746024454000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RICEGROWERS LTD.]]></category>
-<pink:symbol>SGLLF</pink:symbol>
+<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
+<pink:symbol>PXMTF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[METALS ONE PLC (MTOPD: Grey Market) | Symbol Change]]></title>
@@ -1068,18 +1080,6 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[IsoEnergy Ltd. (ISEND: OTCQX International) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ISEND&actionDate=1745816445000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ISENF/company-info">IsoEnergy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ISENF">ISEND</a>: OTCQX International) - Symbol Change - The symbol, ISEND, is no longer a valid symbol for IsoEnergy Ltd..  As of Mon, Apr 28, 2025, the new trading symbol is ISENF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 01:00:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ISEND&actionDate=1745816445000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[IsoEnergy Ltd.]]></category>
-<pink:symbol>ISENF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[CHESHI TECHNOLOGY INC. (CSHTF: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CSHTF&actionDate=1745985600000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHTF/company-info">CHESHI TECHNOLOGY INC.</a> (<a href="http://www.otcmarkets.com/stock/CSHTF">CSHTF</a>: Pink Current) - Company Name Change - CHESHI TECHNOLOGY INC. has changed its name to AI X TECH INC. The change goes into effect as of Wed, Apr 30, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1150,6 +1150,18 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 <pink:symbol>CTAGD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PXMTF&actionDate=1746024454000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Grey Market) - Reactivated Symbol -  The symbol, PXMTF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PXMTF&actionDate=1746024454000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
+<pink:symbol>PXMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Markforged Holding Corporation (MKFGW: OTC Link) | Deleted Symbol]]></title>
@@ -1256,18 +1268,6 @@ OTC RSS mirror fetched: Wed Apr 30 14:48:22 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PT SMARTFREN TELECOM TBK]]></category>
 <pink:symbol>FRENF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sanyo Special Steel Co., Ltd. (SYPLF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYPLF&actionDate=1745989218000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - Sanyo Special Steel Co., Ltd. (SYPLF: OTC Link) - Deleted Symbol - As of Wed, Apr 30, 2025, SYPLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 01:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYPLF&actionDate=1745989218000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sanyo Special Steel Co., Ltd.]]></category>
-<pink:symbol>SYPLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
