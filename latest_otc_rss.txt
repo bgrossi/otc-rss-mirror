@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 02:19:18 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 03:15:26 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Apr 30 02:19:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 29 Apr 2025 22:06:26 EDT</lastBuildDate>
+<lastBuildDate>Tue, 29 Apr 2025 23:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Quarterly Activities and Cashflow Report - March 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=475269]]></link>
+<pubDate>Tue, 29 Apr 2025 22:25:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=475269]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookside Energy Ltd.]]></category>
+<pink:symbol>RDFEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Placement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=475268]]></link>
@@ -573,18 +585,6 @@ OTC RSS mirror fetched: Wed Apr 30 02:19:18 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[adidas AG]]></category>
 <pink:symbol>ADDYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zurich Insurance Group Ltd (ZURVY: OTCQX International) | Zurich confirms continued outstanding financial strength]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZURVY/news?id=475067]]></link>
-<pubDate>Tue, 29 Apr 2025 00:45:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZURVY/news?id=475067]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zurich Insurance Group Ltd]]></category>
-<pink:symbol>ZURVY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
