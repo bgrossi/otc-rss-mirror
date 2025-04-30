@@ -11,12 +11,30 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Fetch full RSS (60-s timeout)
-      run: >
-        curl -sSL --max-time 60 --http1.1
-        https://www.otcmarkets.com/syndicate/rss.xml -o rss_full.xml
-        || curl -sSL --max-time 60 --http1.1
-        https://content.otcmarkets.com/syndicate/rss.xml -o rss_full.xml
+    - name: Fetch RSS (robust)
+      run: |
+        set -e
+    
+        UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15"
+    
+        # Try primary — 10-s connect timeout, 40-s max, 3 retries
+        curl -sSL --http1.1 \
+             --connect-timeout 10 --max-time 40 \
+             --retry 3 --retry-delay 5 \
+             -A "$UA" \
+             -o rss_full.xml \
+             https://www.otcmarkets.com/syndicate/rss.xml || \
+        # Fallback: same path on content.* (skip TLS check or use http)
+        curl -sSLk --http1.1 \
+             --connect-timeout 10 --max-time 40 \
+             --retry 3 --retry-delay 5 \
+             -A "$UA" \
+             -o rss_full.xml \
+             https://content.otcmarkets.com/syndicate/rss.xml
+    
+        # Verify we actually got something
+        test -s rss_full.xml || { echo "RSS download failed"; exit 1; }
+
 
     - name: Trim to latest 150 items
       run: |
