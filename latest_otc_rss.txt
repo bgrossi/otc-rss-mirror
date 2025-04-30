@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 10:33:46 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 10:48:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed Apr 30 10:33:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 06:06:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 06:36:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[PO VALLEY ENERGY LTD. (PVLEF: OTCQB) | 2024 Annual Report to Shareholders and Corporate Governance Statement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475294]]></link>
+<pubDate>Wed, 30 Apr 2025 06:23:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475294]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PO VALLEY ENERGY LTD.]]></category>
+<pink:symbol>PVLEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[PO VALLEY ENERGY LTD. (PVLEF: OTCQB) | PVE March 25 Quarterly Activities and Appendix 5B Cash flow report]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475293]]></link>
+<pubDate>Wed, 30 Apr 2025 06:14:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PVLEF/news?id=475293]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PO VALLEY ENERGY LTD.]]></category>
+<pink:symbol>PVLEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Presentation via Investor Meet Company]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475224]]></link>
@@ -561,30 +585,6 @@ OTC RSS mirror fetched: Wed Apr 30 10:33:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Signify N.V.]]></category>
 <pink:symbol>PHPPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Minerva S.A. (MRVSY: Pink Current) | MRVSY - Books will close today, April 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MRVSY/news?id=475183]]></link>
-<pubDate>Tue, 29 Apr 2025 09:12:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRVSY/news?id=475183]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minerva S.A.]]></category>
-<pink:symbol>MRVSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[MAGAZINE LUIZA SA (MGLUY: Pink Limited) | MGLUY - Books will close today, April 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MGLUY/news?id=475182]]></link>
-<pubDate>Tue, 29 Apr 2025 09:12:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MGLUY/news?id=475182]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MAGAZINE LUIZA SA]]></category>
-<pink:symbol>MGLUY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
