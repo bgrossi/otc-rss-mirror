@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 00:50:35 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 01:02:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -1823,3 +1823,101 @@ OTC RSS mirror fetched: Wed Apr 30 00:50:35 UTC 2025
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
+<item>
+<title><![CDATA[SETO Holdings, Inc. (SETO: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SETO&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SETO/company-info">SETO Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SETO">SETO</a>: Pink Current) - Tier Change - The symbol, SETO, no longer is classified as Pink Limited.  As of Tue, Apr 29, 2025, SETO resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SETO&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SETO Holdings, Inc.]]></category>
+<pink:symbol>SETO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Robert Walters Plc (RWALF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RWALF&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RWALF/company-info">Robert Walters Plc</a> (<a href="http://www.otcmarkets.com/stock/RWALF">RWALF</a>: Pink Current) - Tier Change - The symbol, RWALF, no longer is classified as Pink Limited.  As of Tue, Apr 29, 2025, RWALF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RWALF&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Robert Walters Plc]]></category>
+<pink:symbol>RWALF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Quality Industrial Corp. (QIND: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QIND&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QIND/company-info">Quality Industrial Corp.</a> (<a href="http://www.otcmarkets.com/stock/QIND">QIND</a>: Pink Current) - Tier Change - The symbol, QIND, no longer is classified as Pink Limited.  As of Tue, Apr 29, 2025, QIND resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QIND&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Quality Industrial Corp.]]></category>
+<pink:symbol>QIND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Pershing Resources Company, Inc. (PSGR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PSGR&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PSGR/company-info">Pershing Resources Company, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PSGR">PSGR</a>: Pink Limited) - Tier Change - The symbol, PSGR, no longer is classified as Pink Current.  As of Tue, Apr 29, 2025, PSGR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PSGR&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pershing Resources Company, Inc.]]></category>
+<pink:symbol>PSGR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Nichiden Corp. (NCHDF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NCHDF&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NCHDF/company-info">Nichiden Corp.</a> (<a href="http://www.otcmarkets.com/stock/NCHDF">NCHDF</a>: Pink Limited) - Tier Change - The symbol, NCHDF, no longer is classified as Grey Market.  As of Tue, Apr 29, 2025, NCHDF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NCHDF&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nichiden Corp.]]></category>
+<pink:symbol>NCHDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[North America Frac Sand, Inc. (NAFS: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NAFS&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NAFS/company-info">North America Frac Sand, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NAFS">NAFS</a>: Pink Current) - Tier Change - The symbol, NAFS, no longer is classified as Pink Limited.  As of Tue, Apr 29, 2025, NAFS resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NAFS&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[North America Frac Sand, Inc.]]></category>
+<pink:symbol>NAFS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Empire Diversified Energy, Inc. (MPIR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MPIR&actionDate=1745899200000]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MPIR/company-info">Empire Diversified Energy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MPIR">MPIR</a>: Pink Limited) - Tier Change - The symbol, MPIR, no longer is classified as Pink Current.  As of Tue, Apr 29, 2025, MPIR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MPIR&actionDate=1745899200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Empire Diversified Energy, Inc.]]></category>
+<pink:symbol>MPIR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Quantumzyme Corp. (QTZM: Pink Current) | Caveat Emptor Status Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=QTZM&actionDate=1745812800000]]></link>
+<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QTZM/company-info">Quantumzyme Corp.</a> (<a href="http://www.otcmarkets.com/stock/QTZM">QTZM</a>: Pink Current) - Caveat Emptor Status Change - The symbol, QTZM, has been added to the Caveat Emptor classification.  You may find a complete list of Caveat Emptor status changes at <a href="http://www.otcmarkets.com/market-activity/caveat-emptor-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 28 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=QTZM&actionDate=1745812800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Quantumzyme Corp.]]></category>
+<pink:symbol>QTZM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+</channel>
+</rss>
