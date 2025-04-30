@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Apr 30 01:02:58 UTC 2025
+OTC RSS mirror fetched: Wed Apr 30 02:19:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed Apr 30 01:02:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 29 Apr 2025 20:36:26 EDT</lastBuildDate>
+<lastBuildDate>Tue, 29 Apr 2025 22:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Placement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=475268]]></link>
+<pubDate>Tue, 29 Apr 2025 21:57:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=475268]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tolu Minerals Limited]]></category>
+<pink:symbol>TOLUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Notice pursuant to s708A(5)(e) Corporations Act 2001]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=475265]]></link>
+<pubDate>Tue, 29 Apr 2025 20:58:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=475265]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Carnegie Clean Energy Ltd. (CWGYF: OTCQB) | March Quarter Activities Report and Quarterly Cashflow]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=475264]]></link>
+<pubDate>Tue, 29 Apr 2025 20:44:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=475264]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Carnegie Clean Energy Ltd.]]></category>
+<pink:symbol>CWGYF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Beroni Group Ltd. (BNIGF: OTCQB) | Notice of Annual General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BNIGF/news?id=475263]]></link>
@@ -549,66 +585,6 @@ OTC RSS mirror fetched: Wed Apr 30 01:02:58 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Zurich Insurance Group Ltd]]></category>
 <pink:symbol>ZURVY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Notification Letter to Non-registered Holder(s) and Request Form]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475062]]></link>
-<pubDate>Mon, 28 Apr 2025 23:32:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475062]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Domain Holdings Limited]]></category>
-<pink:symbol>DDHLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Notification Letter to Shareholder(s) and Request Form]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475061]]></link>
-<pubDate>Mon, 28 Apr 2025 23:28:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475061]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Domain Holdings Limited]]></category>
-<pink:symbol>DDHLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Environmental, Social and Governance Report 2024]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475060]]></link>
-<pubDate>Mon, 28 Apr 2025 23:23:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475060]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Domain Holdings Limited]]></category>
-<pink:symbol>DDHLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Closure of Register of Members]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475059]]></link>
-<pubDate>Mon, 28 Apr 2025 23:15:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475059]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Domain Holdings Limited]]></category>
-<pink:symbol>DDHLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Form of Proxy for use at the Annual General Meeting to be held on 20 June 2025 or any adjournment thereof]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475058]]></link>
-<pubDate>Mon, 28 Apr 2025 23:10:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDHLY/news?id=475058]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Domain Holdings Limited]]></category>
-<pink:symbol>DDHLY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1668,124 +1644,124 @@ OTC RSS mirror fetched: Wed Apr 30 01:02:58 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Leg Immobilien SE (LGMMY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283167]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 04:20 - <a href="http://www.otcmarkets.com/stock/LGMMY/company-info">Leg Immobilien SE</a> (<a href="http://www.otcmarkets.com/stock/LGMMY">LGMMY</a>: Pink Limited) - Scheduled Ex-Dividend - Leg Immobilien SE has announced a dividend ex-date for (LGMMY: Pink Limited). Leg Immobilien SE is scheduled to disburse a Cash Dividend dividend of $0.51262 on Fri, May 30, 2025 to shareholders of LGMMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 16:20:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283167]]></guid>
+<title><![CDATA[PT United Tractors (PUTKY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283211]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 03:21 - <a href="http://www.otcmarkets.com/stock/PUTKY/company-info">PT United Tractors</a> (<a href="http://www.otcmarkets.com/stock/PUTKY">PUTKY</a>: Pink Limited) - Scheduled Ex-Dividend - PT United Tractors has announced a dividend ex-date for (PUTKY: Pink Limited). PT United Tractors is scheduled to disburse a Cash Dividend dividend of $1.28341 on Fri, May 09, 2025 to shareholders of PUTKY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 15:21:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283211]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Leg Immobilien SE]]></category>
-<pink:symbol>LGMMY</pink:symbol>
+<category><![CDATA[PT United Tractors]]></category>
+<pink:symbol>PUTKY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Wisconsin Electric Power Co. (WELPP: OTCQB) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283178]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 03:46 - <a href="http://www.otcmarkets.com/stock/WELPP/company-info">Wisconsin Electric Power Co.</a> (<a href="http://www.otcmarkets.com/stock/WELPP">WELPP</a>: OTCQB) - Scheduled Ex-Dividend - Wisconsin Electric Power Co. has announced a dividend ex-date for (WELPP: OTCQB). Wisconsin Electric Power Co. is scheduled to disburse a Cash Dividend dividend of $0.9 on Wed, May 14, 2025 to shareholders of WELPP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 15:46:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283178]]></guid>
+<title><![CDATA[Astra Agro Lestari TBK (AAGRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283197]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 03:17 - <a href="http://www.otcmarkets.com/stock/AAGRY/company-info">Astra Agro Lestari TBK</a> (<a href="http://www.otcmarkets.com/stock/AAGRY">AAGRY</a>: Pink Limited) - Scheduled Ex-Dividend - Astra Agro Lestari TBK has announced a dividend ex-date for (AAGRY: Pink Limited). Astra Agro Lestari TBK is scheduled to disburse a Cash Dividend dividend of $0.03146 on Fri, May 09, 2025 to shareholders of AAGRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 15:17:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283197]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Astra Agro Lestari TBK]]></category>
+<pink:symbol>AAGRY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Interconexion Electrica S.A. E.S.P. - ISA (IESFY: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283208]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 03:10 - <a href="http://www.otcmarkets.com/stock/IESFY/company-info">Interconexion Electrica S.A. E.S.P. - ISA</a> (<a href="http://www.otcmarkets.com/stock/IESFY">IESFY</a>: OTCQX International) - Scheduled Ex-Dividend - Interconexion Electrica S.A. E.S.P. - ISA has announced a dividend ex-date for (IESFY: OTCQX International). Interconexion Electrica S.A. E.S.P. - ISA is scheduled to disburse a Cash Dividend dividend of $4.4022 on Fri, May 23, 2025 to shareholders of IESFY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 15:10:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283208]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Interconexion Electrica S.A. E.S.P. - ISA]]></category>
+<pink:symbol>IESFY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Capgemini SE (CGEMY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283200]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 03:08 - <a href="http://www.otcmarkets.com/stock/CGEMY/company-info">Capgemini SE</a> (<a href="http://www.otcmarkets.com/stock/CGEMY">CGEMY</a>: Pink Limited) - Scheduled Ex-Dividend - Capgemini SE has announced a dividend ex-date for (CGEMY: Pink Limited). Capgemini SE is scheduled to disburse a Cash Dividend dividend of $0.49013 on Mon, May 19, 2025 to shareholders of CGEMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 15:08:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283200]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capgemini SE]]></category>
+<pink:symbol>CGEMY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lonza Group AG (LZAGY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283210]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 03:02 - <a href="http://www.otcmarkets.com/stock/LZAGY/company-info">Lonza Group AG</a> (<a href="http://www.otcmarkets.com/stock/LZAGY">LZAGY</a>: Pink Limited) - Scheduled Ex-Dividend - Lonza Group AG has announced a dividend ex-date for (LZAGY: Pink Limited). Lonza Group AG is scheduled to disburse a Cash Dividend dividend of $0.18731 on Wed, May 14, 2025 to shareholders of LZAGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 15:02:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283210]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lonza Group AG]]></category>
+<pink:symbol>LZAGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Wisconsin Electric Power Co. (WELPM: OTCQB) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283220]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:48 - <a href="http://www.otcmarkets.com/stock/WELPM/company-info">Wisconsin Electric Power Co.</a> (<a href="http://www.otcmarkets.com/stock/WELPM">WELPM</a>: OTCQB) - Scheduled Ex-Dividend - Wisconsin Electric Power Co. has announced a dividend ex-date for (WELPM: OTCQB). Wisconsin Electric Power Co. is scheduled to disburse a Cash Dividend dividend of $1.5 on Mon, Jul 14, 2025 to shareholders of WELPM. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 12:48:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283220]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Wisconsin Electric Power Co.]]></category>
-<pink:symbol>WELPP</pink:symbol>
+<pink:symbol>WELPM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Aker Solutions ASA (AKRYY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283158]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 03:27 - <a href="http://www.otcmarkets.com/stock/AKRYY/company-info">Aker Solutions ASA</a> (<a href="http://www.otcmarkets.com/stock/AKRYY">AKRYY</a>: Pink Limited) - Scheduled Ex-Dividend - Aker Solutions ASA has announced a dividend ex-date for (AKRYY: Pink Limited). Aker Solutions ASA is scheduled to disburse a Cash Dividend dividend of $0.3892 on Wed, Apr 30, 2025 to shareholders of AKRYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 15:27:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283158]]></guid>
+<title><![CDATA[Pacific Financial Corp. (PFLC: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283212]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:41 - <a href="http://www.otcmarkets.com/stock/PFLC/company-info">Pacific Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/PFLC">PFLC</a>: OTCQX U.S.) - Scheduled Ex-Dividend - Pacific Financial Corp. has announced a dividend ex-date for (PFLC: OTCQX U.S.). Pacific Financial Corp. is scheduled to disburse a Cash Dividend dividend of $0.14 on Fri, May 09, 2025 to shareholders of PFLC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 12:41:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283212]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aker Solutions ASA]]></category>
-<pink:symbol>AKRYY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BOC Hong Kong (Holdings) Ltd. (BHKLY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283160]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 03:25 - <a href="http://www.otcmarkets.com/stock/BHKLY/company-info">BOC Hong Kong (Holdings) Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BHKLY">BHKLY</a>: Pink Current) - Scheduled Ex-Dividend - BOC Hong Kong (Holdings) Ltd. has announced a dividend ex-date for (BHKLY: Pink Current). BOC Hong Kong (Holdings) Ltd. is scheduled to disburse a Cash Dividend dividend of $3.63887 on Wed, Jul 02, 2025 to shareholders of BHKLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 15:25:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283160]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BOC Hong Kong (Holdings) Ltd.]]></category>
-<pink:symbol>BHKLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283163]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 03:07 - <a href="http://www.otcmarkets.com/stock/HONT/company-info">Honat Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/HONT">HONT</a>: Pink Current) - Scheduled Ex-Dividend - Honat Bancorp, Inc. has announced a dividend ex-date for (HONT: Pink Current). Honat Bancorp, Inc. is scheduled to disburse a Cash Dividend dividend of $0.71 on Thu, May 15, 2025 to shareholders of HONT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 15:07:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283163]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Honat Bancorp, Inc.]]></category>
-<pink:symbol>HONT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pioneer Bankcorp Inc. (PBKC: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283169]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 02:59 - <a href="http://www.otcmarkets.com/stock/PBKC/company-info">Pioneer Bankcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/PBKC">PBKC</a>: Pink Current) - Scheduled Ex-Dividend - Pioneer Bankcorp Inc. has announced a dividend ex-date for (PBKC: Pink Current). Pioneer Bankcorp Inc. is scheduled to disburse a Cash Dividend dividend of $0.55 on Fri, May 30, 2025 to shareholders of PBKC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 14:59:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283169]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pioneer Bankcorp Inc.]]></category>
-<pink:symbol>PBKC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sturgis Bancorp, Inc. (STBI: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283174]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 02:39 - <a href="http://www.otcmarkets.com/stock/STBI/company-info">Sturgis Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/STBI">STBI</a>: OTCQX U.S.) - Scheduled Ex-Dividend - Sturgis Bancorp, Inc. has announced a dividend ex-date for (STBI: OTCQX U.S.). Sturgis Bancorp, Inc. is scheduled to disburse a Cash Dividend dividend of $0.17 on Thu, May 15, 2025 to shareholders of STBI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 14:39:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283174]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sturgis Bancorp, Inc.]]></category>
-<pink:symbol>STBI</pink:symbol>
+<category><![CDATA[Pacific Financial Corp.]]></category>
+<pink:symbol>PFLC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Coca-Cola HBC AG (CCHGY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283161]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 02:10 - <a href="http://www.otcmarkets.com/stock/CCHGY/company-info">Coca-Cola HBC AG</a> (<a href="http://www.otcmarkets.com/stock/CCHGY">CCHGY</a>: Pink Current) - Scheduled Ex-Dividend - Coca-Cola HBC AG has announced a dividend ex-date for (CCHGY: Pink Current). Coca-Cola HBC AG is scheduled to disburse a Cash Dividend dividend of $1.12029 on Fri, May 30, 2025 to shareholders of CCHGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 14:10:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283161]]></guid>
+<title><![CDATA[Kansas City Life Insurance Co. (KCLI: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283209]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 12:31 - <a href="http://www.otcmarkets.com/stock/KCLI/company-info">Kansas City Life Insurance Co.</a> (<a href="http://www.otcmarkets.com/stock/KCLI">KCLI</a>: OTCQX U.S.) - Scheduled Ex-Dividend - Kansas City Life Insurance Co. has announced a dividend ex-date for (KCLI: OTCQX U.S.). Kansas City Life Insurance Co. is scheduled to disburse a Cash Dividend dividend of $0.14 on Thu, May 08, 2025 to shareholders of KCLI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 12:31:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283209]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coca-Cola HBC AG]]></category>
-<pink:symbol>CCHGY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NATIONAL ATOMIC CO KAZATOMPROM JSC (NATKY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283168]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 09:38 - <a href="http://www.otcmarkets.com/stock/NATKY/company-info">NATIONAL ATOMIC CO KAZATOMPROM JSC</a> (<a href="http://www.otcmarkets.com/stock/NATKY">NATKY</a>: Pink Current) - Scheduled Ex-Dividend - NATIONAL ATOMIC CO KAZATOMPROM JSC has announced a dividend ex-date for (NATKY: Pink Current). NATIONAL ATOMIC CO KAZATOMPROM JSC is scheduled to disburse a Cash Dividend dividend of $2.47356 on Tue, Jul 15, 2025 to shareholders of NATKY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 09:38:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283168]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NATIONAL ATOMIC CO KAZATOMPROM JSC]]></category>
-<pink:symbol>NATKY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[American Business Bank (Los Angeles, CA) (AMBZ: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283159]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 09:14 - <a href="http://www.otcmarkets.com/stock/AMBZ/company-info">American Business Bank (Los Angeles, CA)</a> (<a href="http://www.otcmarkets.com/stock/AMBZ">AMBZ</a>: OTCQX U.S.) - Scheduled Ex-Dividend - American Business Bank (Los Angeles, CA) has announced a dividend ex-date for (AMBZ: OTCQX U.S.). American Business Bank (Los Angeles, CA) is scheduled to disburse a Cash Dividend dividend of $0.25 on Wed, May 07, 2025 to shareholders of AMBZ. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 09:14:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283159]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Business Bank (Los Angeles, CA)]]></category>
-<pink:symbol>AMBZ</pink:symbol>
+<category><![CDATA[Kansas City Life Insurance Co.]]></category>
+<pink:symbol>KCLI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Commerzbank AG (CRZBY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283202]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 11:41 - <a href="http://www.otcmarkets.com/stock/CRZBY/company-info">Commerzbank AG</a> (<a href="http://www.otcmarkets.com/stock/CRZBY">CRZBY</a>: Pink Current) - Scheduled Ex-Dividend - Commerzbank AG has announced a dividend ex-date for (CRZBY: Pink Current). Commerzbank AG is scheduled to disburse a Cash Dividend dividend of $0.50561 on Mon, May 19, 2025 to shareholders of CRZBY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 11:41:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283202]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Commerzbank AG]]></category>
+<pink:symbol>CRZBY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brenntag SE  (BNTGY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283199]]></link>
+<description><![CDATA[Tue, Apr 29, 2025 10:57 - <a href="http://www.otcmarkets.com/stock/BNTGY/company-info">Brenntag SE </a> (<a href="http://www.otcmarkets.com/stock/BNTGY">BNTGY</a>: Pink Current) - Scheduled Ex-Dividend - Brenntag SE  has announced a dividend ex-date for (BNTGY: Pink Current). Brenntag SE  is scheduled to disburse a Cash Dividend dividend of $0.26962 on Fri, May 23, 2025 to shareholders of BNTGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 29 Apr 2025 10:57:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283199]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brenntag SE ]]></category>
+<pink:symbol>BNTGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Victory Marine Holdings Corp. (VMHG: Pink Current) | Tier Change]]></title>
