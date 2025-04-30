@@ -1,38 +1,39 @@
-name: OTC RSS mirror
+name: OTC RSS mirror (lite)
 
 on:
-  # ── run every 15 minutes ───────────────────────────
   schedule:
-    - cron: "*/15 * * * *"
-  # ── allow manual runs from the Actions tab ────────
-  workflow_dispatch:
+    - cron:  '*/15 * * * *'      # every 15 min
+  workflow_dispatch:              # allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Fetch RSS (force HTTP/1.1; fallback to CDN)
-      - name: Fetch RSS (with timeout, HTTP/1.1, fallback insecure)
-        run: |
-          set -e
-          # Try primary (strict TLS), then fallback (skip cert check)
-          curl --max-time 20 --retry 3 --retry-delay 5 -sSL --http1.1 \
-               -o rss.xml "https://www.otcmarkets.com/syndicate/rss.xml" \
-            || curl --max-time 20 --retry 3 --retry-delay 5 --insecure -sSL --http1.1 \
-               -o rss.xml "https://content.otcmarkets.com/syndicate/rss.xml"
+    - uses: actions/checkout@v3
 
-      # 2. Convert to plain text with a time‑stamp header
-      - name: Convert to plain text
-        run: |
-          {
-            echo "OTC RSS mirror fetched: $(date -u)"
-            echo
-            cat rss.xml
-          } > latest_otc_rss.txt
+    - name: Fetch full RSS (60-s timeout)
+      run: >
+        curl -sSL --max-time 60 --http1.1
+        https://www.otcmarkets.com/syndicate/rss.xml -o rss_full.xml
+        || curl -sSL --max-time 60 --http1.1
+        https://content.otcmarkets.com/syndicate/rss.xml -o rss_full.xml
 
-      # 3. Upload as workflow artifact
-      - name: Upload artefact
-        uses: actions/upload-artifact@v4
-        with:
-          name: latest_otc_rss.txt
-          path: latest_otc_rss.txt
+    - name: Trim to latest 150 items
+      run: |
+        awk '
+          /<item>/ {c++}
+          c<=150   {print}
+          /<\/item>/ && c==150 {exit}
+        ' rss_full.xml > rss_trimmed.xml
+        echo "OTC RSS mirror fetched: $(date -u)" > latest_otc_rss.txt
+        cat rss_trimmed.xml >> latest_otc_rss.txt
+
+    - name: Commit & push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name  "github-actions[bot]"
+        git add latest_otc_rss.txt
+        git commit -m "chore: update trimmed RSS [skip ci]" || echo "no change"
+        git push
