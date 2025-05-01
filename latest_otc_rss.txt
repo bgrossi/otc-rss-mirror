@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
+OTC RSS mirror fetched: Thu May  1 04:35:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 23:36:26 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 00:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Monthly Exercise Status of the 14th to 17th Series of Stock Acquisition Rights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475760]]></link>
+<pubDate>Wed, 30 Apr 2025 23:38:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475760]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Establishment of a Wholly-Owned U.S. Subsidiary]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475759]]></link>
+<pubDate>Wed, 30 Apr 2025 23:37:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475759]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | FBR CEO Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=475758]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Asia Properties, Inc. (ASPZ: Pink Current) | HyOrc Corporation: Powering Europe’s Energy Resilience]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ASPZ/news?id=475280]]></link>
-<pubDate>Wed, 30 Apr 2025 03:39:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASPZ/news?id=475280]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Asia Properties, Inc.]]></category>
-<pink:symbol>ASPZ</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[European Metals Holdings Ltd. (EMHXY: OTCQX International) | Notice of Annual General Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475278]]></link>
-<pubDate>Wed, 30 Apr 2025 02:48:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EMHXY/news?id=475278]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[European Metals Holdings Ltd.]]></category>
-<pink:symbol>EMHXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1056,54 +1056,6 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Atos Origin SA (AEXAY: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXAY&actionDate=1745839231000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXYD/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXYD">AEXAY</a>: Pink Limited) - Symbol Change - The symbol, AEXAY, is no longer a valid symbol for Atos Origin SA.  As of Mon, Apr 28, 2025, the new trading symbol is AEXYD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 07:20:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXAY&actionDate=1745839231000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atos Origin SA]]></category>
-<pink:symbol>AEXYD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ALPHA ONE INC. (AOAO: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AOAO&actionDate=1745838865000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AOAOD/company-info">ALPHA ONE INC.</a> (<a href="http://www.otcmarkets.com/stock/AOAOD">AOAO</a>: Pink Current) - Symbol Change - The symbol, AOAO, is no longer a valid symbol for ALPHA ONE INC..  As of Mon, Apr 28, 2025, the new trading symbol is AOAOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 07:14:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AOAO&actionDate=1745838865000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ALPHA ONE INC.]]></category>
-<pink:symbol>AOAOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SURFACE METALS INC. (ACLHF: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ACLHF&actionDate=1745838829000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACLHD/company-info">SURFACE METALS INC.</a> (<a href="http://www.otcmarkets.com/stock/ACLHD">ACLHF</a>: OTCQB) - Symbol Change - The symbol, ACLHF, is no longer a valid symbol for SURFACE METALS INC..  As of Mon, Apr 28, 2025, the new trading symbol is ACLHD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 07:13:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ACLHF&actionDate=1745838829000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SURFACE METALS INC.]]></category>
-<pink:symbol>ACLHD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MATADOR TECHNOLOGIES INC. (MTDTF: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MTDTF&actionDate=1745816446000]]></link>
-<description><![CDATA[Mon, Apr 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MATAF/company-info">MATADOR TECHNOLOGIES INC.</a> (<a href="http://www.otcmarkets.com/stock/MATAF">MTDTF</a>: OTCQB) - Symbol Change - The symbol, MTDTF, is no longer a valid symbol for MATADOR TECHNOLOGIES INC..  As of Mon, Apr 28, 2025, the new trading symbol is MATAF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 28 Apr 2025 01:00:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MTDTF&actionDate=1745816446000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MATADOR TECHNOLOGIES INC.]]></category>
-<pink:symbol>MATAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[CHESHI TECHNOLOGY INC. (CSHTF: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CSHTF&actionDate=1745985600000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHTF/company-info">CHESHI TECHNOLOGY INC.</a> (<a href="http://www.otcmarkets.com/stock/CSHTF">CSHTF</a>: Pink Current) - Company Name Change - CHESHI TECHNOLOGY INC. has changed its name to AI X TECH INC. The change goes into effect as of Wed, Apr 30, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1126,54 +1078,6 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <pink:symbol>CHRXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Western Alaska Minerals Corp. (WAMFF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=WAMFF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WAMFF/company-info">Western Alaska Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/WAMFF">WAMFF</a>: Pink Current) - Company Name Change - Western Alaska Minerals Corp. has changed its name to ALASKA SILVER CORP. The change goes into effect as of Tue, Apr 29, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=WAMFF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Western Alaska Minerals Corp.]]></category>
-<pink:symbol>WAMFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Leet Technology Inc. (LTESF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=LTESF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LTESF/company-info">Leet Technology Inc.</a> (<a href="http://www.otcmarkets.com/stock/LTESF">LTESF</a>: Pink Current) - Company Name Change - Leet Technology Inc. has changed its name to LEET Inc.. The change goes into effect as of Tue, Apr 29, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=LTESF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Leet Technology Inc.]]></category>
-<pink:symbol>LTESF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Siegfried Holdings Ltd (SGFEF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SGFEF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFEF/company-info">Siegfried Holdings Ltd</a> (<a href="http://www.otcmarkets.com/stock/SGFEF">SGFEF</a>: Pink Limited) - Splits - Effective Tue, Apr 29, 2025, SGFEF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 10 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SGFEF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Siegfried Holdings Ltd]]></category>
-<pink:symbol>SGFEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Capita PLC (CTAGF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGD">CTAGF</a>: Pink Current) - Splits - Effective Tue, Apr 29, 2025, CTAGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 15 split. Due to the split, CTAGF is no longer valid. The new trading symbol is CTAGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Capita PLC]]></category>
-<pink:symbol>CTAGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Grey Market) | Reactivated Symbol]]></title>
@@ -1308,42 +1212,6 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vatic Ventures Corp (VCVVF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=VCVVF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VCVVF/company-info">Vatic Ventures Corp</a> (<a href="http://www.otcmarkets.com/stock/VCVVF">VCVVF</a>: Pink Current) - Halted Security -  Effective Tue, Apr 29, 2025, VCVVF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=VCVVF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vatic Ventures Corp]]></category>
-<pink:symbol>VCVVF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RAMP METALS INC. (RMPMF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RMPMF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RMPMF/company-info">RAMP METALS INC.</a> (<a href="http://www.otcmarkets.com/stock/RMPMF">RMPMF</a>: Pink Current) - Halted Security -  Effective Tue, Apr 29, 2025, RMPMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RMPMF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RAMP METALS INC.]]></category>
-<pink:symbol>RMPMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SOUTHERN CROSS GOLD CONS LTD (MWSNF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MWSNF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWSNF/company-info">SOUTHERN CROSS GOLD CONS LTD</a> (<a href="http://www.otcmarkets.com/stock/MWSNF">MWSNF</a>: Pink Current) - Halted Security -  Effective Tue, Apr 29, 2025, MWSNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MWSNF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SOUTHERN CROSS GOLD CONS LTD]]></category>
-<pink:symbol>MWSNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Vystar Corp. (VYST: OTCQB) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VYST&actionDate=1745985600000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VYST/company-info">Vystar Corp.</a> (<a href="http://www.otcmarkets.com/stock/VYST">VYST</a>: OTCQB) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, VYST is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1438,30 +1306,6 @@ OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <pink:symbol>NIPAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Spruce Biosciences, Inc. (SPRB: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPRB&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPRB/company-info">Spruce Biosciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SPRB">SPRB</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, SPRB is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPRB&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Spruce Biosciences, Inc.]]></category>
-<pink:symbol>SPRB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RICEGROWERS LTD. (SGLLF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGLLF&actionDate=1745899200000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGLLF/company-info">RICEGROWERS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SGLLF">SGLLF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Apr 29, 2025, SGLLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGLLF&actionDate=1745899200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RICEGROWERS LTD.]]></category>
-<pink:symbol>SGLLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[FFD Financial Corp. (FFDF: Pink Current) | Ex-Dividend]]></title>
