@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
+OTC RSS mirror fetched: Thu May  1 11:45:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 07:06:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 07:36:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Itaconix plc (ITXXF: OTCQB) | Update on US Tariffs]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ITXXF/news?id=475754]]></link>
+<pubDate>Thu, 01 May 2025 07:15:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ITXXF/news?id=475754]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Itaconix plc]]></category>
+<pink:symbol>ITXXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Goliath P1 Cells Validated by Customer Testing]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=475801]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Mass Megawatts Wind Power, Inc. (MMMW: Pink Current) | Mass Megawatts Filed OTCID Management Certification]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MMMW/news?id=475328]]></link>
-<pubDate>Wed, 30 Apr 2025 08:17:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MMMW/news?id=475328]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mass Megawatts Wind Power, Inc.]]></category>
-<pink:symbol>MMMW</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRWD&actionDate=1746097737000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRWD/company-info">TRADEWINDS UNVL</a> (<a href="http://www.otcmarkets.com/stock/TRWD">TRWD</a>: OTC Link) - Venue Change - The symbol, TRWD, no longer trades on Grey Market.  As of Thu, May 01, 2025, TRWD trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 07:08:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRWD&actionDate=1746097737000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRADEWINDS UNVL]]></category>
+<pink:symbol>TRWD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC. (NGTGF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NGTGF&actionDate=1746081876000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGTGF/company-info">NEXT GENERATION TECHNOLOGY GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/NGTGF">NGTGF</a>: OTC Link) - Venue Change - The symbol, NGTGF, no longer trades on Grey Market.  As of Thu, May 01, 2025, NGTGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,14 +984,38 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745950114000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: Grey Market) - Venue Change - The symbol, TKMJF, no longer trades on OTC Link.  As of Tue, Apr 29, 2025, TKMJF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 14:08:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745950114000]]></guid>
+<title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKA&actionDate=1746099361000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: Pink Current) - Symbol Change - The symbol, PRKA, is no longer a valid symbol for Parks! America, Inc..  As of Thu, May 01, 2025, the new trading symbol is PRKAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 07:36:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKA&actionDate=1746099361000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Telkom SA SOC Ltd]]></category>
-<pink:symbol>TKMJF</pink:symbol>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKA&actionDate=1746099343000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: Pink Current) - Symbol Change - The symbol, PRKA, is no longer a valid symbol for Parks! America, Inc..  As of Thu, May 01, 2025, the new trading symbol is PRKAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 07:35:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKA&actionDate=1746099343000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Capita PLC (CTAGY: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGY&actionDate=1746099276000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAYD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAYD">CTAGY</a>: Pink Current) - Symbol Change - The symbol, CTAGY, is no longer a valid symbol for Capita PLC.  As of Thu, May 01, 2025, the new trading symbol is CTAYD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 07:34:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGY&actionDate=1746099276000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capita PLC]]></category>
+<pink:symbol>CTAYD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1068,42 +1104,6 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[METALS ONE PLC (MTOPD: Grey Market) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MTOPD&actionDate=1745989250000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MTOPF/company-info">METALS ONE PLC</a> (<a href="http://www.otcmarkets.com/stock/MTOPF">MTOPD</a>: Grey Market) - Symbol Change - The symbol, MTOPD, is no longer a valid symbol for METALS ONE PLC.  As of Wed, Apr 30, 2025, the new trading symbol is MTOPF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MTOPD&actionDate=1745989250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[METALS ONE PLC]]></category>
-<pink:symbol>MTOPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Capita PLC (CTAGF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGF&actionDate=1745925389000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGD">CTAGF</a>: Pink Current) - Symbol Change - The symbol, CTAGF, is no longer a valid symbol for Capita PLC.  As of Tue, Apr 29, 2025, the new trading symbol is CTAGD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 07:16:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGF&actionDate=1745925389000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Capita PLC]]></category>
-<pink:symbol>CTAGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Heramba Electric plc (PITAW: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PITAW&actionDate=1745902851000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PITWF/company-info">Heramba Electric plc</a> (<a href="http://www.otcmarkets.com/stock/PITWF">PITAW</a>: Pink Current) - Symbol Change - The symbol, PITAW, is no longer a valid symbol for Heramba Electric plc.  As of Tue, Apr 29, 2025, the new trading symbol is PITWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PITAW&actionDate=1745902851000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Heramba Electric plc]]></category>
-<pink:symbol>PITWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Libero Copper & Gold Corp. (LBCMF: OTCQB) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=LBCMF&actionDate=1746072000000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LBCMF/company-info">Libero Copper & Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/LBCMF">LBCMF</a>: OTCQB) - Company Name Change - Libero Copper & Gold Corp. has changed its name to COPPER GIANT RES CORP.. The change goes into effect as of Thu, May 01, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1138,6 +1138,66 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:symbol>CHRXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: Pink Current) - Splits - Effective Thu, May 01, 2025, PRKA: Pink Current engaged in a fwd split. As a result of the split, shs increased by 5 for 1 split. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: Pink Current) - Splits - Effective Thu, May 01, 2025, PRKA: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 500 split. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Capita PLC (CTAGY: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGY&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAYD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAYD">CTAGY</a>: Pink Current) - Splits - Effective Thu, May 01, 2025, CTAGY: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 15 split. Due to the split, CTAGY is no longer valid. The new trading symbol is CTAYD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGY&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capita PLC]]></category>
+<pink:symbol>CTAYD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ESR REIT (CGIUF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CGIUF&actionDate=1745985600000]]></link>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CGIUF/company-info">ESR REIT</a> (<a href="http://www.otcmarkets.com/stock/CGIUF">CGIUF</a>: Pink Current) - Splits - Effective Wed, Apr 30, 2025, CGIUF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CGIUF&actionDate=1745985600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ESR REIT]]></category>
+<pink:symbol>CGIUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bank of Idaho Holding Co. (BOID: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BOID&actionDate=1746099061000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - Bank of Idaho Holding Co. (BOID: OTC Link) - Deleted Symbol - As of Thu, May 01, 2025, BOID is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 07:31:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BOID&actionDate=1746099061000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bank of Idaho Holding Co.]]></category>
+<pink:symbol>BOID</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ESR REIT (CGIUF: Pink Current) | Deleted Symbol]]></title>
@@ -1244,18 +1304,6 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[UBS LUX FD SOLUTIONS SICAV]]></category>
 <pink:symbol>ULXMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UBS ETF (UECHF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UECHF&actionDate=1745989246000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - UBS ETF (UECHF: Grey Market) - Deleted Symbol - As of Wed, Apr 30, 2025, UECHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 01:00:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UECHF&actionDate=1745989246000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UBS ETF]]></category>
-<pink:symbol>UECHF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
@@ -1728,6 +1776,18 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRWD&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRWD/company-info">TRADEWINDS UNVL</a> (<a href="http://www.otcmarkets.com/stock/TRWD">TRWD</a>: Pink Current) - Tier Change - The symbol, TRWD, no longer is classified as Grey Market.  As of Thu, May 01, 2025, TRWD resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRWD&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRADEWINDS UNVL]]></category>
+<pink:symbol>TRWD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[TC BioPharm (Holdings) plc (TCBWF: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBWF&actionDate=1746072000000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCBWF/company-info">TC BioPharm (Holdings) plc</a> (<a href="http://www.otcmarkets.com/stock/TCBWF">TCBWF</a>: Pink Limited) - Tier Change - The symbol, TCBWF, no longer is classified as Pink Current.  As of Thu, May 01, 2025, TCBWF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1736,18 +1796,6 @@ OTC RSS mirror fetched: Thu May  1 11:30:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[TC BioPharm (Holdings) plc]]></category>
 <pink:symbol>TCBWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[TC BioPharm (Holdings) plc (TCBPY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBPY&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCBPY/company-info">TC BioPharm (Holdings) plc</a> (<a href="http://www.otcmarkets.com/stock/TCBPY">TCBPY</a>: Pink Limited) - Tier Change - The symbol, TCBPY, no longer is classified as Pink Current.  As of Thu, May 01, 2025, TCBPY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBPY&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TC BioPharm (Holdings) plc]]></category>
-<pink:symbol>TCBPY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
