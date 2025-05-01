@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 12:54:44 UTC 2025
+OTC RSS mirror fetched: Thu May  1 13:18:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  1 12:54:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 08:46:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 09:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | ATAAY - Books will close today, May 1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ATAAY/news?id=475829]]></link>
+<pubDate>Thu, 01 May 2025 09:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATAAY/news?id=475829]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Atacadao SA]]></category>
+<pink:symbol>ATAAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Futurenet, Inc. (FUUN: Pink Current) | FutureNet, Inc. Announces Strategic Partnership with China Gifts Group, Appointment of New Leadership, and Bold Expansion into Enterprise Gift Market]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUUN/news?id=475298]]></link>
+<pubDate>Thu, 01 May 2025 09:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUUN/news?id=475298]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Futurenet, Inc.]]></category>
+<pink:symbol>FUUN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Names Simon Yu CEO to Lead Strategic Growth Expansion]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=475768]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Thu May  1 12:54:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bank Ireland Group PLC]]></category>
 <pink:symbol>BKRIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bank of Queensland Ltd. (BKQNY: Pink Current) | BKRIY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BKQNY/news?id=475342]]></link>
-<pubDate>Wed, 30 Apr 2025 08:51:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BKQNY/news?id=475342]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank of Queensland Ltd.]]></category>
-<pink:symbol>BKQNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[VGTel, Inc. (VGTL: Pink Current) | VGTel, Inc. (OTC: VGTL) VGTel Leverages Starlink Infrastructure to Establish Global Connectivity for Sky Monitoring Grid]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VGTL/news?id=475223]]></link>
-<pubDate>Wed, 30 Apr 2025 08:50:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VGTL/news?id=475223]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VGTel, Inc.]]></category>
-<pink:symbol>VGTL</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
