@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 03:36:00 UTC 2025
+OTC RSS mirror fetched: Thu May  1 04:00:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 03:36:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 30 Apr 2025 23:06:26 EDT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 23:36:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | FBR CEO Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=475758]]></link>
+<pubDate>Wed, 30 Apr 2025 23:11:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=475758]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Notice of Annual General Meeting Proxy Form]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475757]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Thu May  1 03:36:00 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[European Metals Holdings Ltd.]]></category>
 <pink:symbol>EMHXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Atlantic Lithium Ltd. (ALLIF: OTCQX International) | Quarterly Activities and Cash Flow Reporting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ALLIF/news?id=475277]]></link>
-<pubDate>Wed, 30 Apr 2025 02:20:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALLIF/news?id=475277]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atlantic Lithium Ltd.]]></category>
-<pink:symbol>ALLIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
