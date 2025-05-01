@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
+OTC RSS mirror fetched: Thu May  1 07:08:59 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 02:36:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 03:07:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -864,7 +864,43 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC. (NGTGF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NGTGF&actionDate=1746081876000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGTGF/company-info">NEXT GENERATION TECHNOLOGY GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/NGTGF">NGTGF</a>: OTC Link) - Venue Change - The symbol, NGTGF, no longer trades on Grey Market.  As of Thu, May 01, 2025, NGTGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 02:44:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NGTGF&actionDate=1746081876000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC.]]></category>
+<pink:symbol>NGTGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746081871000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: OTC Link) - Venue Change - The symbol, PXMTF, no longer trades on Grey Market.  As of Thu, May 01, 2025, PXMTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 02:44:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746081871000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
+<pink:symbol>PXMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Benton Resources Inc. (BNTRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BNTRF&actionDate=1746075643000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BNTRF/company-info">Benton Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/BNTRF">BNTRF</a>: OTC Link) - Venue Change - The symbol, BNTRF, no longer trades on Grey Market.  As of Thu, May 01, 2025, BNTRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BNTRF&actionDate=1746075643000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Benton Resources Inc.]]></category>
+<pink:symbol>BNTRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746024454000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Grey Market) - Venue Change - The symbol, PXMTF, no longer trades on OTC Link.  As of Wed, Apr 30, 2025, PXMTF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
@@ -873,7 +909,7 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
 <pink:symbol>PXMTF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[GBank Financial Holdings Inc. (GBFH: null) | Venue Change]]></title>
@@ -948,42 +984,6 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Carbine Resources Ltd. (CRNRF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRNRF&actionDate=1745925642000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRNRF/company-info">Carbine Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CRNRF">CRNRF</a>: OTC Link) - Venue Change - The symbol, CRNRF, no longer trades on Grey Market.  As of Tue, Apr 29, 2025, CRNRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 07:20:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRNRF&actionDate=1745925642000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Carbine Resources Ltd.]]></category>
-<pink:symbol>CRNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BGX - BLACK GOLD EXPLORATION CORP. (BGXCF: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BGXCF&actionDate=1745925622000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGXCF/company-info">BGX - BLACK GOLD EXPLORATION CORP.</a> (<a href="http://www.otcmarkets.com/stock/BGXCF">BGXCF</a>: OTC Link) - Venue Change - The symbol, BGXCF, no longer trades on Grey Market.  As of Tue, Apr 29, 2025, BGXCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 07:20:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BGXCF&actionDate=1745925622000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BGX - BLACK GOLD EXPLORATION CORP.]]></category>
-<pink:symbol>BGXCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Nichiden Corp. (NCHDF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NCHDF&actionDate=1745909065000]]></link>
-<description><![CDATA[Tue, Apr 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NCHDF/company-info">Nichiden Corp.</a> (<a href="http://www.otcmarkets.com/stock/NCHDF">NCHDF</a>: OTC Link) - Venue Change - The symbol, NCHDF, no longer trades on Grey Market.  As of Tue, Apr 29, 2025, NCHDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 29 Apr 2025 02:44:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NCHDF&actionDate=1745909065000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nichiden Corp.]]></category>
-<pink:symbol>NCHDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Euro Manganese Inc. (EUMND: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EUMND&actionDate=1746075638000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EUMNF/company-info">Euro Manganese Inc.</a> (<a href="http://www.otcmarkets.com/stock/EUMNF">EUMND</a>: Pink Current) - Symbol Change - The symbol, EUMND, is no longer a valid symbol for Euro Manganese Inc..  As of Thu, May 01, 2025, the new trading symbol is EUMNF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1056,16 +1056,16 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (ERYFF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[PHAXIAM Therapeutics S.A (ERYFF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ERYFF&actionDate=1746024454000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">ERYFF</a>: Grey Market) - Symbol Change - The symbol, ERYFF, is no longer a valid symbol for PHAXIAM Therapeutics S.A.  As of Wed, Apr 30, 2025, the new trading symbol is PXMTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">ERYFF</a>: Pink Limited) - Symbol Change - The symbol, ERYFF, is no longer a valid symbol for PHAXIAM Therapeutics S.A.  As of Wed, Apr 30, 2025, the new trading symbol is PXMTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ERYFF&actionDate=1746024454000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
 <pink:symbol>PXMTF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[METALS ONE PLC (MTOPD: Grey Market) | Symbol Change]]></title>
@@ -1188,16 +1188,16 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PXMTF&actionDate=1746024454000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Grey Market) - Reactivated Symbol -  The symbol, PXMTF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Pink Limited) - Reactivated Symbol -  The symbol, PXMTF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PXMTF&actionDate=1746024454000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
 <pink:symbol>PXMTF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Markforged Holding Corporation (MKFGW: OTC Link) | Deleted Symbol]]></title>
@@ -1224,16 +1224,16 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Benton Resources Inc. (BNTRF: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Benton Resources Inc. (BNTRF: Pink Current) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BNTRF&actionDate=1745989253000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - Benton Resources Inc. (BNTRF: OTC Link) - Deleted Symbol - As of Wed, Apr 30, 2025, BNTRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, Apr 30, 2025 12:00 - Benton Resources Inc. (BNTRF: Pink Current) - Deleted Symbol - As of Wed, Apr 30, 2025, BNTRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 30 Apr 2025 01:00:53 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BNTRF&actionDate=1745989253000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Benton Resources Inc.]]></category>
 <pink:symbol>BNTRF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[UBS LUX FD SOLUTIONS SICAV (ULXMF: Grey Market) | Deleted Symbol]]></title>
@@ -1270,6 +1270,66 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:symbol>ARGHF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PXMTF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, PXMTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PXMTF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
+<pink:symbol>PXMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC. (NGTGF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NGTGF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGTGF/company-info">NEXT GENERATION TECHNOLOGY GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/NGTGF">NGTGF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, NGTGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NGTGF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC.]]></category>
+<pink:symbol>NGTGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Industrias CH (ICHBF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICHBF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICHBF/company-info">Industrias CH</a> (<a href="http://www.otcmarkets.com/stock/ICHBF">ICHBF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, ICHBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICHBF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Industrias CH]]></category>
+<pink:symbol>ICHBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Goldlion Holdings Ltd. (GLLHF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLLHF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLLHF/company-info">Goldlion Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GLLHF">GLLHF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 01, 2025, GLLHF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLLHF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Goldlion Holdings Ltd.]]></category>
+<pink:symbol>GLLHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BGX - BLACK GOLD EXPLORATION CORP. (BGXCF: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGXCF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGXCF/company-info">BGX - BLACK GOLD EXPLORATION CORP.</a> (<a href="http://www.otcmarkets.com/stock/BGXCF">BGXCF</a>: OTCQB) - Piggyback Qualified -  Effective Thu, May 01, 2025, BGXCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGXCF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BGX - BLACK GOLD EXPLORATION CORP.]]></category>
+<pink:symbol>BGXCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Vystar Corp. (VYST: OTCQB) | Piggyback Qualified]]></title>
@@ -1328,42 +1388,6 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Siegfried Holdings Ltd]]></category>
 <pink:symbol>SGFEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ROKO AB (ROKOF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ROKOF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ROKOF/company-info">ROKO AB</a> (<a href="http://www.otcmarkets.com/stock/ROKOF">ROKOF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, ROKOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ROKOF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROKO AB]]></category>
-<pink:symbol>ROKOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT RESOURCE ALAM INDONESIA TBK (PTRAF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTRAF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTRAF/company-info">PT RESOURCE ALAM INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/PTRAF">PTRAF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, PTRAF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTRAF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT RESOURCE ALAM INDONESIA TBK]]></category>
-<pink:symbol>PTRAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NIPPON INDOSARI CORPINDO TBK (NIPAF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NIPAF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NIPAF/company-info">NIPPON INDOSARI CORPINDO TBK</a> (<a href="http://www.otcmarkets.com/stock/NIPAF">NIPAF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, NIPAF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NIPAF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NIPPON INDOSARI CORPINDO TBK]]></category>
-<pink:symbol>NIPAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
@@ -1620,6 +1644,54 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Valentine Mark Corporation (VTMC: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VTMC&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VTMC/company-info">Valentine Mark Corporation</a> (<a href="http://www.otcmarkets.com/stock/VTMC">VTMC</a>: Pink Limited) - Tier Change - The symbol, VTMC, no longer is classified as Pink Current.  As of Thu, May 01, 2025, VTMC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VTMC&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Valentine Mark Corporation]]></category>
+<pink:symbol>VTMC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHAIW: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAIW&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHAIW/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHAIW">VHAIW</a>: Pink Current) - Tier Change - The symbol, VHAIW, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, VHAIW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAIW&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHAIW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHAI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAI&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHAI/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHAI">VHAI</a>: Pink Current) - Tier Change - The symbol, VHAI, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, VHAI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAI&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHAI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHABW: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHABW&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHABW/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHABW">VHABW</a>: Pink Current) - Tier Change - The symbol, VHABW, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, VHABW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHABW&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHABW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[KRAKEN ENERGY CORP. (UUSAF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UUSAF&actionDate=1746072000000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UUSAF/company-info">KRAKEN ENERGY CORP.</a> (<a href="http://www.otcmarkets.com/stock/UUSAF">UUSAF</a>: Pink Current) - Tier Change - The symbol, UUSAF, no longer is classified as OTCQB.  As of Thu, May 01, 2025, UUSAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1644,88 +1716,40 @@ OTC RSS mirror fetched: Thu May  1 06:53:03 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Suntex Enterprises, Inc. (SNTX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNTX&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNTX/company-info">Suntex Enterprises, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SNTX">SNTX</a>: Pink Current) - Tier Change - The symbol, SNTX, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, SNTX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Tennessee Valley Financial Holdings, Inc. (TVLF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TVLF/company-info">Tennessee Valley Financial Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TVLF">TVLF</a>: Pink Limited) - Tier Change - The symbol, TVLF, no longer is classified as Pink Current.  As of Thu, May 01, 2025, TVLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNTX&actionDate=1746072000000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1746072000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Suntex Enterprises, Inc.]]></category>
-<pink:symbol>SNTX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Premier Information Management, Inc. (PIFR: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PIFR&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PIFR/company-info">Premier Information Management, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PIFR">PIFR</a>: Pink Current) - Tier Change - The symbol, PIFR, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, PIFR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PIFR&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Premier Information Management, Inc.]]></category>
-<pink:symbol>PIFR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Neon Bloom Inc. (NBCO: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NBCO&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NBCO/company-info">Neon Bloom Inc.</a> (<a href="http://www.otcmarkets.com/stock/NBCO">NBCO</a>: Pink Limited) - Tier Change - The symbol, NBCO, no longer is classified as Pink Current.  As of Thu, May 01, 2025, NBCO resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NBCO&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Neon Bloom Inc.]]></category>
-<pink:symbol>NBCO</pink:symbol>
+<category><![CDATA[Tennessee Valley Financial Holdings, Inc.]]></category>
+<pink:symbol>TVLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Mountain Energy, Inc. (MTEI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTEI&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MTEI/company-info">Mountain Energy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MTEI">MTEI</a>: Pink Current) - Tier Change - The symbol, MTEI, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, MTEI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[TC BioPharm (Holdings) plc (TCBWF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBWF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCBWF/company-info">TC BioPharm (Holdings) plc</a> (<a href="http://www.otcmarkets.com/stock/TCBWF">TCBWF</a>: Pink Limited) - Tier Change - The symbol, TCBWF, no longer is classified as Pink Current.  As of Thu, May 01, 2025, TCBWF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTEI&actionDate=1746072000000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBWF&actionDate=1746072000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mountain Energy, Inc.]]></category>
-<pink:symbol>MTEI</pink:symbol>
+<category><![CDATA[TC BioPharm (Holdings) plc]]></category>
+<pink:symbol>TCBWF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[BETTERMOOD FOOD CORP. (MOOOF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MOOOF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MOOOF/company-info">BETTERMOOD FOOD CORP.</a> (<a href="http://www.otcmarkets.com/stock/MOOOF">MOOOF</a>: Pink Current) - Tier Change - The symbol, MOOOF, no longer is classified as OTCQB.  As of Thu, May 01, 2025, MOOOF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[TC BioPharm (Holdings) plc (TCBPY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBPY&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCBPY/company-info">TC BioPharm (Holdings) plc</a> (<a href="http://www.otcmarkets.com/stock/TCBPY">TCBPY</a>: Pink Limited) - Tier Change - The symbol, TCBPY, no longer is classified as Pink Current.  As of Thu, May 01, 2025, TCBPY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MOOOF&actionDate=1746072000000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCBPY&actionDate=1746072000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BETTERMOOD FOOD CORP.]]></category>
-<pink:symbol>MOOOF</pink:symbol>
+<category><![CDATA[TC BioPharm (Holdings) plc]]></category>
+<pink:symbol>TCBPY</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kisses from Italy Inc. (KITL: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KITL&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KITL/company-info">Kisses from Italy Inc.</a> (<a href="http://www.otcmarkets.com/stock/KITL">KITL</a>: Pink Current) - Tier Change - The symbol, KITL, no longer is classified as Pink Limited.  As of Thu, May 01, 2025, KITL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KITL&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kisses from Italy Inc.]]></category>
-<pink:symbol>KITL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Green Battery Minerals Inc. (GBMIF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBMIF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBMIF/company-info">Green Battery Minerals Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBMIF">GBMIF</a>: Pink Current) - Tier Change - The symbol, GBMIF, no longer is classified as OTCQB.  As of Thu, May 01, 2025, GBMIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBMIF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Battery Minerals Inc.]]></category>
-<pink:symbol>GBMIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
