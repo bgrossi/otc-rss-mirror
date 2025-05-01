@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 13:18:45 UTC 2025
+OTC RSS mirror fetched: Thu May  1 13:40:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Thu May  1 13:18:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 09:06:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 09:26:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Var Energi ASA (VARRY: Pink Limited) | VARRY - Books will close today, May 1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VARRY/news?id=475842]]></link>
+<pubDate>Thu, 01 May 2025 09:20:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VARRY/news?id=475842]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Var Energi ASA]]></category>
+<pink:symbol>VARRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Raia Drogasil SA (RADLY: Pink Limited) | RADLY - Books will close today, May 1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RADLY/news?id=475841]]></link>
+<pubDate>Thu, 01 May 2025 09:19:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RADLY/news?id=475841]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Raia Drogasil SA]]></category>
+<pink:symbol>RADLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Glencore Plc (GLNCY: Pink Current) | GLNCY - Books will close today, May 1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GLNCY/news?id=475840]]></link>
+<pubDate>Thu, 01 May 2025 09:17:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLNCY/news?id=475840]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Glencore Plc]]></category>
+<pink:symbol>GLNCY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Greggs Plc. (GGGSY: Pink Current) | GGGSY - Books will close today, May 1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GGGSY/news?id=475838]]></link>
+<pubDate>Thu, 01 May 2025 09:16:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GGGSY/news?id=475838]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Greggs Plc.]]></category>
+<pink:symbol>GGGSY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | ATAAY - Books will close today, May 1, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ATAAY/news?id=475829]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Thu May  1 13:18:45 UTC 2025
 <pink:symbol>THUPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sandvik AB (SDVKY: Pink Limited) | SDVKY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SDVKY/news?id=475368]]></link>
-<pubDate>Wed, 30 Apr 2025 09:13:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SDVKY/news?id=475368]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sandvik AB]]></category>
-<pink:symbol>SDVKY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jollibee Foods Corp. (JBFCY: Pink Limited) | JBFCY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JBFCY/news?id=475345]]></link>
-<pubDate>Wed, 30 Apr 2025 08:58:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JBFCY/news?id=475345]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jollibee Foods Corp.]]></category>
-<pink:symbol>JBFCY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[COGNA EDUCACAO S A (COGNY: Pink Limited) | COGNY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/COGNY/news?id=475344]]></link>
-<pubDate>Wed, 30 Apr 2025 08:56:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGNY/news?id=475344]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[COGNA EDUCACAO S A]]></category>
-<pink:symbol>COGNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bank Ireland Group PLC (BKRIY: Pink Current) | BKRIY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BKRIY/news?id=475343]]></link>
-<pubDate>Wed, 30 Apr 2025 08:54:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BKRIY/news?id=475343]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank Ireland Group PLC]]></category>
-<pink:symbol>BKRIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
