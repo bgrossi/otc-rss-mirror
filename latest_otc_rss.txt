@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 16:51:47 UTC 2025
+OTC RSS mirror fetched: Thu May  1 17:07:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 16:51:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 12:46:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 13:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475871]]></link>
+<pubDate>Thu, 01 May 2025 13:04:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475871]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Susquehanna Community Financial, Inc. (SQCF: Pink Current) | Citizens & Northern Corporation Acquires Susquehanna Community Financial, Inc.]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SQCF/news?id=475866]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May  1 16:51:47 UTC 2025
 <pink:symbol>RHHBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Licenses North Carolina Marketplace]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=475385]]></link>
-<pubDate>Wed, 30 Apr 2025 10:43:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=475385]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
-<pink:symbol>NTRXD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
