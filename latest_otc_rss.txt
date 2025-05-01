@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 20:46:06 UTC 2025
+OTC RSS mirror fetched: Thu May  1 21:07:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  1 20:46:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 16:36:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 17:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Impac Mortgage Holdings, Inc. (IMPM: Pink Limited) | Disclosure of Credit Facility Breach/Waiver and Extension of Forbearance]]></title>
@@ -599,18 +599,6 @@ OTC RSS mirror fetched: Thu May  1 20:46:06 UTC 2025
 <pink:symbol>IMBBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Plural Industry Holding Group Co. Limited (PIHG: Pink Current) | Token Launch]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PIHG/news?id=475401]]></link>
-<pubDate>Wed, 30 Apr 2025 12:43:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PIHG/news?id=475401]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Plural Industry Holding Group Co. Limited]]></category>
-<pink:symbol>PIHG</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
