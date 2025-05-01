@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 11:06:51 UTC 2025
+OTC RSS mirror fetched: Thu May  1 11:23:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  1 11:06:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 06:36:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 07:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Goliath P1 Cells Validated by Customer Testing]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=475801]]></link>
+<pubDate>Thu, 01 May 2025 07:04:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=475801]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ilika PLC.]]></category>
+<pink:symbol>ILIKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Total Voting Right]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=475785]]></link>
+<pubDate>Thu, 01 May 2025 07:00:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=475785]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Total Voting Rights]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475779]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu May  1 11:06:51 UTC 2025
 <pink:symbol>MMMW</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pan African Resources PLC (PAFRY: OTCQX International) | Notification of change in major shareholdings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=475326]]></link>
-<pubDate>Wed, 30 Apr 2025 08:09:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=475326]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pan African Resources PLC]]></category>
-<pink:symbol>PAFRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | Paradox project update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=475284]]></link>
-<pubDate>Wed, 30 Apr 2025 07:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=475284]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZEPHYR ENERGY PLC.]]></category>
-<pink:symbol>ZPHRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
