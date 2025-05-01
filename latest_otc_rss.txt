@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
+OTC RSS mirror fetched: Thu May  1 16:10:12 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 11:46:26 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 12:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Current) | SmartCard Marketing Systems Inc (OTC:SMKG) Develops Strategic IP Valuation Model to Maximize ROI and ROE Across Industry-Leading Platforms]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475861]]></link>
+<pubDate>Thu, 01 May 2025 11:59:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475861]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
+<pink:symbol>SMKG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Current) | SmartCard Marketing Systems Inc (OTC:SMKG) Revolutionizes AI Automation for Virtual Assistant Needs, Bridging The Gap With Payments Industry Expertise]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475859]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Equatorial Energia S.A. (EQUEY: Pink Limited) | EQUEY - Books will close at the close of business today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EQUEY/news?id=475376]]></link>
-<pubDate>Wed, 30 Apr 2025 09:31:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EQUEY/news?id=475376]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Equatorial Energia S.A.]]></category>
-<pink:symbol>EQUEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DGLLF&actionDate=1746114733000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Grey Market) - Venue Change - The symbol, DGLLF, no longer trades on OTC Link.  As of Thu, May 01, 2025, DGLLF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 11:52:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DGLLF&actionDate=1746114733000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DELEGATS GROUP LTD.]]></category>
+<pink:symbol>DGLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRWD&actionDate=1746097737000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRWD/company-info">TRADEWINDS UNVL</a> (<a href="http://www.otcmarkets.com/stock/TRWD">TRWD</a>: OTC Link) - Venue Change - The symbol, TRWD, no longer trades on Grey Market.  As of Thu, May 01, 2025, TRWD trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 <pink:symbol>ROKOF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745995464000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: OTC Link) - Venue Change - The symbol, TKMJF, no longer trades on Grey Market.  As of Wed, Apr 30, 2025, TKMJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 02:44:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKMJF&actionDate=1745995464000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Telkom SA SOC Ltd]]></category>
-<pink:symbol>TKMJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Symbol Change]]></title>
@@ -1188,6 +1188,18 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Grey Market) - Reactivated Symbol -  The symbol, DGLLF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 11:52:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DELEGATS GROUP LTD.]]></category>
+<pink:symbol>DGLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Iris Acquisition Corp (IRAAW: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAAW&actionDate=1746101141000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - Iris Acquisition Corp (IRAAW: OTC Link) - Deleted Symbol - As of Thu, May 01, 2025, IRAAW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1294,18 +1306,6 @@ OTC RSS mirror fetched: Thu May  1 15:47:28 UTC 2025
 <pink:symbol>PXMTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Markforged Holding Corporation (MKFGW: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MKFGW&actionDate=1745989257000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - Markforged Holding Corporation (MKFGW: OTC Link) - Deleted Symbol - As of Wed, Apr 30, 2025, MKFGW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 01:00:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MKFGW&actionDate=1745989257000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Markforged Holding Corporation]]></category>
-<pink:symbol>MKFGW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Marksmen Energy Inc. (MKSEF: Pink Current) | Halted Security]]></title>
