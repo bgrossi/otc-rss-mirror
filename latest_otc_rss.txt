@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 19:06:12 UTC 2025
+OTC RSS mirror fetched: Thu May  1 19:22:09 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 19:06:12 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 14:46:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 15:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Now Corporation (The) (NWPN: Pink Current) | Now Corp Finalizes Debt Cancellation In Exchange For Fintech App]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=475874]]></link>
+<pubDate>Thu, 01 May 2025 14:53:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=475874]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Now Corporation (The)]]></category>
+<pink:symbol>NWPN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Charbone Hydrogen Corporation (CHHYF: OTCQB) | CHARBONE Hydrogen Signed a USD 50 Million Construction Capital Facility Term Sheet]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CHHYF/news?id=475872]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May  1 19:06:12 UTC 2025
 <pink:symbol>LEXLF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Roche Holding Ltd (RHHBY: OTCQX International) | CHMP recommends EU label update for Roche’s Phesgo to allow administration outside of clinical settings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475394]]></link>
-<pubDate>Wed, 30 Apr 2025 11:52:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RHHBY/news?id=475394]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Roche Holding Ltd]]></category>
-<pink:symbol>RHHBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1318,6 +1318,18 @@ OTC RSS mirror fetched: Thu May  1 19:06:12 UTC 2025
 <pink:symbol>MKSEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SERRA ENERGY METALS CORP. (ESVNF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ESVNF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ESVNF/company-info">SERRA ENERGY METALS CORP.</a> (<a href="http://www.otcmarkets.com/stock/ESVNF">ESVNF</a>: OTCQB) - Halted Security -  Effective Thu, May 01, 2025, ESVNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ESVNF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SERRA ENERGY METALS CORP.]]></category>
+<pink:symbol>ESVNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Charbone Hydrogen Corporation (CHHYF: OTCQB) | Halted Security]]></title>
