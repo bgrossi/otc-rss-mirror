@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 10:34:10 UTC 2025
+OTC RSS mirror fetched: Thu May  1 10:48:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  1 10:34:10 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 06:06:26 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 06:36:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Total Voting Rights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475779]]></link>
+<pubDate>Thu, 01 May 2025 06:19:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475779]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Appendix 2A - Application for Quotation of Securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=475778]]></link>
+<pubDate>Thu, 01 May 2025 06:10:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=475778]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Voting Rights and Capital]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475776]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu May  1 10:34:10 UTC 2025
 <pink:symbol>ZPHRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[SulNOx Group Plc (SNOXF: OTCQX International) | Trading Update: Record Quarter and Full-Year Revenues - Double Last Year]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=475217]]></link>
-<pubDate>Wed, 30 Apr 2025 07:00:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=475217]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SulNOx Group Plc]]></category>
-<pink:symbol>SNOXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Serabi Gold Plc (SRBIF: OTCQX International) | Audited Results for the year ended 31 December 2024]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=475295]]></link>
-<pubDate>Wed, 30 Apr 2025 07:00:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=475295]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Serabi Gold Plc]]></category>
-<pink:symbol>SRBIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
