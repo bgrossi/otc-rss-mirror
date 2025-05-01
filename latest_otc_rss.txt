@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 05:46:38 UTC 2025
+OTC RSS mirror fetched: Thu May  1 06:12:56 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 05:46:38 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 01:36:26 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 02:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475397]]></link>
+<pubDate>Thu, 01 May 2025 02:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475397]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Results of Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=475762]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May  1 05:46:38 UTC 2025
 <pink:symbol>IBDRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Additional Listing]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=475282]]></link>
-<pubDate>Wed, 30 Apr 2025 05:08:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=475282]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Experian plc]]></category>
-<pink:symbol>EXPGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
