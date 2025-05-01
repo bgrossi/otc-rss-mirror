@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 12:14:44 UTC 2025
+OTC RSS mirror fetched: Thu May  1 12:54:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May  1 12:14:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 08:06:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 08:46:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Names Simon Yu CEO to Lead Strategic Growth Expansion]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=475768]]></link>
+<pubDate>Thu, 01 May 2025 08:30:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=475768]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECGI Holdings Inc.]]></category>
+<pink:symbol>ECGI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Block Listing Interim Review]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=475809]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Thu May  1 12:14:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[VGTel, Inc.]]></category>
 <pink:symbol>VGTL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bank of Queensland Ltd. (BKQNY: Pink Current) | BKQNY - Books will close today, April 30, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BKQNY/news?id=475341]]></link>
-<pubDate>Wed, 30 Apr 2025 08:49:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BKQNY/news?id=475341]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank of Queensland Ltd.]]></category>
-<pink:symbol>BKQNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1306,6 +1306,30 @@ OTC RSS mirror fetched: Thu May  1 12:14:44 UTC 2025
 <pink:symbol>MKFGW</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Marksmen Energy Inc. (MKSEF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MKSEF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MKSEF/company-info">Marksmen Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/MKSEF">MKSEF</a>: Pink Current) - Halted Security -  Effective Thu, May 01, 2025, MKSEF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MKSEF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Marksmen Energy Inc.]]></category>
+<pink:symbol>MKSEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Charbone Hydrogen Corporation (CHHYF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CHHYF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CHHYF/company-info">Charbone Hydrogen Corporation</a> (<a href="http://www.otcmarkets.com/stock/CHHYF">CHHYF</a>: OTCQB) - Halted Security -  Effective Thu, May 01, 2025, CHHYF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CHHYF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Charbone Hydrogen Corporation]]></category>
+<pink:symbol>CHHYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ARGO CORPORATION (ARGHF: OTCQX International) | Halted Security]]></title>
