@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
+OTC RSS mirror fetched: Thu May  1 20:38:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 16:06:27 EDT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 16:36:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Impac Mortgage Holdings, Inc. (IMPM: Pink Limited) | Disclosure of Credit Facility Breach/Waiver and Extension of Forbearance]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMPM/news?id=475889]]></link>
+<pubDate>Thu, 01 May 2025 16:25:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMPM/news?id=475889]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Impac Mortgage Holdings, Inc.]]></category>
+<pink:symbol>IMPM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lyons Bancorp, Inc. (LYBC: OTCQX U.S.) | Lyons Bancorp Dividend Increase]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LYBC/news?id=475888]]></link>
+<pubDate>Thu, 01 May 2025 16:24:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LYBC/news?id=475888]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lyons Bancorp, Inc.]]></category>
+<pink:symbol>LYBC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[JBT Bancorp Inc. (JBTC: OTCQX U.S.) | Patel Appointed to Board of Directors of JBT Bancorp, Inc.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JBTC/news?id=475884]]></link>
+<pubDate>Thu, 01 May 2025 16:15:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JBTC/news?id=475884]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[JBT Bancorp Inc.]]></category>
+<pink:symbol>JBTC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Now Corporation (The) (NWPN: Pink Current) | Now Corp Finalizes Debt Cancellation In Exchange For Fintech App]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=475874]]></link>
@@ -95,18 +131,6 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 <pink:symbol>NEXD</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[JBT Bancorp Inc. (JBTC: OTCQX U.S.) | Patel Appointend to board of Directors of JBT Bancorp, Inc.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JBTC/news?id=475855]]></link>
-<pubDate>Thu, 01 May 2025 10:40:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JBTC/news?id=475855]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JBT Bancorp Inc.]]></category>
-<pink:symbol>JBTC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 <pink:symbol>PIHG</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CASTILE RES LTD. (CLRSF: OTCQB) | Critical Mineral Bismuth Added to Rover 1 as Price Surges]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=475398]]></link>
-<pubDate>Wed, 30 Apr 2025 12:10:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=475398]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CASTILE RES LTD.]]></category>
-<pink:symbol>CLRSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Drilling contract signed at Jennings Pioneer]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=475396]]></link>
-<pubDate>Wed, 30 Apr 2025 11:59:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=475396]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lexington Gold Ltd.]]></category>
-<pink:symbol>LEXLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1344,6 +1344,18 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Aritzia Inc. (ATZAF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATZAF&actionDate=1746072000000]]></link>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATZAF/company-info">Aritzia Inc.</a> (<a href="http://www.otcmarkets.com/stock/ATZAF">ATZAF</a>: Pink Current) - Halted Security -  Effective Thu, May 01, 2025, ATZAF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATZAF&actionDate=1746072000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aritzia Inc.]]></category>
+<pink:symbol>ATZAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ARGO CORPORATION (ARGHF: OTCQX International) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ARGHF&actionDate=1745985600000]]></link>
 <description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARGHF/company-info">ARGO CORPORATION</a> (<a href="http://www.otcmarkets.com/stock/ARGHF">ARGHF</a>: OTCQX International) - Halted Security -  Effective Wed, Apr 30, 2025, ARGHF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1596,6 +1608,18 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Bank of Botetourt (Buchanan, VA) (BORTP: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283423]]></link>
+<description><![CDATA[Thu, May 01, 2025 04:02 - <a href="http://www.otcmarkets.com/stock/BORTP/company-info">Bank of Botetourt (Buchanan, VA)</a> (<a href="http://www.otcmarkets.com/stock/BORTP">BORTP</a>: Pink Current) - Scheduled Ex-Dividend - Bank of Botetourt (Buchanan, VA) has announced a dividend ex-date for (BORTP: Pink Current). Bank of Botetourt (Buchanan, VA) is scheduled to disburse a Cash Dividend dividend of $0.49 on Fri, May 02, 2025 to shareholders of BORTP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 16:02:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283423]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bank of Botetourt (Buchanan, VA)]]></category>
+<pink:symbol>BORTP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Covivio (FNCDY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=280271]]></link>
 <description><![CDATA[Thu, May 01, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/FNCDY/company-info">Covivio</a> (<a href="http://www.otcmarkets.com/stock/FNCDY">FNCDY</a>: Pink Limited) - Scheduled Ex-Dividend - Covivio has announced a dividend ex-date for (FNCDY: Pink Limited). Covivio is scheduled to disburse a Cash Dividend dividend of $0.66308 on Fri, May 02, 2025 to shareholders of FNCDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1702,18 +1726,6 @@ OTC RSS mirror fetched: Thu May  1 20:28:52 UTC 2025
 <pink:symbol>EGFEY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Foresight Financial Group Inc. (FGFH: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283392]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 02:35 - <a href="http://www.otcmarkets.com/stock/FGFH/company-info">Foresight Financial Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/FGFH">FGFH</a>: OTCQX U.S.) - Scheduled Ex-Dividend - Foresight Financial Group Inc. has announced a dividend ex-date for (FGFH: OTCQX U.S.). Foresight Financial Group Inc. is scheduled to disburse a Cash Dividend dividend of $0.2 on Mon, May 12, 2025 to shareholders of FGFH. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 14:35:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283392]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Foresight Financial Group Inc.]]></category>
-<pink:symbol>FGFH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Wee-Cig International Corporation (WCIG: Pink Current) | Tier Change]]></title>
