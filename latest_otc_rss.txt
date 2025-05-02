@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 19:45:43 UTC 2025
+OTC RSS mirror fetched: Fri May  2 20:09:22 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May  2 19:45:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 15:26:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 16:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Totaligent Inc. (TGNT: Pink Current) | Totaligent to Start Brand and Marketing Campaigns]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TGNT/news?id=476004]]></link>
+<pubDate>Fri, 02 May 2025 16:02:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGNT/news?id=476004]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Totaligent Inc.]]></category>
+<pink:symbol>TGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[bebe stores, inc. (BEBE: Pink Limited) | bebe stores inc.'s Annual Shareholder Meeting Results 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476001]]></link>
+<pubDate>Fri, 02 May 2025 15:28:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476001]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[bebe stores, inc.]]></category>
+<pink:symbol>BEBE</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Turnkey Capital, Inc. (TKCI: Pink Current) | Turnkey Capital Launches The First and only Anti-Virus for iOS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TKCI/news?id=476000]]></link>
@@ -573,30 +597,6 @@ OTC RSS mirror fetched: Fri May  2 19:45:43 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Susquehanna Community Financial, Inc.]]></category>
 <pink:symbol>SQCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Current) | SmartCard Marketing Systems Inc (OTC:SMKG) Develops Strategic IP Valuation Model to Maximize ROI and ROE Across Industry-Leading Platforms]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475861]]></link>
-<pubDate>Thu, 01 May 2025 11:59:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475861]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
-<pink:symbol>SMKG</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Current) | SmartCard Marketing Systems Inc (OTC:SMKG) Revolutionizes AI Automation for Virtual Assistant Needs, Bridging The Gap With Payments Industry Expertise]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475859]]></link>
-<pubDate>Thu, 01 May 2025 11:39:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=475859]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
-<pink:symbol>SMKG</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1164,6 +1164,30 @@ OTC RSS mirror fetched: Fri May  2 19:45:43 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[iShares II plc. (IMXNF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IMXNF&actionDate=1746215368000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IMXNF/company-info">iShares II plc.</a> (<a href="http://www.otcmarkets.com/stock/IMXNF">IMXNF</a>: Grey Market) - Reactivated Symbol -  The symbol, IMXNF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 15:49:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IMXNF&actionDate=1746215368000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[iShares II plc.]]></category>
+<pink:symbol>IMXNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[IShares VII PLC (ICSFF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ICSFF&actionDate=1746214677000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICSFF/company-info">IShares VII PLC</a> (<a href="http://www.otcmarkets.com/stock/ICSFF">ICSFF</a>: Grey Market) - Reactivated Symbol -  The symbol, ICSFF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 15:37:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ICSFF&actionDate=1746214677000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[IShares VII PLC]]></category>
+<pink:symbol>ICSFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNEHF&actionDate=1746209399000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Grey Market) - Reactivated Symbol -  The symbol, SNEHF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1260,26 +1284,26 @@ OTC RSS mirror fetched: Fri May  2 19:45:43 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NORFOLK METALS LTD (NRFMF: Pink Current) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NRFMF&actionDate=1746116669000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: Pink Current) - Reactivated Symbol -  The symbol, NRFMF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 12:24:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NRFMF&actionDate=1746116669000]]></guid>
+<title><![CDATA[Petrofac Ltd (POFCY: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=POFCY&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/POFCY/company-info">Petrofac Ltd</a> (<a href="http://www.otcmarkets.com/stock/POFCY">POFCY</a>: Pink Current) - Halted Security -  Effective Fri, May 02, 2025, POFCY is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=POFCY&actionDate=1746158400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORFOLK METALS LTD]]></category>
-<pink:symbol>NRFMF</pink:symbol>
+<category><![CDATA[Petrofac Ltd]]></category>
+<pink:symbol>POFCY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Pink Current) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Pink Current) - Reactivated Symbol -  The symbol, DGLLF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 11:52:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></guid>
+<title><![CDATA[Petrofac Ltd (POFCF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=POFCF&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/POFCF/company-info">Petrofac Ltd</a> (<a href="http://www.otcmarkets.com/stock/POFCF">POFCF</a>: Pink Current) - Halted Security -  Effective Fri, May 02, 2025, POFCF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=POFCF&actionDate=1746158400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DELEGATS GROUP LTD.]]></category>
-<pink:symbol>DGLLF</pink:symbol>
+<category><![CDATA[Petrofac Ltd]]></category>
+<pink:symbol>POFCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
