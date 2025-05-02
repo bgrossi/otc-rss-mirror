@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 07:45:32 UTC 2025
+OTC RSS mirror fetched: Fri May  2 08:11:38 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May  2 07:45:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 03:36:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 04:06:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=475922]]></link>
+<pubDate>Fri, 02 May 2025 04:02:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=475922]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Ceasing to be a Substantial Holder - G Davey]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=475921]]></link>
+<pubDate>Fri, 02 May 2025 03:53:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=475921]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Early Redemption (Full Repayment) of the 10th and 11th Series of Ordinary Bonds]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475916]]></link>
@@ -575,30 +599,6 @@ OTC RSS mirror fetched: Fri May  2 07:45:32 UTC 2025
 <pink:symbol>MTPLF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | FBR CEO Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=475758]]></link>
-<pubDate>Wed, 30 Apr 2025 23:11:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=475758]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FBR Ltd.]]></category>
-<pink:symbol>FBRKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Notice of Annual General Meeting Proxy Form]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475757]]></link>
-<pubDate>Wed, 30 Apr 2025 22:44:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475757]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Challenger Gold Limited]]></category>
-<pink:symbol>CLLEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
