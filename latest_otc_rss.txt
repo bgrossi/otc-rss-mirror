@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 19:22:25 UTC 2025
+OTC RSS mirror fetched: Fri May  2 19:30:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May  2 19:22:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 15:06:28 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 15:26:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Turnkey Capital, Inc. (TKCI: Pink Current) | Turnkey Capital Launches The First and only Anti-Virus for iOS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TKCI/news?id=476000]]></link>
+<pubDate>Fri, 02 May 2025 15:26:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TKCI/news?id=476000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Turnkey Capital, Inc.]]></category>
+<pink:symbol>TKCI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | PARAGON’S FORMER CHAIRMAN AND CEO HESHAM GAD CONCEALED UNAUTHORIZED STATUS EXPOSING COMPANY TO SIGNIFICANT FINES AND LEGAL RISKS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=475999]]></link>
+<pubDate>Fri, 02 May 2025 15:20:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=475999]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[One World Lithium Inc. (OWRDF: OTCQB) | ONE WORLD LITHIUM ANNOUNCES ISSUANCE OF MANAGEMENT CEASE TRADE ORDER]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=475996]]></link>
@@ -575,30 +599,6 @@ OTC RSS mirror fetched: Fri May  2 19:22:25 UTC 2025
 <pink:symbol>SMKG</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NEXT DYNAMICS INC. (NEXD: Pink Current) | Next Dynamics, Inc. Signs Manufacturing & Distribution MOU with Sherbiny Holdings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NEXD/news?id=475856]]></link>
-<pubDate>Thu, 01 May 2025 11:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NEXD/news?id=475856]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NEXT DYNAMICS INC.]]></category>
-<pink:symbol>NEXD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Resilient Energy Inc. (RENI: Pink Limited) | Pending Acquisition]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RENI/news?id=475854]]></link>
-<pubDate>Thu, 01 May 2025 10:34:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RENI/news?id=475854]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Resilient Energy Inc.]]></category>
-<pink:symbol>RENI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
