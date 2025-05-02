@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 13:41:28 UTC 2025
+OTC RSS mirror fetched: Fri May  2 13:48:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri May  2 13:41:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 09:26:28 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 09:46:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[NIGHTINGALE HEALTH OYJ (NHLTY: OTCQX International) | Changes in Nightingale Health Plc's Management Team]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=475967]]></link>
+<pubDate>Fri, 02 May 2025 09:45:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=475967]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NIGHTINGALE HEALTH OYJ]]></category>
+<pink:symbol>NHLTY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC (ROYMY: Pink Current) | ROYMY - Books will close at the close of business today, May 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ROYMY/news?id=475956]]></link>
+<pubDate>Fri, 02 May 2025 09:39:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ROYMY/news?id=475956]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC]]></category>
+<pink:symbol>ROYMY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[SYN Prop e Tech SA (SYYNY: Pink Limited) | SYYNY - Books will close today, May 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475966]]></link>
+<pubDate>Fri, 02 May 2025 09:36:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475966]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SYN Prop e Tech SA]]></category>
+<pink:symbol>SYYNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[First National of Nebraska, Inc. (FINN: Pink Current) | FNBO to Acquire Country Club Bank]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FINN/news?id=475963]]></link>
@@ -35,30 +71,6 @@ OTC RSS mirror fetched: Fri May  2 13:41:28 UTC 2025
 <pink:symbol>VACNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[SYN Prop e Tech SA (SYYNY: Pink Limited) | ROYMY - Books will close at the close of business today, May     2, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475958]]></link>
-<pubDate>Fri, 02 May 2025 09:02:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475958]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SYN Prop e Tech SA]]></category>
-<pink:symbol>SYYNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC (ROYMY: Pink Current) | ROYMY - Books will close at the close of business today, May 2, 2025 Per Citibank, N.A. the books will close on ROYMY at the close of business May 2, 2025 and open close of business May 12, 2025.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ROYMY/news?id=475956]]></link>
-<pubDate>Fri, 02 May 2025 09:01:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ROYMY/news?id=475956]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC]]></category>
-<pink:symbol>ROYMY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -585,18 +597,6 @@ OTC RSS mirror fetched: Fri May  2 13:41:28 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Futurenet, Inc.]]></category>
 <pink:symbol>FUUN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Names Simon Yu CEO to Lead Strategic Growth Expansion]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=475768]]></link>
-<pubDate>Thu, 01 May 2025 08:30:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=475768]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ECGI Holdings Inc.]]></category>
-<pink:symbol>ECGI</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
