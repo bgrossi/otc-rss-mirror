@@ -40,7 +40,7 @@ jobs:
             c<=250   {print}
             /<\/item>/ && c==250 {exit}
           ' rss_full.xml \
-          | fold -s -w 1024 > rss_trimmed_wrapped.xml   # hard‑wrap at 1 024 bytes
+          | fold -w 1024 > rss_trimmed_wrapped.xml   # hard‑wrap at 1 024 bytes
 
           {
             echo "OTC RSS mirror fetched: $(date -u)"
