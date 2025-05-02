@@ -1,57 +1,58 @@
-name: OTC RSS mirror (lite)
+name: OTC RSS mirror (lite)
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'      # every 15 min
-  workflow_dispatch:              # allow manual run
+    - cron: '*/15 * * * *'      # every 15 minutes
+  workflow_dispatch:            # allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Fetch RSS (robust)
-      run: |
-        set -e
-    
-        UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15"
-    
-        # Try primary — 10-s connect timeout, 40-s max, 3 retries
-        curl -sSL --http1.1 \
-             --connect-timeout 10 --max-time 40 \
-             --retry 3 --retry-delay 5 \
-             -A "$UA" \
-             -o rss_full.xml \
-             https://www.otcmarkets.com/syndicate/rss.xml || \
-        # Fallback: same path on content.* (skip TLS check or use http)
-        curl -sSLk --http1.1 \
-             --connect-timeout 10 --max-time 40 \
-             --retry 3 --retry-delay 5 \
-             -A "$UA" \
-             -o rss_full.xml \
-             https://content.otcmarkets.com/syndicate/rss.xml
-    
-        # Verify we actually got something
-        test -s rss_full.xml || { echo "RSS download failed"; exit 1; }
+      - name: Fetch RSS (robust)
+        run: |
+          set -e
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15"
 
+          # primary feed
+          curl -sSL --http1.1 \
+               --connect-timeout 10 --max-time 40 \
+               --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://www.otcmarkets.com/syndicate/rss.xml \
+          || \
+          # fallback host (skip TLS CN mismatch)
+          curl -sSLk --http1.1 \
+               --connect-timeout 10 --max-time 40 \
+               --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://content.otcmarkets.com/syndicate/rss.xml
 
-    - name: Trim to latest 250 items
-      run: |
-        awk '
-          /<item>/ {c++}
-          c<=250   {print}
-          /<\/item>/ && c==250 {exit}
-        ' rss_full.xml > rss_trimmed.xml
-        echo "OTC RSS mirror fetched: $(date -u)" > latest_otc_rss.txt
-        cat rss_trimmed.xml >> latest_otc_rss.txt
+          test -s rss_full.xml || { echo "RSS download failed"; exit 1; }
 
-    - name: Commit & push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git config user.name  "github-actions[bot]"
-        git add latest_otc_rss.txt
-        git commit -m "chore: update trimmed RSS [skip ci]" || echo "no change"
-        git push
+      - name: Trim to latest 250 items and wrap lines
+        run: |
+          # keep first 250 <item> blocks
+          awk '
+            /<item>/ {c++}
+            c<=250   {print}
+            /<\/item>/ && c==250 {exit}
+          ' rss_full.xml \
+          | fold -s -w 1024 > rss_trimmed_wrapped.xml   # hard‑wrap at 1 024 bytes
+
+          {
+            echo "OTC RSS mirror fetched: $(date -u)"
+            cat  rss_trimmed_wrapped.xml
+          } > latest_otc_rss.txt
+
+      - name: Commit & push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add latest_otc_rss.txt
+          git commit -m "chore: update trimmed RSS [skip ci]" || echo "no change"
+          git push
