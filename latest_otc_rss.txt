@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
+OTC RSS mirror fetched: Fri May  2 11:07:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 06:36:28 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 07:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notification of cessation of securities - CPO]]></title>
@@ -852,6 +852,42 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Shift4 Payments, Inc. (SFOUV: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SFOUV&actionDate=1746183908000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFOUV/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SFOUV">SFOUV</a>: OTC Link) - Venue Change - The symbol, SFOUV, no longer trades on Grey Market.  As of Fri, May 02, 2025, SFOUV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 07:05:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SFOUV&actionDate=1746183908000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Shift4 Payments, Inc.]]></category>
+<pink:symbol>SFOUV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NORFOLK METALS LTD (NRFMF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NRFMF&actionDate=1746183884000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: OTC Link) - Venue Change - The symbol, NRFMF, no longer trades on Grey Market.  As of Fri, May 02, 2025, NRFMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 07:04:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NRFMF&actionDate=1746183884000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NORFOLK METALS LTD]]></category>
+<pink:symbol>NRFMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DGLLF&actionDate=1746183864000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: OTC Link) - Venue Change - The symbol, DGLLF, no longer trades on Grey Market.  As of Fri, May 02, 2025, DGLLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 07:04:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DGLLF&actionDate=1746183864000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DELEGATS GROUP LTD.]]></category>
+<pink:symbol>DGLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Cumulus Media Inc. (CMLS: OTCQB) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMLS&actionDate=1746162073000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMLS/company-info">Cumulus Media Inc.</a> (<a href="http://www.otcmarkets.com/stock/CMLS">CMLS</a>: OTC Link) - Venue Change - The symbol, CMLS, no longer trades on Nasdaq.  As of Fri, May 02, 2025, CMLS trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -888,7 +924,7 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NORFOLK METALS LTD (NRFMF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[NORFOLK METALS LTD (NRFMF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NRFMF&actionDate=1746116669000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: Grey Market) - Venue Change - The symbol, NRFMF, no longer trades on OTC Link.  As of Thu, May 01, 2025, NRFMF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 12:24:29 EDT</pubDate>
@@ -897,10 +933,10 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <category><![CDATA[NORFOLK METALS LTD]]></category>
 <pink:symbol>NRFMF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DGLLF&actionDate=1746114733000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Grey Market) - Venue Change - The symbol, DGLLF, no longer trades on OTC Link.  As of Thu, May 01, 2025, DGLLF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 11:52:13 EDT</pubDate>
@@ -909,7 +945,7 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <category><![CDATA[DELEGATS GROUP LTD.]]></category>
 <pink:symbol>DGLLF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Venue Change]]></title>
@@ -936,40 +972,16 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746081871000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: OTC Link) - Venue Change - The symbol, PXMTF, no longer trades on Grey Market.  As of Thu, May 01, 2025, PXMTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 02:44:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746081871000]]></guid>
+<title><![CDATA[iQSTEL Inc. (IQST: OTCQX U.S.) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IQST&actionDate=1746183272000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IQSTD/company-info">iQSTEL Inc.</a> (<a href="http://www.otcmarkets.com/stock/IQSTD">IQST</a>: OTCQX U.S.) - Symbol Change - The symbol, IQST, is no longer a valid symbol for iQSTEL Inc..  As of Fri, May 02, 2025, the new trading symbol is IQSTD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 06:54:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IQST&actionDate=1746183272000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
-<pink:symbol>PXMTF</pink:symbol>
+<category><![CDATA[iQSTEL Inc.]]></category>
+<pink:symbol>IQSTD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Benton Resources Inc. (BNTRF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BNTRF&actionDate=1746075643000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BNTRF/company-info">Benton Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/BNTRF">BNTRF</a>: OTC Link) - Venue Change - The symbol, BNTRF, no longer trades on Grey Market.  As of Thu, May 01, 2025, BNTRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 01:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BNTRF&actionDate=1746075643000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Benton Resources Inc.]]></category>
-<pink:symbol>BNTRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746024454000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Grey Market) - Venue Change - The symbol, PXMTF, no longer trades on OTC Link.  As of Wed, Apr 30, 2025, PXMTF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 10:47:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PXMTF&actionDate=1746024454000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
-<pink:symbol>PXMTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Steel Partners Holdings LP (SPLP.PRA: OTCQX U.S.) | Symbol Change]]></title>
@@ -1080,18 +1092,6 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vortex Energy Corp. (VTECD: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VTECD&actionDate=1746075634000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VTECF/company-info">Vortex Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/VTECF">VTECD</a>: OTCQB) - Symbol Change - The symbol, VTECD, is no longer a valid symbol for Vortex Energy Corp..  As of Thu, May 01, 2025, the new trading symbol is VTECF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 01:00:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VTECD&actionDate=1746075634000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vortex Energy Corp.]]></category>
-<pink:symbol>VTECF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[NOWTRANSIT INC. (BHIC: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BHIC&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BHIC/company-info">NOWTRANSIT INC.</a> (<a href="http://www.otcmarkets.com/stock/BHIC">BHIC</a>: Pink Current) - Company Name Change - NOWTRANSIT INC. has changed its name to BioScience Health Innovations Inc . The change goes into effect as of Fri, May 02, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1116,9 +1116,21 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[iQSTEL Inc. (IQST: OTCQX U.S.) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=IQST&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IQSTD/company-info">iQSTEL Inc.</a> (<a href="http://www.otcmarkets.com/stock/IQSTD">IQST</a>: OTCQX U.S.) - Splits - Effective Fri, May 02, 2025, IQST: OTCQX U.S. engaged in a rev split. As a result of the split, shs decreased by 1 for 80 split. Due to the split, IQST is no longer valid. The new trading symbol is IQSTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=IQST&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[iQSTEL Inc.]]></category>
+<pink:symbol>IQSTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Parks! America, Inc. (PRKA: OTCQX U.S.) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a fwd split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a rev split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1130,7 +1142,7 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <item>
 <title><![CDATA[Parks! America, Inc. (PRKA: OTCQX U.S.) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a rev split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a fwd split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1212,28 +1224,28 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NORFOLK METALS LTD (NRFMF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[NORFOLK METALS LTD (NRFMF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NRFMF&actionDate=1746116669000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: Grey Market) - Reactivated Symbol -  The symbol, NRFMF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: Pink Current) - Reactivated Symbol -  The symbol, NRFMF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 12:24:29 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NRFMF&actionDate=1746116669000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NORFOLK METALS LTD]]></category>
 <pink:symbol>NRFMF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[DELEGATS GROUP LTD. (DGLLF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Grey Market) - Reactivated Symbol -  The symbol, DGLLF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGLLF/company-info">DELEGATS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/DGLLF">DGLLF</a>: Pink Current) - Reactivated Symbol -  The symbol, DGLLF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 01 May 2025 11:52:13 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGLLF&actionDate=1746114733000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[DELEGATS GROUP LTD.]]></category>
 <pink:symbol>DGLLF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Iris Acquisition Corp (IRAAW: OTC Link) | Deleted Symbol]]></title>
@@ -1704,6 +1716,18 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Shift4 Payments, Inc. (SFOUV: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SFOUV&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFOUV/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SFOUV">SFOUV</a>: Pink Current) - Tier Change - The symbol, SFOUV, no longer is classified as Grey Market.  As of Fri, May 02, 2025, SFOUV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SFOUV&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Shift4 Payments, Inc.]]></category>
+<pink:symbol>SFOUV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Spanish Broadcasting System, Inc. (SBSAA: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SBSAA&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SBSAA/company-info">Spanish Broadcasting System, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SBSAA">SBSAA</a>: Pink Limited) - Tier Change - The symbol, SBSAA, no longer is classified as Expert Market.  As of Fri, May 02, 2025, SBSAA resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1752,6 +1776,18 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NORFOLK METALS LTD (NRFMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRFMF&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRFMF/company-info">NORFOLK METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/NRFMF">NRFMF</a>: Pink Current) - Tier Change - The symbol, NRFMF, no longer is classified as Grey Market.  As of Fri, May 02, 2025, NRFMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRFMF&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NORFOLK METALS LTD]]></category>
+<pink:symbol>NRFMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Gateway Bank, F.S.B. (Oakland, CA) (GWBK: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWBK&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GWBK/company-info">Gateway Bank, F.S.B. (Oakland, CA)</a> (<a href="http://www.otcmarkets.com/stock/GWBK">GWBK</a>: Pink Current) - Tier Change - The symbol, GWBK, no longer is classified as Pink Limited.  As of Fri, May 02, 2025, GWBK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1760,30 +1796,6 @@ OTC RSS mirror fetched: Fri May  2 10:48:50 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Gateway Bank, F.S.B. (Oakland, CA)]]></category>
 <pink:symbol>GWBK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Greenkraft, Inc. (GKIT: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GKIT&actionDate=1746158400000]]></link>
-<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GKIT/company-info">Greenkraft, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GKIT">GKIT</a>: Pink Limited) - Tier Change - The symbol, GKIT, no longer is classified as Expert Market.  As of Fri, May 02, 2025, GKIT resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GKIT&actionDate=1746158400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Greenkraft, Inc.]]></category>
-<pink:symbol>GKIT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Franklin Mining, Inc. (FMNJ: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FMNJ&actionDate=1746158400000]]></link>
-<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMNJ/company-info">Franklin Mining, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FMNJ">FMNJ</a>: Pink Current) - Tier Change - The symbol, FMNJ, no longer is classified as Pink Limited.  As of Fri, May 02, 2025, FMNJ resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FMNJ&actionDate=1746158400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Franklin Mining, Inc.]]></category>
-<pink:symbol>FMNJ</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
