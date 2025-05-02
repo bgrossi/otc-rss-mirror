@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 11:31:22 UTC 2025
+OTC RSS mirror fetched: Fri May  2 11:45:41 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  2 11:31:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 07:06:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 07:36:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notification of cessation of securities - CPO]]></title>
@@ -1560,6 +1560,18 @@ OTC RSS mirror fetched: Fri May  2 11:31:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Mission Bancorp (MSBC: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283498]]></link>
+<description><![CDATA[Fri, May 02, 2025 07:26 - <a href="http://www.otcmarkets.com/stock/MSBC/company-info">Mission Bancorp</a> (<a href="http://www.otcmarkets.com/stock/MSBC">MSBC</a>: Pink Current) - Scheduled Ex-Dividend - Mission Bancorp has announced a dividend ex-date for (MSBC: Pink Current). Mission Bancorp is scheduled to disburse a Stock Dividend/Split dividend of 1.05 shares on Mon, May 19, 2025 to shareholders of MSBC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 07:26:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283498]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mission Bancorp]]></category>
+<pink:symbol>MSBC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ASMPT LTD. (ASMVY: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283379]]></link>
 <description><![CDATA[Thu, May 01, 2025 06:17 - <a href="http://www.otcmarkets.com/stock/ASMVY/company-info">ASMPT LTD.</a> (<a href="http://www.otcmarkets.com/stock/ASMVY">ASMVY</a>: Pink Current) - Scheduled Ex-Dividend - ASMPT LTD. has announced a dividend ex-date for (ASMVY: Pink Current). ASMPT LTD. is scheduled to disburse a Cash Dividend dividend of $0.1052 on Wed, May 14, 2025 to shareholders of ASMVY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1666,18 +1678,6 @@ OTC RSS mirror fetched: Fri May  2 11:31:22 UTC 2025
 <pink:symbol>CTGSP</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283470]]></link>
-<description><![CDATA[Thu, May 01, 2025 01:27 - <a href="http://www.otcmarkets.com/stock/ATAAY/company-info">Atacadao SA</a> (<a href="http://www.otcmarkets.com/stock/ATAAY">ATAAY</a>: Pink Limited) - Scheduled Ex-Dividend - Atacadao SA has announced a dividend ex-date for (ATAAY: Pink Limited). Atacadao SA is scheduled to disburse a Cash Dividend dividend of $0.00044 on Wed, Jul 02, 2025 to shareholders of ATAAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 13:27:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283470]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atacadao SA]]></category>
-<pink:symbol>ATAAY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[VeeMost Technologies Inc (VMST: Pink Current) | Tier Change]]></title>
