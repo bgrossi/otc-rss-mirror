@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 21:45:49 UTC 2025
+OTC RSS mirror fetched: Fri May  2 22:07:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  2 21:45:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 17:36:28 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 18:06:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Finlay Minerals Ltd (FYMNF: OTCQB) | Finlay Minerals Receives TSX Venture Exchange Approval for PIL Earn-In Agreement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FYMNF/news?id=476011]]></link>
+<pubDate>Fri, 02 May 2025 17:36:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FYMNF/news?id=476011]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Finlay Minerals Ltd]]></category>
+<pink:symbol>FYMNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Itaconix plc (ITXXF: OTCQB) | Notice of AGM]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ITXXF/news?id=476009]]></link>
@@ -587,18 +599,6 @@ OTC RSS mirror fetched: Fri May  2 21:45:49 UTC 2025
 <pink:symbol>CHHYF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475871]]></link>
-<pubDate>Thu, 01 May 2025 13:04:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475871]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
