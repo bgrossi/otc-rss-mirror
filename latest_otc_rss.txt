@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
+OTC RSS mirror fetched: Fri May  2 04:10:27 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 01 May 2025 23:36:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 00:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
@@ -1104,30 +1104,6 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CHESHI TECHNOLOGY INC. (CSHTF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CSHTF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHTF/company-info">CHESHI TECHNOLOGY INC.</a> (<a href="http://www.otcmarkets.com/stock/CSHTF">CSHTF</a>: Pink Current) - Company Name Change - CHESHI TECHNOLOGY INC. has changed its name to AI X TECH INC. The change goes into effect as of Wed, Apr 30, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CSHTF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CHESHI TECHNOLOGY INC.]]></category>
-<pink:symbol>CSHTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CHARGEURS (CHRXF: Pink Limited) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CHRXF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CHRXF/company-info">CHARGEURS</a> (<a href="http://www.otcmarkets.com/stock/CHRXF">CHRXF</a>: Pink Limited) - Company Name Change - CHARGEURS has changed its name to COMPAGNIE CHARGEURS INVEST. The change goes into effect as of Wed, Apr 30, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CHRXF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CHARGEURS]]></category>
-<pink:symbol>CHRXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Parks! America, Inc. (PRKA: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: Pink Current) - Splits - Effective Thu, May 01, 2025, PRKA: Pink Current engaged in a fwd split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1160,18 +1136,6 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Capita PLC]]></category>
 <pink:symbol>CTAYD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ESR REIT (CGIUF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CGIUF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CGIUF/company-info">ESR REIT</a> (<a href="http://www.otcmarkets.com/stock/CGIUF">CGIUF</a>: Pink Current) - Splits - Effective Wed, Apr 30, 2025, CGIUF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CGIUF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ESR REIT]]></category>
-<pink:symbol>CGIUF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1344,18 +1308,6 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ARGO CORPORATION (ARGHF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ARGHF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARGHF/company-info">ARGO CORPORATION</a> (<a href="http://www.otcmarkets.com/stock/ARGHF">ARGHF</a>: OTCQX International) - Halted Security -  Effective Wed, Apr 30, 2025, ARGHF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ARGHF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ARGO CORPORATION]]></category>
-<pink:symbol>ARGHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PXMTF&actionDate=1746072000000]]></link>
 <description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, PXMTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1414,66 +1366,6 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <pink:symbol>BGXCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vystar Corp. (VYST: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VYST&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VYST/company-info">Vystar Corp.</a> (<a href="http://www.otcmarkets.com/stock/VYST">VYST</a>: OTCQB) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, VYST is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VYST&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vystar Corp.]]></category>
-<pink:symbol>VYST</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Thai Stanley Electric PCL (TSETF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSETF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSETF/company-info">Thai Stanley Electric PCL</a> (<a href="http://www.otcmarkets.com/stock/TSETF">TSETF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, TSETF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSETF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Thai Stanley Electric PCL]]></category>
-<pink:symbol>TSETF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Telkom SA SOC Ltd (TKMJF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKMJF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMJF/company-info">Telkom SA SOC Ltd</a> (<a href="http://www.otcmarkets.com/stock/TKMJF">TKMJF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, TKMJF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKMJF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Telkom SA SOC Ltd]]></category>
-<pink:symbol>TKMJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[THOR EXPLORATION LTD. (THXPF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=THXPF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/THXPF/company-info">THOR EXPLORATION LTD.</a> (<a href="http://www.otcmarkets.com/stock/THXPF">THXPF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, THXPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=THXPF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[THOR EXPLORATION LTD.]]></category>
-<pink:symbol>THXPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Siegfried Holdings Ltd (SGFEF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGFEF&actionDate=1745985600000]]></link>
-<description><![CDATA[Wed, Apr 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFEF/company-info">Siegfried Holdings Ltd</a> (<a href="http://www.otcmarkets.com/stock/SGFEF">SGFEF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Apr 30, 2025, SGFEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 30 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SGFEF&actionDate=1745985600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Siegfried Holdings Ltd]]></category>
-<pink:symbol>SGFEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Covivio (FNCDY: Pink Limited) | Ex-Dividend]]></title>
@@ -1632,42 +1524,6 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Bank of Botetourt (Buchanan, VA) (BORTP: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283423]]></link>
-<description><![CDATA[Thu, May 01, 2025 04:02 - <a href="http://www.otcmarkets.com/stock/BORTP/company-info">Bank of Botetourt (Buchanan, VA)</a> (<a href="http://www.otcmarkets.com/stock/BORTP">BORTP</a>: Pink Current) - Scheduled Ex-Dividend - Bank of Botetourt (Buchanan, VA) has announced a dividend ex-date for (BORTP: Pink Current). Bank of Botetourt (Buchanan, VA) is scheduled to disburse a Cash Dividend dividend of $0.49 on Fri, May 02, 2025 to shareholders of BORTP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 16:02:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283423]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank of Botetourt (Buchanan, VA)]]></category>
-<pink:symbol>BORTP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Covivio (FNCDY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=280271]]></link>
-<description><![CDATA[Thu, May 01, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/FNCDY/company-info">Covivio</a> (<a href="http://www.otcmarkets.com/stock/FNCDY">FNCDY</a>: Pink Limited) - Scheduled Ex-Dividend - Covivio has announced a dividend ex-date for (FNCDY: Pink Limited). Covivio is scheduled to disburse a Cash Dividend dividend of $0.66308 on Fri, May 02, 2025 to shareholders of FNCDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 15:59:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=280271]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Covivio]]></category>
-<pink:symbol>FNCDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Covivio (FNCDY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283422]]></link>
-<description><![CDATA[Thu, May 01, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/FNCDY/company-info">Covivio</a> (<a href="http://www.otcmarkets.com/stock/FNCDY">FNCDY</a>: Pink Limited) - Scheduled Ex-Dividend - Covivio has announced a dividend ex-date for (FNCDY: Pink Limited). Covivio is scheduled to disburse a Cash Dividend dividend of $0.76165 on Fri, May 02, 2025 to shareholders of FNCDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 15:59:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283422]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Covivio]]></category>
-<pink:symbol>FNCDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Duni AB (DUNIY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283479]]></link>
 <description><![CDATA[Thu, May 01, 2025 02:59 - <a href="http://www.otcmarkets.com/stock/DUNIY/company-info">Duni AB</a> (<a href="http://www.otcmarkets.com/stock/DUNIY">DUNIY</a>: Pink Limited) - Scheduled Ex-Dividend - Duni AB has announced a dividend ex-date for (DUNIY: Pink Limited). Duni AB is scheduled to disburse a Cash Dividend dividend of $0.28072 on Wed, May 21, 2025 to shareholders of DUNIY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1714,6 +1570,42 @@ OTC RSS mirror fetched: Fri May  2 03:50:18 UTC 2025
 <pink:symbol>CEVIY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bank of Botetourt (Buchanan, VA) (BORT: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283471]]></link>
+<description><![CDATA[Thu, May 01, 2025 01:48 - <a href="http://www.otcmarkets.com/stock/BORT/company-info">Bank of Botetourt (Buchanan, VA)</a> (<a href="http://www.otcmarkets.com/stock/BORT">BORT</a>: Pink Current) - Scheduled Ex-Dividend - Bank of Botetourt (Buchanan, VA) has announced a dividend ex-date for (BORT: Pink Current). Bank of Botetourt (Buchanan, VA) is scheduled to disburse a Cash Dividend dividend of $0.225 on Fri, May 09, 2025 to shareholders of BORT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 13:48:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283471]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bank of Botetourt (Buchanan, VA)]]></category>
+<pink:symbol>BORT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Connecticut Natural Gas Corp. (CTGSP: OTC Link) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283475]]></link>
+<description><![CDATA[Thu, May 01, 2025 01:31 - <a href="http://www.otcmarkets.com/stock/CTGSP/company-info">Connecticut Natural Gas Corp.</a> (<a href="http://www.otcmarkets.com/stock/CTGSP">CTGSP</a>: OTC Link) - Scheduled Ex-Dividend - Connecticut Natural Gas Corp. has announced a dividend ex-date for (CTGSP: OTC Link). Connecticut Natural Gas Corp. is scheduled to disburse a Cash Dividend dividend of $0.0625 on Fri, May 30, 2025 to shareholders of CTGSP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 13:31:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283475]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Connecticut Natural Gas Corp.]]></category>
+<pink:symbol>CTGSP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283470]]></link>
+<description><![CDATA[Thu, May 01, 2025 01:27 - <a href="http://www.otcmarkets.com/stock/ATAAY/company-info">Atacadao SA</a> (<a href="http://www.otcmarkets.com/stock/ATAAY">ATAAY</a>: Pink Limited) - Scheduled Ex-Dividend - Atacadao SA has announced a dividend ex-date for (ATAAY: Pink Limited). Atacadao SA is scheduled to disburse a Cash Dividend dividend of $0.00044 on Wed, Jul 02, 2025 to shareholders of ATAAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 01 May 2025 13:27:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283470]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Atacadao SA]]></category>
+<pink:symbol>ATAAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Wee-Cig International Corporation (WCIG: Pink Current) | Tier Change]]></title>
