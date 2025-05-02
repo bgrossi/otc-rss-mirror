@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
+OTC RSS mirror fetched: Fri May  2 18:37:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 14:06:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 14:26:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[One World Lithium Inc. (OWRDF: OTCQB) | ONE WORLD LITHIUM ANNOUNCES ISSUANCE OF MANAGEMENT CEASE TRADE ORDER]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=475996]]></link>
+<pubDate>Fri, 02 May 2025 14:08:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=475996]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[One World Lithium Inc.]]></category>
+<pink:symbol>OWRDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ACMAT Corp. (ACMT: Pink Current) | Notice of Annual Meeting of Stockholders]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ACMT/news?id=475995]]></link>
@@ -590,18 +602,6 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Total Voting Rights]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=475851]]></link>
-<pubDate>Thu, 01 May 2025 10:02:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=475851]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guardian Metal Resources PLC]]></category>
-<pink:symbol>GMTLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -852,6 +852,18 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746209399000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Grey Market) - Venue Change - The symbol, SNEHF, no longer trades on OTC Link.  As of Fri, May 02, 2025, SNEHF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 14:09:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746209399000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
+<pink:symbol>SNEHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Shift4 Payments, Inc. (SFOUV: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SFOUV&actionDate=1746183908000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFOUV/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SFOUV">SFOUV</a>: OTC Link) - Venue Change - The symbol, SFOUV, no longer trades on Grey Market.  As of Fri, May 02, 2025, SFOUV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -958,18 +970,6 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:symbol>TRWD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC. (NGTGF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NGTGF&actionDate=1746081876000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGTGF/company-info">NEXT GENERATION TECHNOLOGY GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/NGTGF">NGTGF</a>: OTC Link) - Venue Change - The symbol, NGTGF, no longer trades on Grey Market.  As of Thu, May 01, 2025, NGTGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 02:44:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NGTGF&actionDate=1746081876000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC.]]></category>
-<pink:symbol>NGTGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[iQSTEL Inc. (IQST: OTCQX U.S.) | Symbol Change]]></title>
@@ -1164,6 +1164,30 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNEHF&actionDate=1746209399000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Grey Market) - Reactivated Symbol -  The symbol, SNEHF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 14:09:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNEHF&actionDate=1746209399000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
+<pink:symbol>SNEHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LK Technology Holdings Ltd. (LKTEF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LKTEF&actionDate=1746209243000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LKTEF/company-info">LK Technology Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LKTEF">LKTEF</a>: Grey Market) - Reactivated Symbol -  The symbol, LKTEF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 14:07:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LKTEF&actionDate=1746209243000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LK Technology Holdings Ltd.]]></category>
+<pink:symbol>LKTEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Cutera, Inc. (CUTRQ: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CUTRQ&actionDate=1746189710000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - Cutera, Inc. (CUTRQ: OTC Link) - Deleted Symbol - As of Fri, May 02, 2025, CUTRQ is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1258,30 +1282,6 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:symbol>DGLLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Iris Acquisition Corp (IRAAW: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAAW&actionDate=1746101141000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - Iris Acquisition Corp (IRAAW: OTC Link) - Deleted Symbol - As of Thu, May 01, 2025, IRAAW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 08:05:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAAW&actionDate=1746101141000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iris Acquisition Corp]]></category>
-<pink:symbol>IRAAW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Iris Acquisition Corp (IRAA: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAA&actionDate=1746100813000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - Iris Acquisition Corp (IRAA: OTC Link) - Deleted Symbol - As of Thu, May 01, 2025, IRAA is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 08:00:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAA&actionDate=1746100813000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iris Acquisition Corp]]></category>
-<pink:symbol>IRAA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Marksmen Energy Inc. (MKSEF: Pink Current) | Halted Security]]></title>
@@ -1716,6 +1716,18 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Grey Market) - Tier Change - The symbol, SNEHF, no longer is classified as Pink Current.  As of Fri, May 02, 2025, SNEHF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
+<pink:symbol>SNEHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Shift4 Payments, Inc. (SFOUV: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SFOUV&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFOUV/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SFOUV">SFOUV</a>: Pink Current) - Tier Change - The symbol, SFOUV, no longer is classified as Grey Market.  As of Fri, May 02, 2025, SFOUV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1784,18 +1796,6 @@ OTC RSS mirror fetched: Fri May  2 18:11:22 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NORFOLK METALS LTD]]></category>
 <pink:symbol>NRFMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Gateway Bank, F.S.B. (Oakland, CA) (GWBK: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWBK&actionDate=1746158400000]]></link>
-<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GWBK/company-info">Gateway Bank, F.S.B. (Oakland, CA)</a> (<a href="http://www.otcmarkets.com/stock/GWBK">GWBK</a>: Pink Current) - Tier Change - The symbol, GWBK, no longer is classified as Pink Limited.  As of Fri, May 02, 2025, GWBK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWBK&actionDate=1746158400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gateway Bank, F.S.B. (Oakland, CA)]]></category>
-<pink:symbol>GWBK</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
