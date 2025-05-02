@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 12:15:02 UTC 2025
+OTC RSS mirror fetched: Fri May  2 12:55:14 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri May  2 12:15:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 08:06:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 08:46:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[SYN Prop e Tech SA (SYYNY: Pink Limited) | CCPEL - Books will close today, May 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475945]]></link>
+<pubDate>Fri, 02 May 2025 08:43:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SYYNY/news?id=475945]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SYN Prop e Tech SA]]></category>
+<pink:symbol>SYYNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bouygues SA (BOUYY: Pink Limited) | BOUYY - Books will close today, May 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BOUYY/news?id=475944]]></link>
+<pubDate>Fri, 02 May 2025 08:33:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BOUYY/news?id=475944]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bouygues SA]]></category>
+<pink:symbol>BOUYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | ATAAY - Books will close today, May 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ATAAY/news?id=475942]]></link>
+<pubDate>Fri, 02 May 2025 08:32:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATAAY/news?id=475942]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Atacadao SA]]></category>
+<pink:symbol>ATAAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notification of cessation of securities - CPO]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=475924]]></link>
@@ -561,42 +597,6 @@ OTC RSS mirror fetched: Fri May  2 12:15:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Culpeo Minerals Limited]]></category>
 <pink:symbol>CPORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Launch of second share buyback tranche of up to £625 million]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475771]]></link>
-<pubDate>Thu, 01 May 2025 03:54:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=475771]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475397]]></link>
-<pubDate>Thu, 01 May 2025 02:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475397]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Results of Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=475762]]></link>
-<pubDate>Thu, 01 May 2025 00:23:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=475762]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TESORO GOLD LTD]]></category>
-<pink:symbol>TSORF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1164,6 +1164,18 @@ OTC RSS mirror fetched: Fri May  2 12:15:02 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Cutera, Inc. (CUTRQ: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CUTRQ&actionDate=1746189710000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - Cutera, Inc. (CUTRQ: OTC Link) - Deleted Symbol - As of Fri, May 02, 2025, CUTRQ is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 08:41:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CUTRQ&actionDate=1746189710000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cutera, Inc.]]></category>
+<pink:symbol>CUTRQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[iQSTEL Inc. (IQST: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IQST&actionDate=1746162048000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - iQSTEL Inc. (IQST: OTC Link) - Deleted Symbol - As of Fri, May 02, 2025, IQST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1268,18 +1280,6 @@ OTC RSS mirror fetched: Fri May  2 12:15:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Iris Acquisition Corp]]></category>
 <pink:symbol>IRAA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Iris Acquisition Corp (IRAAU: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAAU&actionDate=1746100741000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - Iris Acquisition Corp (IRAAU: OTC Link) - Deleted Symbol - As of Thu, May 01, 2025, IRAAU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 07:59:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IRAAU&actionDate=1746100741000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iris Acquisition Corp]]></category>
-<pink:symbol>IRAAU</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
