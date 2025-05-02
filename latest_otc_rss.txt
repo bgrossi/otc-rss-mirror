@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 13:19:56 UTC 2025
+OTC RSS mirror fetched: Fri May  2 13:41:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  2 13:19:56 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 09:06:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 09:26:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[First National of Nebraska, Inc. (FINN: Pink Current) | FNBO to Acquire Country Club Bank]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FINN/news?id=475963]]></link>
+<pubDate>Fri, 02 May 2025 09:19:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FINN/news?id=475963]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First National of Nebraska, Inc.]]></category>
+<pink:symbol>FINN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[VAT Group AG (VACNY: Pink Limited) | VACNY - Books will close today, May 2, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/VACNY/news?id=475959]]></link>
@@ -585,18 +597,6 @@ OTC RSS mirror fetched: Fri May  2 13:19:56 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[ECGI Holdings Inc.]]></category>
 <pink:symbol>ECGI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Block Listing Interim Review]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=475809]]></link>
-<pubDate>Thu, 01 May 2025 07:46:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=475809]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
