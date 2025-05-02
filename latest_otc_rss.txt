@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  2 06:52:05 UTC 2025
+OTC RSS mirror fetched: Fri May  2 07:08:47 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  2 06:52:05 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 02:36:27 EDT</lastBuildDate>
+<lastBuildDate>Fri, 02 May 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Early Redemption (Full Repayment) of the 10th and 11th Series of Ordinary Bonds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475916]]></link>
+<pubDate>Fri, 02 May 2025 02:36:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475916]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notification Regarding Change in Use of Funds]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=475915]]></link>
@@ -155,6 +167,18 @@ OTC RSS mirror fetched: Fri May  2 06:52:05 UTC 2025
 <pink:symbol>JBTC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 01.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=475920]]></link>
+<pubDate>Thu, 01 May 2025 15:30:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=475920]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -570,30 +594,6 @@ OTC RSS mirror fetched: Fri May  2 06:52:05 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475757]]></link>
 <pubDate>Wed, 30 Apr 2025 22:44:50 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475757]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Challenger Gold Limited]]></category>
-<pink:symbol>CLLEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[GTI ENERGY LTD (GTRIF: Pink Current) | Quarterly Activities/Appendix 5B Cash Flow Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=475756]]></link>
-<pubDate>Wed, 30 Apr 2025 22:10:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=475756]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GTI ENERGY LTD]]></category>
-<pink:symbol>GTRIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Refurbishment of Toll Milling Plant on Track]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475755]]></link>
-<pubDate>Wed, 30 Apr 2025 22:06:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=475755]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Challenger Gold Limited]]></category>
 <pink:symbol>CLLEF</pink:symbol>
@@ -1318,6 +1318,54 @@ OTC RSS mirror fetched: Fri May  2 06:52:05 UTC 2025
 <pink:symbol>ATZAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TRWD&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRWD/company-info">TRADEWINDS UNVL</a> (<a href="http://www.otcmarkets.com/stock/TRWD">TRWD</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 02, 2025, TRWD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TRWD&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRADEWINDS UNVL]]></category>
+<pink:symbol>TRWD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Steel Partners Holdings LP (SPLPP: OTCQX U.S.) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPLPP&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPLPP/company-info">Steel Partners Holdings LP</a> (<a href="http://www.otcmarkets.com/stock/SPLPP">SPLPP</a>: OTCQX U.S.) - Piggyback Qualified -  Effective Fri, May 02, 2025, SPLPP is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPLPP&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Steel Partners Holdings LP]]></category>
+<pink:symbol>SPLPP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Steel Partners Holdings LP (SPLP: OTCQX U.S.) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPLP&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPLP/company-info">Steel Partners Holdings LP</a> (<a href="http://www.otcmarkets.com/stock/SPLP">SPLP</a>: OTCQX U.S.) - Piggyback Qualified -  Effective Fri, May 02, 2025, SPLP is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPLP&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Steel Partners Holdings LP]]></category>
+<pink:symbol>SPLP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cumulus Media Inc. (CMLS: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMLS&actionDate=1746158400000]]></link>
+<description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMLS/company-info">Cumulus Media Inc.</a> (<a href="http://www.otcmarkets.com/stock/CMLS">CMLS</a>: OTCQB) - Piggyback Qualified -  Effective Fri, May 02, 2025, CMLS is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 02 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMLS&actionDate=1746158400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cumulus Media Inc.]]></category>
+<pink:symbol>CMLS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Piggyback Qualified]]></title>
