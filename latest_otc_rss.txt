@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
+OTC RSS mirror fetched: Sat May  3 04:09:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 02 May 2025 23:36:27 EDT</lastBuildDate>
+<lastBuildDate>Sat, 03 May 2025 00:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Finlay Minerals Ltd (FYMNF: OTCQB) | Finlay Minerals Receives TSX Venture Exchange Approval for PIL Earn-In Agreement]]></title>
@@ -1104,18 +1104,6 @@ OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Libero Copper & Gold Corp. (LBCMF: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=LBCMF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LBCMF/company-info">Libero Copper & Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/LBCMF">LBCMF</a>: OTCQB) - Company Name Change - Libero Copper & Gold Corp. has changed its name to COPPER GIANT RES CORP.. The change goes into effect as of Thu, May 01, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=LBCMF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Libero Copper & Gold Corp.]]></category>
-<pink:symbol>LBCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[iQSTEL Inc. (IQST: OTCQX U.S.) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=IQST&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IQSTD/company-info">iQSTEL Inc.</a> (<a href="http://www.otcmarkets.com/stock/IQSTD">IQST</a>: OTCQX U.S.) - Splits - Effective Fri, May 02, 2025, IQST: OTCQX U.S. engaged in a rev split. As a result of the split, shs decreased by 1 for 80 split. Due to the split, IQST is no longer valid. The new trading symbol is IQSTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1126,42 +1114,6 @@ OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
 <pink:symbol>IQSTD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Parks! America, Inc. (PRKA: OTCQX U.S.) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a rev split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Parks! America, Inc.]]></category>
-<pink:symbol>PRKAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Parks! America, Inc. (PRKA: OTCQX U.S.) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKAD/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKAD">PRKA</a>: OTCQX U.S.) - Splits - Effective Thu, May 01, 2025, PRKA: OTCQX U.S. engaged in a fwd split. As a result of the split, 1:500 R/S immediately followed by a 5:1 F/S. Due to the split, PRKA is no longer valid. The new trading symbol is PRKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRKA&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Parks! America, Inc.]]></category>
-<pink:symbol>PRKAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Capita PLC (CTAGY: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGY&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAYD/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAYD">CTAGY</a>: Pink Current) - Splits - Effective Thu, May 01, 2025, CTAGY: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 15 split. Due to the split, CTAGY is no longer valid. The new trading symbol is CTAYD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CTAGY&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Capita PLC]]></category>
-<pink:symbol>CTAYD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[RBAZ BANCORP INC (RBAZ: OTC Link) | Deleted Symbol]]></title>
@@ -1308,54 +1260,6 @@ OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Marksmen Energy Inc. (MKSEF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MKSEF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MKSEF/company-info">Marksmen Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/MKSEF">MKSEF</a>: Pink Current) - Halted Security -  Effective Thu, May 01, 2025, MKSEF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MKSEF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Marksmen Energy Inc.]]></category>
-<pink:symbol>MKSEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SERRA ENERGY METALS CORP. (ESVNF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ESVNF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ESVNF/company-info">SERRA ENERGY METALS CORP.</a> (<a href="http://www.otcmarkets.com/stock/ESVNF">ESVNF</a>: OTCQB) - Halted Security -  Effective Thu, May 01, 2025, ESVNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ESVNF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SERRA ENERGY METALS CORP.]]></category>
-<pink:symbol>ESVNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Charbone Hydrogen Corporation (CHHYF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CHHYF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CHHYF/company-info">Charbone Hydrogen Corporation</a> (<a href="http://www.otcmarkets.com/stock/CHHYF">CHHYF</a>: OTCQB) - Halted Security -  Effective Thu, May 01, 2025, CHHYF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CHHYF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Charbone Hydrogen Corporation]]></category>
-<pink:symbol>CHHYF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aritzia Inc. (ATZAF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATZAF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATZAF/company-info">Aritzia Inc.</a> (<a href="http://www.otcmarkets.com/stock/ATZAF">ATZAF</a>: Pink Current) - Halted Security -  Effective Thu, May 01, 2025, ATZAF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATZAF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aritzia Inc.]]></category>
-<pink:symbol>ATZAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[TRADEWINDS UNVL (TRWD: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TRWD&actionDate=1746158400000]]></link>
 <description><![CDATA[Fri, May 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRWD/company-info">TRADEWINDS UNVL</a> (<a href="http://www.otcmarkets.com/stock/TRWD">TRWD</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 02, 2025, TRWD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1400,66 +1304,6 @@ OTC RSS mirror fetched: Sat May  3 03:55:06 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Cumulus Media Inc.]]></category>
 <pink:symbol>CMLS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PHAXIAM Therapeutics S.A (PXMTF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PXMTF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXMTF/company-info">PHAXIAM Therapeutics S.A</a> (<a href="http://www.otcmarkets.com/stock/PXMTF">PXMTF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, PXMTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PXMTF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PHAXIAM Therapeutics S.A]]></category>
-<pink:symbol>PXMTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC. (NGTGF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NGTGF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGTGF/company-info">NEXT GENERATION TECHNOLOGY GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/NGTGF">NGTGF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, NGTGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NGTGF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NEXT GENERATION TECHNOLOGY GROUP INC.]]></category>
-<pink:symbol>NGTGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Industrias CH (ICHBF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICHBF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICHBF/company-info">Industrias CH</a> (<a href="http://www.otcmarkets.com/stock/ICHBF">ICHBF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 01, 2025, ICHBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICHBF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Industrias CH]]></category>
-<pink:symbol>ICHBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Goldlion Holdings Ltd. (GLLHF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLLHF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLLHF/company-info">Goldlion Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GLLHF">GLLHF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 01, 2025, GLLHF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLLHF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Goldlion Holdings Ltd.]]></category>
-<pink:symbol>GLLHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BGX - BLACK GOLD EXPLORATION CORP. (BGXCF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGXCF&actionDate=1746072000000]]></link>
-<description><![CDATA[Thu, May 01, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGXCF/company-info">BGX - BLACK GOLD EXPLORATION CORP.</a> (<a href="http://www.otcmarkets.com/stock/BGXCF">BGXCF</a>: OTCQB) - Piggyback Qualified -  Effective Thu, May 01, 2025, BGXCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 01 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGXCF&actionDate=1746072000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BGX - BLACK GOLD EXPLORATION CORP.]]></category>
-<pink:symbol>BGXCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
