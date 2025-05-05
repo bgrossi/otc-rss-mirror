@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 17:45:44 UTC 2025
+OTC RSS mirror fetched: Mon May  5 18:09:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May  5 17:45:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 13:26:29 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 14:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Pennexx Foods, Inc. (PNNX: Pink Current) | Pennexx Foods, Inc. (PNNX) Launches Revolutionary "Your Social Offers" Coupon Savings App on Apple iTunes Store May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=476120]]></link>
+<pubDate>Mon, 05 May 2025 13:38:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=476120]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pennexx Foods, Inc.]]></category>
+<pink:symbol>PNNX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Global Clean Energy, Inc. (GCEI: Pink Current) | Global Clean Energy, Inc. Launches Cogeneration Division and Enters Strategic Agreement with Axiom Energy and SolydEra]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GCEI/news?id=476119]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon May  5 17:45:44 UTC 2025
 <pink:symbol>NRDBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pioneer Bankcorp Inc. (PBKC: Pink Current) | Pioneer Bankcorp Inc Announces Semi-Annual Dividend of $0.55 per share.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PBKC/news?id=475969]]></link>
-<pubDate>Fri, 02 May 2025 09:51:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PBKC/news?id=475969]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pioneer Bankcorp Inc.]]></category>
-<pink:symbol>PBKC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
