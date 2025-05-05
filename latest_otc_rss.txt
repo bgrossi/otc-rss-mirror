@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 10:35:04 UTC 2025
+OTC RSS mirror fetched: Mon May  5 10:49:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May  5 10:35:04 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 06:06:29 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 06:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[The Trendlines Group Ltd. (TRNLY: OTCQX International) | April 2025 Monthly Update]]></title>
@@ -182,6 +182,18 @@ OTC RSS mirror fetched: Mon May  5 10:35:04 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 02.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476038]]></link>
+<pubDate>Fri, 02 May 2025 15:30:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476038]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[bebe stores, inc. (BEBE: Pink Limited) | bebe stores inc.'s Annual Shareholder Meeting Results 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476001]]></link>
 <pubDate>Fri, 02 May 2025 15:28:48 EDT</pubDate>
@@ -285,6 +297,18 @@ OTC RSS mirror fetched: Mon May  5 10:35:04 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Imperial Brands PLC]]></category>
 <pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Managers' transactions - van Hoeken]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476037]]></link>
+<pubDate>Fri, 02 May 2025 10:00:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476037]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon May  5 10:35:04 UTC 2025
 <pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BASF SE (BASFY: OTCQX International) | BASF Investor Release: Q1 2025 Reporting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BASFY/news?id=475912]]></link>
-<pubDate>Fri, 02 May 2025 01:16:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BASFY/news?id=475912]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BASF SE]]></category>
-<pink:symbol>BASFY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Notification of cessation of securities - EUR]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=475911]]></link>
-<pubDate>Fri, 02 May 2025 00:35:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=475911]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
-<pink:symbol>EULIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
