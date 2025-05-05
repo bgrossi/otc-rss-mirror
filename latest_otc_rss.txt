@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
+OTC RSS mirror fetched: Mon May  5 11:45:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 07:06:28 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 07:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[IMAC Holdings, Inc. (BACK: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746443946000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: OTC Link) - Venue Change - The symbol, SNEHF, no longer trades on Grey Market.  As of Mon, May 05, 2025, SNEHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 07:19:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746443946000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
+<pink:symbol>SNEHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[IsoEnergy Ltd. (ISOU: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISOU&actionDate=1746442450000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ISOU/company-info">IsoEnergy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ISOU">ISOU</a>: NYSE MKT) - Venue Change - The symbol, ISOU, no longer trades on OTC Link.  As of Mon, May 05, 2025, ISOU trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -944,6 +956,30 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Starbox Group Holdings Ltd.]]></category>
 <pink:symbol>STBXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRF&actionDate=1746444070000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRD/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRD">MXTRF</a>: Pink Current) - Symbol Change - The symbol, MXTRF, is no longer a valid symbol for Montero Mining & Exploration, Ltd..  As of Mon, May 05, 2025, the new trading symbol is MXTRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 07:21:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRF&actionDate=1746444070000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
+<pink:symbol>MXTRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tasman Resources NL (TASEF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASEF&actionDate=1746444039000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TASED/company-info">Tasman Resources NL</a> (<a href="http://www.otcmarkets.com/stock/TASED">TASEF</a>: Pink Current) - Symbol Change - The symbol, TASEF, is no longer a valid symbol for Tasman Resources NL.  As of Mon, May 05, 2025, the new trading symbol is TASED. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 07:20:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASEF&actionDate=1746444039000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tasman Resources NL]]></category>
+<pink:symbol>TASED</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1044,18 +1080,6 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[FIRST AMERN URANIUM INC. (FAUMD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FAUMD&actionDate=1746421210000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FAUMF/company-info">FIRST AMERN URANIUM INC.</a> (<a href="http://www.otcmarkets.com/stock/FAUMF">FAUMD</a>: Pink Current) - Symbol Change - The symbol, FAUMD, is no longer a valid symbol for FIRST AMERN URANIUM INC..  As of Mon, May 05, 2025, the new trading symbol is FAUMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FAUMD&actionDate=1746421210000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIRST AMERN URANIUM INC.]]></category>
-<pink:symbol>FAUMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Sparebanken Vest AS (SPIZF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SPIZF&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPIZF/company-info">Sparebanken Vest AS</a> (<a href="http://www.otcmarkets.com/stock/SPIZF">SPIZF</a>: Pink Limited) - Company Name Change - Sparebanken Vest AS has changed its name to SPAREBANKEN NORGE A S. The change goes into effect as of Mon, May 05, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1078,6 +1102,30 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <pink:symbol>DDMGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tasman Resources NL (TASEF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TASEF&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TASED/company-info">Tasman Resources NL</a> (<a href="http://www.otcmarkets.com/stock/TASED">TASEF</a>: Pink Current) - Splits - Effective Mon, May 05, 2025, TASEF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, TASEF is no longer valid. The new trading symbol is TASED. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TASEF&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tasman Resources NL]]></category>
+<pink:symbol>TASED</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MXTRF&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRD/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRD">MXTRF</a>: Pink Current) - Splits - Effective Mon, May 05, 2025, MXTRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 6 split. Due to the split, MXTRF is no longer valid. The new trading symbol is MXTRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MXTRF&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
+<pink:symbol>MXTRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tasman Resources NL (TASEF: OTC Link) | Deleted Symbol]]></title>
@@ -1500,6 +1548,18 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Pink Current) - Tier Change - The symbol, SNEHF, no longer is classified as Grey Market.  As of Mon, May 05, 2025, SNEHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
+<pink:symbol>SNEHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SG FLEET GROUP LTD (SGFLF: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGFLF&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFLF/company-info">SG FLEET GROUP LTD</a> (<a href="http://www.otcmarkets.com/stock/SGFLF">SGFLF</a>: Pink Limited) - Tier Change - The symbol, SGFLF, no longer is classified as Pink Current.  As of Mon, May 05, 2025, SGFLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1556,18 +1616,6 @@ OTC RSS mirror fetched: Mon May  5 11:31:13 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Minera IRL Ltd]]></category>
 <pink:symbol>MRLLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Mogul Energy International, Inc. (MGUY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGUY&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGUY/company-info">Mogul Energy International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGUY">MGUY</a>: Pink Current) - Tier Change - The symbol, MGUY, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, MGUY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGUY&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mogul Energy International, Inc.]]></category>
-<pink:symbol>MGUY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
