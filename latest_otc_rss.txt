@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 19:21:58 UTC 2025
+OTC RSS mirror fetched: Mon May  5 19:30:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May  5 19:21:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 15:06:29 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 15:26:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Consent Revocation Statement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476124]]></link>
+<pubDate>Mon, 05 May 2025 15:21:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476124]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Pennexx Foods, Inc. (PNNX: Pink Current) | Pennexx Foods, Inc. (PNNX) Launches Revolutionary "Your Social Offers" Coupon Savings App on Apple iTunes Store May 19, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=476120]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon May  5 19:21:58 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Imperial Brands PLC]]></category>
 <pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Managers' transactions - van Hoeken]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476037]]></link>
-<pubDate>Fri, 02 May 2025 10:00:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=476037]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nordea Bank Abp]]></category>
-<pink:symbol>NRDBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
