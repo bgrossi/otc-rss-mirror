@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 04:35:31 UTC 2025
+OTC RSS mirror fetched: Mon May  5 04:51:06 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May  5 04:35:31 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 00:06:28 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 00:36:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Atomic Energy Regulator approval]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=476024]]></link>
+<pubDate>Mon, 05 May 2025 00:08:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=476024]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD. (GUELF: OTCQB) | Urenco Invests in Ubaryon and Forms Strategic Partnership]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=476023]]></link>
