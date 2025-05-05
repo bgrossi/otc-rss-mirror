@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 04:51:06 UTC 2025
+OTC RSS mirror fetched: Mon May  5 05:09:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May  5 04:51:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 00:36:28 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 01:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Atomic Energy Regulator approval]]></title>
@@ -864,6 +864,222 @@ OTC RSS mirror fetched: Mon May  5 04:51:06 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMTF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMTF&actionDate=1746421255000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMTF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMTF">AIMTF</a>: OTC Link) - Venue Change - The symbol, AIMTF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMTF&actionDate=1746421255000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMWF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMWF&actionDate=1746421254000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMWF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMWF">AIMWF</a>: OTC Link) - Venue Change - The symbol, AIMWF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMWF&actionDate=1746421254000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMUF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMUF&actionDate=1746421254000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMUF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMUF">AIMUF</a>: OTC Link) - Venue Change - The symbol, AIMUF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMUF&actionDate=1746421254000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Starbox Group Holdings Ltd. (STBXF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STBXF&actionDate=1746421253000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBXF</a>: OTC Link) - Venue Change - The symbol, STBXF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, STBXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STBXF&actionDate=1746421253000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Starbox Group Holdings Ltd.]]></category>
+<pink:symbol>STBXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMBU: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMBU&actionDate=1746421255000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMTF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMTF">AIMBU</a>: Pink Current) - Symbol Change - The symbol, AIMBU, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMBU&actionDate=1746421255000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMAW: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAW&actionDate=1746421254000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMWF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMWF">AIMAW</a>: Pink Current) - Symbol Change - The symbol, AIMAW, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAW&actionDate=1746421254000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aimfinity Investment Corp. I (AIMAU: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAU&actionDate=1746421254000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMUF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMUF">AIMAU</a>: Pink Current) - Symbol Change - The symbol, AIMAU, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAU&actionDate=1746421254000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aimfinity Investment Corp. I]]></category>
+<pink:symbol>AIMUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Starbox Group Holdings Ltd. (STBX: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=STBX&actionDate=1746421253000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBX</a>: Pink Current) - Symbol Change - The symbol, STBX, is no longer a valid symbol for Starbox Group Holdings Ltd..  As of Mon, May 05, 2025, the new trading symbol is STBXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=STBX&actionDate=1746421253000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Starbox Group Holdings Ltd.]]></category>
+<pink:symbol>STBXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLD FINDER RES LTD. (NCMBF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NCMBF&actionDate=1746421252000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLDFF/company-info">GOLD FINDER RES LTD.</a> (<a href="http://www.otcmarkets.com/stock/GLDFF">NCMBF</a>: Pink Current) - Symbol Change - The symbol, NCMBF, is no longer a valid symbol for GOLD FINDER RES LTD..  As of Mon, May 05, 2025, the new trading symbol is GLDFF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NCMBF&actionDate=1746421252000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLD FINDER RES LTD.]]></category>
+<pink:symbol>GLDFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ALPHAGEN INTELLIGENCE CORP. (APETD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=APETD&actionDate=1746421218000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APETF/company-info">ALPHAGEN INTELLIGENCE CORP.</a> (<a href="http://www.otcmarkets.com/stock/APETF">APETD</a>: Pink Current) - Symbol Change - The symbol, APETD, is no longer a valid symbol for ALPHAGEN INTELLIGENCE CORP..  As of Mon, May 05, 2025, the new trading symbol is APETF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=APETD&actionDate=1746421218000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ALPHAGEN INTELLIGENCE CORP.]]></category>
+<pink:symbol>APETF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Pantoro Gold Ltd  (PNTOD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PNTOD&actionDate=1746421215000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PNTOF/company-info">Pantoro Gold Ltd </a> (<a href="http://www.otcmarkets.com/stock/PNTOF">PNTOD</a>: Pink Current) - Symbol Change - The symbol, PNTOD, is no longer a valid symbol for Pantoro Gold Ltd .  As of Mon, May 05, 2025, the new trading symbol is PNTOF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PNTOD&actionDate=1746421215000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pantoro Gold Ltd ]]></category>
+<pink:symbol>PNTOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Eguana Technologies Inc (EGTYD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EGTYD&actionDate=1746421213000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EGTYF/company-info">Eguana Technologies Inc</a> (<a href="http://www.otcmarkets.com/stock/EGTYF">EGTYD</a>: Pink Current) - Symbol Change - The symbol, EGTYD, is no longer a valid symbol for Eguana Technologies Inc.  As of Mon, May 05, 2025, the new trading symbol is EGTYF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EGTYD&actionDate=1746421213000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eguana Technologies Inc]]></category>
+<pink:symbol>EGTYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FIRST AMERN URANIUM INC. (FAUMD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FAUMD&actionDate=1746421210000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FAUMF/company-info">FIRST AMERN URANIUM INC.</a> (<a href="http://www.otcmarkets.com/stock/FAUMF">FAUMD</a>: Pink Current) - Symbol Change - The symbol, FAUMD, is no longer a valid symbol for FIRST AMERN URANIUM INC..  As of Mon, May 05, 2025, the new trading symbol is FAUMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FAUMD&actionDate=1746421210000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FIRST AMERN URANIUM INC.]]></category>
+<pink:symbol>FAUMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tasman Resources NL (TASEF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TASEF&actionDate=1746421241000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - Tasman Resources NL (TASEF: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, TASEF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TASEF&actionDate=1746421241000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tasman Resources NL]]></category>
+<pink:symbol>TASEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MXTRF&actionDate=1746421256000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - Montero Mining & Exploration, Ltd. (MXTRF: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, MXTRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MXTRF&actionDate=1746421256000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
+<pink:symbol>MXTRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TRUCKNET ENTERPRISE LTD (TKTEF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TKTEF&actionDate=1746421231000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - TRUCKNET ENTERPRISE LTD (TKTEF: Grey Market) - Deleted Symbol - As of Mon, May 05, 2025, TKTEF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TKTEF&actionDate=1746421231000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRUCKNET ENTERPRISE LTD]]></category>
+<pink:symbol>TKTEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CardieX Ltd. (CDEXF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CDEXF&actionDate=1746421230000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - CardieX Ltd. (CDEXF: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, CDEXF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CDEXF&actionDate=1746421230000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CardieX Ltd.]]></category>
+<pink:symbol>CDEXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[WeatherFlow-Tempest Inc. (WFTI: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WFTI&actionDate=1746421224000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - WeatherFlow-Tempest Inc. (WFTI: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, WFTI is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 01:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WFTI&actionDate=1746421224000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WeatherFlow-Tempest Inc.]]></category>
+<pink:symbol>WFTI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Middlebury National Corp. (MDVT: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168800]]></link>
 <description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MDVT/company-info">Middlebury National Corp.</a> (<a href="http://www.otcmarkets.com/stock/MDVT">MDVT</a>: Pink Current) - Ex-Dividend -  As of Mon, May 05, 2025, Middlebury National Corp. traded ex-dividend. Middlebury National Corp. will disburse a Cash Dividend dividend of $0.26 to shareholders of MDVT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1318,126 @@ OTC RSS mirror fetched: Mon May  5 04:51:06 UTC 2025
 <pink:symbol>TELNY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sun Pacific Holding Corp. (SNPW: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNPW&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNPW/company-info">Sun Pacific Holding Corp.</a> (<a href="http://www.otcmarkets.com/stock/SNPW">SNPW</a>: Pink Current) - Tier Change - The symbol, SNPW, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, SNPW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNPW&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sun Pacific Holding Corp.]]></category>
+<pink:symbol>SNPW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Nouveau Life Pharmaceuticals, Inc. (NOUV: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NOUV&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NOUV/company-info">Nouveau Life Pharmaceuticals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NOUV">NOUV</a>: Pink Current) - Tier Change - The symbol, NOUV, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, NOUV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NOUV&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nouveau Life Pharmaceuticals, Inc.]]></category>
+<pink:symbol>NOUV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Mogul Energy International, Inc. (MGUY: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGUY&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGUY/company-info">Mogul Energy International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGUY">MGUY</a>: Pink Current) - Tier Change - The symbol, MGUY, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, MGUY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGUY&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mogul Energy International, Inc.]]></category>
+<pink:symbol>MGUY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Herborium Group, Inc. (HBRM: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HBRM&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HBRM/company-info">Herborium Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/HBRM">HBRM</a>: Pink Current) - Tier Change - The symbol, HBRM, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, HBRM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HBRM&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Herborium Group, Inc.]]></category>
+<pink:symbol>HBRM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Glorywin Entertainment Group, Inc. (GWIN: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWIN&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GWIN/company-info">Glorywin Entertainment Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GWIN">GWIN</a>: Pink Current) - Tier Change - The symbol, GWIN, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, GWIN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWIN&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Glorywin Entertainment Group, Inc.]]></category>
+<pink:symbol>GWIN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLDEN TRIANGLE VENTURES INC. (GTVH: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GTVH&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GTVH/company-info">GOLDEN TRIANGLE VENTURES INC.</a> (<a href="http://www.otcmarkets.com/stock/GTVH">GTVH</a>: Pink Current) - Tier Change - The symbol, GTVH, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, GTVH resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GTVH&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLDEN TRIANGLE VENTURES INC.]]></category>
+<pink:symbol>GTVH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Eco Innovation Group, Inc. (ECOX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ECOX&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ECOX/company-info">Eco Innovation Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ECOX">ECOX</a>: Pink Current) - Tier Change - The symbol, ECOX, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, ECOX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ECOX&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eco Innovation Group, Inc.]]></category>
+<pink:symbol>ECOX</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Critical Metals PLC (CRTMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CRTMF&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRTMF/company-info">Critical Metals PLC</a> (<a href="http://www.otcmarkets.com/stock/CRTMF">CRTMF</a>: Pink Current) - Tier Change - The symbol, CRTMF, no longer is classified as OTCQB.  As of Mon, May 05, 2025, CRTMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CRTMF&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Critical Metals PLC]]></category>
+<pink:symbol>CRTMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cannabis Global, Inc. (CBGL: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBGL&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CBGL/company-info">Cannabis Global, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CBGL">CBGL</a>: Pink Current) - Tier Change - The symbol, CBGL, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, CBGL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBGL&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cannabis Global, Inc.]]></category>
+<pink:symbol>CBGL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BULLET BLOCKCHAIN INC. (BULT: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BULT&actionDate=1746417600000]]></link>
+<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BULT/company-info">BULLET BLOCKCHAIN INC.</a> (<a href="http://www.otcmarkets.com/stock/BULT">BULT</a>: Pink Current) - Tier Change - The symbol, BULT, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, BULT resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BULT&actionDate=1746417600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BULLET BLOCKCHAIN INC.]]></category>
+<pink:symbol>BULT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
