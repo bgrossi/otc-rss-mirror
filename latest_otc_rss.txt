@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 05:47:39 UTC 2025
+OTC RSS mirror fetched: Mon May  5 06:13:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May  5 05:47:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 01:36:28 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 02:06:28 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: OTCQX International) | AMSC ASA (under liquidation) - SOLSTAD MARITIME ASA FIRST QUARTER RESULTS. UPDATE ON DIVIDEND AND FINANCIAL CALENDAR]]></title>
@@ -590,27 +590,27 @@ OTC RSS mirror fetched: Mon May  5 05:47:39 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=475909]]></link>
-<pubDate>Thu, 01 May 2025 19:01:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=475909]]></guid>
+<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Application for quotation of securities - CEL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=476026]]></link>
+<pubDate>Fri, 02 May 2025 00:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=476026]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cogstate Ltd.]]></category>
-<pink:symbol>COGZF</pink:symbol>
+<category><![CDATA[Challenger Gold Limited]]></category>
+<pink:symbol>CLLEF</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Aztec Land & Cattle Co., Ltd. (AZLCZ: Pink Limited) | Aztec Investor Update 4.30.25]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AZLCZ/news?id=475905]]></link>
-<pubDate>Thu, 01 May 2025 18:31:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AZLCZ/news?id=475905]]></guid>
+<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Application for quotation of securities - CEL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=476027]]></link>
+<pubDate>Fri, 02 May 2025 00:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=476027]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aztec Land & Cattle Co., Ltd.]]></category>
-<pink:symbol>AZLCZ</pink:symbol>
+<category><![CDATA[Challenger Gold Limited]]></category>
+<pink:symbol>CLLEF</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
