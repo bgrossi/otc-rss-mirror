@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 09:30:24 UTC 2025
+OTC RSS mirror fetched: Mon May  5 09:48:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May  5 09:30:24 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 05:06:28 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 05:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[The Trendlines Group Ltd. (TRNLY: OTCQX International) | April 2025 Monthly Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=476034]]></link>
+<pubDate>Mon, 05 May 2025 05:30:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=476034]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Trendlines Group Ltd.]]></category>
+<pink:symbol>TRNLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Appendix 3Y Change of Director's Interest Notice - L Heywood]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=476032]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon May  5 09:30:24 UTC 2025
 <pink:symbol>EULIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | March 2025 Quarterly Activities and Cash Flow]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=475910]]></link>
-<pubDate>Fri, 02 May 2025 00:21:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=475910]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
-<pink:symbol>SREMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
