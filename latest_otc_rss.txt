@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 15:50:21 UTC 2025
+OTC RSS mirror fetched: Tue May  6 16:10:18 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Tue May  6 15:50:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 11:46:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 12:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Unveils Strategy to Capitalize on VC Slowdown Through Public Markets]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=476271]]></link>
+<pubDate>Tue, 06 May 2025 11:59:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=476271]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECGI Holdings Inc.]]></category>
+<pink:symbol>ECGI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Current) | Global CRO Enters Into Enterprise Agreement With Datatrak]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=476269]]></link>
@@ -601,18 +613,6 @@ OTC RSS mirror fetched: Tue May  6 15:50:21 UTC 2025
 <pink:symbol>CAVR</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[IMAC Holdings, Inc. (BACK: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BACK/news?id=475987]]></link>
-<pubDate>Mon, 05 May 2025 07:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BACK/news?id=475987]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[IMAC Holdings, Inc.]]></category>
-<pink:symbol>BACK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
