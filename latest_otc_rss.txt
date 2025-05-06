@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 13:03:04 UTC 2025
+OTC RSS mirror fetched: Tue May  6 13:39:36 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,44 @@ OTC RSS mirror fetched: Tue May  6 13:03:04 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 08:46:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 09:26:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ark Mines Limited (AHKMF: OTCQB) | Cleansing Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476256]]></link>
+<pubDate>Tue, 06 May 2025 09:24:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476256]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ark Mines Limited]]></category>
+<pink:symbol>AHKMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Ark Mines Limited (AHKMF: OTCQB) | Share Placement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476255]]></link>
+<pubDate>Tue, 06 May 2025 09:23:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476255]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ark Mines Limited]]></category>
+<pink:symbol>AHKMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Vertex Minerals Ltd. (VTXXF: OTCQB) | Appointment of Jount Chief Financial Officers]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/news?id=476254]]></link>
+<pubDate>Tue, 06 May 2025 09:17:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/news?id=476254]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vertex Minerals Ltd.]]></category>
+<pink:symbol>VTXXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Carnegie Clean Energy Ltd. (CWGYF: OTCQB) | MOU with Chugachmiut for CETO]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=476240]]></link>
@@ -577,42 +613,6 @@ OTC RSS mirror fetched: Tue May  6 13:03:04 UTC 2025
 <pink:symbol>BGXCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=475990]]></link>
-<pubDate>Mon, 05 May 2025 07:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=475990]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[White Cliff Minerals Ltd]]></category>
-<pink:symbol>WCMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[United Health Products, Inc. (UEEC: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/UEEC/news?id=475988]]></link>
-<pubDate>Mon, 05 May 2025 07:00:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UEEC/news?id=475988]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[United Health Products, Inc.]]></category>
-<pink:symbol>UEEC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[OTC Markets Group Inc. (OTCM: OTCQX U.S.) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=475980]]></link>
-<pubDate>Mon, 05 May 2025 07:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=475980]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTC Markets Group Inc.]]></category>
-<pink:symbol>OTCM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
