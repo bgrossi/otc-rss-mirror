@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 13:50:39 UTC 2025
+OTC RSS mirror fetched: Tue May  6 14:08:33 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Tue May  6 13:50:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 09:46:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 10:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[NORSK TITANIUM AS (NORSF: OTCQX International) | Norsk Titanium: Invitation to operational update of first quarter 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476263]]></link>
+<pubDate>Tue, 06 May 2025 10:05:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476263]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NORSK TITANIUM AS]]></category>
+<pink:symbol>NORSF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ark Mines Limited (AHKMF: OTCQB) | Cleansing Notice]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476256]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May  6 13:50:39 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Cumulus Media Inc.]]></category>
 <pink:symbol>CMLS</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BGX - BLACK GOLD EXPLORATION CORP. (BGXCF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 5]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BGXCF/news?id=475982]]></link>
-<pubDate>Mon, 05 May 2025 07:00:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BGXCF/news?id=475982]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BGX - BLACK GOLD EXPLORATION CORP.]]></category>
-<pink:symbol>BGXCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
