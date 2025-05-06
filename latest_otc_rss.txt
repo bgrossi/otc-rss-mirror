@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
+OTC RSS mirror fetched: Tue May  6 05:09:05 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 00:36:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 01:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Results of Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=476158]]></link>
+<pubDate>Tue, 06 May 2025 00:39:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=476158]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Annual General Meeting - Chair and CEO Addresses]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=476156]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Turnkey Capital, Inc. (TKCI: Pink Current) | Turnkey Capital Launches The First and only Anti-Virus for iOS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TKCI/news?id=476000]]></link>
-<pubDate>Fri, 02 May 2025 15:26:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TKCI/news?id=476000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Turnkey Capital, Inc.]]></category>
-<pink:symbol>TKCI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -960,6 +960,42 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NP Life Sciences Health Industry Group Inc. (NPLS: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">NP Life Sciences Health Industry Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">NPLS</a>: Pink Current) - Symbol Change - The symbol, NPLS, is no longer a valid symbol for NP Life Sciences Health Industry Group Inc..  As of Tue, May 06, 2025, the new trading symbol is ACAT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NP Life Sciences Health Industry Group Inc.]]></category>
+<pink:symbol>ACAT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Shift4 Payments, Inc. (SFOUV: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SFOUV&actionDate=1746507624000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFOUP/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SFOUP">SFOUV</a>: Pink Current) - Symbol Change - The symbol, SFOUV, is no longer a valid symbol for Shift4 Payments, Inc..  As of Tue, May 06, 2025, the new trading symbol is SFOUP. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SFOUV&actionDate=1746507624000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Shift4 Payments, Inc.]]></category>
+<pink:symbol>SFOUP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FUTR CORP. (HNKPD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HNKPD&actionDate=1746507622000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HNKPF/company-info">FUTR CORP.</a> (<a href="http://www.otcmarkets.com/stock/HNKPF">HNKPD</a>: Pink Current) - Symbol Change - The symbol, HNKPD, is no longer a valid symbol for FUTR CORP..  As of Tue, May 06, 2025, the new trading symbol is HNKPF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HNKPD&actionDate=1746507622000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FUTR CORP.]]></category>
+<pink:symbol>HNKPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRF&actionDate=1746444070000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRD/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRD">MXTRF</a>: Pink Current) - Symbol Change - The symbol, MXTRF, is no longer a valid symbol for Montero Mining & Exploration, Ltd..  As of Mon, May 05, 2025, the new trading symbol is MXTRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1044,42 +1080,6 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ALPHAGEN INTELLIGENCE CORP. (APETD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=APETD&actionDate=1746421218000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APETF/company-info">ALPHAGEN INTELLIGENCE CORP.</a> (<a href="http://www.otcmarkets.com/stock/APETF">APETD</a>: Pink Current) - Symbol Change - The symbol, APETD, is no longer a valid symbol for ALPHAGEN INTELLIGENCE CORP..  As of Mon, May 05, 2025, the new trading symbol is APETF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=APETD&actionDate=1746421218000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ALPHAGEN INTELLIGENCE CORP.]]></category>
-<pink:symbol>APETF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pantoro Gold Ltd  (PNTOD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PNTOD&actionDate=1746421215000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PNTOF/company-info">Pantoro Gold Ltd </a> (<a href="http://www.otcmarkets.com/stock/PNTOF">PNTOD</a>: Pink Current) - Symbol Change - The symbol, PNTOD, is no longer a valid symbol for Pantoro Gold Ltd .  As of Mon, May 05, 2025, the new trading symbol is PNTOF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PNTOD&actionDate=1746421215000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pantoro Gold Ltd ]]></category>
-<pink:symbol>PNTOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Eguana Technologies Inc (EGTYD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EGTYD&actionDate=1746421213000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EGTYF/company-info">Eguana Technologies Inc</a> (<a href="http://www.otcmarkets.com/stock/EGTYF">EGTYD</a>: Pink Current) - Symbol Change - The symbol, EGTYD, is no longer a valid symbol for Eguana Technologies Inc.  As of Mon, May 05, 2025, the new trading symbol is EGTYF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EGTYD&actionDate=1746421213000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eguana Technologies Inc]]></category>
-<pink:symbol>EGTYF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Sparebanken Vest AS (SPIZF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SPIZF&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPIZF/company-info">Sparebanken Vest AS</a> (<a href="http://www.otcmarkets.com/stock/SPIZF">SPIZF</a>: Pink Limited) - Company Name Change - Sparebanken Vest AS has changed its name to SPAREBANKEN NORGE A S. The change goes into effect as of Mon, May 05, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1126,6 +1126,54 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <pink:symbol>MXTRD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sokoman Minerals Corp. (SICNF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICNF&actionDate=1746507648000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - Sokoman Minerals Corp. (SICNF: OTC Link) - Deleted Symbol - As of Tue, May 06, 2025, SICNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICNF&actionDate=1746507648000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sokoman Minerals Corp.]]></category>
+<pink:symbol>SICNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brookfield Office Properties Inc. (BKOFF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKOFF&actionDate=1746507643000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - Brookfield Office Properties Inc. (BKOFF: Grey Market) - Deleted Symbol - As of Tue, May 06, 2025, BKOFF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKOFF&actionDate=1746507643000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookfield Office Properties Inc.]]></category>
+<pink:symbol>BKOFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AKVA GROUP ASA (AKASF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AKASF&actionDate=1746507642000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - AKVA GROUP ASA (AKASF: Grey Market) - Deleted Symbol - As of Tue, May 06, 2025, AKASF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AKASF&actionDate=1746507642000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AKVA GROUP ASA]]></category>
+<pink:symbol>AKASF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aryzta AG (ARZTF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ARZTF&actionDate=1746507617000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - Aryzta AG (ARZTF: OTC Link) - Deleted Symbol - As of Tue, May 06, 2025, ARZTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 01:00:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ARZTF&actionDate=1746507617000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aryzta AG]]></category>
+<pink:symbol>ARZTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tasman Resources NL (TASEF: OTC Link) | Deleted Symbol]]></title>
@@ -1512,6 +1560,102 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Umbra Companies Inc. (UCIX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UCIX/company-info">Umbra Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/UCIX">UCIX</a>: Pink Current) - Tier Change - The symbol, UCIX, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, UCIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Umbra Companies Inc.]]></category>
+<pink:symbol>UCIX</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TransGlobal Assets, Inc. (TMSH: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMSH&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMSH/company-info">TransGlobal Assets, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMSH">TMSH</a>: Pink Current) - Tier Change - The symbol, TMSH, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, TMSH resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMSH&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TransGlobal Assets, Inc.]]></category>
+<pink:symbol>TMSH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Studio Financial Holdings, Inc. (STBK: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STBK&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBK/company-info">Studio Financial Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/STBK">STBK</a>: Pink Current) - Tier Change - The symbol, STBK, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, STBK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STBK&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Studio Financial Holdings, Inc.]]></category>
+<pink:symbol>STBK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GEX Management, Inc. (GXXM: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GXXM&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GXXM/company-info">GEX Management, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GXXM">GXXM</a>: Pink Current) - Tier Change - The symbol, GXXM, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, GXXM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GXXM&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GEX Management, Inc.]]></category>
+<pink:symbol>GXXM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sol Strategies, Inc. (CYFRF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CYFRF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CYFRF/company-info">Sol Strategies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CYFRF">CYFRF</a>: OTCQB) - Tier Change - The symbol, CYFRF, no longer is classified as OTCQX International.  As of Tue, May 06, 2025, CYFRF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CYFRF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sol Strategies, Inc.]]></category>
+<pink:symbol>CYFRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Axim Biotechnologies, Inc. (AXIM: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AXIM&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AXIM/company-info">Axim Biotechnologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AXIM">AXIM</a>: Pink Current) - Tier Change - The symbol, AXIM, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, AXIM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AXIM&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Axim Biotechnologies, Inc.]]></category>
+<pink:symbol>AXIM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[APT Systems Inc. (APTY: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APTY&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APTY/company-info">APT Systems Inc.</a> (<a href="http://www.otcmarkets.com/stock/APTY">APTY</a>: Pink Current) - Tier Change - The symbol, APTY, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, APTY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APTY&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[APT Systems Inc.]]></category>
+<pink:symbol>APTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Athena Gold Corporation (AHNRF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AHNRF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AHNRF/company-info">Athena Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/AHNRF">AHNRF</a>: OTCQB) - Tier Change - The symbol, AHNRF, no longer is classified as Pink Current.  As of Tue, May 06, 2025, AHNRF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AHNRF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Athena Gold Corporation]]></category>
+<pink:symbol>AHNRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[XCELERATE INC. (XCRT: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XCRT&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XCRT/company-info">XCELERATE INC.</a> (<a href="http://www.otcmarkets.com/stock/XCRT">XCRT</a>: Pink Limited) - Tier Change - The symbol, XCRT, no longer is classified as Pink Current.  As of Mon, May 05, 2025, XCRT resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1532,102 +1676,6 @@ OTC RSS mirror fetched: Tue May  6 04:51:54 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Webstar Technology Group Inc.]]></category>
 <pink:symbol>WBSR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vulcain Corporation (VLAI: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VLAI&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VLAI/company-info">Vulcain Corporation</a> (<a href="http://www.otcmarkets.com/stock/VLAI">VLAI</a>: Pink Limited) - Tier Change - The symbol, VLAI, no longer is classified as Pink Current.  As of Mon, May 05, 2025, VLAI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VLAI&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vulcain Corporation]]></category>
-<pink:symbol>VLAI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sun Pacific Holding Corp. (SNPW: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNPW&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNPW/company-info">Sun Pacific Holding Corp.</a> (<a href="http://www.otcmarkets.com/stock/SNPW">SNPW</a>: Pink Current) - Tier Change - The symbol, SNPW, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, SNPW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNPW&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sun Pacific Holding Corp.]]></category>
-<pink:symbol>SNPW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: Pink Current) - Tier Change - The symbol, SNEHF, no longer is classified as Grey Market.  As of Mon, May 05, 2025, SNEHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNEHF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
-<pink:symbol>SNEHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SG FLEET GROUP LTD (SGFLF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGFLF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGFLF/company-info">SG FLEET GROUP LTD</a> (<a href="http://www.otcmarkets.com/stock/SGFLF">SGFLF</a>: Pink Limited) - Tier Change - The symbol, SGFLF, no longer is classified as Pink Current.  As of Mon, May 05, 2025, SGFLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGFLF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SG FLEET GROUP LTD]]></category>
-<pink:symbol>SGFLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN (RSNBF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RSNBF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RSNBF/company-info">ROSENBAUER INTERNATIONAL AGAKTIEN</a> (<a href="http://www.otcmarkets.com/stock/RSNBF">RSNBF</a>: Pink Current) - Tier Change - The symbol, RSNBF, no longer is classified as Grey Market.  As of Mon, May 05, 2025, RSNBF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RSNBF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN]]></category>
-<pink:symbol>RSNBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Nouveau Life Pharmaceuticals, Inc. (NOUV: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NOUV&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NOUV/company-info">Nouveau Life Pharmaceuticals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NOUV">NOUV</a>: Pink Current) - Tier Change - The symbol, NOUV, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, NOUV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NOUV&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nouveau Life Pharmaceuticals, Inc.]]></category>
-<pink:symbol>NOUV</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Minera IRL Ltd (MRLLY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRLLY/company-info">Minera IRL Ltd</a> (<a href="http://www.otcmarkets.com/stock/MRLLY">MRLLY</a>: Pink Current) - Tier Change - The symbol, MRLLY, no longer is classified as Expert Market.  As of Mon, May 05, 2025, MRLLY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minera IRL Ltd]]></category>
-<pink:symbol>MRLLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Minera IRL Ltd (MRLLF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRLLF/company-info">Minera IRL Ltd</a> (<a href="http://www.otcmarkets.com/stock/MRLLF">MRLLF</a>: Pink Current) - Tier Change - The symbol, MRLLF, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, MRLLF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minera IRL Ltd]]></category>
-<pink:symbol>MRLLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
