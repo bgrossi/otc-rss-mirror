@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 10:49:26 UTC 2025
+OTC RSS mirror fetched: Tue May  6 11:07:12 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May  6 10:49:26 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 06:36:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 07:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ananda Pharma plc (ANANF: OTCQB) | Appointment of Giles Moss, ex-Senior GW Pharmaceuticals’ Executive, as Advisor]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=476169]]></link>
+<pubDate>Tue, 06 May 2025 07:00:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=476169]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ananda Pharma plc]]></category>
+<pink:symbol>ANANF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: OTCQX International) | AMSC ASA (under liquidation) – CONDITIONS FOR DISTRIBUTION OF DIVIDEND-IN-KIND SATISFIED]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASCJF/news?id=476180]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue May  6 10:49:26 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476019]]></link>
-<pubDate>Sun, 04 May 2025 18:41:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476019]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cogstate Ltd.]]></category>
-<pink:symbol>COGZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Tue May  6 10:49:26 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tecogen Inc (TGEN: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TGEN&actionDate=1746528897000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGEN/company-info">Tecogen Inc</a> (<a href="http://www.otcmarkets.com/stock/TGEN">TGEN</a>: NYSE MKT) - Venue Change - The symbol, TGEN, no longer trades on OTC Link.  As of Tue, May 06, 2025, TGEN trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 06:54:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TGEN&actionDate=1746528897000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tecogen Inc]]></category>
+<pink:symbol>TGEN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Pink Current) | Venue Change]]></title>
