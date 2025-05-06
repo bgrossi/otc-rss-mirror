@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 18:36:58 UTC 2025
+OTC RSS mirror fetched: Tue May  6 18:51:11 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,7 +13,7 @@ OTC RSS mirror fetched: Tue May  6 18:36:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 14:26:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 14:46:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -1526,6 +1526,30 @@ OTC RSS mirror fetched: Tue May  6 18:36:58 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Evolution AB (EVVTY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=278581]]></link>
+<description><![CDATA[Tue, May 06, 2025 02:28 - <a href="http://www.otcmarkets.com/stock/EVVTY/company-info">Evolution AB</a> (<a href="http://www.otcmarkets.com/stock/EVVTY">EVVTY</a>: Pink Limited) - Scheduled Ex-Dividend - Evolution AB has announced a dividend ex-date for (EVVTY: Pink Limited). Evolution AB is scheduled to disburse a Cash Dividend dividend of $1.98722 on Wed, May 07, 2025 to shareholders of EVVTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 14:28:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=278581]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Evolution AB]]></category>
+<pink:symbol>EVVTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Evolution AB (EVVTY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283622]]></link>
+<description><![CDATA[Tue, May 06, 2025 02:28 - <a href="http://www.otcmarkets.com/stock/EVVTY/company-info">Evolution AB</a> (<a href="http://www.otcmarkets.com/stock/EVVTY">EVVTY</a>: Pink Limited) - Scheduled Ex-Dividend - Evolution AB has announced a dividend ex-date for (EVVTY: Pink Limited). Evolution AB is scheduled to disburse a Cash Dividend dividend of $1.98722 on Wed, May 07, 2025 to shareholders of EVVTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 14:28:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283622]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Evolution AB]]></category>
+<pink:symbol>EVVTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Orange (ORANY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283613]]></link>
 <description><![CDATA[Mon, May 05, 2025 03:20 - <a href="http://www.otcmarkets.com/stock/ORANY/company-info">Orange</a> (<a href="http://www.otcmarkets.com/stock/ORANY">ORANY</a>: Pink Limited) - Scheduled Ex-Dividend - Orange has announced a dividend ex-date for (ORANY: Pink Limited). Orange is scheduled to disburse a Cash Dividend dividend of $0.33161 on Mon, Jun 02, 2025 to shareholders of ORANY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1618,30 +1642,6 @@ OTC RSS mirror fetched: Tue May  6 18:36:58 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Societe Generale]]></category>
 <pink:symbol>SCGLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aeroports de Paris SA (ARRPY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283589]]></link>
-<description><![CDATA[Mon, May 05, 2025 03:04 - <a href="http://www.otcmarkets.com/stock/ARRPY/company-info">Aeroports de Paris SA</a> (<a href="http://www.otcmarkets.com/stock/ARRPY">ARRPY</a>: Pink Limited) - Scheduled Ex-Dividend - Aeroports de Paris SA has announced a dividend ex-date for (ARRPY: Pink Limited). Aeroports de Paris SA is scheduled to disburse a Cash Dividend dividend of $0.18657 on Mon, Jun 02, 2025 to shareholders of ARRPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 15:04:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283589]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aeroports de Paris SA]]></category>
-<pink:symbol>ARRPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Getlink SE  (GRPTY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283604]]></link>
-<description><![CDATA[Mon, May 05, 2025 02:57 - <a href="http://www.otcmarkets.com/stock/GRPTY/company-info">Getlink SE </a> (<a href="http://www.otcmarkets.com/stock/GRPTY">GRPTY</a>: Pink Limited) - Scheduled Ex-Dividend - Getlink SE  has announced a dividend ex-date for (GRPTY: Pink Limited). Getlink SE  is scheduled to disburse a Cash Dividend dividend of $0.91371 on Fri, May 30, 2025 to shareholders of GRPTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 14:57:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283604]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Getlink SE ]]></category>
-<pink:symbol>GRPTY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
