@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 06:52:34 UTC 2025
+OTC RSS mirror fetched: Tue May  6 07:08:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May  6 06:52:34 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 02:36:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Boss Energy Ltd (BQSSF: OTCQX International) | Change in substantial holding]]></title>
@@ -1296,6 +1296,30 @@ OTC RSS mirror fetched: Tue May  6 06:52:34 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Probi AB (PBBIF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PBBIF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PBBIF/company-info">Probi AB</a> (<a href="http://www.otcmarkets.com/stock/PBBIF">PBBIF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 06, 2025, PBBIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PBBIF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Probi AB]]></category>
+<pink:symbol>PBBIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Athena Gold Corporation (AHNRF: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AHNRF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AHNRF/company-info">Athena Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/AHNRF">AHNRF</a>: OTCQB) - Piggyback Qualified -  Effective Tue, May 06, 2025, AHNRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AHNRF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Athena Gold Corporation]]></category>
+<pink:symbol>AHNRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Starbox Group Holdings Ltd. (STBXF: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STBXF&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBXF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, STBXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1608,6 +1632,18 @@ OTC RSS mirror fetched: Tue May  6 06:52:34 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[VICINITY MTR CORP. (VEVMQ: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEVMQ&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VEVMQ/company-info">VICINITY MTR CORP.</a> (<a href="http://www.otcmarkets.com/stock/VEVMQ">VEVMQ</a>: Pink Limited) - Tier Change - The symbol, VEVMQ, no longer is classified as Pink Current.  As of Tue, May 06, 2025, VEVMQ resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEVMQ&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VICINITY MTR CORP.]]></category>
+<pink:symbol>VEVMQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Umbra Companies Inc. (UCIX: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1746504000000]]></link>
 <description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UCIX/company-info">Umbra Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/UCIX">UCIX</a>: Pink Current) - Tier Change - The symbol, UCIX, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, UCIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1644,88 +1680,76 @@ OTC RSS mirror fetched: Tue May  6 06:52:34 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[GEX Management, Inc. (GXXM: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GXXM&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GXXM/company-info">GEX Management, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GXXM">GXXM</a>: Pink Current) - Tier Change - The symbol, GXXM, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, GXXM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Pegasus Tel, Inc. (PTEL: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTEL&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTEL/company-info">Pegasus Tel, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTEL">PTEL</a>: Pink Limited) - Tier Change - The symbol, PTEL, no longer is classified as Pink Current.  As of Tue, May 06, 2025, PTEL resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GXXM&actionDate=1746504000000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTEL&actionDate=1746504000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GEX Management, Inc.]]></category>
-<pink:symbol>GXXM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sol Strategies, Inc. (CYFRF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CYFRF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CYFRF/company-info">Sol Strategies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CYFRF">CYFRF</a>: OTCQB) - Tier Change - The symbol, CYFRF, no longer is classified as OTCQX International.  As of Tue, May 06, 2025, CYFRF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CYFRF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sol Strategies, Inc.]]></category>
-<pink:symbol>CYFRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Axim Biotechnologies, Inc. (AXIM: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AXIM&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AXIM/company-info">Axim Biotechnologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AXIM">AXIM</a>: Pink Current) - Tier Change - The symbol, AXIM, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, AXIM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AXIM&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Axim Biotechnologies, Inc.]]></category>
-<pink:symbol>AXIM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[APT Systems Inc. (APTY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APTY&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APTY/company-info">APT Systems Inc.</a> (<a href="http://www.otcmarkets.com/stock/APTY">APTY</a>: Pink Current) - Tier Change - The symbol, APTY, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, APTY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APTY&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[APT Systems Inc.]]></category>
-<pink:symbol>APTY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Athena Gold Corporation (AHNRF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AHNRF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AHNRF/company-info">Athena Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/AHNRF">AHNRF</a>: OTCQB) - Tier Change - The symbol, AHNRF, no longer is classified as Pink Current.  As of Tue, May 06, 2025, AHNRF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AHNRF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Athena Gold Corporation]]></category>
-<pink:symbol>AHNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[XCELERATE INC. (XCRT: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XCRT&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XCRT/company-info">XCELERATE INC.</a> (<a href="http://www.otcmarkets.com/stock/XCRT">XCRT</a>: Pink Limited) - Tier Change - The symbol, XCRT, no longer is classified as Pink Current.  As of Mon, May 05, 2025, XCRT resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XCRT&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[XCELERATE INC.]]></category>
-<pink:symbol>XCRT</pink:symbol>
+<category><![CDATA[Pegasus Tel, Inc.]]></category>
+<pink:symbol>PTEL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Webstar Technology Group Inc. (WBSR: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WBSR&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WBSR/company-info">Webstar Technology Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/WBSR">WBSR</a>: Pink Current) - Tier Change - The symbol, WBSR, no longer is classified as Pink Limited.  As of Mon, May 05, 2025, WBSR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WBSR&actionDate=1746417600000]]></guid>
+<title><![CDATA[Probi AB (PBBIF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PBBIF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PBBIF/company-info">Probi AB</a> (<a href="http://www.otcmarkets.com/stock/PBBIF">PBBIF</a>: Pink Limited) - Tier Change - The symbol, PBBIF, no longer is classified as Expert Market.  As of Tue, May 06, 2025, PBBIF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PBBIF&actionDate=1746504000000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Webstar Technology Group Inc.]]></category>
-<pink:symbol>WBSR</pink:symbol>
+<category><![CDATA[Probi AB]]></category>
+<pink:symbol>PBBIF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HOLDCO NUVO GROUP D.G LTD. (NUVWQ: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NUVWQ&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NUVWQ/company-info">HOLDCO NUVO GROUP D.G LTD.</a> (<a href="http://www.otcmarkets.com/stock/NUVWQ">NUVWQ</a>: Pink Limited) - Tier Change - The symbol, NUVWQ, no longer is classified as Pink Current.  As of Tue, May 06, 2025, NUVWQ resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NUVWQ&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOLDCO NUVO GROUP D.G LTD.]]></category>
+<pink:symbol>NUVWQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HOLDCO NUVO GROUP D.G LTD. (NUVOQ: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NUVOQ&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NUVOQ/company-info">HOLDCO NUVO GROUP D.G LTD.</a> (<a href="http://www.otcmarkets.com/stock/NUVOQ">NUVOQ</a>: Pink Limited) - Tier Change - The symbol, NUVOQ, no longer is classified as Pink Current.  As of Tue, May 06, 2025, NUVOQ resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NUVOQ&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOLDCO NUVO GROUP D.G LTD.]]></category>
+<pink:symbol>NUVOQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Minera IRL Ltd (MRLLF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRLLF/company-info">Minera IRL Ltd</a> (<a href="http://www.otcmarkets.com/stock/MRLLF">MRLLF</a>: Pink Limited) - Tier Change - The symbol, MRLLF, no longer is classified as Pink Current.  As of Tue, May 06, 2025, MRLLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Minera IRL Ltd]]></category>
+<pink:symbol>MRLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Mynaric AG (MOYFF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MOYFF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MOYFF/company-info">Mynaric AG</a> (<a href="http://www.otcmarkets.com/stock/MOYFF">MOYFF</a>: Pink Limited) - Tier Change - The symbol, MOYFF, no longer is classified as Pink Current.  As of Tue, May 06, 2025, MOYFF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MOYFF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mynaric AG]]></category>
+<pink:symbol>MOYFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
