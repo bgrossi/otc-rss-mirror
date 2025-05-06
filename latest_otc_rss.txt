@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 16:34:43 UTC 2025
+OTC RSS mirror fetched: Tue May  6 16:52:02 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,32 @@ OTC RSS mirror fetched: Tue May  6 16:34:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 12:26:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 12:46:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476276]]></link>
+<pubDate>Tue, 06 May 2025 12:41:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476276]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Markray Corp. (RVBR: Pink Limited) | Global premier of the Cosmic Ray Technology systems in Beijing, China from May 10th to May 12th, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RVBR/news?id=476275]]></link>
+<pubDate>Tue, 06 May 2025 12:36:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RVBR/news?id=476275]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Markray Corp.]]></category>
+<pink:symbol>RVBR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Unveils Strategy to Capitalize on VC Slowdown Through Public Markets]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=476271]]></link>
@@ -589,30 +613,6 @@ OTC RSS mirror fetched: Tue May  6 16:34:43 UTC 2025
 <pink:symbol>ARZTY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | High-Grade Mineralised Zones Confirm Continuity of Antimony]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=476071]]></link>
-<pubDate>Mon, 05 May 2025 08:47:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=476071]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trigg Minerals Ltd]]></category>
-<pink:symbol>TMGLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CAVU Resources Inc. (CAVR: Pink Current) | ParagonX Holdings, Inc. closes out April with the highest monthly share volume in the last 12 months and  Identifies multiple acquisition targets]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CAVR/news?id=476021]]></link>
-<pubDate>Mon, 05 May 2025 08:14:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CAVR/news?id=476021]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CAVU Resources Inc.]]></category>
-<pink:symbol>CAVR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
