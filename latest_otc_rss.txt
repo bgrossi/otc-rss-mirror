@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 19:22:29 UTC 2025
+OTC RSS mirror fetched: Tue May  6 19:30:47 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,7 +13,7 @@ OTC RSS mirror fetched: Tue May  6 19:22:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 15:06:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 15:26:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -1296,6 +1296,18 @@ OTC RSS mirror fetched: Tue May  6 19:22:29 UTC 2025
 <pink:symbol>WFTI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lodestar Metals Corp. (SVTNF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SVTNF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVTNF/company-info">Lodestar Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/SVTNF">SVTNF</a>: Pink Current) - Halted Security -  Effective Tue, May 06, 2025, SVTNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SVTNF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lodestar Metals Corp.]]></category>
+<pink:symbol>SVTNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sanatana Resources Inc. (SADMF: Pink Current) | Halted Security]]></title>
