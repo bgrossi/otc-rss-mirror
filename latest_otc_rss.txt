@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 19:45:52 UTC 2025
+OTC RSS mirror fetched: Tue May  6 20:09:27 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Tue May  6 19:45:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 15:26:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 16:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aptose Biosciences. Inc. (APTOF: Pink Current) | Aptose Provides Clinical Update for the Tuspetinib-based Triple Drug Frontline Therapy   in Newly Diagnosed AML Patients from the Phase 1/2 TUSCANY Trial]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/APTOF/news?id=476285]]></link>
+<pubDate>Tue, 06 May 2025 15:40:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/APTOF/news?id=476285]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aptose Biosciences. Inc.]]></category>
+<pink:symbol>APTOF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476276]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May  6 19:45:52 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Barco NV]]></category>
 <pink:symbol>BCNAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aryzta AG (ARZTY: Pink Limited) | ARZTY - Books will close at the close of business today, May 5, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ARZTY/news?id=476072]]></link>
-<pubDate>Mon, 05 May 2025 08:58:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARZTY/news?id=476072]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aryzta AG]]></category>
-<pink:symbol>ARZTY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
