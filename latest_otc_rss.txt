@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 22:46:28 UTC 2025
+OTC RSS mirror fetched: Tue May  6 23:07:49 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,32 @@ OTC RSS mirror fetched: Tue May  6 22:46:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 18:36:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 19:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paladin Energy Ltd. (PALAF: OTCQX International) | Macquarie Australia Conference Presentation - May 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=476350]]></link>
+<pubDate>Tue, 06 May 2025 18:38:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=476350]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paladin Energy Ltd.]]></category>
+<pink:symbol>PALAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Investor Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=476349]]></link>
+<pubDate>Tue, 06 May 2025 18:37:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=476349]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Appendix 3G - Notification of issue of unquoted shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=476340]]></link>
@@ -589,30 +613,6 @@ OTC RSS mirror fetched: Tue May  6 22:46:28 UTC 2025
 <pink:symbol>PSKRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hermes International SA (HESAY: Pink Limited) | HESAY - Books will close today, May 5, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HESAY/news?id=476082]]></link>
-<pubDate>Mon, 05 May 2025 09:06:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HESAY/news?id=476082]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hermes International SA]]></category>
-<pink:symbol>HESAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Grupo Financiero Banorte, S.A.B. De C.V. (GBOOY: OTCQX International) | GBOOY - Books will close today, May 5, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GBOOY/news?id=476078]]></link>
-<pubDate>Mon, 05 May 2025 09:01:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GBOOY/news?id=476078]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Grupo Financiero Banorte, S.A.B. De C.V.]]></category>
-<pink:symbol>GBOOY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
