@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May  6 05:31:21 UTC 2025
+OTC RSS mirror fetched: Tue May  6 05:46:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May  6 05:31:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 01:06:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 01:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Results of Meeting]]></title>
@@ -960,13 +960,13 @@ OTC RSS mirror fetched: Tue May  6 05:31:21 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NP Life Sciences Health Industry Group Inc. (NPLS: Pink Current) | Symbol Change]]></title>
+<title><![CDATA[Acasia Technology, Inc. (NPLS: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">NP Life Sciences Health Industry Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">NPLS</a>: Pink Current) - Symbol Change - The symbol, NPLS, is no longer a valid symbol for NP Life Sciences Health Industry Group Inc..  As of Tue, May 06, 2025, the new trading symbol is ACAT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">Acasia Technology, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">NPLS</a>: Pink Current) - Symbol Change - The symbol, NPLS, is no longer a valid symbol for Acasia Technology, Inc..  As of Tue, May 06, 2025, the new trading symbol is ACAT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 06 May 2025 01:00:43 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NP Life Sciences Health Industry Group Inc.]]></category>
+<category><![CDATA[Acasia Technology, Inc.]]></category>
 <pink:symbol>ACAT</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
@@ -1080,6 +1080,54 @@ OTC RSS mirror fetched: Tue May  6 05:31:21 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NP Life Sciences Health Industry Group Inc. (ACAT: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACAT&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">NP Life Sciences Health Industry Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">ACAT</a>: Pink Current) - Company Name Change - NP Life Sciences Health Industry Group Inc. has changed its name to Acasia Technology, Inc.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACAT&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NP Life Sciences Health Industry Group Inc.]]></category>
+<pink:symbol>ACAT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Guotai Junan Securities Co., LTD (GJJSY: Pink Limited) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GJJSY&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GJJSY/company-info">Guotai Junan Securities Co., LTD</a> (<a href="http://www.otcmarkets.com/stock/GJJSY">GJJSY</a>: Pink Limited) - Company Name Change - Guotai Junan Securities Co., LTD has changed its name to GUOTAI HAITONG SECS CO LTD.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GJJSY&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Guotai Junan Securities Co., LTD]]></category>
+<pink:symbol>GJJSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[China Dasheng Biotechnology Co. (CDBT: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CDBT&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDBT/company-info">China Dasheng Biotechnology Co.</a> (<a href="http://www.otcmarkets.com/stock/CDBT">CDBT</a>: Pink Current) - Company Name Change - China Dasheng Biotechnology Co. has changed its name to Cycclone Inc.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CDBT&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[China Dasheng Biotechnology Co.]]></category>
+<pink:symbol>CDBT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aben Minerals Ltd. (ABNAF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ABNAF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ABNAF/company-info">Aben Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ABNAF">ABNAF</a>: Pink Current) - Company Name Change - Aben Minerals Ltd. has changed its name to Aben Gold Corp.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ABNAF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aben Minerals Ltd.]]></category>
+<pink:symbol>ABNAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Sparebanken Vest AS (SPIZF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SPIZF&actionDate=1746417600000]]></link>
 <description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPIZF/company-info">Sparebanken Vest AS</a> (<a href="http://www.otcmarkets.com/stock/SPIZF">SPIZF</a>: Pink Limited) - Company Name Change - Sparebanken Vest AS has changed its name to SPAREBANKEN NORGE A S. The change goes into effect as of Mon, May 05, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1128,16 +1176,16 @@ OTC RSS mirror fetched: Tue May  6 05:31:21 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Sokoman Minerals Corp. (SICNF: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Sokoman Minerals Corp. (SICNF: Grey Market) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICNF&actionDate=1746507648000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - Sokoman Minerals Corp. (SICNF: OTC Link) - Deleted Symbol - As of Tue, May 06, 2025, SICNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 06, 2025 12:00 - Sokoman Minerals Corp. (SICNF: Grey Market) - Deleted Symbol - As of Tue, May 06, 2025, SICNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 06 May 2025 01:00:48 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICNF&actionDate=1746507648000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sokoman Minerals Corp.]]></category>
 <pink:symbol>SICNF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Brookfield Office Properties Inc. (BKOFF: Grey Market) | Deleted Symbol]]></title>
