@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May  5 23:46:08 UTC 2025
+OTC RSS mirror fetched: Tue May  6 00:41:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May  5 23:46:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 05 May 2025 19:36:29 EDT</lastBuildDate>
+<lastBuildDate>Mon, 05 May 2025 20:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | 175m @ 2.5% Copper from 7.6m, hole ends in 4.46% Copper & open at depth]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=476155]]></link>
+<pubDate>Mon, 05 May 2025 19:48:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=476155]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD. (GUELF: OTCQB) | Positive Scoping Study - Tallahassee Uranium Project]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=476151]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon May  5 23:46:08 UTC 2025
 <pink:symbol>PGNT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[One World Lithium Inc. (OWRDF: OTCQB) | ONE WORLD LITHIUM ANNOUNCES ISSUANCE OF MANAGEMENT CEASE TRADE ORDER]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=475996]]></link>
-<pubDate>Fri, 02 May 2025 14:08:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=475996]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[One World Lithium Inc.]]></category>
-<pink:symbol>OWRDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1272,124 +1272,124 @@ OTC RSS mirror fetched: Mon May  5 23:46:08 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Middlebury National Corp. (MDVT: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168800]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MDVT/company-info">Middlebury National Corp.</a> (<a href="http://www.otcmarkets.com/stock/MDVT">MDVT</a>: Pink Current) - Ex-Dividend -  As of Mon, May 05, 2025, Middlebury National Corp. traded ex-dividend. Middlebury National Corp. will disburse a Cash Dividend dividend of $0.26 to shareholders of MDVT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168800]]></guid>
+<title><![CDATA[River City Bank (RCBC: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168824]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/RCBC/company-info">River City Bank</a> (<a href="http://www.otcmarkets.com/stock/RCBC">RCBC</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, River City Bank traded ex-dividend. River City Bank will disburse a Cash Dividend dividend of $0.4 to shareholders of RCBC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168824]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Middlebury National Corp.]]></category>
-<pink:symbol>MDVT</pink:symbol>
+<category><![CDATA[River City Bank]]></category>
+<pink:symbol>RCBC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Grupo Financiero Banorte, S.A.B. De C.V. (GBOOY: OTCQX International) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168799]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/GBOOY/company-info">Grupo Financiero Banorte, S.A.B. De C.V.</a> (<a href="http://www.otcmarkets.com/stock/GBOOY">GBOOY</a>: OTCQX International) - Ex-Dividend -  As of Mon, May 05, 2025, Grupo Financiero Banorte, S.A.B. De C.V. traded ex-dividend. Grupo Financiero Banorte, S.A.B. De C.V. will disburse a Cash Dividend dividend of $2.18971 to shareholders of GBOOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168799]]></guid>
+<title><![CDATA[Muncy Columbia Financial Corporation (CCFN: OTCQX U.S.) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168823]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CCFN/company-info">Muncy Columbia Financial Corporation</a> (<a href="http://www.otcmarkets.com/stock/CCFN">CCFN</a>: OTCQX U.S.) - Ex-Dividend -  As of Tue, May 06, 2025, Muncy Columbia Financial Corporation traded ex-dividend. Muncy Columbia Financial Corporation will disburse a Cash Dividend dividend of $0.5 to shareholders of CCFN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168823]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Grupo Financiero Banorte, S.A.B. De C.V.]]></category>
-<pink:symbol>GBOOY</pink:symbol>
+<category><![CDATA[Muncy Columbia Financial Corporation]]></category>
+<pink:symbol>CCFN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Barco NV (BCNAY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168822]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BCNAY/company-info">Barco NV</a> (<a href="http://www.otcmarkets.com/stock/BCNAY">BCNAY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 06, 2025, Barco NV traded ex-dividend. Barco NV will disburse a Cash Dividend dividend of $0.14513 to shareholders of BCNAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168822]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Barco NV]]></category>
+<pink:symbol>BCNAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Haw Par Corp. Ltd. (HAWPY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168821]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/HAWPY/company-info">Haw Par Corp. Ltd.</a> (<a href="http://www.otcmarkets.com/stock/HAWPY">HAWPY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, Haw Par Corp. Ltd. traded ex-dividend. Haw Par Corp. Ltd. will disburse a Cash Dividend dividend of $3.494 to shareholders of HAWPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168821]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Haw Par Corp. Ltd.]]></category>
+<pink:symbol>HAWPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Venture Corp., Ltd. (VEMLY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168820]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/VEMLY/company-info">Venture Corp., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VEMLY">VEMLY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, Venture Corp., Ltd. traded ex-dividend. Venture Corp., Ltd. will disburse a Cash Dividend dividend of $1.78874 to shareholders of VEMLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168820]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Venture Corp., Ltd.]]></category>
+<pink:symbol>VEMLY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SITC International Holdings Company, Ltd. (SITIY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168819]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SITIY/company-info">SITC International Holdings Company, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SITIY">SITIY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, SITC International Holdings Company, Ltd. traded ex-dividend. SITC International Holdings Company, Ltd. will disburse a Cash Dividend dividend of $1.73194 to shareholders of SITIY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168819]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SITC International Holdings Company, Ltd.]]></category>
+<pink:symbol>SITIY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Citizens Bancorp Investment, Inc. (CBTN: OTCQX U.S.) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168825]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CBTN/company-info">Citizens Bancorp Investment, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CBTN">CBTN</a>: OTCQX U.S.) - Ex-Dividend -  As of Tue, May 06, 2025, Citizens Bancorp Investment, Inc. traded ex-dividend. Citizens Bancorp Investment, Inc. will disburse a Cash Dividend dividend of $0.19 to shareholders of CBTN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168825]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Citizens Bancorp Investment, Inc.]]></category>
+<pink:symbol>CBTN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BASF SE (BASFY: OTCQX International) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168818]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BASFY/company-info">BASF SE</a> (<a href="http://www.otcmarkets.com/stock/BASFY">BASFY</a>: OTCQX International) - Ex-Dividend -  As of Tue, May 06, 2025, BASF SE traded ex-dividend. BASF SE will disburse a Cash Dividend dividend of $0.43224 to shareholders of BASFY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168818]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BASF SE]]></category>
+<pink:symbol>BASFY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[EDP S A (EDPFY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168798]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/EDPFY/company-info">EDP S A</a> (<a href="http://www.otcmarkets.com/stock/EDPFY">EDPFY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, EDP S A traded ex-dividend. EDP S A will disburse a Cash Dividend dividend of $1.42807 to shareholders of EDPFY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168798]]></guid>
+<title><![CDATA[Bristol-Myers Squibb Co. (BMYMP: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168811]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BMYMP/company-info">Bristol-Myers Squibb Co.</a> (<a href="http://www.otcmarkets.com/stock/BMYMP">BMYMP</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, Bristol-Myers Squibb Co. traded ex-dividend. Bristol-Myers Squibb Co. will disburse a Cash Dividend dividend of $0.5 to shareholders of BMYMP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168811]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EDP S A]]></category>
-<pink:symbol>EDPFY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cyrela Brazil Realty S.A. (CYRBY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168797]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CYRBY/company-info">Cyrela Brazil Realty S.A.</a> (<a href="http://www.otcmarkets.com/stock/CYRBY">CYRBY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, Cyrela Brazil Realty S.A. traded ex-dividend. Cyrela Brazil Realty S.A. will disburse a Cash Dividend dividend of $0.1506 to shareholders of CYRBY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168797]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cyrela Brazil Realty S.A.]]></category>
-<pink:symbol>CYRBY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atacadao SA (ATAAY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168796]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ATAAY/company-info">Atacadao SA</a> (<a href="http://www.otcmarkets.com/stock/ATAAY">ATAAY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, Atacadao SA traded ex-dividend. Atacadao SA will disburse a Cash Dividend dividend of $0.00044 to shareholders of ATAAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168796]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atacadao SA]]></category>
-<pink:symbol>ATAAY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Protector Forsikring ASA (PSKRY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168795]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PSKRY/company-info">Protector Forsikring ASA</a> (<a href="http://www.otcmarkets.com/stock/PSKRY">PSKRY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, Protector Forsikring ASA traded ex-dividend. Protector Forsikring ASA will disburse a Cash Dividend dividend of $0.34766 to shareholders of PSKRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168795]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Protector Forsikring ASA]]></category>
-<pink:symbol>PSKRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Var Energi ASA (VARRY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168794]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/VARRY/company-info">Var Energi ASA</a> (<a href="http://www.otcmarkets.com/stock/VARRY">VARRY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, Var Energi ASA traded ex-dividend. Var Energi ASA will disburse a Cash Dividend dividend of $0.13025 to shareholders of VARRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168794]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Var Energi ASA]]></category>
-<pink:symbol>VARRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Merchants National Properties, Inc. (MNPP: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168793]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MNPP/company-info">Merchants National Properties, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MNPP">MNPP</a>: Pink Current) - Ex-Dividend -  As of Mon, May 05, 2025, Merchants National Properties, Inc. traded ex-dividend. Merchants National Properties, Inc. will disburse a Cash Dividend dividend of $25 to shareholders of MNPP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168793]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Merchants National Properties, Inc.]]></category>
-<pink:symbol>MNPP</pink:symbol>
+<category><![CDATA[Bristol-Myers Squibb Co.]]></category>
+<pink:symbol>BMYMP</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[MAGAZINE LUIZA SA (MGLUY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168792]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MGLUY/company-info">MAGAZINE LUIZA SA</a> (<a href="http://www.otcmarkets.com/stock/MGLUY">MGLUY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, MAGAZINE LUIZA SA traded ex-dividend. MAGAZINE LUIZA SA will disburse a Cash Dividend dividend of $0.16799 to shareholders of MGLUY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168792]]></guid>
+<title><![CDATA[Pacific Basin Shipping Ltd. (PCFBY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168817]]></link>
+<description><![CDATA[Mon, May 05, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PCFBY/company-info">Pacific Basin Shipping Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PCFBY">PCFBY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 06, 2025, Pacific Basin Shipping Ltd. traded ex-dividend. Pacific Basin Shipping Ltd. will disburse a Cash Dividend dividend of $0.105 to shareholders of PCFBY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 05 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168817]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MAGAZINE LUIZA SA]]></category>
-<pink:symbol>MGLUY</pink:symbol>
+<category><![CDATA[Pacific Basin Shipping Ltd.]]></category>
+<pink:symbol>PCFBY</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cyrela Brazil Realty S.A. (CYRAY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168801]]></link>
-<description><![CDATA[Fri, May 02, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CYRAY/company-info">Cyrela Brazil Realty S.A.</a> (<a href="http://www.otcmarkets.com/stock/CYRAY">CYRAY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 05, 2025, Cyrela Brazil Realty S.A. traded ex-dividend. Cyrela Brazil Realty S.A. will disburse a Cash Dividend dividend of $0.18824 to shareholders of CYRAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 02 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=168801]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cyrela Brazil Realty S.A.]]></category>
-<pink:symbol>CYRAY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[BlueHarbor Bank (Mooresville NC) (BLHK: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
