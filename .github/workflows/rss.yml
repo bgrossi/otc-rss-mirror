@@ -2,8 +2,8 @@ name: OTC RSS mirror (lite)
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'        # every 15 min
-  workflow_dispatch:               # manual trigger
+    - cron:  '*/15 * * * *'     # every 15 min
+  workflow_dispatch:            # allow manual run
 
 jobs:
   build:
@@ -11,55 +11,47 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    # 1️⃣  Download feed (primary + fallback)
-    - name: Fetch RSS (robust)
+    # ------------------------- 1. Download full feed -------------------------
+    - name: Fetch RSS with fallback
       run: |
         set -e
-        UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-        curl -sSL --http1.1 --connect-timeout 10 --max-time 40 -A "$UA" \
-             --retry 3 --retry-delay 5 \
-             -o rss_full.xml \
-             https://www.otcmarkets.com/syndicate/rss.xml \
-        || curl -sSLk --http1.1 --connect-timeout 10 --max-time 40 -A "$UA" \
-             --retry 3 --retry-delay 5 \
-             -o rss_full.xml \
+        UA="Mozilla/5.0 ChatGPT‑RSS‑Mirror"
+        curl -sSL --http1.1 \
+             --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+             -A "$UA" -o rss_full.xml \
+             https://www.otcmarkets.com/syndicate/rss.xml || \
+        curl -sSLk --http1.1 \
+             --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+             -A "$UA" -o rss_full.xml \
              https://content.otcmarkets.com/syndicate/rss.xml
-        test -s rss_full.xml || { echo "RSS download failed"; exit 1; }
+        test -s rss_full.xml
 
-    # 2️⃣  Keep first 250 <item> blocks, wrap lines, re‑add RSS wrapper
-    - name: Trim to latest 250 items and wrap lines
+    # ------------------------- 2. keep first 250 <item> -----------------------
+    - name: Trim to latest 250 <item> blocks (keep XML well‑formed)
       run: |
-        # --- extract items only ---
+        # awk prints until the closing tag of the 250‑th item, leaving header intact
         awk '
-          /<item>/{c++}
-          c<=250  {print}
+          /<item>/ {c++}
+          c<=250   {print}
           /<\/item>/ && c==250 {exit}
-        ' rss_full.xml > items_only.xml
+        ' rss_full.xml > rss_trimmed.xml
 
-        # --- hard‑wrap long lines at 1024 bytes to keep the file diff‑friendly ---
-        fold -w 1024 items_only.xml > items_wrapped.xml
+        # quick XML well‑formed‑ness check; fail job if broken
+        xmllint --noout rss_trimmed.xml
 
-        # --- prepend minimal header & append footer so XML is well‑formed ---
-        {
-          echo '<?xml version="1.0" encoding="utf-8"?>'
-          echo '<rss version="2.0"><channel>'
-          cat items_wrapped.xml
-          echo '</channel></rss>'
-        } > rss_trimmed_wrapped.xml
-
-        # add human timestamp + the XML
         {
           echo "OTC RSS mirror fetched: $(date -u)"
-          cat rss_trimmed_wrapped.xml
+          cat  rss_trimmed.xml
         } > latest_otc_rss.txt
 
-    # 3️⃣  Commit if the file really changed
+    # ------------------------- 3. Commit & push if changed --------------------
     - name: Commit & push
+      if: success()
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git config user.name  "github-actions[bot]"
+        git config user.name  "github‑actions[bot]"
         git add latest_otc_rss.txt
         git diff --cached --quiet || git commit -m "chore: update trimmed RSS [skip ci]"
         git push
