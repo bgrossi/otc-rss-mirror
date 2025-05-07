@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 22:54:16 UTC 2025
+OTC RSS mirror fetched: Wed May  7 23:19:38 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May  7 22:54:16 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 18:36:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 19:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Carnegie Clean Energy Ltd. (CWGYF: OTCQB) | Carnegie partners with Industry leader SKF]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=476520]]></link>
+<pubDate>Wed, 07 May 2025 18:48:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=476520]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Carnegie Clean Energy Ltd.]]></category>
+<pink:symbol>CWGYF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[bebe stores, inc. (BEBE: Pink Limited) | bebe stores, inc. Announces Change to OTC Ticker Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476512]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 22:54:16 UTC 2025
 <pink:symbol>APTOF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476276]]></link>
-<pubDate>Tue, 06 May 2025 12:41:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476276]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
