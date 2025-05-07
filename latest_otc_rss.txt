@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 10:35:21 UTC 2025
+OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 10:35:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 06:06:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 06:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | TRADING STATEMENT FOR THE YEAR ENDED 28 FEBRUARY 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=476382]]></link>
+<pubDate>Wed, 07 May 2025 06:24:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=476382]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Datatec Ltd. S.A.]]></category>
+<pink:symbol>DTTLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Options Offer Closes]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=476373]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 10:35:21 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[J Sainsbury plc]]></category>
 <pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Annual General Meeting Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=476160]]></link>
-<pubDate>Tue, 06 May 2025 01:41:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=476160]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brainchip Holdings Ltd.]]></category>
-<pink:symbol>BCHPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
