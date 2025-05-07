@@ -2,7 +2,7 @@ name: OTC RSS mirror (lite)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes
+    - cron: "*/15 * * * *"   # every 15 min
   workflow_dispatch:
 
 jobs:
@@ -39,15 +39,17 @@ jobs:
             /<\/item>/ && c==250 {exit}
           ' rss_full.xml > rss_trimmed.xml
 
-      # 4 ─ Validate XML quickly with Python std‑lib
+      # 4 ─ Validate XML with Python (std‑lib only)
       - name: Validate trimmed XML
-        run: python - <<'PY'
-import xml.etree.ElementTree as ET, sys
-try:
-    ET.parse("rss_trimmed.xml")
-except ET.ParseError as e:
-    sys.exit(f"XML malformed: {e}")
-PY
+        shell: bash
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET, sys
+          try:
+              ET.parse("rss_trimmed.xml")
+          except ET.ParseError as e:
+              sys.exit(f"XML malformed: {e}")
+          PY
 
       # 5 ─ Assemble final file
       - name: Assemble latest_otc_rss.txt
