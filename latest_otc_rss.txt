@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 04:34:06 UTC 2025
+OTC RSS mirror fetched: Wed May  7 04:50:35 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 04:34:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 00:06:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 00:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Appendix 2A - Application for Quotation of Securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=476364]]></link>
+<pubDate>Wed, 07 May 2025 00:14:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=476364]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Strategic Alternatives Announcement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=476344]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 04:34:06 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Foresight Financial Group Inc.]]></category>
 <pink:symbol>FGFH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Town Center Bank (IL) (TCNB: OTCQX U.S.) | Quarterly Financial Results - March 31, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TCNB/news?id=476126]]></link>
-<pubDate>Mon, 05 May 2025 15:48:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TCNB/news?id=476126]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Town Center Bank (IL)]]></category>
-<pink:symbol>TCNB</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
