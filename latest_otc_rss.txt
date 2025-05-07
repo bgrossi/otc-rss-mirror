@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 08:53:47 UTC 2025
+OTC RSS mirror fetched: Wed May  7 09:09:22 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 08:53:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 04:36:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 05:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Options Offer Closes]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=476373]]></link>
+<pubDate>Wed, 07 May 2025 04:59:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=476373]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
+<pink:symbol>EULIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Change in substantial holding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=476372]]></link>
@@ -601,18 +613,6 @@ OTC RSS mirror fetched: Wed May  7 08:53:47 UTC 2025
 <pink:symbol>BCHPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Results of Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=476158]]></link>
-<pubDate>Tue, 06 May 2025 00:39:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=476158]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FBR Ltd.]]></category>
-<pink:symbol>FBRKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
