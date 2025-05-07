@@ -2,15 +2,18 @@ name: OTC RSS mirror (lite)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/15 * * * *"   # every 15 minutes
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # 1 ─ Check out repo
       - uses: actions/checkout@v3
 
+      # 2 ─ Fetch RSS (primary, then fallback)
       - name: Fetch RSS
         shell: bash
         run: |
@@ -26,7 +29,8 @@ jobs:
                https://content.otcmarkets.com/syndicate/rss.xml
           test -s rss_full.xml
 
-      - name: Trim to 250 items & validate XML
+      # 3 ─ Trim to 250 <item> blocks
+      - name: Trim to latest 250 items
         shell: bash
         run: |
           awk '
@@ -35,7 +39,9 @@ jobs:
             /<\/item>/ && c==250 {exit}
           ' rss_full.xml > rss_trimmed.xml
 
-          python - << "PY"
+      # 4 ─ Validate XML quickly with Python std‑lib
+      - name: Validate trimmed XML
+        run: python - <<'PY'
 import xml.etree.ElementTree as ET, sys
 try:
     ET.parse("rss_trimmed.xml")
@@ -43,12 +49,17 @@ except ET.ParseError as e:
     sys.exit(f"XML malformed: {e}")
 PY
 
+      # 5 ─ Assemble final file
+      - name: Assemble latest_otc_rss.txt
+        shell: bash
+        run: |
           {
             echo "OTC RSS mirror fetched: $(date -u)"
             cat rss_trimmed.xml
           } > latest_otc_rss.txt
 
-      - name: Commit & push if changed
+      # 6 ─ Commit & push only if file changed
+      - name: Commit & push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
