@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 21:51:39 UTC 2025
+OTC RSS mirror fetched: Wed May  7 22:20:26 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May  7 21:51:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 17:36:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 18:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[bebe stores, inc. (BEBE: Pink Limited) | bebe stores, inc. Announces Change to OTC Ticker Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476512]]></link>
+<pubDate>Wed, 07 May 2025 17:52:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEBE/news?id=476512]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[bebe stores, inc.]]></category>
+<pink:symbol>BEBE</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | GAD OFFERS NO PLAN FOR FUTURE OF PARAGON]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476486]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 21:51:39 UTC 2025
 <pink:symbol>IMBBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Markray Corp. (RVBR: Pink Limited) | Global premier of the Cosmic Ray Technology systems in Beijing, China from May 10th to May 12th, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RVBR/news?id=476275]]></link>
-<pubDate>Tue, 06 May 2025 12:36:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RVBR/news?id=476275]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Markray Corp.]]></category>
-<pink:symbol>RVBR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
