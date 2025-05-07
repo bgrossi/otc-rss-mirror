@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 12:16:17 UTC 2025
+OTC RSS mirror fetched: Wed May  7 13:04:07 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 12:16:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 08:06:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 08:46:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Echo IQ raises $17.3m via institutional placement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=476437]]></link>
+<pubDate>Wed, 07 May 2025 08:20:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=476437]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECHOIQ LTD.]]></category>
+<pink:symbol>ECHQF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[SLC Agricola Sa (SLCJY: Pink Limited) | SLCJY - Books will close today, May 7, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SLCJY/news?id=476422]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 12:16:17 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hexagon AB]]></category>
 <pink:symbol>HXGBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[EUROBANK ERGASIAS SVCS AND HOLDINGS SA (EGFEY: Pink Limited) | EGFEY - Books will close at the close of business today, May 6, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EGFEY/news?id=476224]]></link>
-<pubDate>Tue, 06 May 2025 08:22:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EGFEY/news?id=476224]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EUROBANK ERGASIAS SVCS AND HOLDINGS SA]]></category>
-<pink:symbol>EGFEY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
