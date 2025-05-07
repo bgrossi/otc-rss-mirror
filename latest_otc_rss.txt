@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 13:04:07 UTC 2025
+OTC RSS mirror fetched: Wed May  7 13:40:44 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,32 @@ OTC RSS mirror fetched: Wed May  7 13:04:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 08:46:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 09:26:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[First Acceptance Corp. (FACO: OTCQX U.S.) | First Acceptance Corporation Announces 2025 Annual Meeting Proxy Voting Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FACO/news?id=476458]]></link>
+<pubDate>Wed, 07 May 2025 09:20:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FACO/news?id=476458]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Acceptance Corp.]]></category>
+<pink:symbol>FACO</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Hydro Power Technologies, Inc. (PYBX: Pink Current) | Hydropower Technologies, Inc. (OTC: PYBX) Announces Strategic Update on Joint Venture with Sheltia Work Trade S.r.l.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PYBX/news?id=476456]]></link>
+<pubDate>Wed, 07 May 2025 09:09:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYBX/news?id=476456]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hydro Power Technologies, Inc.]]></category>
+<pink:symbol>PYBX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Echo IQ raises $17.3m via institutional placement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=476437]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May  7 13:04:07 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[RTL Group SA]]></category>
 <pink:symbol>RGLXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[KBC Group SA (KBCSY: Pink Limited) | KBCSY - Books will close today, May 6, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KBCSY/news?id=476227]]></link>
-<pubDate>Tue, 06 May 2025 08:23:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KBCSY/news?id=476227]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KBC Group SA]]></category>
-<pink:symbol>KBCSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hexagon AB (HXGBY: Pink Limited) | HXGBY - Books will close today, May 6, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HXGBY/news?id=476226]]></link>
-<pubDate>Tue, 06 May 2025 08:22:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HXGBY/news?id=476226]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hexagon AB]]></category>
-<pink:symbol>HXGBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
