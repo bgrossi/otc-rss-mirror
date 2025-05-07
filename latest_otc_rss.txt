@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
+OTC RSS mirror fetched: Wed May  7 11:45:46 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,7 +13,7 @@ OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 07:06:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 07:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | Successful initial results from State 36-2R well production test]]></title>
@@ -866,6 +866,42 @@ OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Partners Value Invts LP (PVILF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVILF&actionDate=1746616738000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVILF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVILF">PVILF</a>: OTC Link) - Venue Change - The symbol, PVILF, no longer trades on Grey Market.  As of Wed, May 07, 2025, PVILF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 07:18:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVILF&actionDate=1746616738000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Partners Value Invts LP]]></category>
+<pink:symbol>PVILF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Partners Value Invts LP (PVFPF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVFPF&actionDate=1746616697000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVFPF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVFPF">PVFPF</a>: OTC Link) - Venue Change - The symbol, PVFPF, no longer trades on Grey Market.  As of Wed, May 07, 2025, PVFPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 07:18:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVFPF&actionDate=1746616697000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Partners Value Invts LP]]></category>
+<pink:symbol>PVFPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BROOKFIELD CORP. (BKPA: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKPA&actionDate=1746616658000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKPA/company-info">BROOKFIELD CORP.</a> (<a href="http://www.otcmarkets.com/stock/BKPA">BKPA</a>: OTC Link) - Venue Change - The symbol, BKPA, no longer trades on Grey Market.  As of Wed, May 07, 2025, BKPA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 07:17:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKPA&actionDate=1746616658000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BROOKFIELD CORP.]]></category>
+<pink:symbol>BKPA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD. (AQBMF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AQBMF&actionDate=1746600457000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AQBMF/company-info">AUSTRALIAN UNITED INVESTMENT CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/AQBMF">AQBMF</a>: OTC Link) - Venue Change - The symbol, AQBMF, no longer trades on Grey Market.  As of Wed, May 07, 2025, AQBMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -946,42 +982,6 @@ OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
 <pink:symbol>SNEHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[IsoEnergy Ltd. (ISOU: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISOU&actionDate=1746442450000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ISOU/company-info">IsoEnergy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ISOU">ISOU</a>: NYSE MKT) - Venue Change - The symbol, ISOU, no longer trades on OTC Link.  As of Mon, May 05, 2025, ISOU trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 06:54:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISOU&actionDate=1746442450000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[IsoEnergy Ltd.]]></category>
-<pink:symbol>ISOU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN (RSNBF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RSNBF&actionDate=1746427374000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RSNBF/company-info">ROSENBAUER INTERNATIONAL AGAKTIEN</a> (<a href="http://www.otcmarkets.com/stock/RSNBF">RSNBF</a>: OTC Link) - Venue Change - The symbol, RSNBF, no longer trades on Grey Market.  As of Mon, May 05, 2025, RSNBF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 02:42:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RSNBF&actionDate=1746427374000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN]]></category>
-<pink:symbol>RSNBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LK Technology Holdings Ltd. (LKTEF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LKTEF&actionDate=1746427357000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LKTEF/company-info">LK Technology Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LKTEF">LKTEF</a>: OTC Link) - Venue Change - The symbol, LKTEF, no longer trades on Grey Market.  As of Mon, May 05, 2025, LKTEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 02:42:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LKTEF&actionDate=1746427357000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LK Technology Holdings Ltd.]]></category>
-<pink:symbol>LKTEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1790,6 +1790,30 @@ OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Partners Value Invts LP (PVILF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVILF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVILF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVILF">PVILF</a>: Pink Current) - Tier Change - The symbol, PVILF, no longer is classified as Grey Market.  As of Wed, May 07, 2025, PVILF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVILF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Partners Value Invts LP]]></category>
+<pink:symbol>PVILF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Partners Value Invts LP (PVFPF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVFPF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVFPF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVFPF">PVFPF</a>: Pink Current) - Tier Change - The symbol, PVFPF, no longer is classified as Grey Market.  As of Wed, May 07, 2025, PVFPF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVFPF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Partners Value Invts LP]]></category>
+<pink:symbol>PVFPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Oxford Bank Corporation (OXBC: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OXBC&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OXBC/company-info">Oxford Bank Corporation</a> (<a href="http://www.otcmarkets.com/stock/OXBC">OXBC</a>: Pink Current) - Tier Change - The symbol, OXBC, no longer is classified as Pink Limited.  As of Wed, May 07, 2025, OXBC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1798,30 +1822,6 @@ OTC RSS mirror fetched: Wed May  7 11:32:26 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Oxford Bank Corporation]]></category>
 <pink:symbol>OXBC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Osceola Gold, Inc. (OSCI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OSCI&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OSCI/company-info">Osceola Gold, Inc.</a> (<a href="http://www.otcmarkets.com/stock/OSCI">OSCI</a>: Pink Current) - Tier Change - The symbol, OSCI, no longer is classified as Expert Market.  As of Wed, May 07, 2025, OSCI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OSCI&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Osceola Gold, Inc.]]></category>
-<pink:symbol>OSCI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Minera IRL Ltd (MRLLY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRLLY/company-info">Minera IRL Ltd</a> (<a href="http://www.otcmarkets.com/stock/MRLLY">MRLLY</a>: Pink Current) - Tier Change - The symbol, MRLLY, no longer is classified as Expert Market.  As of Wed, May 07, 2025, MRLLY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minera IRL Ltd]]></category>
-<pink:symbol>MRLLY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
