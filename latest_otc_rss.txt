@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 07:27:43 UTC 2025
+OTC RSS mirror fetched: Wed May  7 07:37:34 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 07:27:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 03:07:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 03:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paladin Energy Ltd. (PALAF: OTCQX International) | Initial Director's Interest Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=476371]]></link>
+<pubDate>Wed, 07 May 2025 03:35:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=476371]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paladin Energy Ltd.]]></category>
+<pink:symbol>PALAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Universal New Energy Holding Group, Inc. (UNEH: Pink Current) | Universal New Energy Holding Group, Inc. Files Invention and Utility Patents to Accelerate Battery Innovation and Growth]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/UNEH/news?id=476368]]></link>
@@ -601,18 +613,6 @@ OTC RSS mirror fetched: Wed May  7 07:27:43 UTC 2025
 <pink:symbol>BCHPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | 175m @ 2.5% Copper from 7.6m, hole ends in 4.46% Copper & open at depth]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=476155]]></link>
-<pubDate>Mon, 05 May 2025 19:48:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=476155]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[White Cliff Minerals Ltd]]></category>
-<pink:symbol>WCMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
