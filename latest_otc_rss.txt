@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 16:20:22 UTC 2025
+OTC RSS mirror fetched: Wed May  7 16:50:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May  7 16:20:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 12:06:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 12:46:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[American Films, Inc. (AMFL: Pink Current) | American Films, Inc. Recognizes the Ownership of 200 million Grove Street Tokens]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AMFL/news?id=476477]]></link>
+<pubDate>Wed, 07 May 2025 12:44:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMFL/news?id=476477]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[American Films, Inc.]]></category>
+<pink:symbol>AMFL</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[E-Buy Home Inc. (EBYH: Pink Current) | Strainsforpains, Inc. Shareholder Update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EBYH/news?id=476471]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Wed May  7 16:20:22 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476264]]></link>
 <pubDate>Tue, 06 May 2025 10:15:45 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476264]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORSK TITANIUM AS]]></category>
-<pink:symbol>NORSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NORSK TITANIUM AS (NORSF: OTCQX International) | Norsk Titanium: Invitation to operational update of first quarter 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476263]]></link>
-<pubDate>Tue, 06 May 2025 10:05:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476263]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NORSK TITANIUM AS]]></category>
 <pink:symbol>NORSF</pink:symbol>
@@ -1620,6 +1620,30 @@ OTC RSS mirror fetched: Wed May  7 16:20:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Ford Otomotiv Sanayi AS (FOVSY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283706]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:17 - <a href="http://www.otcmarkets.com/stock/FOVSY/company-info">Ford Otomotiv Sanayi AS</a> (<a href="http://www.otcmarkets.com/stock/FOVSY">FOVSY</a>: Pink Limited) - Scheduled Ex-Dividend - Ford Otomotiv Sanayi AS has announced a dividend ex-date for (FOVSY: Pink Limited). Ford Otomotiv Sanayi AS is scheduled to disburse a Stock Dividend/Split dividend of 10 shares on Thu, May 22, 2025 to shareholders of FOVSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 12:17:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283706]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ford Otomotiv Sanayi AS]]></category>
+<pink:symbol>FOVSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ford Otomotiv Sanayi AS (FOVSY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283705]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:14 - <a href="http://www.otcmarkets.com/stock/FOVSY/company-info">Ford Otomotiv Sanayi AS</a> (<a href="http://www.otcmarkets.com/stock/FOVSY">FOVSY</a>: Pink Limited) - Scheduled Ex-Dividend - Ford Otomotiv Sanayi AS has announced a dividend ex-date for (FOVSY: Pink Limited). Ford Otomotiv Sanayi AS is scheduled to disburse a Stock Dividend/Split dividend of 10 shares on Fri, May 16, 2025 to shareholders of FOVSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 12:14:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283705]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ford Otomotiv Sanayi AS]]></category>
+<pink:symbol>FOVSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Bachem Holding AG (BCHMY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283658]]></link>
 <description><![CDATA[Tue, May 06, 2025 05:21 - <a href="http://www.otcmarkets.com/stock/BCHMY/company-info">Bachem Holding AG</a> (<a href="http://www.otcmarkets.com/stock/BCHMY">BCHMY</a>: Pink Limited) - Scheduled Ex-Dividend - Bachem Holding AG has announced a dividend ex-date for (BCHMY: Pink Limited). Bachem Holding AG is scheduled to disburse a Cash Dividend dividend of $0.0233 on Mon, May 12, 2025 to shareholders of BCHMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1714,30 +1738,6 @@ OTC RSS mirror fetched: Wed May  7 16:20:22 UTC 2025
 <pink:symbol>MVLY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Security Federal Corp. (SFDL: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283695]]></link>
-<description><![CDATA[Tue, May 06, 2025 03:17 - <a href="http://www.otcmarkets.com/stock/SFDL/company-info">Security Federal Corp.</a> (<a href="http://www.otcmarkets.com/stock/SFDL">SFDL</a>: Pink Current) - Scheduled Ex-Dividend - Security Federal Corp. has announced a dividend ex-date for (SFDL: Pink Current). Security Federal Corp. is scheduled to disburse a Cash Dividend dividend of $0.15 on Fri, May 30, 2025 to shareholders of SFDL. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 15:17:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283695]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Security Federal Corp.]]></category>
-<pink:symbol>SFDL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bakkafrost PF (BKFKY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283659]]></link>
-<description><![CDATA[Tue, May 06, 2025 02:46 - <a href="http://www.otcmarkets.com/stock/BKFKY/company-info">Bakkafrost PF</a> (<a href="http://www.otcmarkets.com/stock/BKFKY">BKFKY</a>: Pink Limited) - Scheduled Ex-Dividend - Bakkafrost PF has announced a dividend ex-date for (BKFKY: Pink Limited). Bakkafrost PF is scheduled to disburse a Cash Dividend dividend of $0.27569 on Fri, May 16, 2025 to shareholders of BKFKY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 14:46:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283659]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bakkafrost PF]]></category>
-<pink:symbol>BKFKY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Yuka Group Inc. (YUKA: Pink Current) | Tier Change]]></title>
