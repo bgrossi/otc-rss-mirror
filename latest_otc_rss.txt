@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
+OTC RSS mirror fetched: Wed May  7 11:07:24 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 06:36:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 07:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | Successful initial results from State 36-2R well production test]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=476375]]></link>
+<pubDate>Wed, 07 May 2025 07:00:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=476375]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ZEPHYR ENERGY PLC.]]></category>
+<pink:symbol>ZPHRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | TRADING STATEMENT FOR THE YEAR ENDED 28 FEBRUARY 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=476382]]></link>
@@ -604,18 +616,6 @@ OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475984]]></link>
-<pubDate>Tue, 06 May 2025 02:00:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=475984]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -986,6 +986,18 @@ OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Groovy Company Inc (SANP: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SANP&actionDate=1746615961000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Groovy Company Inc</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANP</a>: Pink Current) - Symbol Change - The symbol, SANP, is no longer a valid symbol for Groovy Company Inc.  As of Wed, May 07, 2025, the new trading symbol is SANPD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 07:06:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SANP&actionDate=1746615961000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Groovy Company Inc]]></category>
+<pink:symbol>SANPD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Aryzta AG (ARZTF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ARZTF&actionDate=1746529097000]]></link>
 <description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTF</a>: Pink Limited) - Symbol Change - The symbol, ARZTF, is no longer a valid symbol for Aryzta AG.  As of Tue, May 06, 2025, the new trading symbol is ARZTD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1094,18 +1106,6 @@ OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Starbox Group Holdings Ltd. (STBX: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=STBX&actionDate=1746421253000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBX</a>: Pink Current) - Symbol Change - The symbol, STBX, is no longer a valid symbol for Starbox Group Holdings Ltd..  As of Mon, May 05, 2025, the new trading symbol is STBXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=STBX&actionDate=1746421253000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Starbox Group Holdings Ltd.]]></category>
-<pink:symbol>STBXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Santo Mining Corp (SANPD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SANPD&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Santo Mining Corp</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANPD</a>: Pink Current) - Company Name Change - Santo Mining Corp has changed its name to Groovy Company Inc. The change goes into effect as of Wed, May 07, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1186,6 +1186,18 @@ OTC RSS mirror fetched: Wed May  7 10:50:25 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Aben Minerals Ltd.]]></category>
 <pink:symbol>ABNAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Groovy Company Inc (SANP: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SANP&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Groovy Company Inc</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANP</a>: Pink Current) - Splits - Effective Wed, May 07, 2025, SANP: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 2500 split. Due to the split, SANP is no longer valid. The new trading symbol is SANPD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SANP&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Groovy Company Inc]]></category>
+<pink:symbol>SANPD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
