@@ -9,10 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+    # ---------------------------------------------------------------
+    # 0.  Check out repo
+    # ---------------------------------------------------------------
     - uses: actions/checkout@v3
 
-    # ------------------------- 1. Download full feed -------------------------
-    - name: Fetch RSS with fallback
+    # ---------------------------------------------------------------
+    # 1.  Fetch RSS (primary + fallback)
+    # ---------------------------------------------------------------
+    - name: Fetch RSS feed
       run: |
         set -e
         UA="Mozilla/5.0 ChatGPT‑RSS‑Mirror"
@@ -26,39 +32,42 @@ jobs:
              https://content.otcmarkets.com/syndicate/rss.xml
         test -s rss_full.xml
 
-     # ------------------------- 1a. Install xmlint -------------------------
-    - name: Install xmllint
+    # ---------------------------------------------------------------
+    # 2.  Trim to latest 250 <item> blocks
+    #     + Python well‑formed‑ness check (fast, no deps)
+    # ---------------------------------------------------------------
+    - name: Trim and validate
       run: |
-        sudo apt-get update -qq
-        sudo apt-get install -yqq libxml2-utils
-
-
-    # ------------------------- 2. keep first 250 <item> -----------------------
-    - name: Trim to latest 250 <item> blocks (keep XML well‑formed)
-      run: |
-        # awk prints until the closing tag of the 250‑th item, leaving header intact
+        # keep header + up to 250 <item> entries
         awk '
           /<item>/ {c++}
           c<=250   {print}
           /<\/item>/ && c==250 {exit}
         ' rss_full.xml > rss_trimmed.xml
 
-        # quick XML well‑formed‑ness check; fail job if broken
-        xmllint --noout rss_trimmed.xml
+        # sanity check: is it well‑formed XML?
+        python - <<'PY'
+import sys, xml.etree.ElementTree as ET
+try:
+    ET.parse("rss_trimmed.xml")
+except ET.ParseError as e:
+    print("Malformed XML:", e); sys.exit(1)
+PY
 
         {
           echo "OTC RSS mirror fetched: $(date -u)"
           cat  rss_trimmed.xml
         } > latest_otc_rss.txt
 
-    # ------------------------- 3. Commit & push if changed --------------------
+    # ---------------------------------------------------------------
+    # 3.  Commit & push only if the file actually changed
+    # ---------------------------------------------------------------
     - name: Commit & push
-      if: success()
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git config user.name  "github‑actions[bot]"
+        git config user.name  "github-actions[bot]"
         git add latest_otc_rss.txt
         git diff --cached --quiet || git commit -m "chore: update trimmed RSS [skip ci]"
         git push
