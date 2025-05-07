@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
+OTC RSS mirror fetched: Wed May  7 07:09:12 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 02:36:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 03:07:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Universal New Energy Holding Group, Inc. (UNEH: Pink Current) | Universal New Energy Holding Group, Inc. Files Invention and Utility Patents to Accelerate Battery Innovation and Growth]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/UNEH/news?id=476368]]></link>
+<pubDate>Wed, 07 May 2025 02:38:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UNEH/news?id=476368]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Universal New Energy Holding Group, Inc.]]></category>
+<pink:symbol>UNEH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476273]]></link>
@@ -604,18 +616,6 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD. (GUELF: OTCQB) | Positive Scoping Study - Tallahassee Uranium Project]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=476151]]></link>
-<pubDate>Mon, 05 May 2025 19:24:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GUELF/news?id=476151]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GLOBAL URANIUM & ENRICHMENT LTD.]]></category>
-<pink:symbol>GUELF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -866,6 +866,66 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD. (AQBMF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AQBMF&actionDate=1746600457000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AQBMF/company-info">AUSTRALIAN UNITED INVESTMENT CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/AQBMF">AQBMF</a>: OTC Link) - Venue Change - The symbol, AQBMF, no longer trades on Grey Market.  As of Wed, May 07, 2025, AQBMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 02:47:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AQBMF&actionDate=1746600457000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD.]]></category>
+<pink:symbol>AQBMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTUF&actionDate=1746600457000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTUF/company-info">VESTUM AB</a> (<a href="http://www.otcmarkets.com/stock/VSTUF">VSTUF</a>: OTC Link) - Venue Change - The symbol, VSTUF, no longer trades on Grey Market.  As of Wed, May 07, 2025, VSTUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 02:47:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTUF&actionDate=1746600457000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VESTUM AB]]></category>
+<pink:symbol>VSTUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCB X PUB CO LTD. (SCBXY: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SCBXY&actionDate=1746600457000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCBXY/company-info">SCB X PUB CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/SCBXY">SCBXY</a>: OTC Link) - Venue Change - The symbol, SCBXY, no longer trades on Grey Market.  As of Wed, May 07, 2025, SCBXY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 02:47:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SCBXY&actionDate=1746600457000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCB X PUB CO LTD.]]></category>
+<pink:symbol>SCBXY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Affin Holdings Bhd (AFNHF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AFNHF&actionDate=1746600456000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: OTC Link) - Venue Change - The symbol, AFNHF, no longer trades on Grey Market.  As of Wed, May 07, 2025, AFNHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 02:47:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AFNHF&actionDate=1746600456000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Affin Holdings Bhd]]></category>
+<pink:symbol>AFNHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tokyo Ohka Kogyo Co., Ltd. (TKCYY: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKCYY&actionDate=1746600456000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKCYY/company-info">Tokyo Ohka Kogyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TKCYY">TKCYY</a>: OTC Link) - Venue Change - The symbol, TKCYY, no longer trades on Grey Market.  As of Wed, May 07, 2025, TKCYY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 02:47:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TKCYY&actionDate=1746600456000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tokyo Ohka Kogyo Co., Ltd.]]></category>
+<pink:symbol>TKCYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tecogen Inc (TGEN: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TGEN&actionDate=1746528897000]]></link>
 <description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGEN/company-info">Tecogen Inc</a> (<a href="http://www.otcmarkets.com/stock/TGEN">TGEN</a>: NYSE MKT) - Venue Change - The symbol, TGEN, no longer trades on OTC Link.  As of Tue, May 06, 2025, TGEN trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -926,52 +986,16 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMTF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMTF&actionDate=1746421255000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMTF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMTF">AIMTF</a>: OTC Link) - Venue Change - The symbol, AIMTF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMTF&actionDate=1746421255000]]></guid>
+<title><![CDATA[Aryzta AG (ARZTF: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ARZTF&actionDate=1746529097000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTF</a>: Pink Limited) - Symbol Change - The symbol, ARZTF, is no longer a valid symbol for Aryzta AG.  As of Tue, May 06, 2025, the new trading symbol is ARZTD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 06:58:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ARZTF&actionDate=1746529097000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMTF</pink:symbol>
+<category><![CDATA[Aryzta AG]]></category>
+<pink:symbol>ARZTD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMWF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMWF&actionDate=1746421254000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMWF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMWF">AIMWF</a>: OTC Link) - Venue Change - The symbol, AIMWF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMWF&actionDate=1746421254000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMUF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMUF&actionDate=1746421254000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMUF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMUF">AIMUF</a>: OTC Link) - Venue Change - The symbol, AIMUF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, AIMUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIMUF&actionDate=1746421254000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Starbox Group Holdings Ltd. (STBXF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STBXF&actionDate=1746421253000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBXF</a>: OTC Link) - Venue Change - The symbol, STBXF, no longer trades on Nasdaq.  As of Mon, May 05, 2025, STBXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STBXF&actionDate=1746421253000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Starbox Group Holdings Ltd.]]></category>
-<pink:symbol>STBXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Acasia Technology, Inc. (NPLS: Pink Current) | Symbol Change]]></title>
@@ -1082,18 +1106,6 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[GOLD FINDER RES LTD. (NCMBF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NCMBF&actionDate=1746421252000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLDFF/company-info">GOLD FINDER RES LTD.</a> (<a href="http://www.otcmarkets.com/stock/GLDFF">NCMBF</a>: Pink Current) - Symbol Change - The symbol, NCMBF, is no longer a valid symbol for GOLD FINDER RES LTD..  As of Mon, May 05, 2025, the new trading symbol is GLDFF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NCMBF&actionDate=1746421252000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLD FINDER RES LTD.]]></category>
-<pink:symbol>GLDFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Santo Mining Corp (SANPD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SANPD&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Santo Mining Corp</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANPD</a>: Pink Current) - Company Name Change - Santo Mining Corp has changed its name to Groovy Company Inc. The change goes into effect as of Wed, May 07, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1178,6 +1190,18 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Aryzta AG (ARZTF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ARZTF&actionDate=1746504000000]]></link>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTF</a>: Pink Limited) - Splits - Effective Tue, May 06, 2025, ARZTF: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 40 split. Due to the split, ARZTF is no longer valid. The new trading symbol is ARZTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ARZTF&actionDate=1746504000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aryzta AG]]></category>
+<pink:symbol>ARZTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Groovy Company Inc (SANP: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SANP&actionDate=1746594041000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - Groovy Company Inc (SANP: OTC Link) - Deleted Symbol - As of Wed, May 07, 2025, SANP is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1214,16 +1238,16 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Affin Holdings Bhd (AFNHF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Affin Holdings Bhd (AFNHF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AFNHF&actionDate=1746565641000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: Grey Market) - Reactivated Symbol -  The symbol, AFNHF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: Pink Limited) - Reactivated Symbol -  The symbol, AFNHF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 06 May 2025 17:07:21 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AFNHF&actionDate=1746565641000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Affin Holdings Bhd]]></category>
 <pink:symbol>AFNHF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sokoman Minerals Corp. (SICNF: OTCQB) | Deleted Symbol]]></title>
@@ -1308,6 +1332,90 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:symbol>SVTNF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTUF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTUF/company-info">VESTUM AB</a> (<a href="http://www.otcmarkets.com/stock/VSTUF">VSTUF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, VSTUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTUF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VESTUM AB]]></category>
+<pink:symbol>VSTUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tokyo Ohka Kogyo Co., Ltd. (TKCYY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKCYY&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKCYY/company-info">Tokyo Ohka Kogyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TKCYY">TKCYY</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, TKCYY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKCYY&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tokyo Ohka Kogyo Co., Ltd.]]></category>
+<pink:symbol>TKCYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCB X PUB CO LTD. (SCBXY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SCBXY&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCBXY/company-info">SCB X PUB CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/SCBXY">SCBXY</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, SCBXY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SCBXY&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCB X PUB CO LTD.]]></category>
+<pink:symbol>SCBXY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD. (MCBMF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCBMF/company-info">MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.</a> (<a href="http://www.otcmarkets.com/stock/MCBMF">MCBMF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, MCBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.]]></category>
+<pink:symbol>MCBMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aryzta AG (ARZTD: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ARZTD&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTD</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, ARZTD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ARZTD&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aryzta AG]]></category>
+<pink:symbol>ARZTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD. (AQBMF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AQBMF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AQBMF/company-info">AUSTRALIAN UNITED INVESTMENT CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/AQBMF">AQBMF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, May 07, 2025, AQBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AQBMF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD.]]></category>
+<pink:symbol>AQBMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Affin Holdings Bhd (AFNHF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFNHF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, AFNHF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFNHF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Affin Holdings Bhd]]></category>
+<pink:symbol>AFNHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sokoman Minerals Corp. (SICNF: OTCQB) | Piggyback Qualified]]></title>
@@ -1622,6 +1730,18 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSTUF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTUF/company-info">VESTUM AB</a> (<a href="http://www.otcmarkets.com/stock/VSTUF">VSTUF</a>: Pink Limited) - Tier Change - The symbol, VSTUF, no longer is classified as Grey Market.  As of Wed, May 07, 2025, VSTUF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSTUF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VESTUM AB]]></category>
+<pink:symbol>VSTUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Vanguard Green Investment Limited (VGES: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VGES&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VGES/company-info">Vanguard Green Investment Limited</a> (<a href="http://www.otcmarkets.com/stock/VGES">VGES</a>: OTCQB) - Tier Change - The symbol, VGES, no longer is classified as Pink Current.  As of Wed, May 07, 2025, VGES resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1632,6 +1752,30 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:symbol>VGES</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tokyo Ohka Kogyo Co., Ltd. (TKCYY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKCYY&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKCYY/company-info">Tokyo Ohka Kogyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TKCYY">TKCYY</a>: Pink Limited) - Tier Change - The symbol, TKCYY, no longer is classified as Grey Market.  As of Wed, May 07, 2025, TKCYY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKCYY&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tokyo Ohka Kogyo Co., Ltd.]]></category>
+<pink:symbol>TKCYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCB X PUB CO LTD. (SCBXY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SCBXY&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCBXY/company-info">SCB X PUB CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/SCBXY">SCBXY</a>: Pink Limited) - Tier Change - The symbol, SCBXY, no longer is classified as Grey Market.  As of Wed, May 07, 2025, SCBXY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SCBXY&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCB X PUB CO LTD.]]></category>
+<pink:symbol>SCBXY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Oxford Bank Corporation (OXBC: Pink Current) | Tier Change]]></title>
@@ -1658,50 +1802,14 @@ OTC RSS mirror fetched: Wed May  7 06:53:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Ladybug Resource Group, Inc. (LBRG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LBRG&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LBRG/company-info">Ladybug Resource Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LBRG">LBRG</a>: Pink Current) - Tier Change - The symbol, LBRG, no longer is classified as Pink Limited.  As of Wed, May 07, 2025, LBRG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Minera IRL Ltd (MRLLY: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRLLY/company-info">Minera IRL Ltd</a> (<a href="http://www.otcmarkets.com/stock/MRLLY">MRLLY</a>: Pink Current) - Tier Change - The symbol, MRLLY, no longer is classified as Expert Market.  As of Wed, May 07, 2025, MRLLY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LBRG&actionDate=1746590400000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRLLY&actionDate=1746590400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ladybug Resource Group, Inc.]]></category>
-<pink:symbol>LBRG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aspira Women's Health Inc. (AWHL: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AWHL&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AWHL/company-info">Aspira Women's Health Inc.</a> (<a href="http://www.otcmarkets.com/stock/AWHL">AWHL</a>: OTCQB) - Tier Change - The symbol, AWHL, no longer is classified as Pink Current.  As of Wed, May 07, 2025, AWHL resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AWHL&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aspira Women's Health Inc.]]></category>
-<pink:symbol>AWHL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[VICINITY MTR CORP. (VEVMQ: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEVMQ&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VEVMQ/company-info">VICINITY MTR CORP.</a> (<a href="http://www.otcmarkets.com/stock/VEVMQ">VEVMQ</a>: Pink Limited) - Tier Change - The symbol, VEVMQ, no longer is classified as Pink Current.  As of Tue, May 06, 2025, VEVMQ resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEVMQ&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VICINITY MTR CORP.]]></category>
-<pink:symbol>VEVMQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Umbra Companies Inc. (UCIX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UCIX/company-info">Umbra Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/UCIX">UCIX</a>: Pink Current) - Tier Change - The symbol, UCIX, no longer is classified as Pink Limited.  As of Tue, May 06, 2025, UCIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Umbra Companies Inc.]]></category>
-<pink:symbol>UCIX</pink:symbol>
+<category><![CDATA[Minera IRL Ltd]]></category>
+<pink:symbol>MRLLY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
