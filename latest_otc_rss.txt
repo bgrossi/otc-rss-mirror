@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 17:41:57 UTC 2025
+OTC RSS mirror fetched: Wed May  7 17:53:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May  7 17:41:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 13:26:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 13:46:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Arsenal Digital Holdings Inc. (ADHI: Pink Current) | Arsenal Digital Holdings Announces Strategic Positioning, Growth Milestone, and New Ownership of Preferred A Share]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADHI/news?id=476483]]></link>
+<pubDate>Wed, 07 May 2025 13:46:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADHI/news?id=476483]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Arsenal Digital Holdings Inc.]]></category>
+<pink:symbol>ADHI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Arsenal Digital Holdings Inc. (ADHI: Pink Current) | Correction: Arsenal Digital Holdings, Inc. (OTC:ADHI) Advances South Texas Facility with Successful Capital Raise & Directors Stock Transaction]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADHI/news?id=476482]]></link>
+<pubDate>Wed, 07 May 2025 13:42:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADHI/news?id=476482]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Arsenal Digital Holdings Inc.]]></category>
+<pink:symbol>ADHI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[American Films, Inc. (AMFL: Pink Current) | American Films, Inc. Recognizes the Ownership of 200 million Grove Street Tokens]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AMFL/news?id=476477]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May  7 17:41:57 UTC 2025
 <pink:symbol>DTRK</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Peloton Minerals Corporation (PMCCF: OTCQB) | Drilling Permits Approved for North Elko Lithium Project, Nevada]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PMCCF/news?id=476267]]></link>
-<pubDate>Tue, 06 May 2025 10:43:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PMCCF/news?id=476267]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Peloton Minerals Corporation]]></category>
-<pink:symbol>PMCCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NORSK TITANIUM AS (NORSF: OTCQX International) | Norsk Titanium AS - Annual general meeting held]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476264]]></link>
-<pubDate>Tue, 06 May 2025 10:15:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=476264]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORSK TITANIUM AS]]></category>
-<pink:symbol>NORSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
