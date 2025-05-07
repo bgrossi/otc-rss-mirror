@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 19:51:32 UTC 2025
+OTC RSS mirror fetched: Wed May  7 20:24:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May  7 19:51:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 15:46:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 16:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | GAD OFFERS NO PLAN FOR FUTURE OF PARAGON]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476486]]></link>
+<pubDate>Wed, 07 May 2025 16:05:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476486]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Oconee Financial Corp. (OSBK: OTCQX U.S.) | Oconee Financial Corporation Reports First Quarter 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OSBK/news?id=476478]]></link>
+<pubDate>Wed, 07 May 2025 16:01:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OSBK/news?id=476478]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Oconee Financial Corp.]]></category>
+<pink:symbol>OSBK</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Arsenal Digital Holdings Inc. (ADHI: Pink Current) | Arsenal Digital Holdings Announces Strategic Positioning, Growth Milestone, and New Ownership of Preferred A Share]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ADHI/news?id=476483]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May  7 19:51:32 UTC 2025
 <pink:symbol>RVBR</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Unveils Strategy to Capitalize on VC Slowdown Through Public Markets]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=476271]]></link>
-<pubDate>Tue, 06 May 2025 11:59:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=476271]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ECGI Holdings Inc.]]></category>
-<pink:symbol>ECGI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Current) | Global CRO Enters Into Enterprise Agreement With Datatrak]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=476269]]></link>
-<pubDate>Tue, 06 May 2025 11:11:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=476269]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DATATRAK International, Inc.]]></category>
-<pink:symbol>DTRK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
