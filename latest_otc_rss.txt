@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 05:47:09 UTC 2025
+OTC RSS mirror fetched: Wed May  7 06:12:41 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 05:47:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 01:36:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 02:06:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476273]]></link>
+<pubDate>Wed, 07 May 2025 02:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476273]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: OTCQX International) | AMSC ASA (under liquidation) - Ex dividend today]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASCJF/news?id=476242]]></link>
@@ -601,18 +613,6 @@ OTC RSS mirror fetched: Wed May  7 05:47:09 UTC 2025
 <pink:symbol>GUELF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Silex Systems Ltd. (SILXY: OTCQX International) | Uranium Enrichment Project Update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=476149]]></link>
-<pubDate>Mon, 05 May 2025 18:59:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=476149]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Silex Systems Ltd.]]></category>
-<pink:symbol>SILXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
