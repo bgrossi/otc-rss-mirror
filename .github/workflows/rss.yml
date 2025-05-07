@@ -26,6 +26,13 @@ jobs:
              https://content.otcmarkets.com/syndicate/rss.xml
         test -s rss_full.xml
 
+     # ------------------------- 1a. Install xmlint -------------------------
+    - name: Install xmllint
+      run: |
+        sudo apt-get update -qq
+        sudo apt-get install -yqq libxml2-utils
+
+
     # ------------------------- 2. keep first 250 <item> -----------------------
     - name: Trim to latest 250 <item> blocks (keep XML well‑formed)
       run: |
