@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 03:26:16 UTC 2025
+OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 03:26:16 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 23:06:29 EDT</lastBuildDate>
+<lastBuildDate>Tue, 06 May 2025 23:36:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[AXP Energy Ltd. (AUNXF: Pink Current) | Results of 7 May 2025 General Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AUNXF/news?id=476363]]></link>
+<pubDate>Tue, 06 May 2025 23:27:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AUNXF/news?id=476363]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AXP Energy Ltd.]]></category>
+<pink:symbol>AUNXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Frontier Energy Limited (FRHYF: OTCQB) | Corporate Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FRHYF/news?id=476362]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 03:26:16 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Paragon Technologies, Inc.]]></category>
 <pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pennexx Foods, Inc. (PNNX: Pink Current) | Pennexx Foods, Inc. (PNNX) Launches Revolutionary "Your Social Offers" Coupon Savings App on Apple iTunes Store May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=476120]]></link>
-<pubDate>Mon, 05 May 2025 13:38:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=476120]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pennexx Foods, Inc.]]></category>
-<pink:symbol>PNNX</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
