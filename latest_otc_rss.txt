@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
+OTC RSS mirror fetched: Wed May  7 16:19:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 09:46:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 12:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[E-Buy Home Inc. (EBYH: Pink Current) | Strainsforpains, Inc. Shareholder Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EBYH/news?id=476471]]></link>
+<pubDate>Wed, 07 May 2025 11:26:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EBYH/news?id=476471]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[E-Buy Home Inc.]]></category>
+<pink:symbol>EBYH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bell Buckle Holdings, Inc. (BLLB: Pink Current) | Bell Buckle Holdings Announces Ownership in Fanalytics.ai]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BLLB/news?id=476468]]></link>
+<pubDate>Wed, 07 May 2025 10:42:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLLB/news?id=476468]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bell Buckle Holdings, Inc.]]></category>
+<pink:symbol>BLLB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Quarterly Dividend Release]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=476466]]></link>
+<pubDate>Wed, 07 May 2025 10:33:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=476466]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Honat Bancorp, Inc.]]></category>
+<pink:symbol>HONT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[International Endeavors Corp (IDVV: Pink Current) | Appointment of New Board Members and Executive Officers]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=476465]]></link>
+<pubDate>Wed, 07 May 2025 10:13:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=476465]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Endeavors Corp]]></category>
+<pink:symbol>IDVV</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[CREATD INC. (CRTD: Pink Current) | Gary Herman Joins Flyte’s Board of Advisors and Assumes Strategic Role with CEOBLOC]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CRTD/news?id=476462]]></link>
@@ -566,54 +614,6 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Ark Mines Limited (AHKMF: OTCQB) | Cleansing Notice]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476256]]></link>
-<pubDate>Tue, 06 May 2025 09:24:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476256]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ark Mines Limited]]></category>
-<pink:symbol>AHKMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ark Mines Limited (AHKMF: OTCQB) | Share Placement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476255]]></link>
-<pubDate>Tue, 06 May 2025 09:23:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AHKMF/news?id=476255]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ark Mines Limited]]></category>
-<pink:symbol>AHKMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vertex Minerals Ltd. (VTXXF: OTCQB) | Appointment of Jount Chief Financial Officers]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/news?id=476254]]></link>
-<pubDate>Tue, 06 May 2025 09:17:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/news?id=476254]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vertex Minerals Ltd.]]></category>
-<pink:symbol>VTXXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Carnegie Clean Energy Ltd. (CWGYF: OTCQB) | MOU with Chugachmiut for CETO]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=476240]]></link>
-<pubDate>Tue, 06 May 2025 08:42:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=476240]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Carnegie Clean Energy Ltd.]]></category>
-<pink:symbol>CWGYF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746626739000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Venue Change - The symbol, VDEKF, no longer trades on OTC Link.  As of Wed, May 07, 2025, VDEKF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 10:05:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746626739000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Partners Value Invts LP (PVILF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVILF&actionDate=1746616738000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVILF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVILF">PVILF</a>: OTC Link) - Venue Change - The symbol, PVILF, no longer trades on Grey Market.  As of Wed, May 07, 2025, PVILF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:symbol>TGEN</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SNACK EMPIRE HOLDINGS LTD. (SNEHF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746443946000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNEHF/company-info">SNACK EMPIRE HOLDINGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/SNEHF">SNEHF</a>: OTC Link) - Venue Change - The symbol, SNEHF, no longer trades on Grey Market.  As of Mon, May 05, 2025, SNEHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 07:19:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SNEHF&actionDate=1746443946000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SNACK EMPIRE HOLDINGS LTD.]]></category>
-<pink:symbol>SNEHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Groovy Company Inc (SANP: Pink Current) | Symbol Change]]></title>
@@ -1212,6 +1212,18 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VDEKF&actionDate=1746626739000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Reactivated Symbol -  The symbol, VDEKF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 10:05:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VDEKF&actionDate=1746626739000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Groovy Company Inc (SANP: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SANP&actionDate=1746594041000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - Groovy Company Inc (SANP: OTC Link) - Deleted Symbol - As of Wed, May 07, 2025, SANP is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1320,16 +1332,16 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MXTRF&actionDate=1746421256000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - Montero Mining & Exploration, Ltd. (MXTRF: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, MXTRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MXTRF&actionDate=1746421256000]]></guid>
+<title><![CDATA[SCOTTIE RES CORP. (SCTSF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SCTSF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCTSF/company-info">SCOTTIE RES CORP.</a> (<a href="http://www.otcmarkets.com/stock/SCTSF">SCTSF</a>: OTCQB) - Halted Security -  Effective Wed, May 07, 2025, SCTSF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SCTSF&actionDate=1746590400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
-<pink:symbol>MXTRF</pink:symbol>
+<category><![CDATA[SCOTTIE RES CORP.]]></category>
+<pink:symbol>SCTSF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Halted Security]]></title>
@@ -1340,6 +1352,18 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Culpeo Minerals Limited]]></category>
 <pink:symbol>CPORF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cordoba Minerals Corp. (CDBMF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CDBMF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDBMF/company-info">Cordoba Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/CDBMF">CDBMF</a>: OTCQB) - Halted Security -  Effective Wed, May 07, 2025, CDBMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CDBMF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cordoba Minerals Corp.]]></category>
+<pink:symbol>CDBMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
@@ -1788,6 +1812,18 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746590400000]]></link>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Tier Change - The symbol, VDEKF, no longer is classified as Expert Market.  As of Wed, May 07, 2025, VDEKF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746590400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tokyo Ohka Kogyo Co., Ltd. (TKCYY: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKCYY&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKCYY/company-info">Tokyo Ohka Kogyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TKCYY">TKCYY</a>: Pink Limited) - Tier Change - The symbol, TKCYY, no longer is classified as Grey Market.  As of Wed, May 07, 2025, TKCYY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1820,18 +1856,6 @@ OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Partners Value Invts LP]]></category>
 <pink:symbol>PVILF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Partners Value Invts LP (PVFPF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVFPF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVFPF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVFPF">PVFPF</a>: Pink Current) - Tier Change - The symbol, PVFPF, no longer is classified as Grey Market.  As of Wed, May 07, 2025, PVFPF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVFPF&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Partners Value Invts LP]]></category>
-<pink:symbol>PVFPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
