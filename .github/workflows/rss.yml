@@ -6,7 +6,59 @@ on:
   workflow_dispatch:
 
 jobs:
-  sanity-test:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "YAML parsed fine 🎉"
+      - uses: actions/checkout@v3
+
+      - name: Fetch RSS
+        shell: bash
+        run: |
+          set -e
+          UA="Mozilla/5.0 ChatGPT-RSS-Mirror"
+          curl -sSL --http1.1 \
+               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://www.otcmarkets.com/syndicate/rss.xml || \
+          curl -sSLk --http1.1 \
+               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://content.otcmarkets.com/syndicate/rss.xml
+          test -s rss_full.xml
+
+      - name: Trim to 250 items & validate XML
+        shell: bash
+        run: |
+          awk '
+            /<item>/ {c++}
+            c<=250   {print}
+            /<\/item>/ && c==250 {exit}
+          ' rss_full.xml > rss_trimmed.xml
+
+          python - << "PY"
+import xml.etree.ElementTree as ET, sys
+try:
+    ET.parse("rss_trimmed.xml")
+except ET.ParseError as e:
+    sys.exit(f"XML malformed: {e}")
+PY
+
+          {
+            echo "OTC RSS mirror fetched: $(date -u)"
+            cat rss_trimmed.xml
+          } > latest_otc_rss.txt
+
+      - name: Commit & push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add latest_otc_rss.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update trimmed RSS [skip ci]"
+            git push
+          else
+            echo "No change – skipping commit"
+          fi
