@@ -1,6 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 13:40:44 UTC 2025
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel>
+OTC RSS mirror fetched: Wed May  7 13:51:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -13,8 +11,20 @@ OTC RSS mirror fetched: Wed May  7 13:40:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 09:26:30 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 09:46:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[CREATD INC. (CRTD: Pink Current) | Gary Herman Joins Flyte’s Board of Advisors and Assumes Strategic Role with CEOBLOC]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CRTD/news?id=476462]]></link>
+<pubDate>Wed, 07 May 2025 09:39:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRTD/news?id=476462]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CREATD INC.]]></category>
+<pink:symbol>CRTD</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[First Acceptance Corp. (FACO: OTCQX U.S.) | First Acceptance Corporation Announces 2025 Annual Meeting Proxy Voting Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FACO/news?id=476458]]></link>
@@ -601,18 +611,6 @@ OTC RSS mirror fetched: Wed May  7 13:40:44 UTC 2025
 <pink:symbol>CWGYF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[RTL Group SA (RGLXY: Pink Limited) | RGLXY - Books will close today, May 6, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RGLXY/news?id=476228]]></link>
-<pubDate>Tue, 06 May 2025 08:24:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RGLXY/news?id=476228]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RTL Group SA]]></category>
-<pink:symbol>RGLXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1839,4 +1837,3 @@ OTC RSS mirror fetched: Wed May  7 13:40:44 UTC 2025
 </item>
 </channel>
 </rss>
-</channel></rss>
