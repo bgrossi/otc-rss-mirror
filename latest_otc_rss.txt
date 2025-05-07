@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
+OTC RSS mirror fetched: Wed May  7 04:11:11 UTC 2025
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel>
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
@@ -13,8 +13,20 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 06 May 2025 23:36:29 EDT</lastBuildDate>
+<lastBuildDate>Wed, 07 May 2025 00:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Strategic Alternatives Announcement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=476344]]></link>
+<pubDate>Wed, 07 May 2025 00:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=476344]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lake Resources N.L.]]></category>
+<pink:symbol>LLKKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AXP Energy Ltd. (AUNXF: Pink Current) | Results of 7 May 2025 General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AUNXF/news?id=476363]]></link>
@@ -604,18 +616,6 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Consent Revocation Statement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476124]]></link>
-<pubDate>Mon, 05 May 2025 15:21:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476124]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -757,10 +757,10 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -768,10 +768,10 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -845,10 +845,10 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 </item>
 <item>
 <title><![CDATA[Vertex Minerals Ltd. (VTXXF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594]]></link>
-<description><![CDATA[Sat, Mar 08, 2025 - <a href="http://www.otcmarkets.com/stock/VTXXF/company-info">Vertex Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VTXXF">VTXXF</a>: OTCQB) released a Company Video called Vertex Minerals ramps up gold production. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594">http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></link>
+<description><![CDATA[Sat, Mar 08, 2025 - <a href="http://www.otcmarkets.com/stock/VTXXF/company-info">Vertex Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VTXXF">VTXXF</a>: OTCQB) released a Company Video called Noosa Mining Conference 2024 - Vertex Minerals. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593">http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593</a>.]]></description>
 <pubDate>Sat, 08 Mar 2025 00:00:00 EST</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
@@ -856,10 +856,10 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 </item>
 <item>
 <title><![CDATA[Vertex Minerals Ltd. (VTXXF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></link>
-<description><![CDATA[Sat, Mar 08, 2025 - <a href="http://www.otcmarkets.com/stock/VTXXF/company-info">Vertex Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VTXXF">VTXXF</a>: OTCQB) released a Company Video called Noosa Mining Conference 2024 - Vertex Minerals. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593">http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594]]></link>
+<description><![CDATA[Sat, Mar 08, 2025 - <a href="http://www.otcmarkets.com/stock/VTXXF/company-info">Vertex Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VTXXF">VTXXF</a>: OTCQB) released a Company Video called Vertex Minerals ramps up gold production. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594">http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594</a>.]]></description>
 <pubDate>Sat, 08 Mar 2025 00:00:00 EST</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186594]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
@@ -1142,54 +1142,6 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Sparebanken Vest AS (SPIZF: Pink Limited) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SPIZF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPIZF/company-info">Sparebanken Vest AS</a> (<a href="http://www.otcmarkets.com/stock/SPIZF">SPIZF</a>: Pink Limited) - Company Name Change - Sparebanken Vest AS has changed its name to SPAREBANKEN NORGE A S. The change goes into effect as of Mon, May 05, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SPIZF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sparebanken Vest AS]]></category>
-<pink:symbol>SPIZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DAIHATSU DIESEL MFG CO LTD. (DDMGF: Pink Limited) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=DDMGF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DDMGF/company-info">DAIHATSU DIESEL MFG CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/DDMGF">DDMGF</a>: Pink Limited) - Company Name Change - DAIHATSU DIESEL MFG CO LTD. has changed its name to DAIHATSU INFINEARTH MFG CO LTD.. The change goes into effect as of Mon, May 05, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=DDMGF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DAIHATSU DIESEL MFG CO LTD.]]></category>
-<pink:symbol>DDMGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tasman Resources NL (TASEF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TASEF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TASED/company-info">Tasman Resources NL</a> (<a href="http://www.otcmarkets.com/stock/TASED">TASEF</a>: Pink Current) - Splits - Effective Mon, May 05, 2025, TASEF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, TASEF is no longer valid. The new trading symbol is TASED. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TASEF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tasman Resources NL]]></category>
-<pink:symbol>TASED</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MXTRF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRD/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRD">MXTRF</a>: Pink Current) - Splits - Effective Mon, May 05, 2025, MXTRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 6 split. Due to the split, MXTRF is no longer valid. The new trading symbol is MXTRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MXTRF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
-<pink:symbol>MXTRD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Affin Holdings Bhd (AFNHF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AFNHF&actionDate=1746565641000]]></link>
 <description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: Grey Market) - Reactivated Symbol -  The symbol, AFNHF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1322,18 +1274,6 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Sanatana Resources Inc. (SADMF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SADMF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SADMF/company-info">Sanatana Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/SADMF">SADMF</a>: Pink Current) - Halted Security -  Effective Mon, May 05, 2025, SADMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SADMF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sanatana Resources Inc.]]></category>
-<pink:symbol>SADMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Sokoman Minerals Corp. (SICNF: OTCQB) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SICNF&actionDate=1746504000000]]></link>
 <description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SICNF/company-info">Sokoman Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/SICNF">SICNF</a>: OTCQB) - Piggyback Qualified -  Effective Tue, May 06, 2025, SICNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1368,78 +1308,6 @@ OTC RSS mirror fetched: Wed May  7 03:51:25 UTC 2025
 <pink:symbol>AHNRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Starbox Group Holdings Ltd. (STBXF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STBXF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STBXF/company-info">Starbox Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/STBXF">STBXF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, STBXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STBXF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Starbox Group Holdings Ltd.]]></category>
-<pink:symbol>STBXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN (RSNBF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RSNBF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RSNBF/company-info">ROSENBAUER INTERNATIONAL AGAKTIEN</a> (<a href="http://www.otcmarkets.com/stock/RSNBF">RSNBF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, RSNBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RSNBF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROSENBAUER INTERNATIONAL AGAKTIEN]]></category>
-<pink:symbol>RSNBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LK Technology Holdings Ltd. (LKTEF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LKTEF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LKTEF/company-info">LK Technology Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LKTEF">LKTEF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, LKTEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LKTEF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LK Technology Holdings Ltd.]]></category>
-<pink:symbol>LKTEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMWF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMWF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMWF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMWF">AIMWF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, AIMWF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMWF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMUF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMUF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMUF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMUF">AIMUF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, AIMUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMUF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMTF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMTF&actionDate=1746417600000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMTF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMTF">AIMTF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 05, 2025, AIMTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AIMTF&actionDate=1746417600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[American Business Bank (Los Angeles, CA) (AMBZ: OTCQX U.S.) | Ex-Dividend]]></title>
