@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
+OTC RSS mirror fetched: Thu May  8 07:23:01 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 02:36:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746686616000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: OTC Link) - Venue Change - The symbol, VDEKF, no longer trades on Grey Market.  As of Thu, May 08, 2025, VDEKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 02:43:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746686616000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTNT&actionDate=1746680452000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: OTC Link) - Venue Change - The symbol, PTNT, no longer trades on NYSE MKT.  As of Thu, May 08, 2025, PTNT trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,7 +960,7 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746626739000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Venue Change - The symbol, VDEKF, no longer trades on OTC Link.  As of Wed, May 07, 2025, VDEKF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 07 May 2025 10:05:39 EDT</pubDate>
@@ -957,7 +969,7 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <category><![CDATA[Veidekke ASA]]></category>
 <pink:symbol>VDEKF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Partners Value Invts LP (PVILF: Pink Current) | Venue Change]]></title>
@@ -968,18 +980,6 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Partners Value Invts LP]]></category>
 <pink:symbol>PVILF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Partners Value Invts LP (PVFPF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVFPF&actionDate=1746616697000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVFPF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVFPF">PVFPF</a>: OTC Link) - Venue Change - The symbol, PVFPF, no longer trades on Grey Market.  As of Wed, May 07, 2025, PVFPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 07:18:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PVFPF&actionDate=1746616697000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Partners Value Invts LP]]></category>
-<pink:symbol>PVFPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1200,16 +1200,16 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VDEKF&actionDate=1746626739000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Reactivated Symbol -  The symbol, VDEKF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Pink Limited) - Reactivated Symbol -  The symbol, VDEKF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 07 May 2025 10:05:39 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VDEKF&actionDate=1746626739000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Veidekke ASA]]></category>
 <pink:symbol>VDEKF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Groovy Company Inc (SANP: OTC Link) | Deleted Symbol]]></title>
@@ -1320,86 +1320,122 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTUF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTUF/company-info">VESTUM AB</a> (<a href="http://www.otcmarkets.com/stock/VSTUF">VSTUF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, VSTUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTUF&actionDate=1746590400000]]></guid>
+<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZCARW&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: OTCQB) - Piggyback Qualified -  Effective Thu, May 08, 2025, ZCARW is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZCARW&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VESTUM AB]]></category>
-<pink:symbol>VSTUF</pink:symbol>
+<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
+<pink:symbol>ZCARW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZCAR&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCAR/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCAR">ZCAR</a>: OTCQX U.S.) - Piggyback Qualified -  Effective Thu, May 08, 2025, ZCAR is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZCAR&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
+<pink:symbol>ZCAR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vib Vermoegen AG (VIBVY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VIBVY&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VIBVY/company-info">Vib Vermoegen AG</a> (<a href="http://www.otcmarkets.com/stock/VIBVY">VIBVY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 08, 2025, VIBVY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VIBVY&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vib Vermoegen AG]]></category>
+<pink:symbol>VIBVY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tokyo Ohka Kogyo Co., Ltd. (TKCYY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKCYY&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKCYY/company-info">Tokyo Ohka Kogyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TKCYY">TKCYY</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, TKCYY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TKCYY&actionDate=1746590400000]]></guid>
+<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VDEKF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 08, 2025, VDEKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VDEKF&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tokyo Ohka Kogyo Co., Ltd.]]></category>
-<pink:symbol>TKCYY</pink:symbol>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SCB X PUB CO LTD. (SCBXY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SCBXY&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCBXY/company-info">SCB X PUB CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/SCBXY">SCBXY</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, SCBXY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SCBXY&actionDate=1746590400000]]></guid>
+<title><![CDATA[SEACREST PETROLEO BERMUDA LTD. (SPBRF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPBRF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPBRF/company-info">SEACREST PETROLEO BERMUDA LTD.</a> (<a href="http://www.otcmarkets.com/stock/SPBRF">SPBRF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 08, 2025, SPBRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SPBRF&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SCB X PUB CO LTD.]]></category>
-<pink:symbol>SCBXY</pink:symbol>
+<category><![CDATA[SEACREST PETROLEO BERMUDA LTD.]]></category>
+<pink:symbol>SPBRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD. (MCBMF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCBMF/company-info">MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.</a> (<a href="http://www.otcmarkets.com/stock/MCBMF">MCBMF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, MCBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1746590400000]]></guid>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTNT&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 08, 2025, PTNT is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTNT&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.]]></category>
-<pink:symbol>MCBMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aryzta AG (ARZTD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ARZTD&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTD</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, ARZTD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ARZTD&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aryzta AG]]></category>
-<pink:symbol>ARZTD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD. (AQBMF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AQBMF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AQBMF/company-info">AUSTRALIAN UNITED INVESTMENT CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/AQBMF">AQBMF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, May 07, 2025, AQBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AQBMF&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AUSTRALIAN UNITED INVESTMENT CO LTD.]]></category>
-<pink:symbol>AQBMF</pink:symbol>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Affin Holdings Bhd (AFNHF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFNHF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFNHF/company-info">Affin Holdings Bhd</a> (<a href="http://www.otcmarkets.com/stock/AFNHF">AFNHF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 07, 2025, AFNHF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFNHF&actionDate=1746590400000]]></guid>
+<title><![CDATA[Investcorp AI Acquisition Corp. (IVCAF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IVCAF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IVCAF/company-info">Investcorp AI Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/IVCAF">IVCAF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 08, 2025, IVCAF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IVCAF&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Affin Holdings Bhd]]></category>
-<pink:symbol>AFNHF</pink:symbol>
+<category><![CDATA[Investcorp AI Acquisition Corp.]]></category>
+<pink:symbol>IVCAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GCM Resources PLC (GCLMF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCLMF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GCLMF/company-info">GCM Resources PLC</a> (<a href="http://www.otcmarkets.com/stock/GCLMF">GCLMF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 08, 2025, GCLMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCLMF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GCM Resources PLC]]></category>
+<pink:symbol>GCLMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ConnectM Technology Solutions, Inc. (CNTM: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CNTM&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CNTM/company-info">ConnectM Technology Solutions, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CNTM">CNTM</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 08, 2025, CNTM is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CNTM&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ConnectM Technology Solutions, Inc.]]></category>
+<pink:symbol>CNTM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ABSOLUTE CLEAN ENERGY PCL (ATBBF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ATBBF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBBF/company-info">ABSOLUTE CLEAN ENERGY PCL</a> (<a href="http://www.otcmarkets.com/stock/ATBBF">ATBBF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 08, 2025, ATBBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ATBBF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ABSOLUTE CLEAN ENERGY PCL]]></category>
+<pink:symbol>ATBBF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
@@ -1644,6 +1680,30 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Vib Vermoegen AG (VIBVY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VIBVY&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VIBVY/company-info">Vib Vermoegen AG</a> (<a href="http://www.otcmarkets.com/stock/VIBVY">VIBVY</a>: Pink Limited) - Tier Change - The symbol, VIBVY, no longer is classified as Expert Market.  As of Thu, May 08, 2025, VIBVY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VIBVY&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vib Vermoegen AG]]></category>
+<pink:symbol>VIBVY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Pink Limited) - Tier Change - The symbol, VDEKF, no longer is classified as Grey Market.  As of Thu, May 08, 2025, VDEKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Veidekke ASA]]></category>
+<pink:symbol>VDEKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tego Cyber Inc. (TGCB: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGCB&actionDate=1746676800000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGCB/company-info">Tego Cyber Inc.</a> (<a href="http://www.otcmarkets.com/stock/TGCB">TGCB</a>: Pink Current) - Tier Change - The symbol, TGCB, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, TGCB resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1668,98 +1728,74 @@ OTC RSS mirror fetched: Thu May  8 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Janel Corp. (JANL: OTCQX U.S.) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=JANL&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/JANL/company-info">Janel Corp.</a> (<a href="http://www.otcmarkets.com/stock/JANL">JANL</a>: OTCQX U.S.) - Tier Change - The symbol, JANL, no longer is classified as Pink Current.  As of Thu, May 08, 2025, JANL resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACW: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACW&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUACW/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUACW">SUACW</a>: Pink Current) - Tier Change - The symbol, SUACW, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, SUACW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=JANL&actionDate=1746676800000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACW&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Janel Corp.]]></category>
-<pink:symbol>JANL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Black Swan Graphene Inc. (BSWGF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BSWGF&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BSWGF/company-info">Black Swan Graphene Inc.</a> (<a href="http://www.otcmarkets.com/stock/BSWGF">BSWGF</a>: OTCQX International) - Tier Change - The symbol, BSWGF, no longer is classified as OTCQB.  As of Thu, May 08, 2025, BSWGF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BSWGF&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Black Swan Graphene Inc.]]></category>
-<pink:symbol>BSWGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Biomark Diagnostics Inc. (BMKDF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BMKDF&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMKDF/company-info">Biomark Diagnostics Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMKDF">BMKDF</a>: OTCQB) - Tier Change - The symbol, BMKDF, no longer is classified as Pink Current.  As of Thu, May 08, 2025, BMKDF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BMKDF&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Biomark Diagnostics Inc.]]></category>
-<pink:symbol>BMKDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Yuka Group Inc. (YUKA: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=YUKA&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YUKA/company-info">Yuka Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/YUKA">YUKA</a>: Pink Current) - Tier Change - The symbol, YUKA, no longer is classified as Pink Limited.  As of Wed, May 07, 2025, YUKA resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=YUKA&actionDate=1746590400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Yuka Group Inc.]]></category>
-<pink:symbol>YUKA</pink:symbol>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACW</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[XCELERATE INC. (XCRT: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XCRT&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XCRT/company-info">XCELERATE INC.</a> (<a href="http://www.otcmarkets.com/stock/XCRT">XCRT</a>: Pink Current) - Tier Change - The symbol, XCRT, no longer is classified as Pink Limited.  As of Wed, May 07, 2025, XCRT resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XCRT&actionDate=1746590400000]]></guid>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACU: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACU&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUACU/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUACU">SUACU</a>: Pink Current) - Tier Change - The symbol, SUACU, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, SUACU resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACU&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[XCELERATE INC.]]></category>
-<pink:symbol>XCRT</pink:symbol>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACU</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VirExit Technologies Inc. (VXIT: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VXIT&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VXIT/company-info">VirExit Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/VXIT">VXIT</a>: Pink Current) - Tier Change - The symbol, VXIT, no longer is classified as Pink Limited.  As of Wed, May 07, 2025, VXIT resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VXIT&actionDate=1746590400000]]></guid>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUAC: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUAC&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUAC/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUAC">SUAC</a>: Pink Current) - Tier Change - The symbol, SUAC, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, SUAC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUAC&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VirExit Technologies Inc.]]></category>
-<pink:symbol>VXIT</pink:symbol>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUAC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSTUF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTUF/company-info">VESTUM AB</a> (<a href="http://www.otcmarkets.com/stock/VSTUF">VSTUF</a>: Pink Limited) - Tier Change - The symbol, VSTUF, no longer is classified as Grey Market.  As of Wed, May 07, 2025, VSTUF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSTUF&actionDate=1746590400000]]></guid>
+<title><![CDATA[SEACREST PETROLEO BERMUDA LTD. (SPBRF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPBRF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPBRF/company-info">SEACREST PETROLEO BERMUDA LTD.</a> (<a href="http://www.otcmarkets.com/stock/SPBRF">SPBRF</a>: Pink Limited) - Tier Change - The symbol, SPBRF, no longer is classified as Expert Market.  As of Thu, May 08, 2025, SPBRF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPBRF&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VESTUM AB]]></category>
-<pink:symbol>VSTUF</pink:symbol>
+<category><![CDATA[SEACREST PETROLEO BERMUDA LTD.]]></category>
+<pink:symbol>SPBRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Victory Square Technologies Inc (VSQTF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSQTF&actionDate=1746590400000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSQTF/company-info">Victory Square Technologies Inc</a> (<a href="http://www.otcmarkets.com/stock/VSQTF">VSQTF</a>: Pink Current) - Tier Change - The symbol, VSQTF, no longer is classified as OTCQB.  As of Wed, May 07, 2025, VSQTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSQTF&actionDate=1746590400000]]></guid>
+<title><![CDATA[POLAR CAP GLOBAL FINANCIALS TR PLC (PCFTF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCFTF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PCFTF/company-info">POLAR CAP GLOBAL FINANCIALS TR PLC</a> (<a href="http://www.otcmarkets.com/stock/PCFTF">PCFTF</a>: Pink Current) - Tier Change - The symbol, PCFTF, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, PCFTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCFTF&actionDate=1746676800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Victory Square Technologies Inc]]></category>
-<pink:symbol>VSQTF</pink:symbol>
+<category><![CDATA[POLAR CAP GLOBAL FINANCIALS TR PLC]]></category>
+<pink:symbol>PCFTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[OPEN ORPHAN PLC. (OPORF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OPORF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OPORF/company-info">OPEN ORPHAN PLC.</a> (<a href="http://www.otcmarkets.com/stock/OPORF">OPORF</a>: Pink Current) - Tier Change - The symbol, OPORF, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, OPORF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OPORF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OPEN ORPHAN PLC.]]></category>
+<pink:symbol>OPORF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
