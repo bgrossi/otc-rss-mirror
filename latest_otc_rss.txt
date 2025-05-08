@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
+OTC RSS mirror fetched: Thu May  8 11:38:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 07:06:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 07:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[d'Amico International Shipping SA (DMCOF: OTCQX International) | DIS_THE BOARD OF DIRECTORS OF d'AMICO INTERNATIONAL SHIPPING S.A. APPROVES THE REGULATION OF THE MEDIUM-LONG TERM VARIABLE INCENTIVE PLAN 2025-2027]]></title>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[GME GROUP HLDGS LTD. (GMEGF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GMEGF&actionDate=1746703267000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GMEGF/company-info">GME GROUP HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/GMEGF">GMEGF</a>: OTC Link) - Venue Change - The symbol, GMEGF, no longer trades on Grey Market.  As of Thu, May 08, 2025, GMEGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 07:21:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GMEGF&actionDate=1746703267000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GME GROUP HLDGS LTD.]]></category>
+<pink:symbol>GMEGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CTR HLDGS LTD. (CHDLF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CHDLF&actionDate=1746703244000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CHDLF/company-info">CTR HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CHDLF">CHDLF</a>: OTC Link) - Venue Change - The symbol, CHDLF, no longer trades on Grey Market.  As of Thu, May 08, 2025, CHDLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 07:20:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CHDLF&actionDate=1746703244000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CTR HLDGS LTD.]]></category>
+<pink:symbol>CHDLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[P2P Group Ltd. (PPBGF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PPBGF&actionDate=1746702814000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPBGF/company-info">P2P Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPBGF">PPBGF</a>: OTC Link) - Venue Change - The symbol, PPBGF, no longer trades on Grey Market.  As of Thu, May 08, 2025, PPBGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 07:13:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PPBGF&actionDate=1746702814000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[P2P Group Ltd.]]></category>
+<pink:symbol>PPBGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Shift4 Payments, Inc. (FOUR.PRA: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FOUR.PRA&actionDate=1746701988000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FOUR.PRA/company-info">Shift4 Payments, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FOUR.PRA">FOUR.PRA</a>: NYSE) - Venue Change - The symbol, FOUR.PRA, no longer trades on OTC Link.  As of Thu, May 08, 2025, FOUR.PRA trades on NYSE. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,40 +984,16 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Investcorp AI Acquisition Corp. (IVAUF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVAUF&actionDate=1746680450000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IVAUF/company-info">Investcorp AI Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/IVAUF">IVAUF</a>: OTC Link) - Venue Change - The symbol, IVAUF, no longer trades on Nasdaq.  As of Thu, May 08, 2025, IVAUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVAUF&actionDate=1746680450000]]></guid>
+<title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEENF&actionDate=1746704003000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEEND/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEEND">EEENF</a>: Pink Current) - Symbol Change - The symbol, EEENF, is no longer a valid symbol for 88 Energy Ltd..  As of Thu, May 08, 2025, the new trading symbol is EEEND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 07:33:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEENF&actionDate=1746704003000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Investcorp AI Acquisition Corp.]]></category>
-<pink:symbol>IVAUF</pink:symbol>
+<category><![CDATA[88 Energy Ltd.]]></category>
+<pink:symbol>EEEND</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Investcorp AI Acquisition Corp. (IVCAF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVCAF&actionDate=1746680449000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IVCAF/company-info">Investcorp AI Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/IVCAF">IVCAF</a>: OTC Link) - Venue Change - The symbol, IVCAF, no longer trades on Nasdaq.  As of Thu, May 08, 2025, IVCAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVCAF&actionDate=1746680449000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Investcorp AI Acquisition Corp.]]></category>
-<pink:symbol>IVCAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746626739000]]></link>
-<description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Grey Market) - Venue Change - The symbol, VDEKF, no longer trades on OTC Link.  As of Wed, May 07, 2025, VDEKF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 10:05:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746626739000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Veidekke ASA]]></category>
-<pink:symbol>VDEKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Palatin Technologies, Inc. (PTN: Pink Current) | Symbol Change]]></title>
@@ -1092,18 +1104,6 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Acasia Technology, Inc. (NPLS: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">Acasia Technology, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">NPLS</a>: Pink Current) - Symbol Change - The symbol, NPLS, is no longer a valid symbol for Acasia Technology, Inc..  As of Tue, May 06, 2025, the new trading symbol is ACAT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 01:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NPLS&actionDate=1746507643000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Acasia Technology, Inc.]]></category>
-<pink:symbol>ACAT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Santo Mining Corp (SANPD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SANPD&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Santo Mining Corp</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANPD</a>: Pink Current) - Company Name Change - Santo Mining Corp has changed its name to Groovy Company Inc. The change goes into effect as of Wed, May 07, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1136,6 +1136,18 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[CB Scientific Inc.]]></category>
 <pink:symbol>CBSC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EEENF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEEND/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEEND">EEENF</a>: Pink Current) - Splits - Effective Thu, May 08, 2025, EEENF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 25 split. Due to the split, EEENF is no longer valid. The new trading symbol is EEEND. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EEENF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[88 Energy Ltd.]]></category>
+<pink:symbol>EEEND</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1776,6 +1788,18 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[P2P Group Ltd. (PPBGF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPBGF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPBGF/company-info">P2P Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPBGF">PPBGF</a>: Pink Current) - Tier Change - The symbol, PPBGF, no longer is classified as Grey Market.  As of Thu, May 08, 2025, PPBGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPBGF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[P2P Group Ltd.]]></category>
+<pink:symbol>PPBGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[POLAR CAP GLOBAL FINANCIALS TR PLC (PCFTF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCFTF&actionDate=1746676800000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PCFTF/company-info">POLAR CAP GLOBAL FINANCIALS TR PLC</a> (<a href="http://www.otcmarkets.com/stock/PCFTF">PCFTF</a>: Pink Current) - Tier Change - The symbol, PCFTF, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, PCFTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1784,18 +1808,6 @@ OTC RSS mirror fetched: Thu May  8 11:17:50 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[POLAR CAP GLOBAL FINANCIALS TR PLC]]></category>
 <pink:symbol>PCFTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OPEN ORPHAN PLC. (OPORF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OPORF&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OPORF/company-info">OPEN ORPHAN PLC.</a> (<a href="http://www.otcmarkets.com/stock/OPORF">OPORF</a>: Pink Current) - Tier Change - The symbol, OPORF, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, OPORF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OPORF&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OPEN ORPHAN PLC.]]></category>
-<pink:symbol>OPORF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
