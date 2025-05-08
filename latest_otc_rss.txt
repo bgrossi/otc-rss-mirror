@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 11:51:41 UTC 2025
+OTC RSS mirror fetched: Thu May  8 12:42:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  8 11:51:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 07:36:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 08:26:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[d'Amico International Shipping SA (DMCOF: OTCQX International) | DIS_THE BOARD OF DIRECTORS OF d'AMICO INTERNATIONAL SHIPPING S.A. APPROVES THE REGULATION OF THE MEDIUM-LONG TERM VARIABLE INCENTIVE PLAN 2025-2027]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Thu May  8 11:51:41 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[WEBUY GLOBAL LTD. (WBUY: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WBUY&actionDate=1746706121000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WBUY/company-info">WEBUY GLOBAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/WBUY">WBUY</a>: Nasdaq) - Venue Change - The symbol, WBUY, no longer trades on OTC Link.  As of Thu, May 08, 2025, WBUY trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 08:08:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WBUY&actionDate=1746706121000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WEBUY GLOBAL LTD.]]></category>
+<pink:symbol>WBUY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[GME GROUP HLDGS LTD. (GMEGF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GMEGF&actionDate=1746703267000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GMEGF/company-info">GME GROUP HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/GMEGF">GMEGF</a>: OTC Link) - Venue Change - The symbol, GMEGF, no longer trades on Grey Market.  As of Thu, May 08, 2025, GMEGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Thu May  8 11:51:41 UTC 2025
 <pink:symbol>CNTM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Investcorp AI Acquisition Corp. (IVAWF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVAWF&actionDate=1746680450000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IVAWF/company-info">Investcorp AI Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/IVAWF">IVAWF</a>: OTC Link) - Venue Change - The symbol, IVAWF, no longer trades on Nasdaq.  As of Thu, May 08, 2025, IVAWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IVAWF&actionDate=1746680450000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Investcorp AI Acquisition Corp.]]></category>
-<pink:symbol>IVAWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Symbol Change]]></title>
@@ -1282,6 +1282,18 @@ OTC RSS mirror fetched: Thu May  8 11:51:41 UTC 2025
 <pink:symbol>SICNF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GREAT QUEST GOLD LTD. (GQMLF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=GQMLF&actionDate=1746676800000]]></link>
+<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GQMLF/company-info">GREAT QUEST GOLD LTD.</a> (<a href="http://www.otcmarkets.com/stock/GQMLF">GQMLF</a>: Pink Current) - Halted Security -  Effective Thu, May 08, 2025, GQMLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=GQMLF&actionDate=1746676800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GREAT QUEST GOLD LTD.]]></category>
+<pink:symbol>GQMLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SCOTTIE RES CORP. (SCTSF: OTCQB) | Halted Security]]></title>
