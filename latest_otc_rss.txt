@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 22:53:38 UTC 2025
+OTC RSS mirror fetched: Thu May  8 23:20:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  8 22:53:38 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 18:36:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 19:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476712]]></link>
+<pubDate>Thu, 08 May 2025 18:38:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476712]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cogstate Ltd.]]></category>
+<pink:symbol>COGZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Tesoro Advances Infrastructure Options for El Zorro]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=476711]]></link>
+<pubDate>Thu, 08 May 2025 18:38:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=476711]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Releases First Quarter Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=476687]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Thu May  8 22:53:38 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Brainchip Holdings Ltd.]]></category>
 <pink:symbol>BCHPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of issue of unquoted securities]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=476524]]></link>
-<pubDate>Wed, 07 May 2025 19:22:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=476524]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brainchip Holdings Ltd.]]></category>
-<pink:symbol>BCHPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476523]]></link>
-<pubDate>Wed, 07 May 2025 19:14:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476523]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cogstate Ltd.]]></category>
-<pink:symbol>COGZF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
