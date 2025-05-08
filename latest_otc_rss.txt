@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
+OTC RSS mirror fetched: Thu May  8 04:26:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 07 May 2025 23:36:29 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 00:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Centaurus Metals Ltd. (CTTZF: OTCQX International) | 05-08-25 Jaguar Value Engineering Enhances Project Economics]]></title>
@@ -1044,66 +1044,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRF&actionDate=1746444070000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRD/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRD">MXTRF</a>: Pink Current) - Symbol Change - The symbol, MXTRF, is no longer a valid symbol for Montero Mining & Exploration, Ltd..  As of Mon, May 05, 2025, the new trading symbol is MXTRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 07:21:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRF&actionDate=1746444070000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
-<pink:symbol>MXTRD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tasman Resources NL (TASEF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASEF&actionDate=1746444039000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TASED/company-info">Tasman Resources NL</a> (<a href="http://www.otcmarkets.com/stock/TASED">TASEF</a>: Pink Current) - Symbol Change - The symbol, TASEF, is no longer a valid symbol for Tasman Resources NL.  As of Mon, May 05, 2025, the new trading symbol is TASED. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 07:20:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASEF&actionDate=1746444039000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tasman Resources NL]]></category>
-<pink:symbol>TASED</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMBU: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMBU&actionDate=1746421255000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMTF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMTF">AIMBU</a>: Pink Current) - Symbol Change - The symbol, AIMBU, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMBU&actionDate=1746421255000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMAW: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAW&actionDate=1746421254000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMWF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMWF">AIMAW</a>: Pink Current) - Symbol Change - The symbol, AIMAW, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAW&actionDate=1746421254000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aimfinity Investment Corp. I (AIMAU: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAU&actionDate=1746421254000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMUF/company-info">Aimfinity Investment Corp. I</a> (<a href="http://www.otcmarkets.com/stock/AIMUF">AIMAU</a>: Pink Current) - Symbol Change - The symbol, AIMAU, is no longer a valid symbol for Aimfinity Investment Corp. I.  As of Mon, May 05, 2025, the new trading symbol is AIMUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMAU&actionDate=1746421254000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aimfinity Investment Corp. I]]></category>
-<pink:symbol>AIMUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Santo Mining Corp (SANPD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SANPD&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Santo Mining Corp</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANPD</a>: Pink Current) - Company Name Change - Santo Mining Corp has changed its name to Groovy Company Inc. The change goes into effect as of Wed, May 07, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1140,54 +1080,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NP Life Sciences Health Industry Group Inc. (ACAT: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACAT&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACAT/company-info">NP Life Sciences Health Industry Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ACAT">ACAT</a>: Pink Current) - Company Name Change - NP Life Sciences Health Industry Group Inc. has changed its name to Acasia Technology, Inc.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ACAT&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NP Life Sciences Health Industry Group Inc.]]></category>
-<pink:symbol>ACAT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Guotai Junan Securities Co., LTD (GJJSY: Pink Limited) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GJJSY&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GJJSY/company-info">Guotai Junan Securities Co., LTD</a> (<a href="http://www.otcmarkets.com/stock/GJJSY">GJJSY</a>: Pink Limited) - Company Name Change - Guotai Junan Securities Co., LTD has changed its name to GUOTAI HAITONG SECS CO LTD.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GJJSY&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guotai Junan Securities Co., LTD]]></category>
-<pink:symbol>GJJSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[China Dasheng Biotechnology Co. (CDBT: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CDBT&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDBT/company-info">China Dasheng Biotechnology Co.</a> (<a href="http://www.otcmarkets.com/stock/CDBT">CDBT</a>: Pink Current) - Company Name Change - China Dasheng Biotechnology Co. has changed its name to Cycclone Inc.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CDBT&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[China Dasheng Biotechnology Co.]]></category>
-<pink:symbol>CDBT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aben Minerals Ltd. (ABNAF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ABNAF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ABNAF/company-info">Aben Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ABNAF">ABNAF</a>: Pink Current) - Company Name Change - Aben Minerals Ltd. has changed its name to Aben Gold Corp.. The change goes into effect as of Tue, May 06, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ABNAF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aben Minerals Ltd.]]></category>
-<pink:symbol>ABNAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Groovy Company Inc (SANP: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SANP&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SANPD/company-info">Groovy Company Inc</a> (<a href="http://www.otcmarkets.com/stock/SANPD">SANP</a>: Pink Current) - Splits - Effective Wed, May 07, 2025, SANP: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 2500 split. Due to the split, SANP is no longer valid. The new trading symbol is SANPD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1198,18 +1090,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:symbol>SANPD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Aryzta AG (ARZTF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ARZTF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARZTD/company-info">Aryzta AG</a> (<a href="http://www.otcmarkets.com/stock/ARZTD">ARZTF</a>: Pink Limited) - Splits - Effective Tue, May 06, 2025, ARZTF: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 40 split. Due to the split, ARZTF is no longer valid. The new trading symbol is ARZTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ARZTF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aryzta AG]]></category>
-<pink:symbol>ARZTD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Veidekke ASA (VDEKF: Grey Market) | Reactivated Symbol]]></title>
@@ -1320,18 +1200,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tasman Resources NL (TASEF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TASEF&actionDate=1746421241000]]></link>
-<description><![CDATA[Mon, May 05, 2025 12:00 - Tasman Resources NL (TASEF: OTC Link) - Deleted Symbol - As of Mon, May 05, 2025, TASEF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 05 May 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TASEF&actionDate=1746421241000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tasman Resources NL]]></category>
-<pink:symbol>TASEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[SCOTTIE RES CORP. (SCTSF: OTCQB) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SCTSF&actionDate=1746590400000]]></link>
 <description><![CDATA[Wed, May 07, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SCTSF/company-info">SCOTTIE RES CORP.</a> (<a href="http://www.otcmarkets.com/stock/SCTSF">SCTSF</a>: OTCQB) - Halted Security -  Effective Wed, May 07, 2025, SCTSF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1366,18 +1234,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:symbol>CDBMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Lodestar Metals Corp. (SVTNF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SVTNF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVTNF/company-info">Lodestar Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/SVTNF">SVTNF</a>: Pink Current) - Halted Security -  Effective Tue, May 06, 2025, SVTNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SVTNF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lodestar Metals Corp.]]></category>
-<pink:symbol>SVTNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[VESTUM AB (VSTUF: Pink Limited) | Piggyback Qualified]]></title>
@@ -1462,42 +1318,6 @@ OTC RSS mirror fetched: Thu May  8 03:49:57 UTC 2025
 <pink:symbol>AFNHF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sokoman Minerals Corp. (SICNF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SICNF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SICNF/company-info">Sokoman Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/SICNF">SICNF</a>: OTCQB) - Piggyback Qualified -  Effective Tue, May 06, 2025, SICNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SICNF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sokoman Minerals Corp.]]></category>
-<pink:symbol>SICNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Probi AB (PBBIF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PBBIF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PBBIF/company-info">Probi AB</a> (<a href="http://www.otcmarkets.com/stock/PBBIF">PBBIF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 06, 2025, PBBIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PBBIF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Probi AB]]></category>
-<pink:symbol>PBBIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Athena Gold Corporation (AHNRF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AHNRF&actionDate=1746504000000]]></link>
-<description><![CDATA[Tue, May 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AHNRF/company-info">Athena Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/AHNRF">AHNRF</a>: OTCQB) - Piggyback Qualified -  Effective Tue, May 06, 2025, AHNRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 06 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AHNRF&actionDate=1746504000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Athena Gold Corporation]]></category>
-<pink:symbol>AHNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Engie Brasil Energia S A (EGIEY: Pink Current) | Ex-Dividend]]></title>
