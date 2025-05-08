@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 15:55:22 UTC 2025
+OTC RSS mirror fetched: Thu May  8 16:28:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May  8 15:55:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 11:46:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 12:26:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Hydrogen Engine Center, Inc. (HYEG: Pink Current) | Updated status of HEC  technologies]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HYEG/news?id=476667]]></link>
+<pubDate>Thu, 08 May 2025 12:05:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HYEG/news?id=476667]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hydrogen Engine Center, Inc.]]></category>
+<pink:symbol>HYEG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Pan African Resources PLC (PAFRY: OTCQX International) | Notification of change in major shareholdings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=476661]]></link>
+<pubDate>Thu, 08 May 2025 11:50:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=476661]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pan African Resources PLC]]></category>
+<pink:symbol>PAFRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Itaconix plc (ITXXF: OTCQB) | Result of Annual General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ITXXF/news?id=476657]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu May  8 15:55:22 UTC 2025
 <pink:symbol>IDVV</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CREATD INC. (CRTD: Pink Current) | Gary Herman Joins Flyte’s Board of Advisors and Assumes Strategic Role with CEOBLOC]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRTD/news?id=476462]]></link>
-<pubDate>Wed, 07 May 2025 09:39:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRTD/news?id=476462]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CREATD INC.]]></category>
-<pink:symbol>CRTD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[First Acceptance Corp. (FACO: OTCQX U.S.) | First Acceptance Corporation Announces 2025 Annual Meeting Proxy Voting Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FACO/news?id=476458]]></link>
-<pubDate>Wed, 07 May 2025 09:20:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FACO/news?id=476458]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[First Acceptance Corp.]]></category>
-<pink:symbol>FACO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
