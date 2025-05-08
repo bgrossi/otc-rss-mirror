@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May  8 20:23:30 UTC 2025
+OTC RSS mirror fetched: Thu May  8 20:42:59 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May  8 20:23:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 08 May 2025 16:06:30 EDT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 16:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Autoscope Technologies Corporation (AATC: OTCQX U.S.) | Autoscope Technologies Corporation Announces Financial Results, Dividend Declaration and 2025 Annual Meeting of Shareholders]]></title>
@@ -1584,6 +1584,42 @@ OTC RSS mirror fetched: Thu May  8 20:23:30 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Mercedes Benz Group AG (MBGAF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=282451]]></link>
+<description><![CDATA[Thu, May 08, 2025 04:29 - <a href="http://www.otcmarkets.com/stock/MBGAF/company-info">Mercedes Benz Group AG</a> (<a href="http://www.otcmarkets.com/stock/MBGAF">MBGAF</a>: Pink Current) - Scheduled Ex-Dividend - Mercedes Benz Group AG has announced a dividend ex-date for (MBGAF: Pink Current). Mercedes Benz Group AG is scheduled to disburse a Cash Dividend dividend of $4.3 on Fri, May 09, 2025 to shareholders of MBGAF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 16:29:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=282451]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mercedes Benz Group AG]]></category>
+<pink:symbol>MBGAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Star Copper Corp. (STCUF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283822]]></link>
+<description><![CDATA[Thu, May 08, 2025 04:24 - <a href="http://www.otcmarkets.com/stock/STCUF/company-info">Star Copper Corp.</a> (<a href="http://www.otcmarkets.com/stock/STCUF">STCUF</a>: Pink Current) - Scheduled Ex-Dividend - Star Copper Corp. has announced a dividend ex-date for (STCUF: Pink Current). Star Copper Corp. is scheduled to disburse a Spin Off dividend of null on Fri, May 09, 2025 to shareholders of STCUF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 16:24:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283822]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Star Copper Corp.]]></category>
+<pink:symbol>STCUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Siltronic AG (SLTCY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283821]]></link>
+<description><![CDATA[Thu, May 08, 2025 04:22 - <a href="http://www.otcmarkets.com/stock/SLTCY/company-info">Siltronic AG</a> (<a href="http://www.otcmarkets.com/stock/SLTCY">SLTCY</a>: Pink Limited) - Scheduled Ex-Dividend - Siltronic AG has announced a dividend ex-date for (SLTCY: Pink Limited). Siltronic AG is scheduled to disburse a Spin Off dividend of null on Fri, May 09, 2025 to shareholders of SLTCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 08 May 2025 16:22:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283821]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Siltronic AG]]></category>
+<pink:symbol>SLTCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NMB Finl. Corp (NMBF: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283811]]></link>
 <description><![CDATA[Thu, May 08, 2025 10:06 - <a href="http://www.otcmarkets.com/stock/NMBF/company-info">NMB Finl. Corp</a> (<a href="http://www.otcmarkets.com/stock/NMBF">NMBF</a>: Pink Current) - Scheduled Ex-Dividend - NMB Finl. Corp has announced a dividend ex-date for (NMBF: Pink Current). NMB Finl. Corp is scheduled to disburse a Cash Dividend dividend of $0.4 on Fri, May 30, 2025 to shareholders of NMBF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1666,42 +1702,6 @@ OTC RSS mirror fetched: Thu May  8 20:23:30 UTC 2025
 <pink:symbol>AFSIB</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vallourec SA (VLOWY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283818]]></link>
-<description><![CDATA[Wed, May 07, 2025 03:11 - <a href="http://www.otcmarkets.com/stock/VLOWY/company-info">Vallourec SA</a> (<a href="http://www.otcmarkets.com/stock/VLOWY">VLOWY</a>: Pink Limited) - Scheduled Ex-Dividend - Vallourec SA has announced a dividend ex-date for (VLOWY: Pink Limited). Vallourec SA is scheduled to disburse a Cash Dividend dividend of $0.25458 on Fri, May 23, 2025 to shareholders of VLOWY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 15:11:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283818]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vallourec SA]]></category>
-<pink:symbol>VLOWY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Jeronimo Martins, SGPS, SA (JRONY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283807]]></link>
-<description><![CDATA[Wed, May 07, 2025 03:07 - <a href="http://www.otcmarkets.com/stock/JRONY/company-info">Jeronimo Martins, SGPS, SA</a> (<a href="http://www.otcmarkets.com/stock/JRONY">JRONY</a>: Pink Limited) - Scheduled Ex-Dividend - Jeronimo Martins, SGPS, SA has announced a dividend ex-date for (JRONY: Pink Limited). Jeronimo Martins, SGPS, SA is scheduled to disburse a Cash Dividend dividend of $0.77125 on Mon, May 19, 2025 to shareholders of JRONY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 15:07:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283807]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jeronimo Martins, SGPS, SA]]></category>
-<pink:symbol>JRONY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Anhui Conch Cement Co., Ltd. (AHCHY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283787]]></link>
-<description><![CDATA[Wed, May 07, 2025 02:14 - <a href="http://www.otcmarkets.com/stock/AHCHY/company-info">Anhui Conch Cement Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/AHCHY">AHCHY</a>: Pink Current) - Scheduled Ex-Dividend - Anhui Conch Cement Co., Ltd. has announced a dividend ex-date for (AHCHY: Pink Current). Anhui Conch Cement Co., Ltd. is scheduled to disburse a Cash Dividend dividend of $0.35315 on Wed, Jun 04, 2025 to shareholders of AHCHY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 07 May 2025 14:14:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283787]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anhui Conch Cement Co., Ltd.]]></category>
-<pink:symbol>AHCHY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Vib Vermoegen AG (VIBVY: Pink Limited) | Tier Change]]></title>
