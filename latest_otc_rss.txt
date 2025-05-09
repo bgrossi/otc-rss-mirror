@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 05:20:32 UTC 2025
+OTC RSS mirror fetched: Fri May  9 05:42:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  9 05:20:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 01:06:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 01:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS announces Q1 2025 results]]></title>
@@ -1102,6 +1102,30 @@ OTC RSS mirror fetched: Fri May  9 05:20:32 UTC 2025
 <pink:symbol>PTNT</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Srisawad Corp Pub Co Ltd. (SRAWY: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SRAWY/company-info">Srisawad Corp Pub Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SRAWY">SRAWY</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, SRAWY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.1 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Srisawad Corp Pub Co Ltd.]]></category>
+<pink:symbol>SRAWY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Endeavor Bancorp (EDVR: OTCQX U.S.) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDVR&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EDVR/company-info">Endeavor Bancorp</a> (<a href="http://www.otcmarkets.com/stock/EDVR">EDVR</a>: OTCQX U.S.) - Splits - Effective Fri, May 09, 2025, EDVR: OTCQX U.S. engaged in a fwd split. As a result of the split, shs increased by 1.02 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDVR&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Endeavor Bancorp]]></category>
+<pink:symbol>EDVR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Splits]]></title>
