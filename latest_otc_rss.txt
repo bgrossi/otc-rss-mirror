@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 16:46:31 UTC 2025
+OTC RSS mirror fetched: Fri May  9 17:18:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  9 16:46:31 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 12:26:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 13:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476821]]></link>
+<pubDate>Fri, 09 May 2025 12:34:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476821]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TRON Group Inc. (TGRP: Pink Current) | Nanopharmaceutics Announces NanoDOX® 1% Doxycycline Monohydrate Hydrogel with Oral Doxycycline will be Tested in Male Partners with Genital Mycoplasmas in The University of Western Australia Clinical Trial]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TGRP/news?id=476818]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Fri May  9 16:46:31 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[J Sainsbury plc]]></category>
 <pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS announces Q1 2025 results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=476697]]></link>
-<pubDate>Fri, 09 May 2025 01:00:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=476697]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TGS ASA]]></category>
-<pink:symbol>TGSGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1548,6 +1548,18 @@ OTC RSS mirror fetched: Fri May  9 16:46:31 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Kesoram Industries, Ltd. (KRIDF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283889]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:19 - <a href="http://www.otcmarkets.com/stock/KRIDF/company-info">Kesoram Industries, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KRIDF">KRIDF</a>: Pink Limited) - Scheduled Ex-Dividend - Kesoram Industries, Ltd. has announced a dividend ex-date for (KRIDF: Pink Limited). Kesoram Industries, Ltd. is scheduled to disburse a Cash Dividend dividend of $1.40356 on Mon, May 19, 2025 to shareholders of KRIDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 12:19:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283889]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kesoram Industries, Ltd.]]></category>
+<pink:symbol>KRIDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Betsson AB (BTSNY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283905]]></link>
 <description><![CDATA[Fri, May 09, 2025 11:29 - <a href="http://www.otcmarkets.com/stock/BTSNY/company-info">Betsson AB</a> (<a href="http://www.otcmarkets.com/stock/BTSNY">BTSNY</a>: Pink Limited) - Scheduled Ex-Dividend - Betsson AB has announced a dividend ex-date for (BTSNY: Pink Limited). Betsson AB is scheduled to disburse a Cash Dividend dividend of $0.24152 on Mon, May 12, 2025 to shareholders of BTSNY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1592,18 +1604,6 @@ OTC RSS mirror fetched: Fri May  9 16:46:31 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[LOTTOMATICA GROUP SPA]]></category>
 <pink:symbol>LOTMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kesoram Industries, Ltd. (KRIDF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283889]]></link>
-<description><![CDATA[Thu, May 08, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/KRIDF/company-info">Kesoram Industries, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KRIDF">KRIDF</a>: Pink Limited) - Scheduled Ex-Dividend - Kesoram Industries, Ltd. has announced a dividend ex-date for (KRIDF: Pink Limited). Kesoram Industries, Ltd. is scheduled to disburse a Cash Dividend dividend of $1.40356 on Mon, May 19, 2025 to shareholders of KRIDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 15:59:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283889]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kesoram Industries, Ltd.]]></category>
-<pink:symbol>KRIDF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
