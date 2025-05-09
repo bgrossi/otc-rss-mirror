@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 20:23:04 UTC 2025
+OTC RSS mirror fetched: Fri May  9 20:41:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May  9 20:23:04 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 16:06:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 16:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[1895 Bancorp of Wisconsin, Inc. (BCOW: OTCQX U.S.) | 1895 Bancorp of Wisconsin, Inc. Announces First Quarter 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BCOW/news?id=476820]]></link>
+<pubDate>Fri, 09 May 2025 16:30:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCOW/news?id=476820]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1895 Bancorp of Wisconsin, Inc.]]></category>
+<pink:symbol>BCOW</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | PARAGON SELF REPORTS POTENTIAL VIOLATIONS RELATED TO FORMER CEO GAD’S IMMIGRATION AND WORK AUTHORIZATION STATUS TO U.S. GOVERNMENT AUTHORITIES]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476836]]></link>
+<pubDate>Fri, 09 May 2025 16:30:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476836]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476821]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Fri May  9 20:23:04 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
 <pink:symbol>KPGHF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[M.O.B.A. Network AB (MOBNF: OTCQX International) | Notice of Annual General Meeting in M.O.B.A. Network AB]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=476731]]></link>
-<pubDate>Fri, 09 May 2025 03:24:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=476731]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[M.O.B.A. Network AB]]></category>
-<pink:symbol>MOBNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476669]]></link>
-<pubDate>Fri, 09 May 2025 02:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476669]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
