@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 22:19:23 UTC 2025
+OTC RSS mirror fetched: Fri May  9 22:41:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May  9 22:19:23 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 18:06:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 18:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[BioNeutra Global Corporation (BGACF: Pink Current) | BioNeutra Global Corporation Announces Cease Trade Order]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BGACF/news?id=476850]]></link>
+<pubDate>Fri, 09 May 2025 18:08:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BGACF/news?id=476850]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BioNeutra Global Corporation]]></category>
+<pink:symbol>BGACF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[1895 Bancorp of Wisconsin, Inc. (BCOW: OTCQX U.S.) | 1895 Bancorp of Wisconsin, Inc. Announces First Quarter 2025 Financial Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BCOW/news?id=476820]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Fri May  9 22:19:23 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=476733]]></link>
 <pubDate>Fri, 09 May 2025 03:37:23 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=476733]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
-<pink:symbol>KPGHF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Amended Change of Director's Interest Notice - BK]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=476732]]></link>
-<pubDate>Fri, 09 May 2025 03:36:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=476732]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
 <pink:symbol>KPGHF</pink:symbol>
