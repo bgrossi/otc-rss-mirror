@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
+OTC RSS mirror fetched: Fri May  9 11:38:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 07:06:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 07:36:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Application for quotation of securities - EUR]]></title>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[RENERVE LTD. (RNVEF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RNVEF&actionDate=1746790592000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RNVEF/company-info">RENERVE LTD.</a> (<a href="http://www.otcmarkets.com/stock/RNVEF">RNVEF</a>: OTC Link) - Venue Change - The symbol, RNVEF, no longer trades on Grey Market.  As of Fri, May 09, 2025, RNVEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:36:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RNVEF&actionDate=1746790592000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RENERVE LTD.]]></category>
+<pink:symbol>RNVEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HYPER BIT TECHNOLOGIES LTD. (HYPAF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HYPAF&actionDate=1746790568000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HYPAF/company-info">HYPER BIT TECHNOLOGIES LTD.</a> (<a href="http://www.otcmarkets.com/stock/HYPAF">HYPAF</a>: OTC Link) - Venue Change - The symbol, HYPAF, no longer trades on Grey Market.  As of Fri, May 09, 2025, HYPAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:36:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HYPAF&actionDate=1746790568000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HYPER BIT TECHNOLOGIES LTD.]]></category>
+<pink:symbol>HYPAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED (ELAHF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ELAHF&actionDate=1746790538000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELAHF/company-info">ELATE HLDGS LTD PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/ELAHF">ELAHF</a>: OTC Link) - Venue Change - The symbol, ELAHF, no longer trades on Grey Market.  As of Fri, May 09, 2025, ELAHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:35:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ELAHF&actionDate=1746790538000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>ELAHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Dena Co., Ltd. (DNCLY: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DNCLY&actionDate=1746773604000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DNCLY/company-info">Dena Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/DNCLY">DNCLY</a>: OTC Link) - Venue Change - The symbol, DNCLY, no longer trades on Grey Market.  As of Fri, May 09, 2025, DNCLY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,40 +984,28 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTNT&actionDate=1746680452000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: OTC Link) - Venue Change - The symbol, PTNT, no longer trades on NYSE MKT.  As of Thu, May 08, 2025, PTNT trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTNT&actionDate=1746680452000]]></guid>
+<title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZTMUF&actionDate=1746790295000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUD/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUD">ZTMUF</a>: Pink Current) - Symbol Change - The symbol, ZTMUF, is no longer a valid symbol for Zimtu Capital Corp.  As of Fri, May 09, 2025, the new trading symbol is ZTMUD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:31:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZTMUF&actionDate=1746790295000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Palatin Technologies, Inc.]]></category>
-<pink:symbol>PTNT</pink:symbol>
+<category><![CDATA[Zimtu Capital Corp]]></category>
+<pink:symbol>ZTMUD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZCARW&actionDate=1746680451000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: OTC Link) - Venue Change - The symbol, ZCARW, no longer trades on Nasdaq.  As of Thu, May 08, 2025, ZCARW trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZCARW&actionDate=1746680451000]]></guid>
+<title><![CDATA[Medaro Mining Corp. (MEDAF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MEDAF&actionDate=1746790250000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MEDAD/company-info">Medaro Mining Corp.</a> (<a href="http://www.otcmarkets.com/stock/MEDAD">MEDAF</a>: Pink Current) - Symbol Change - The symbol, MEDAF, is no longer a valid symbol for Medaro Mining Corp..  As of Fri, May 09, 2025, the new trading symbol is MEDAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:30:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MEDAF&actionDate=1746790250000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
-<pink:symbol>ZCARW</pink:symbol>
+<category><![CDATA[Medaro Mining Corp.]]></category>
+<pink:symbol>MEDAD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZCAR&actionDate=1746680451000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCAR/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCAR">ZCAR</a>: OTC Link) - Venue Change - The symbol, ZCAR, no longer trades on Nasdaq.  As of Thu, May 08, 2025, ZCAR trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZCAR&actionDate=1746680451000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
-<pink:symbol>ZCAR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[PHOENIX MEDIA INVT (HOLDINGS) LTD. (PXSTD: Pink Current) | Symbol Change]]></title>
@@ -1080,40 +1104,28 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEENF&actionDate=1746704003000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEEND/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEEND">EEENF</a>: Pink Current) - Symbol Change - The symbol, EEENF, is no longer a valid symbol for 88 Energy Ltd..  As of Thu, May 08, 2025, the new trading symbol is EEEND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 07:33:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEENF&actionDate=1746704003000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[88 Energy Ltd.]]></category>
-<pink:symbol>EEEND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Palatin Technologies, Inc. (PTN: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PTN&actionDate=1746680452000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTN</a>: Pink Current) - Symbol Change - The symbol, PTN, is no longer a valid symbol for Palatin Technologies, Inc..  As of Thu, May 08, 2025, the new trading symbol is PTNT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PTN&actionDate=1746680452000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Palatin Technologies, Inc.]]></category>
-<pink:symbol>PTNT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Srisawad Corp Pub Co Ltd. (SRAWY: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SRAWY/company-info">Srisawad Corp Pub Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SRAWY">SRAWY</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, SRAWY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.1 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ZTMUF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUD/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUD">ZTMUF</a>: Pink Current) - Splits - Effective Fri, May 09, 2025, ZTMUF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, ZTMUF is no longer valid. The new trading symbol is ZTMUD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ZTMUF&actionDate=1746763200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Srisawad Corp Pub Co Ltd.]]></category>
-<pink:symbol>SRAWY</pink:symbol>
+<category><![CDATA[Zimtu Capital Corp]]></category>
+<pink:symbol>ZTMUD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Medaro Mining Corp. (MEDAF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MEDAF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MEDAD/company-info">Medaro Mining Corp.</a> (<a href="http://www.otcmarkets.com/stock/MEDAD">MEDAF</a>: Pink Current) - Splits - Effective Fri, May 09, 2025, MEDAF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, MEDAF is no longer valid. The new trading symbol is MEDAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MEDAF&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Medaro Mining Corp.]]></category>
+<pink:symbol>MEDAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Endeavor Bancorp (EDVR: OTCQX U.S.) | Splits]]></title>
@@ -1126,6 +1138,18 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:symbol>EDVR</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Srisawad Corp Pub Co Ltd. (SRAWY: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SRAWY/company-info">Srisawad Corp Pub Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SRAWY">SRAWY</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, SRAWY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.1 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Srisawad Corp Pub Co Ltd.]]></category>
+<pink:symbol>SRAWY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[88 Energy Ltd. (EEENF: Pink Current) | Splits]]></title>
@@ -1668,6 +1692,18 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[RENERVE LTD. (RNVEF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RNVEF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RNVEF/company-info">RENERVE LTD.</a> (<a href="http://www.otcmarkets.com/stock/RNVEF">RNVEF</a>: Pink Current) - Tier Change - The symbol, RNVEF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, RNVEF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RNVEF&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RENERVE LTD.]]></category>
+<pink:symbol>RNVEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Legacy Ventures International Inc. (LGYV: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LGYV&actionDate=1746763200000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGYV/company-info">Legacy Ventures International Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGYV">LGYV</a>: Pink Current) - Tier Change - The symbol, LGYV, no longer is classified as Expert Market.  As of Fri, May 09, 2025, LGYV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1680,6 +1716,18 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[HYPER BIT TECHNOLOGIES LTD. (HYPAF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HYPAF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HYPAF/company-info">HYPER BIT TECHNOLOGIES LTD.</a> (<a href="http://www.otcmarkets.com/stock/HYPAF">HYPAF</a>: Pink Current) - Tier Change - The symbol, HYPAF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, HYPAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HYPAF&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HYPER BIT TECHNOLOGIES LTD.]]></category>
+<pink:symbol>HYPAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[EXAIL TECHNOLOGIES (GGRGF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GGRGF&actionDate=1746763200000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GGRGF/company-info">EXAIL TECHNOLOGIES</a> (<a href="http://www.otcmarkets.com/stock/GGRGF">GGRGF</a>: Pink Current) - Tier Change - The symbol, GGRGF, no longer is classified as Pink Limited.  As of Fri, May 09, 2025, GGRGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1688,6 +1736,18 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[EXAIL TECHNOLOGIES]]></category>
 <pink:symbol>GGRGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED (ELAHF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELAHF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELAHF/company-info">ELATE HLDGS LTD PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/ELAHF">ELAHF</a>: Pink Current) - Tier Change - The symbol, ELAHF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, ELAHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELAHF&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>ELAHF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1714,42 +1774,6 @@ OTC RSS mirror fetched: Fri May  9 11:18:32 UTC 2025
 <pink:symbol>CAIB</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vib Vermoegen AG (VIBVY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VIBVY&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VIBVY/company-info">Vib Vermoegen AG</a> (<a href="http://www.otcmarkets.com/stock/VIBVY">VIBVY</a>: Pink Limited) - Tier Change - The symbol, VIBVY, no longer is classified as Expert Market.  As of Thu, May 08, 2025, VIBVY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VIBVY&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vib Vermoegen AG]]></category>
-<pink:symbol>VIBVY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: Pink Limited) - Tier Change - The symbol, VDEKF, no longer is classified as Grey Market.  As of Thu, May 08, 2025, VDEKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VDEKF&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Veidekke ASA]]></category>
-<pink:symbol>VDEKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tego Cyber Inc. (TGCB: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGCB&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGCB/company-info">Tego Cyber Inc.</a> (<a href="http://www.otcmarkets.com/stock/TGCB">TGCB</a>: Pink Current) - Tier Change - The symbol, TGCB, no longer is classified as Pink Limited.  As of Thu, May 08, 2025, TGCB resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGCB&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tego Cyber Inc.]]></category>
-<pink:symbol>TGCB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
