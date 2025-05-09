@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
+OTC RSS mirror fetched: Fri May  9 13:44:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 09:06:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 09:26:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Seneca Finl Corp (SNNF: Pink Current) | Seneca Plan Of Conversion]]></title>
@@ -984,6 +984,18 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[BUFAB AB (BFAAF: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BFAAF&actionDate=1746790326000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAF</a>: Pink Limited) - Symbol Change - The symbol, BFAAF, is no longer a valid symbol for BUFAB AB.  As of Fri, May 09, 2025, the new trading symbol is BFAAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 07:32:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BFAAF&actionDate=1746790326000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUFAB AB]]></category>
+<pink:symbol>BFAAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZTMUF&actionDate=1746790295000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUD/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUD">ZTMUF</a>: Pink Current) - Symbol Change - The symbol, ZTMUF, is no longer a valid symbol for Zimtu Capital Corp.  As of Fri, May 09, 2025, the new trading symbol is ZTMUD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1092,18 +1104,6 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[bebe stores, inc. (BEBE: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BEBE&actionDate=1746766847000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDST/company-info">bebe stores, inc.</a> (<a href="http://www.otcmarkets.com/stock/BDST">BEBE</a>: Pink Limited) - Symbol Change - The symbol, BEBE, is no longer a valid symbol for bebe stores, inc..  As of Fri, May 09, 2025, the new trading symbol is BDST. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 01:00:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BEBE&actionDate=1746766847000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[bebe stores, inc.]]></category>
-<pink:symbol>BDST</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ZTMUF&actionDate=1746763200000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUD/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUD">ZTMUF</a>: Pink Current) - Splits - Effective Fri, May 09, 2025, ZTMUF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, ZTMUF is no longer valid. The new trading symbol is ZTMUD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1126,6 +1126,18 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <pink:symbol>MEDAD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BUFAB AB (BFAAF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BFAAF&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAF</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, BFAAF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 5 for 1 split. Due to the split, BFAAF is no longer valid. The new trading symbol is BFAAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BFAAF&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUFAB AB]]></category>
+<pink:symbol>BFAAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Endeavor Bancorp (EDVR: OTCQX U.S.) | Splits]]></title>
@@ -1320,6 +1332,18 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[BUFAB AB (BFAAD: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BFAAD&actionDate=1746763200000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAD</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 09, 2025, BFAAD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BFAAD&actionDate=1746763200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUFAB AB]]></category>
+<pink:symbol>BFAAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTCQB) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZCARW&actionDate=1746676800000]]></link>
 <description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: OTCQB) - Piggyback Qualified -  Effective Thu, May 08, 2025, ZCARW is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1400,18 +1424,6 @@ OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Investcorp AI Acquisition Corp.]]></category>
 <pink:symbol>IVCAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GCM Resources PLC (GCLMF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCLMF&actionDate=1746676800000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GCLMF/company-info">GCM Resources PLC</a> (<a href="http://www.otcmarkets.com/stock/GCLMF">GCLMF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 08, 2025, GCLMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCLMF&actionDate=1746676800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GCM Resources PLC]]></category>
-<pink:symbol>GCLMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
