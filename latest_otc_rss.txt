@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 15:41:42 UTC 2025
+OTC RSS mirror fetched: Fri May  9 15:53:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May  9 15:41:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 11:26:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 11:46:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[TRON Group Inc. (TGRP: Pink Current) | Nanopharmaceutics Announces NanoDOX® 1% Doxycycline Monohydrate Hydrogel with Oral Doxycycline will be Tested in Male Partners with Genital Mycoplasmas in The University of Western Australia Clinical Trial]]></title>
@@ -1548,6 +1548,30 @@ OTC RSS mirror fetched: Fri May  9 15:41:42 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Betsson AB (BTSNY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283905]]></link>
+<description><![CDATA[Fri, May 09, 2025 11:29 - <a href="http://www.otcmarkets.com/stock/BTSNY/company-info">Betsson AB</a> (<a href="http://www.otcmarkets.com/stock/BTSNY">BTSNY</a>: Pink Limited) - Scheduled Ex-Dividend - Betsson AB has announced a dividend ex-date for (BTSNY: Pink Limited). Betsson AB is scheduled to disburse a Cash Dividend dividend of $0.24152 on Mon, May 12, 2025 to shareholders of BTSNY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 11:29:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283905]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Betsson AB]]></category>
+<pink:symbol>BTSNY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Betsson AB (BTSNY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=278887]]></link>
+<description><![CDATA[Fri, May 09, 2025 11:28 - <a href="http://www.otcmarkets.com/stock/BTSNY/company-info">Betsson AB</a> (<a href="http://www.otcmarkets.com/stock/BTSNY">BTSNY</a>: Pink Limited) - Scheduled Ex-Dividend - Betsson AB has announced a dividend ex-date for (BTSNY: Pink Limited). Betsson AB is scheduled to disburse a Cash Dividend dividend of $0.0485 on Mon, May 12, 2025 to shareholders of BTSNY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 11:28:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=278887]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Betsson AB]]></category>
+<pink:symbol>BTSNY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Siltronic AG (SLTCY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283902]]></link>
 <description><![CDATA[Thu, May 08, 2025 04:13 - <a href="http://www.otcmarkets.com/stock/SLTCY/company-info">Siltronic AG</a> (<a href="http://www.otcmarkets.com/stock/SLTCY">SLTCY</a>: Pink Limited) - Scheduled Ex-Dividend - Siltronic AG has announced a dividend ex-date for (SLTCY: Pink Limited). Siltronic AG is scheduled to disburse a Cash Dividend dividend of $0.01124 on Fri, May 16, 2025 to shareholders of SLTCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1642,30 +1666,6 @@ OTC RSS mirror fetched: Fri May  9 15:41:42 UTC 2025
 <pink:symbol>CPKF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DBS Group Holdings Ltd. (DBSDY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283879]]></link>
-<description><![CDATA[Thu, May 08, 2025 02:24 - <a href="http://www.otcmarkets.com/stock/DBSDY/company-info">DBS Group Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/DBSDY">DBSDY</a>: Pink Current) - Scheduled Ex-Dividend - DBS Group Holdings Ltd. has announced a dividend ex-date for (DBSDY: Pink Current). DBS Group Holdings Ltd. is scheduled to disburse a Cash Dividend dividend of $2.18497 on Mon, May 19, 2025 to shareholders of DBSDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 14:24:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283879]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DBS Group Holdings Ltd.]]></category>
-<pink:symbol>DBSDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[JL MAG RARE-EARTH CO LTD. (JMREY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283887]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:19 - <a href="http://www.otcmarkets.com/stock/JMREY/company-info">JL MAG RARE-EARTH CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/JMREY">JMREY</a>: Pink Current) - Scheduled Ex-Dividend - JL MAG RARE-EARTH CO LTD. has announced a dividend ex-date for (JMREY: Pink Current). JL MAG RARE-EARTH CO LTD. is scheduled to disburse a Cash Dividend dividend of $0.06966 on Thu, Jun 05, 2025 to shareholders of JMREY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 12:19:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283887]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JL MAG RARE-EARTH CO LTD.]]></category>
-<pink:symbol>JMREY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Vita Mobile Systems, Inc. (VMSI: Pink Current) | Tier Change]]></title>
