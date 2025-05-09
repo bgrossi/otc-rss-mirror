@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May  9 12:41:14 UTC 2025
+OTC RSS mirror fetched: Fri May  9 13:17:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May  9 12:41:14 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 09 May 2025 08:26:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 09 May 2025 09:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Seneca Finl Corp (SNNF: Pink Current) | Seneca Plan Of Conversion]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SNNF/news?id=476805]]></link>
+<pubDate>Fri, 09 May 2025 08:50:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNNF/news?id=476805]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Seneca Finl Corp]]></category>
+<pink:symbol>SNNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[VAT Group AG (VACNY: Pink Limited) | VACNY - Books will close today, May 9, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VACNY/news?id=476796]]></link>
+<pubDate>Fri, 09 May 2025 08:26:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VACNY/news?id=476796]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VAT Group AG]]></category>
+<pink:symbol>VACNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Swiss Life Holding (SZLMY: Pink Limited) | SZLMY - Books will close today, May 9, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SZLMY/news?id=476795]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Fri May  9 12:41:14 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Application for quotation of securities - EUR]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=476724]]></link>
-<pubDate>Thu, 08 May 2025 20:14:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=476724]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
-<pink:symbol>EULIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Proposed issue of securities - CPO]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=476719]]></link>
-<pubDate>Thu, 08 May 2025 19:30:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=476719]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Culpeo Minerals Limited]]></category>
-<pink:symbol>CPORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Fri May  9 12:41:14 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[BCW Group Hldg Inc. (BCWG: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BCWG&actionDate=1746793996000]]></link>
+<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BCWG/company-info">BCW Group Hldg Inc.</a> (<a href="http://www.otcmarkets.com/stock/BCWG">BCWG</a>: OTC Link) - Venue Change - The symbol, BCWG, no longer trades on Grey Market.  As of Fri, May 09, 2025, BCWG trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 09 May 2025 08:33:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BCWG&actionDate=1746793996000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BCW Group Hldg Inc.]]></category>
+<pink:symbol>BCWG</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[RENERVE LTD. (RNVEF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RNVEF&actionDate=1746790592000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RNVEF/company-info">RENERVE LTD.</a> (<a href="http://www.otcmarkets.com/stock/RNVEF">RNVEF</a>: OTC Link) - Venue Change - The symbol, RNVEF, no longer trades on Grey Market.  As of Fri, May 09, 2025, RNVEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Fri May  9 12:41:14 UTC 2025
 <pink:symbol>FOUR.PRA</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Veidekke ASA (VDEKF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746686616000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VDEKF/company-info">Veidekke ASA</a> (<a href="http://www.otcmarkets.com/stock/VDEKF">VDEKF</a>: OTC Link) - Venue Change - The symbol, VDEKF, no longer trades on Grey Market.  As of Thu, May 08, 2025, VDEKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 02:43:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VDEKF&actionDate=1746686616000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Veidekke ASA]]></category>
-<pink:symbol>VDEKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Symbol Change]]></title>
