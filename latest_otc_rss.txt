@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
+OTC RSS mirror fetched: Sun May 11 04:24:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 10 May 2025 23:36:31 EDT</lastBuildDate>
+<lastBuildDate>Sun, 11 May 2025 00:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[BioNeutra Global Corporation (BGACF: Pink Current) | BioNeutra Global Corporation Announces Cease Trade Order]]></title>
@@ -936,54 +936,6 @@ OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[WEBUY GLOBAL LTD. (WBUY: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WBUY&actionDate=1746706121000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WBUY/company-info">WEBUY GLOBAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/WBUY">WBUY</a>: Nasdaq) - Venue Change - The symbol, WBUY, no longer trades on OTC Link.  As of Thu, May 08, 2025, WBUY trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 08:08:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WBUY&actionDate=1746706121000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WEBUY GLOBAL LTD.]]></category>
-<pink:symbol>WBUY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GME GROUP HLDGS LTD. (GMEGF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GMEGF&actionDate=1746703267000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GMEGF/company-info">GME GROUP HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/GMEGF">GMEGF</a>: OTC Link) - Venue Change - The symbol, GMEGF, no longer trades on Grey Market.  As of Thu, May 08, 2025, GMEGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 07:21:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GMEGF&actionDate=1746703267000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GME GROUP HLDGS LTD.]]></category>
-<pink:symbol>GMEGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CTR HLDGS LTD. (CHDLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CHDLF&actionDate=1746703244000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CHDLF/company-info">CTR HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CHDLF">CHDLF</a>: OTC Link) - Venue Change - The symbol, CHDLF, no longer trades on Grey Market.  As of Thu, May 08, 2025, CHDLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 07:20:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CHDLF&actionDate=1746703244000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CTR HLDGS LTD.]]></category>
-<pink:symbol>CHDLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[P2P Group Ltd. (PPBGF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PPBGF&actionDate=1746702814000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPBGF/company-info">P2P Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPBGF">PPBGF</a>: OTC Link) - Venue Change - The symbol, PPBGF, no longer trades on Grey Market.  As of Thu, May 08, 2025, PPBGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 07:13:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PPBGF&actionDate=1746702814000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[P2P Group Ltd.]]></category>
-<pink:symbol>PPBGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[BUFAB AB (BFAAF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BFAAF&actionDate=1746790326000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAF</a>: Pink Limited) - Symbol Change - The symbol, BFAAF, is no longer a valid symbol for BUFAB AB.  As of Fri, May 09, 2025, the new trading symbol is BFAAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1104,66 +1056,6 @@ OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Zimtu Capital Corp (ZTMUF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ZTMUF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUD/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUD">ZTMUF</a>: Pink Current) - Splits - Effective Fri, May 09, 2025, ZTMUF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, ZTMUF is no longer valid. The new trading symbol is ZTMUD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ZTMUF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zimtu Capital Corp]]></category>
-<pink:symbol>ZTMUD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Medaro Mining Corp. (MEDAF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MEDAF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MEDAD/company-info">Medaro Mining Corp.</a> (<a href="http://www.otcmarkets.com/stock/MEDAD">MEDAF</a>: Pink Current) - Splits - Effective Fri, May 09, 2025, MEDAF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, MEDAF is no longer valid. The new trading symbol is MEDAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MEDAF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Medaro Mining Corp.]]></category>
-<pink:symbol>MEDAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BUFAB AB (BFAAF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BFAAF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAF</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, BFAAF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 5 for 1 split. Due to the split, BFAAF is no longer valid. The new trading symbol is BFAAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BFAAF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BUFAB AB]]></category>
-<pink:symbol>BFAAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Endeavor Bancorp (EDVR: OTCQX U.S.) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDVR&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EDVR/company-info">Endeavor Bancorp</a> (<a href="http://www.otcmarkets.com/stock/EDVR">EDVR</a>: OTCQX U.S.) - Splits - Effective Fri, May 09, 2025, EDVR: OTCQX U.S. engaged in a fwd split. As a result of the split, shs increased by 1.02 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EDVR&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Endeavor Bancorp]]></category>
-<pink:symbol>EDVR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Srisawad Corp Pub Co Ltd. (SRAWY: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SRAWY/company-info">Srisawad Corp Pub Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SRAWY">SRAWY</a>: Pink Limited) - Splits - Effective Fri, May 09, 2025, SRAWY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.1 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SRAWY&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Srisawad Corp Pub Co Ltd.]]></category>
-<pink:symbol>SRAWY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[RED METAL LTD. (RDMMF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RDMMF&actionDate=1746807091000]]></link>
 <description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RDMMF/company-info">RED METAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/RDMMF">RDMMF</a>: Grey Market) - Reactivated Symbol -  The symbol, RDMMF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1246,78 +1138,6 @@ OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
 <pink:symbol>ZTMUF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MacDonald Mines Exploration Ltd. (MCDMF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MCDMF&actionDate=1746680452000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - MacDonald Mines Exploration Ltd. (MCDMF: OTC Link) - Deleted Symbol - As of Thu, May 08, 2025, MCDMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MCDMF&actionDate=1746680452000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MacDonald Mines Exploration Ltd.]]></category>
-<pink:symbol>MCDMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[88 Energy Ltd. (EEENF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=EEENF&actionDate=1746680439000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - 88 Energy Ltd. (EEENF: OTC Link) - Deleted Symbol - As of Thu, May 08, 2025, EEENF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=EEENF&actionDate=1746680439000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[88 Energy Ltd.]]></category>
-<pink:symbol>EEENF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[KURNIAMITRA DUTA SENTOSA TBK (KMDSF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KMDSF&actionDate=1746680429000]]></link>
-<description><![CDATA[Thu, May 08, 2025 12:00 - KURNIAMITRA DUTA SENTOSA TBK (KMDSF: Grey Market) - Deleted Symbol - As of Thu, May 08, 2025, KMDSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 08 May 2025 01:00:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KMDSF&actionDate=1746680429000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KURNIAMITRA DUTA SENTOSA TBK]]></category>
-<pink:symbol>KMDSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[P2P Group Ltd. (PPBGF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPBGF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPBGF/company-info">P2P Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPBGF">PPBGF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 09, 2025, PPBGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPBGF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[P2P Group Ltd.]]></category>
-<pink:symbol>PPBGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dena Co., Ltd. (DNCLY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DNCLY&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DNCLY/company-info">Dena Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/DNCLY">DNCLY</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 09, 2025, DNCLY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DNCLY&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dena Co., Ltd.]]></category>
-<pink:symbol>DNCLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BUFAB AB (BFAAD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BFAAD&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAD/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAD">BFAAD</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 09, 2025, BFAAD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BFAAD&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BUFAB AB]]></category>
-<pink:symbol>BFAAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Bachem Holding AG (BCHMY: Pink Limited) | Ex-Dividend]]></title>
@@ -1558,126 +1378,6 @@ OTC RSS mirror fetched: Sun May 11 03:55:07 UTC 2025
 <pink:symbol>OCLDY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vita Mobile Systems, Inc. (VMSI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMSI&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VMSI/company-info">Vita Mobile Systems, Inc.</a> (<a href="http://www.otcmarkets.com/stock/VMSI">VMSI</a>: Pink Current) - Tier Change - The symbol, VMSI, no longer is classified as Pink Limited.  As of Fri, May 09, 2025, VMSI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMSI&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vita Mobile Systems, Inc.]]></category>
-<pink:symbol>VMSI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[United American Petroleum Corp. (UAPC: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UAPC&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UAPC/company-info">United American Petroleum Corp.</a> (<a href="http://www.otcmarkets.com/stock/UAPC">UAPC</a>: Pink Current) - Tier Change - The symbol, UAPC, no longer is classified as Pink Limited.  As of Fri, May 09, 2025, UAPC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UAPC&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[United American Petroleum Corp.]]></category>
-<pink:symbol>UAPC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sibannac, Inc. (SNNC: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNNC&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNC/company-info">Sibannac, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SNNC">SNNC</a>: Pink Limited) - Tier Change - The symbol, SNNC, no longer is classified as Pink Current.  As of Fri, May 09, 2025, SNNC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNNC&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sibannac, Inc.]]></category>
-<pink:symbol>SNNC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RENERVE LTD. (RNVEF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RNVEF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RNVEF/company-info">RENERVE LTD.</a> (<a href="http://www.otcmarkets.com/stock/RNVEF">RNVEF</a>: Pink Current) - Tier Change - The symbol, RNVEF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, RNVEF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RNVEF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RENERVE LTD.]]></category>
-<pink:symbol>RNVEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RED METAL LTD. (RDMMF: Grey Market) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RDMMF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RDMMF/company-info">RED METAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/RDMMF">RDMMF</a>: Grey Market) - Tier Change - The symbol, RDMMF, no longer is classified as Pink Current.  As of Fri, May 09, 2025, RDMMF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RDMMF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RED METAL LTD.]]></category>
-<pink:symbol>RDMMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Legacy Ventures International Inc. (LGYV: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LGYV&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGYV/company-info">Legacy Ventures International Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGYV">LGYV</a>: Pink Current) - Tier Change - The symbol, LGYV, no longer is classified as Expert Market.  As of Fri, May 09, 2025, LGYV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LGYV&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Legacy Ventures International Inc.]]></category>
-<pink:symbol>LGYV</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HYPER BIT TECHNOLOGIES LTD. (HYPAF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HYPAF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HYPAF/company-info">HYPER BIT TECHNOLOGIES LTD.</a> (<a href="http://www.otcmarkets.com/stock/HYPAF">HYPAF</a>: Pink Current) - Tier Change - The symbol, HYPAF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, HYPAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HYPAF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HYPER BIT TECHNOLOGIES LTD.]]></category>
-<pink:symbol>HYPAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[EXAIL TECHNOLOGIES (GGRGF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GGRGF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GGRGF/company-info">EXAIL TECHNOLOGIES</a> (<a href="http://www.otcmarkets.com/stock/GGRGF">GGRGF</a>: Pink Current) - Tier Change - The symbol, GGRGF, no longer is classified as Pink Limited.  As of Fri, May 09, 2025, GGRGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GGRGF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EXAIL TECHNOLOGIES]]></category>
-<pink:symbol>GGRGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED (ELAHF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELAHF&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELAHF/company-info">ELATE HLDGS LTD PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/ELAHF">ELAHF</a>: Pink Current) - Tier Change - The symbol, ELAHF, no longer is classified as Grey Market.  As of Fri, May 09, 2025, ELAHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELAHF&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ELATE HLDGS LTD PUBLIC COMPANY LIMITED]]></category>
-<pink:symbol>ELAHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dena Co., Ltd. (DNCLY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DNCLY&actionDate=1746763200000]]></link>
-<description><![CDATA[Fri, May 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DNCLY/company-info">Dena Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/DNCLY">DNCLY</a>: Pink Limited) - Tier Change - The symbol, DNCLY, no longer is classified as Grey Market.  As of Fri, May 09, 2025, DNCLY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DNCLY&actionDate=1746763200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dena Co., Ltd.]]></category>
-<pink:symbol>DNCLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
