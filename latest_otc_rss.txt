@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
+OTC RSS mirror fetched: Mon May 12 11:38:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 07:06:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 07:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Arizona Gold & Silver Inc. (AZASF: OTCQB) | ARIZONA GOLD & SILVER COMMENCES PHASE 2 HEAP LEACH METALLURGICAL TESTING ON THE PHILADELPHIA GOLD-SILVER PROJECT, ARIZONA]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AZASF/news?id=476922]]></link>
+<pubDate>Mon, 12 May 2025 07:35:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AZASF/news?id=476922]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Arizona Gold & Silver Inc.]]></category>
+<pink:symbol>AZASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Appendix 3X - Initial Director's Interest Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=476912]]></link>
+<pubDate>Mon, 12 May 2025 07:10:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=476912]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hot Chili Ltd.]]></category>
+<pink:symbol>HHLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Aspira Women's Health Inc. (AWHL: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 12]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AWHL/news?id=476825]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[RELIEF THERAPEUTICS HLDG AG (RLFTY: OTCQB) | RLFTY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RLFTY/news?id=476784]]></link>
-<pubDate>Fri, 09 May 2025 08:18:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RLFTY/news?id=476784]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RELIEF THERAPEUTICS HLDG AG]]></category>
-<pink:symbol>RLFTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[PT United Tractors (PUTKY: Pink Limited) | PUTKY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PUTKY/news?id=476780]]></link>
-<pubDate>Fri, 09 May 2025 08:11:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PUTKY/news?id=476780]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT United Tractors]]></category>
-<pink:symbol>PUTKY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[RED METAL LTD. (RDMMF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RDMMF&actionDate=1747048692000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RDMMF/company-info">RED METAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/RDMMF">RDMMF</a>: OTC Link) - Venue Change - The symbol, RDMMF, no longer trades on Grey Market.  As of Mon, May 12, 2025, RDMMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 07:18:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RDMMF&actionDate=1747048692000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RED METAL LTD.]]></category>
+<pink:symbol>RDMMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[BIG TECHNOLOGIES PLC (BIGLF: Pink Current) | Venue Change]]></title>
@@ -1418,7 +1430,7 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <item>
 <title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Expert Market.  As of Mon, May 12, 2025, WTFPV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Grey Market.  As of Mon, May 12, 2025, WTFPV resides in the Expert Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1430,7 +1442,7 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <item>
 <title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Grey Market.  As of Mon, May 12, 2025, WTFPV resides in the Expert Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Expert Market.  As of Mon, May 12, 2025, WTFPV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1460,6 +1472,18 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[SGD Holdings, Ltd.]]></category>
 <pink:symbol>SGDH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[RED METAL LTD. (RDMMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RDMMF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RDMMF/company-info">RED METAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/RDMMF">RDMMF</a>: Pink Current) - Tier Change - The symbol, RDMMF, no longer is classified as Grey Market.  As of Mon, May 12, 2025, RDMMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RDMMF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RED METAL LTD.]]></category>
+<pink:symbol>RDMMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1520,18 +1544,6 @@ OTC RSS mirror fetched: Mon May 12 11:18:09 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NNRF, Inc.]]></category>
 <pink:symbol>NNRI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Neon Bloom Inc. (NBCO: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NBCO&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NBCO/company-info">Neon Bloom Inc.</a> (<a href="http://www.otcmarkets.com/stock/NBCO">NBCO</a>: Pink Current) - Tier Change - The symbol, NBCO, no longer is classified as Pink Limited.  As of Mon, May 12, 2025, NBCO resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NBCO&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Neon Bloom Inc.]]></category>
-<pink:symbol>NBCO</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
