@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
+OTC RSS mirror fetched: Mon May 12 13:22:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 08:26:31 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 09:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Readen Holding Corp. (RHCO: Pink Current) | READEN HOLDING CORPORATION (OTC PINK: RHCO) ANNOUNCES FILING OF MARCH 31, 2025 FINANCIAL STATEMENTS WITH OTC MARKETS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RHCO/news?id=476894]]></link>
+<pubDate>Mon, 12 May 2025 08:30:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RHCO/news?id=476894]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Readen Holding Corp.]]></category>
+<pink:symbol>RHCO</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Novus Acquisition & Development Corp. (NDEV: Pink Current) | Novus’s Positive Financial Performance and Market Position Highlight Novus's 1Q 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NDEV/news?id=476854]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Singapore Exchange Ltd. (SPXCY: Pink Current) | SPXCY - Books will close at the close of business today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SPXCY/news?id=476791]]></link>
-<pubDate>Fri, 09 May 2025 08:24:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPXCY/news?id=476791]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Singapore Exchange Ltd.]]></category>
-<pink:symbol>SPXCY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -862,6 +862,30 @@ OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Isabella Bank Corp. (ISBA: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISBA&actionDate=1747053091000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ISBA/company-info">Isabella Bank Corp.</a> (<a href="http://www.otcmarkets.com/stock/ISBA">ISBA</a>: Nasdaq) - Venue Change - The symbol, ISBA, no longer trades on OTC Link.  As of Mon, May 12, 2025, ISBA trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 08:31:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISBA&actionDate=1747053091000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Isabella Bank Corp.]]></category>
+<pink:symbol>ISBA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DEFI TECHNOLOGIES INC NEW (DEFT: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DEFT&actionDate=1747053008000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DEFT/company-info">DEFI TECHNOLOGIES INC NEW</a> (<a href="http://www.otcmarkets.com/stock/DEFT">DEFT</a>: Nasdaq) - Venue Change - The symbol, DEFT, no longer trades on OTC Link.  As of Mon, May 12, 2025, DEFT trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 08:30:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DEFT&actionDate=1747053008000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DEFI TECHNOLOGIES INC NEW]]></category>
+<pink:symbol>DEFT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[RED METAL LTD. (RDMMF: Pink Current) | Venue Change]]></title>
@@ -1308,6 +1332,18 @@ OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Wuxi Apptec Co Ltd. (WUXAY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284021]]></link>
+<description><![CDATA[Mon, May 12, 2025 08:44 - <a href="http://www.otcmarkets.com/stock/WUXAY/company-info">Wuxi Apptec Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/WUXAY">WUXAY</a>: Pink Current) - Scheduled Ex-Dividend - Wuxi Apptec Co Ltd. has announced a dividend ex-date for (WUXAY: Pink Current). Wuxi Apptec Co Ltd. is scheduled to disburse a Cash Dividend dividend of $0.14113 on Mon, May 19, 2025 to shareholders of WUXAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 08:44:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284021]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Wuxi Apptec Co Ltd.]]></category>
+<pink:symbol>WUXAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Larsen & Toubro Ltd. (LTORY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284001]]></link>
 <description><![CDATA[Fri, May 09, 2025 05:54 - <a href="http://www.otcmarkets.com/stock/LTORY/company-info">Larsen & Toubro Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LTORY">LTORY</a>: Pink Limited) - Scheduled Ex-Dividend - Larsen & Toubro Ltd. has announced a dividend ex-date for (LTORY: Pink Limited). Larsen & Toubro Ltd. is scheduled to disburse a Cash Dividend dividend of $0.37821 on Tue, Jun 03, 2025 to shareholders of LTORY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1414,18 +1450,6 @@ OTC RSS mirror fetched: Mon May 12 12:44:32 UTC 2025
 <pink:symbol>RRETY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Orica Ltd. (OCLDY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284007]]></link>
-<description><![CDATA[Fri, May 09, 2025 11:38 - <a href="http://www.otcmarkets.com/stock/OCLDY/company-info">Orica Ltd.</a> (<a href="http://www.otcmarkets.com/stock/OCLDY">OCLDY</a>: Pink Current) - Scheduled Ex-Dividend - Orica Ltd. has announced a dividend ex-date for (OCLDY: Pink Current). Orica Ltd. is scheduled to disburse a Cash Dividend dividend of $0.12358 on Fri, May 23, 2025 to shareholders of OCLDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 09 May 2025 11:38:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284007]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Orica Ltd.]]></category>
-<pink:symbol>OCLDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Tier Change]]></title>
