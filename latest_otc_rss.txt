@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 19:51:33 UTC 2025
+OTC RSS mirror fetched: Mon May 12 20:23:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 12 19:51:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 15:46:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 16:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Heritage Nola Bancorp Inc (HRGG: Pink Current) | Earnings Release Q1, 2025]]></title>
@@ -1138,6 +1138,18 @@ OTC RSS mirror fetched: Mon May 12 19:51:33 UTC 2025
 <pink:symbol>ZMMPY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PET VALU HLDGS LTD (PTVLF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PTVLF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTVLF/company-info">PET VALU HLDGS LTD</a> (<a href="http://www.otcmarkets.com/stock/PTVLF">PTVLF</a>: Pink Current) - Halted Security -  Effective Mon, May 12, 2025, PTVLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PTVLF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PET VALU HLDGS LTD]]></category>
+<pink:symbol>PTVLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[88 Energy Ltd. (EEEND: Pink Current) | Halted Security]]></title>
