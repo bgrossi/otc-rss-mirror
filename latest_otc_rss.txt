@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 18:29:48 UTC 2025
+OTC RSS mirror fetched: Mon May 12 18:51:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 12 18:29:48 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 14:26:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 14:46:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Heritage Nola Bancorp Inc (HRGG: Pink Current) | Earnings Release Q1, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HRGG/news?id=476980]]></link>
+<pubDate>Mon, 12 May 2025 14:35:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HRGG/news?id=476980]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Heritage Nola Bancorp Inc]]></category>
+<pink:symbol>HRGG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476974]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon May 12 18:29:48 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Equitable Financial Corp.]]></category>
 <pink:symbol>EQFN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Seneca Finl Corp (SNNF: Pink Current) | Seneca Plan Of Conversion]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SNNF/news?id=476805]]></link>
-<pubDate>Fri, 09 May 2025 08:50:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNNF/news?id=476805]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Seneca Finl Corp]]></category>
-<pink:symbol>SNNF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
