@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 23:19:27 UTC 2025
+OTC RSS mirror fetched: Mon May 12 23:39:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 12 23:19:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 19:06:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 19:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FFBW, Inc. (FFBW: OTCQX U.S.) | FFBW, Inc. Announces Financial Results for the Three Months Ended March 31, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FFBW/news?id=477019]]></link>
+<pubDate>Mon, 12 May 2025 19:14:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FFBW/news?id=477019]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FFBW, Inc.]]></category>
+<pink:symbol>FFBW</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paladin Energy Ltd. (PALAF: OTCQX International) | Financial Results Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=477018]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon May 12 23:19:27 UTC 2025
 <pink:symbol>BCOW</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | PARAGON SELF REPORTS POTENTIAL VIOLATIONS RELATED TO FORMER CEO GAD’S IMMIGRATION AND WORK AUTHORIZATION STATUS TO U.S. GOVERNMENT AUTHORITIES]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476836]]></link>
-<pubDate>Fri, 09 May 2025 16:30:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=476836]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
