@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 04:46:51 UTC 2025
+OTC RSS mirror fetched: Mon May 12 05:21:22 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 12 04:46:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 00:36:31 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 01:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Cleansing Statement]]></title>
@@ -864,6 +864,78 @@ OTC RSS mirror fetched: Mon May 12 04:46:51 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DVOUF&actionDate=1747026041000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) - Deleted Symbol - As of Mon, May 12, 2025, DVOUF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DVOUF&actionDate=1747026041000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Distribusi Voucher Nusantara Tbk PT]]></category>
+<pink:symbol>DVOUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[WELLCELL HOLDINGS CO., LTD. (WLLCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WLLCF&actionDate=1747026041000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - WELLCELL HOLDINGS CO., LTD. (WLLCF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, WLLCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WLLCF&actionDate=1747026041000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WELLCELL HOLDINGS CO., LTD.]]></category>
+<pink:symbol>WLLCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Green Cross Health Ltd (PRCXF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRCXF&actionDate=1747026040000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - Green Cross Health Ltd (PRCXF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, PRCXF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRCXF&actionDate=1747026040000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Green Cross Health Ltd]]></category>
+<pink:symbol>PRCXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMHSF&actionDate=1747026025000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, CMHSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMHSF&actionDate=1747026025000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
+<pink:symbol>CMHSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Total Helium Ltd. (TTLHF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TTLHF&actionDate=1747026017000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - Total Helium Ltd. (TTLHF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, TTLHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TTLHF&actionDate=1747026017000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Total Helium Ltd.]]></category>
+<pink:symbol>TTLHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ZAMP S.A (ZMMPY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZMMPY&actionDate=1747026012000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - ZAMP S.A (ZMMPY: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, ZMMPY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 01:00:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZMMPY&actionDate=1747026012000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ZAMP S.A]]></category>
+<pink:symbol>ZMMPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Bachem Holding AG (BCHMY: Pink Limited) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169014]]></link>
 <description><![CDATA[Fri, May 09, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BCHMY/company-info">Bachem Holding AG</a> (<a href="http://www.otcmarkets.com/stock/BCHMY">BCHMY</a>: Pink Limited) - Ex-Dividend -  As of Mon, May 12, 2025, Bachem Holding AG traded ex-dividend. Bachem Holding AG will disburse a Cash Dividend dividend of $0.0233 to shareholders of BCHMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1174,78 @@ OTC RSS mirror fetched: Mon May 12 04:46:51 UTC 2025
 <pink:symbol>OCLDY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Trex Acquisition Corp. (TRXA: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRXA&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRXA/company-info">Trex Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRXA">TRXA</a>: OTCQB) - Tier Change - The symbol, TRXA, no longer is classified as Pink Current.  As of Mon, May 12, 2025, TRXA resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRXA&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trex Acquisition Corp.]]></category>
+<pink:symbol>TRXA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[OMV AG (OMVKY: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OMVKY&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OMVKY/company-info">OMV AG</a> (<a href="http://www.otcmarkets.com/stock/OMVKY">OMVKY</a>: OTCQX International) - Tier Change - The symbol, OMVKY, no longer is classified as Pink Current.  As of Mon, May 12, 2025, OMVKY resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OMVKY&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OMV AG]]></category>
+<pink:symbol>OMVKY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[OMV AG (OMVJF: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OMVJF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OMVJF/company-info">OMV AG</a> (<a href="http://www.otcmarkets.com/stock/OMVJF">OMVJF</a>: OTCQX International) - Tier Change - The symbol, OMVJF, no longer is classified as Pink Current.  As of Mon, May 12, 2025, OMVJF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OMVJF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OMV AG]]></category>
+<pink:symbol>OMVJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Northisle Copper and Gold Inc. (NTCPF: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NTCPF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTCPF/company-info">Northisle Copper and Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTCPF">NTCPF</a>: OTCQX International) - Tier Change - The symbol, NTCPF, no longer is classified as Pink Current.  As of Mon, May 12, 2025, NTCPF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NTCPF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Northisle Copper and Gold Inc.]]></category>
+<pink:symbol>NTCPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kinetic Seas, Inc. (KSEZ: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KSEZ&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KSEZ/company-info">Kinetic Seas, Inc.</a> (<a href="http://www.otcmarkets.com/stock/KSEZ">KSEZ</a>: OTCQB) - Tier Change - The symbol, KSEZ, no longer is classified as Pink Current.  As of Mon, May 12, 2025, KSEZ resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KSEZ&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kinetic Seas, Inc.]]></category>
+<pink:symbol>KSEZ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BROOQLY, INC. (BRQL: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRQL&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRQL/company-info">BROOQLY, INC.</a> (<a href="http://www.otcmarkets.com/stock/BRQL">BRQL</a>: OTCQB) - Tier Change - The symbol, BRQL, no longer is classified as Pink Current.  As of Mon, May 12, 2025, BRQL resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRQL&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BROOQLY, INC.]]></category>
+<pink:symbol>BRQL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
