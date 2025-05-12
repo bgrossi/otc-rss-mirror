@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 13:47:30 UTC 2025
+OTC RSS mirror fetched: Mon May 12 14:22:09 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 12 13:47:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 09:46:31 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 10:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[China New Energy Group Co. (CNER: Pink Current) | Name change to bioEnergy Development Inc.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CNER/news?id=476966]]></link>
+<pubDate>Mon, 12 May 2025 09:52:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNER/news?id=476966]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[China New Energy Group Co.]]></category>
+<pink:symbol>CNER</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Eurosite Power Inc. (EUSP: Pink Current) | Aivita Group Schedules Earnings Release for Q1 2025 Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=476962]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon May 12 13:47:30 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[VAT Group AG]]></category>
 <pink:symbol>VACNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Swiss Life Holding (SZLMY: Pink Limited) | SZLMY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SZLMY/news?id=476795]]></link>
-<pubDate>Fri, 09 May 2025 08:26:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SZLMY/news?id=476795]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Swiss Life Holding]]></category>
-<pink:symbol>SZLMY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
