@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 13:22:18 UTC 2025
+OTC RSS mirror fetched: Mon May 12 13:47:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon May 12 13:22:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 09:06:31 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 09:46:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Eurosite Power Inc. (EUSP: Pink Current) | Aivita Group Schedules Earnings Release for Q1 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=476962]]></link>
+<pubDate>Mon, 12 May 2025 09:30:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=476962]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eurosite Power Inc.]]></category>
+<pink:symbol>EUSP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice of Additional Purchase of Bitcoin]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476963]]></link>
+<pubDate>Mon, 12 May 2025 09:11:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476963]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Readen Holding Corp. (RHCO: Pink Current) | READEN HOLDING CORPORATION (OTC PINK: RHCO) ANNOUNCES FILING OF MARCH 31, 2025 FINANCIAL STATEMENTS WITH OTC MARKETS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/RHCO/news?id=476894]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Mon May 12 13:22:18 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[SIKA AG (SXYAY: Pink Limited) | SXYAY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SXYAY/news?id=476793]]></link>
-<pubDate>Fri, 09 May 2025 08:25:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SXYAY/news?id=476793]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SIKA AG]]></category>
-<pink:symbol>SXYAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Swatch Group AG (SWGAY: Pink Limited) | SWGAY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=476792]]></link>
-<pubDate>Fri, 09 May 2025 08:25:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=476792]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Swatch Group AG]]></category>
-<pink:symbol>SWGAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1102,6 +1102,18 @@ OTC RSS mirror fetched: Mon May 12 13:22:18 UTC 2025
 <pink:symbol>ZMMPY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[88 Energy Ltd. (EEEND: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EEEND&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEEND/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEEND">EEEND</a>: Pink Current) - Halted Security -  Effective Mon, May 12, 2025, EEEND is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EEEND&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[88 Energy Ltd.]]></category>
+<pink:symbol>EEEND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[PRODIA WIDYAHUSADA TBK PT (PRWDF: Pink Limited) | Piggyback Qualified]]></title>
