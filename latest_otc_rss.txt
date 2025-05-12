@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 04:26:28 UTC 2025
+OTC RSS mirror fetched: Mon May 12 04:46:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Mon May 12 04:26:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 00:06:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 00:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Cleansing Statement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476877]]></link>
+<pubDate>Mon, 12 May 2025 00:28:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476877]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476876]]></link>
+<pubDate>Mon, 12 May 2025 00:27:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476876]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476875]]></link>
+<pubDate>Mon, 12 May 2025 00:27:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476875]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Update - Notification of buy-back - CGS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=476873]]></link>
@@ -573,42 +609,6 @@ OTC RSS mirror fetched: Mon May 12 04:26:28 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Epiroc Aktiebolag]]></category>
 <pink:symbol>EPOAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AVOLTA AG (DUFRY: Pink Limited) | DUFRY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DUFRY/news?id=476769]]></link>
-<pubDate>Fri, 09 May 2025 08:04:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DUFRY/news?id=476769]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AVOLTA AG]]></category>
-<pink:symbol>DUFRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ CompuGroup Medical SE & Co. KGaA (CMPUY: Pink Current) | CMPUY - Books will close at the close of business today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CMPUY/news?id=476767]]></link>
-<pubDate>Fri, 09 May 2025 08:02:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CMPUY/news?id=476767]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ CompuGroup Medical SE & Co. KGaA]]></category>
-<pink:symbol>CMPUY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Clariant AG (CLZNY: Pink Limited) | CLZNY - Books will close today, May 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLZNY/news?id=476764]]></link>
-<pubDate>Fri, 09 May 2025 08:02:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLZNY/news?id=476764]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Clariant AG]]></category>
-<pink:symbol>CLZNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
