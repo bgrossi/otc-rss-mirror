@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 12 10:24:13 UTC 2025
+OTC RSS mirror fetched: Mon May 12 10:46:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 12 10:24:13 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 12 May 2025 06:06:32 EDT</lastBuildDate>
+<lastBuildDate>Mon, 12 May 2025 06:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Silex Systems Ltd. (SILXY: OTCQX International) | Revised Securities Trading Policy]]></title>
@@ -924,6 +924,30 @@ OTC RSS mirror fetched: Mon May 12 10:24:13 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Altura Energy Corp. (TTLHF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TTLHF&actionDate=1747045847000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Altura Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHF</a>: Pink Current) - Symbol Change - The symbol, TTLHF, is no longer a valid symbol for Altura Energy Corp..  As of Mon, May 12, 2025, the new trading symbol is TTLHD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 06:30:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TTLHF&actionDate=1747045847000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Altura Energy Corp.]]></category>
+<pink:symbol>TTLHD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CMHSF&actionDate=1747045782000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMHSD/company-info">COMPREHENSIVE HEALTHCARE SYS INC.</a> (<a href="http://www.otcmarkets.com/stock/CMHSD">CMHSF</a>: Pink Current) - Symbol Change - The symbol, CMHSF, is no longer a valid symbol for COMPREHENSIVE HEALTHCARE SYS INC..  As of Mon, May 12, 2025, the new trading symbol is CMHSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 06:29:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CMHSF&actionDate=1747045782000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
+<pink:symbol>CMHSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Total Helium Ltd. (TTLHD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TTLHD&actionDate=1747022400000]]></link>
 <description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Total Helium Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHD</a>: Pink Current) - Company Name Change - Total Helium Ltd. has changed its name to Altura Energy Corp.. The change goes into effect as of Mon, May 12, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -946,6 +970,30 @@ OTC RSS mirror fetched: Mon May 12 10:24:13 UTC 2025
 <pink:symbol>KOAPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Altura Energy Corp. (TTLHF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TTLHF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Altura Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHF</a>: Pink Current) - Splits - Effective Mon, May 12, 2025, TTLHF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, TTLHF is no longer valid. The new trading symbol is TTLHD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TTLHF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Altura Energy Corp.]]></category>
+<pink:symbol>TTLHD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CMHSF&actionDate=1747022400000]]></link>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMHSD/company-info">COMPREHENSIVE HEALTHCARE SYS INC.</a> (<a href="http://www.otcmarkets.com/stock/CMHSD">CMHSF</a>: Pink Current) - Splits - Effective Mon, May 12, 2025, CMHSF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, CMHSF is no longer valid. The new trading symbol is CMHSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CMHSF&actionDate=1747022400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
+<pink:symbol>CMHSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) | Deleted Symbol]]></title>
