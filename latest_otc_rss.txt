@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 20:53:28 UTC 2025
+OTC RSS mirror fetched: Tue May 13 21:19:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 13 20:53:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 16:36:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 17:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Forge Group Inc. (FIGP: Pink Current) | Forge Group, Inc. Announces 1st Quarter 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FIGP/news?id=477156]]></link>
+<pubDate>Tue, 13 May 2025 17:00:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FIGP/news?id=477156]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Forge Group Inc.]]></category>
+<pink:symbol>FIGP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[WEST RED LAKE GOLD MINES LTD. (WRLGF: OTCQB) | West Red Lake Gold Comments on Recent Promotional Activity to OTC Market’s Request]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=477172]]></link>
+<pubDate>Tue, 13 May 2025 16:37:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=477172]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WEST RED LAKE GOLD MINES LTD.]]></category>
+<pink:symbol>WRLGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Winmill & Co. Incorporated (WNMLA: Pink Current) | Winmill & Co. Announces First Quarter 2025 Financial Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WNMLA/news?id=477163]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Tue May 13 20:53:28 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Arizona Gold & Silver Inc.]]></category>
 <pink:symbol>AZASF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Appendix 3X - Initial Director's Interest Notice]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=476912]]></link>
-<pubDate>Mon, 12 May 2025 07:10:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=476912]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hot Chili Ltd.]]></category>
-<pink:symbol>HHLKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aspira Women's Health Inc. (AWHL: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 12]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AWHL/news?id=476825]]></link>
-<pubDate>Mon, 12 May 2025 07:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AWHL/news?id=476825]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aspira Women's Health Inc.]]></category>
-<pink:symbol>AWHL</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
