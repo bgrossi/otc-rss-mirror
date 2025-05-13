@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 19:51:35 UTC 2025
+OTC RSS mirror fetched: Tue May 13 20:23:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 13 19:51:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 15:46:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 16:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Winmill & Co. Incorporated (WNMLA: Pink Current) | Winmill & Co. Announces First Quarter 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WNMLA/news?id=477163]]></link>
+<pubDate>Tue, 13 May 2025 16:04:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WNMLA/news?id=477163]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Winmill & Co. Incorporated]]></category>
+<pink:symbol>WNMLA</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[CAVU Resources Inc. (CAVR: Pink Current) | ParagonX Holdings, Inc. settles $1.2 million in debt and announces new management and name change.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CAVR/news?id=477159]]></link>
+<pubDate>Tue, 13 May 2025 15:47:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CAVR/news?id=477159]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CAVU Resources Inc.]]></category>
+<pink:symbol>CAVR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477152]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Tue May 13 19:51:35 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Aspira Women's Health Inc.]]></category>
 <pink:symbol>AWHL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[STARDUST SOLAR ENERGY INC (SUNXF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 12]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SUNXF/news?id=476829]]></link>
-<pubDate>Mon, 12 May 2025 07:00:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SUNXF/news?id=476829]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[STARDUST SOLAR ENERGY INC]]></category>
-<pink:symbol>SUNXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Biomark Diagnostics Inc. (BMKDF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 12]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BMKDF/news?id=476827]]></link>
-<pubDate>Mon, 12 May 2025 07:00:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BMKDF/news?id=476827]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Biomark Diagnostics Inc.]]></category>
-<pink:symbol>BMKDF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
