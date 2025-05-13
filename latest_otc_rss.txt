@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 17:41:57 UTC 2025
+OTC RSS mirror fetched: Tue May 13 17:53:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 13 17:41:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 13:26:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 13:46:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -1306,6 +1306,18 @@ OTC RSS mirror fetched: Tue May 13 17:41:57 UTC 2025
 <pink:symbol>DVOUF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[USHA RES LTD. (USHAF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=USHAF&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/USHAF/company-info">USHA RES LTD.</a> (<a href="http://www.otcmarkets.com/stock/USHAF">USHAF</a>: OTCQB) - Halted Security -  Effective Tue, May 13, 2025, USHAF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=USHAF&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[USHA RES LTD.]]></category>
+<pink:symbol>USHAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[PET VALU HLDGS LTD (PTVLF: Pink Current) | Halted Security]]></title>
