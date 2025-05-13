@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 16:50:43 UTC 2025
+OTC RSS mirror fetched: Tue May 13 17:18:56 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 13 16:50:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 12:46:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 13:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477152]]></link>
+<pubDate>Tue, 13 May 2025 12:53:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477152]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Impact Fusion International Inc. (IFUS: Pink Current) | Gut Health and ADHD Supplement Market Sizes in the USA]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IFUS/news?id=477014]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue May 13 16:50:43 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Biomark Diagnostics Inc.]]></category>
 <pink:symbol>BMKDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vanguard Green Investment Limited (VGES: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 12]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VGES/news?id=476830]]></link>
-<pubDate>Mon, 12 May 2025 07:00:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VGES/news?id=476830]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vanguard Green Investment Limited]]></category>
-<pink:symbol>VGES</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
