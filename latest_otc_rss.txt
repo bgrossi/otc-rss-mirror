@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 12:44:55 UTC 2025
+OTC RSS mirror fetched: Tue May 13 13:23:06 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 13 12:44:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 08:26:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 09:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Appointment of Finance Director]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477030]]></link>
+<pubDate>Tue, 13 May 2025 09:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477030]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vinanz Limited]]></category>
+<pink:symbol>VINZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Technologies Reports First Quarter 2025 Results Addresses Litigation Impact and Strategic Plan Progress]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477114]]></link>
+<pubDate>Tue, 13 May 2025 09:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477114]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[K + S AG (KPLUY: OTCQX International) | K+S Q1/2025: Revenues and EBITDA above expectations – 2025 forecast raised]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KPLUY/news?id=477097]]></link>
@@ -326,6 +350,18 @@ OTC RSS mirror fetched: Tue May 13 12:44:55 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 12.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477115]]></link>
+<pubDate>Mon, 12 May 2025 15:30:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477115]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[Heritage Nola Bancorp Inc (HRGG: Pink Current) | Earnings Release Q1, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HRGG/news?id=476980]]></link>
 <pubDate>Mon, 12 May 2025 14:35:32 EDT</pubDate>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Tue May 13 12:44:55 UTC 2025
 <pink:symbol>CYFRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Silex Systems Ltd. (SILXY: OTCQX International) | Revised Securities Trading Policy]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=476884]]></link>
-<pubDate>Mon, 12 May 2025 02:52:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=476884]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Silex Systems Ltd.]]></category>
-<pink:symbol>SILXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476823]]></link>
-<pubDate>Mon, 12 May 2025 02:00:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476823]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Cleansing Statement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476877]]></link>
-<pubDate>Mon, 12 May 2025 00:28:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=476877]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jindalee Lithium Ltd.]]></category>
-<pink:symbol>JNDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
