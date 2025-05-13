@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 06:30:47 UTC 2025
+OTC RSS mirror fetched: Tue May 13 06:55:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 13 06:30:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 02:06:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 02:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Trustco Group Holdings Ltd. (TSCHY: Pink Limited) | SENS Announcement - UPDATE ON THE  SUSPENSION OF THE TRADING OF THE TRUSTCO SHARES AND PUBLICATION OF  THE ANNUAL FINANCIAL STATEMENTS FOR THE PERIOD ENDED 31 AUGUST 2024  ("AFS FY2024")]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=477026]]></link>
+<pubDate>Tue, 13 May 2025 02:23:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=477026]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trustco Group Holdings Ltd.]]></category>
+<pink:symbol>TSCHY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Boss Energy Ltd (BQSSF: OTCQX International) | Change in substantial holding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BQSSF/news?id=477025]]></link>
+<pubDate>Tue, 13 May 2025 02:11:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BQSSF/news?id=477025]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Boss Energy Ltd]]></category>
+<pink:symbol>BQSSF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=476977]]></link>
@@ -582,30 +606,6 @@ OTC RSS mirror fetched: Tue May 13 06:30:47 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476861]]></link>
 <pubDate>Sun, 11 May 2025 18:16:06 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476861]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Issuance of the 13th Series of Ordinary Bonds]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476860]]></link>
-<pubDate>Sun, 11 May 2025 18:15:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476860]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Change in Use of Proceeds]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476859]]></link>
-<pubDate>Sun, 11 May 2025 18:14:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476859]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Metaplanet Inc.]]></category>
 <pink:symbol>MTPLF</pink:symbol>
