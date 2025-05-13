@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
+OTC RSS mirror fetched: Tue May 13 05:20:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 00:36:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 01:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Boss Energy Ltd (BQSSF: OTCQX International) | enCore Energy Reports Q1 2025 Results]]></title>
@@ -864,7 +864,55 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: Pink Current) | Venue Change]]></title>
+<title><![CDATA[Cartesian Growth Corporation II (REEWF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEWF&actionDate=1747112448000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REEWF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/REEWF">REEWF</a>: OTC Link) - Venue Change - The symbol, REEWF, no longer trades on Nasdaq.  As of Tue, May 13, 2025, REEWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEWF&actionDate=1747112448000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>REEWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cartesian Growth Corporation II (REEUF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEUF&actionDate=1747112448000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REEUF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/REEUF">REEUF</a>: OTC Link) - Venue Change - The symbol, REEUF, no longer trades on Nasdaq.  As of Tue, May 13, 2025, REEUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEUF&actionDate=1747112448000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>REEUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cartesian Growth Corporation II (RENEF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RENEF&actionDate=1747112447000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RENEF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/RENEF">RENEF</a>: OTC Link) - Venue Change - The symbol, RENEF, no longer trades on Nasdaq.  As of Tue, May 13, 2025, RENEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RENEF&actionDate=1747112447000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>RENEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Hepion Pharmaceuticals, Inc. (HEPA: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HEPA&actionDate=1747112447000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HEPA/company-info">Hepion Pharmaceuticals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/HEPA">HEPA</a>: OTC Link) - Venue Change - The symbol, HEPA, no longer trades on Nasdaq.  As of Tue, May 13, 2025, HEPA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HEPA&actionDate=1747112447000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hepion Pharmaceuticals, Inc.]]></category>
+<pink:symbol>HEPA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: OTCQX U.S.) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMSG&actionDate=1747072935000]]></link>
 <description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMSG/company-info">Consensus Mining & Seigniorage Corporation</a> (<a href="http://www.otcmarkets.com/stock/CMSG">CMSG</a>: OTC Link) - Venue Change - The symbol, CMSG, no longer trades on Grey Market.  As of Mon, May 12, 2025, CMSG trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 12 May 2025 14:02:15 EDT</pubDate>
@@ -873,7 +921,7 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <category><![CDATA[Consensus Mining & Seigniorage Corporation]]></category>
 <pink:symbol>CMSG</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Isabella Bank Corp. (ISBA: null) | Venue Change]]></title>
@@ -936,38 +984,50 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PRODIA WIDYAHUSADA TBK PT (PRWDF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRWDF&actionDate=1747032864000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRWDF/company-info">PRODIA WIDYAHUSADA TBK PT</a> (<a href="http://www.otcmarkets.com/stock/PRWDF">PRWDF</a>: OTC Link) - Venue Change - The symbol, PRWDF, no longer trades on Grey Market.  As of Mon, May 12, 2025, PRWDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRWDF&actionDate=1747032864000]]></guid>
+<title><![CDATA[Cartesian Growth Corporation II (RENEW: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENEW&actionDate=1747112448000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REEWF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/REEWF">RENEW</a>: Pink Current) - Symbol Change - The symbol, RENEW, is no longer a valid symbol for Cartesian Growth Corporation II.  As of Tue, May 13, 2025, the new trading symbol is REEWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENEW&actionDate=1747112448000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PRODIA WIDYAHUSADA TBK PT]]></category>
-<pink:symbol>PRWDF</pink:symbol>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>REEWF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[AJ Plast Public Co Ltd. (AJPLF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AJPLF&actionDate=1747032864000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AJPLF/company-info">AJ Plast Public Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/AJPLF">AJPLF</a>: OTC Link) - Venue Change - The symbol, AJPLF, no longer trades on Grey Market.  As of Mon, May 12, 2025, AJPLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AJPLF&actionDate=1747032864000]]></guid>
+<title><![CDATA[Cartesian Growth Corporation II (RENEU: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENEU&actionDate=1747112448000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REEUF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/REEUF">RENEU</a>: Pink Current) - Symbol Change - The symbol, RENEU, is no longer a valid symbol for Cartesian Growth Corporation II.  As of Tue, May 13, 2025, the new trading symbol is REEUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENEU&actionDate=1747112448000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AJ Plast Public Co Ltd.]]></category>
-<pink:symbol>AJPLF</pink:symbol>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>REEUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WTFPV&actionDate=1747026039000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: OTC Link) - Venue Change - The symbol, WTFPV, no longer trades on Grey Market.  As of Mon, May 12, 2025, WTFPV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WTFPV&actionDate=1747026039000]]></guid>
+<title><![CDATA[Cartesian Growth Corporation II (RENE: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENE&actionDate=1747112447000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RENEF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/RENEF">RENE</a>: Pink Current) - Symbol Change - The symbol, RENE, is no longer a valid symbol for Cartesian Growth Corporation II.  As of Tue, May 13, 2025, the new trading symbol is RENEF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RENE&actionDate=1747112447000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Wintrust Financial Corp.]]></category>
-<pink:symbol>WTFPV</pink:symbol>
+<category><![CDATA[Cartesian Growth Corporation II]]></category>
+<pink:symbol>RENEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AI X TECH INC (CSHTF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CSHTF&actionDate=1747112440000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIXTF/company-info">AI X TECH INC</a> (<a href="http://www.otcmarkets.com/stock/AIXTF">CSHTF</a>: Pink Current) - Symbol Change - The symbol, CSHTF, is no longer a valid symbol for AI X TECH INC.  As of Tue, May 13, 2025, the new trading symbol is AIXTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CSHTF&actionDate=1747112440000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AI X TECH INC]]></category>
+<pink:symbol>AIXTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1044,6 +1104,78 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[MEC Resources Ltd. (MECSF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MECSF&actionDate=1747112449000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MECSF/company-info">MEC Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MECSF">MECSF</a>: Grey Market) - Reactivated Symbol -  The symbol, MECSF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MECSF&actionDate=1747112449000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MEC Resources Ltd.]]></category>
+<pink:symbol>MECSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MINBOS RESOURCES LTD, BURSWOOD WA (MNBRF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MNBRF&actionDate=1747112439000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - MINBOS RESOURCES LTD, BURSWOOD WA (MNBRF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, MNBRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MNBRF&actionDate=1747112439000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MINBOS RESOURCES LTD, BURSWOOD WA]]></category>
+<pink:symbol>MNBRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ADVANCEDADVT LTD (ADLTF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADLTF&actionDate=1747112438000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - ADVANCEDADVT LTD (ADLTF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, ADLTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADLTF&actionDate=1747112438000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ADVANCEDADVT LTD]]></category>
+<pink:symbol>ADLTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ishares Trust Mexico Shares Latixx Mexico Cetetrac (ISTMF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ISTMF&actionDate=1747112436000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - Ishares Trust Mexico Shares Latixx Mexico Cetetrac (ISTMF: Grey Market) - Deleted Symbol - As of Tue, May 13, 2025, ISTMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ISTMF&actionDate=1747112436000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ishares Trust Mexico Shares Latixx Mexico Cetetrac]]></category>
+<pink:symbol>ISTMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lithos Group Ltd. (LITSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LITSF&actionDate=1747112425000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - Lithos Group Ltd. (LITSF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, LITSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LITSF&actionDate=1747112425000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lithos Group Ltd.]]></category>
+<pink:symbol>LITSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SIENNA RESOURCES INC (SNNAF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNNAF&actionDate=1747112415000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - SIENNA RESOURCES INC (SNNAF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, SNNAF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 01:00:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNNAF&actionDate=1747112415000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SIENNA RESOURCES INC]]></category>
+<pink:symbol>SNNAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Corporativo GBM SAB de CV (CPVBF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CPVBF&actionDate=1747060180000]]></link>
 <description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CPVBF/company-info">Corporativo GBM SAB de CV</a> (<a href="http://www.otcmarkets.com/stock/CPVBF">CPVBF</a>: Grey Market) - Reactivated Symbol -  The symbol, CPVBF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1088,54 +1220,6 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[WELLCELL HOLDINGS CO., LTD.]]></category>
 <pink:symbol>WLLCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Green Cross Health Ltd (PRCXF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRCXF&actionDate=1747026040000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - Green Cross Health Ltd (PRCXF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, PRCXF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRCXF&actionDate=1747026040000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Cross Health Ltd]]></category>
-<pink:symbol>PRCXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMHSF&actionDate=1747026025000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, CMHSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMHSF&actionDate=1747026025000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
-<pink:symbol>CMHSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Altura Energy Corp. (TTLHF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TTLHF&actionDate=1747026017000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - Altura Energy Corp. (TTLHF: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, TTLHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TTLHF&actionDate=1747026017000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Altura Energy Corp.]]></category>
-<pink:symbol>TTLHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ZAMP S.A (ZMMPY: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZMMPY&actionDate=1747026012000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - ZAMP S.A (ZMMPY: OTC Link) - Deleted Symbol - As of Mon, May 12, 2025, ZMMPY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZMMPY&actionDate=1747026012000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZAMP S.A]]></category>
-<pink:symbol>ZMMPY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
@@ -1512,6 +1596,18 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: OTCQX U.S.) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMSG&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMSG/company-info">Consensus Mining & Seigniorage Corporation</a> (<a href="http://www.otcmarkets.com/stock/CMSG">CMSG</a>: OTCQX U.S.) - Tier Change - The symbol, CMSG, no longer is classified as Pink Current.  As of Tue, May 13, 2025, CMSG resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMSG&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Consensus Mining & Seigniorage Corporation]]></category>
+<pink:symbol>CMSG</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></link>
 <description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Grey Market.  As of Mon, May 12, 2025, WTFPV resides in the Expert Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1616,18 +1712,6 @@ OTC RSS mirror fetched: Tue May 13 04:46:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[OMV AG]]></category>
 <pink:symbol>OMVJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Northisle Copper and Gold Inc. (NTCPF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NTCPF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTCPF/company-info">Northisle Copper and Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTCPF">NTCPF</a>: OTCQX International) - Tier Change - The symbol, NTCPF, no longer is classified as Pink Current.  As of Mon, May 12, 2025, NTCPF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NTCPF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Northisle Copper and Gold Inc.]]></category>
-<pink:symbol>NTCPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
