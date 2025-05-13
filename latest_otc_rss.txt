@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
+OTC RSS mirror fetched: Tue May 13 11:18:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 06:36:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 07:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Exercise of 17p Warrants. Warrant Exercise Period]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></link>
+<pubDate>Tue, 13 May 2025 06:36:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Guardian Metal Resources PLC]]></category>
+<pink:symbol>GMTLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Exercise of 17p Warrants]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477043]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Issuance of the 14th Series of Ordinary Bonds]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476864]]></link>
-<pubDate>Sun, 11 May 2025 18:18:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476864]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXK: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRXK&actionDate=1747134004000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXK/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXK">PRXK</a>: OTC Link) - Venue Change - The symbol, PRXK, no longer trades on Grey Market.  As of Tue, May 13, 2025, PRXK trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 07:00:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRXK&actionDate=1747134004000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
+<pink:symbol>PRXK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXA: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRXA&actionDate=1747133982000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXA/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXA">PRXA</a>: OTC Link) - Venue Change - The symbol, PRXA, no longer trades on Grey Market.  As of Tue, May 13, 2025, PRXA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 06:59:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRXA&actionDate=1747133982000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
+<pink:symbol>PRXA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GPINF&actionDate=1747133961000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: OTC Link) - Venue Change - The symbol, GPINF, no longer trades on Grey Market.  As of Tue, May 13, 2025, GPINF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 06:59:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GPINF&actionDate=1747133961000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
+<pink:symbol>GPINF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Covestro AG (CVROF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CVROF&actionDate=1747119262000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CVROF/company-info">Covestro AG</a> (<a href="http://www.otcmarkets.com/stock/CVROF">CVROF</a>: OTC Link) - Venue Change - The symbol, CVROF, no longer trades on Grey Market.  As of Tue, May 13, 2025, CVROF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,40 +984,28 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[DEFI TECHNOLOGIES INC NEW (DEFT: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DEFT&actionDate=1747053008000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DEFT/company-info">DEFI TECHNOLOGIES INC NEW</a> (<a href="http://www.otcmarkets.com/stock/DEFT">DEFT</a>: Nasdaq) - Venue Change - The symbol, DEFT, no longer trades on OTC Link.  As of Mon, May 12, 2025, DEFT trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 08:30:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DEFT&actionDate=1747053008000]]></guid>
+<title><![CDATA[SIENNA RESOURCES INC (SNNAF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SNNAF&actionDate=1747133901000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNAD/company-info">SIENNA RESOURCES INC</a> (<a href="http://www.otcmarkets.com/stock/SNNAD">SNNAF</a>: Pink Current) - Symbol Change - The symbol, SNNAF, is no longer a valid symbol for SIENNA RESOURCES INC.  As of Tue, May 13, 2025, the new trading symbol is SNNAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 06:58:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SNNAF&actionDate=1747133901000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DEFI TECHNOLOGIES INC NEW]]></category>
-<pink:symbol>DEFT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RED METAL LTD. (RDMMF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RDMMF&actionDate=1747048692000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RDMMF/company-info">RED METAL LTD.</a> (<a href="http://www.otcmarkets.com/stock/RDMMF">RDMMF</a>: OTC Link) - Venue Change - The symbol, RDMMF, no longer trades on Grey Market.  As of Mon, May 12, 2025, RDMMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 07:18:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RDMMF&actionDate=1747048692000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RED METAL LTD.]]></category>
-<pink:symbol>RDMMF</pink:symbol>
+<category><![CDATA[SIENNA RESOURCES INC]]></category>
+<pink:symbol>SNNAD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[BIG TECHNOLOGIES PLC (BIGLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BIGLF&actionDate=1747032866000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BIGLF/company-info">BIG TECHNOLOGIES PLC</a> (<a href="http://www.otcmarkets.com/stock/BIGLF">BIGLF</a>: OTC Link) - Venue Change - The symbol, BIGLF, no longer trades on Grey Market.  As of Mon, May 12, 2025, BIGLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 02:54:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BIGLF&actionDate=1747032866000]]></guid>
+<title><![CDATA[Lithos Group Ltd. (LITSF: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LITSF&actionDate=1747133836000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LITSD/company-info">Lithos Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LITSD">LITSF</a>: OTCQB) - Symbol Change - The symbol, LITSF, is no longer a valid symbol for Lithos Group Ltd..  As of Tue, May 13, 2025, the new trading symbol is LITSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 06:57:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LITSF&actionDate=1747133836000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BIG TECHNOLOGIES PLC]]></category>
-<pink:symbol>BIGLF</pink:symbol>
+<category><![CDATA[Lithos Group Ltd.]]></category>
+<pink:symbol>LITSD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Cartesian Growth Corporation II (RENEW: Pink Current) | Symbol Change]]></title>
@@ -1116,6 +1140,30 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SIENNA RESOURCES INC (SNNAF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SNNAF&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNAD/company-info">SIENNA RESOURCES INC</a> (<a href="http://www.otcmarkets.com/stock/SNNAD">SNNAF</a>: Pink Current) - Splits - Effective Tue, May 13, 2025, SNNAF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, SNNAF is no longer valid. The new trading symbol is SNNAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SNNAF&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SIENNA RESOURCES INC]]></category>
+<pink:symbol>SNNAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lithos Group Ltd. (LITSF: OTCQB) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=LITSF&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LITSD/company-info">Lithos Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/LITSD">LITSF</a>: OTCQB) - Splits - Effective Tue, May 13, 2025, LITSF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, LITSF is no longer valid. The new trading symbol is LITSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=LITSF&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lithos Group Ltd.]]></category>
+<pink:symbol>LITSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Altura Energy Corp. (TTLHF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TTLHF&actionDate=1747022400000]]></link>
 <description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Altura Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHF</a>: Pink Current) - Splits - Effective Mon, May 12, 2025, TTLHF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, TTLHF is no longer valid. The new trading symbol is TTLHD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1224,16 +1272,16 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GPINF&actionDate=1747059561000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: Grey Market) - Reactivated Symbol -  The symbol, GPINF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: Pink Current) - Reactivated Symbol -  The symbol, GPINF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 12 May 2025 10:19:21 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GPINF&actionDate=1747059561000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
 <pink:symbol>GPINF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) | Deleted Symbol]]></title>
@@ -1716,6 +1764,30 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXK: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXK&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXK/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXK">PRXK</a>: Pink Current) - Tier Change - The symbol, PRXK, no longer is classified as Grey Market.  As of Tue, May 13, 2025, PRXK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXK&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
+<pink:symbol>PRXK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXA: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXA&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXA/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXA">PRXA</a>: Pink Current) - Tier Change - The symbol, PRXA, no longer is classified as Grey Market.  As of Tue, May 13, 2025, PRXA resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXA&actionDate=1747108800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
+<pink:symbol>PRXA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Primary Bk (PRMY: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRMY&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMY/company-info">Primary Bk</a> (<a href="http://www.otcmarkets.com/stock/PRMY">PRMY</a>: Pink Current) - Tier Change - The symbol, PRMY, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, PRMY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1728,38 +1800,14 @@ OTC RSS mirror fetched: Tue May 13 10:46:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Covestro AG (CVROF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CVROF&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CVROF/company-info">Covestro AG</a> (<a href="http://www.otcmarkets.com/stock/CVROF">CVROF</a>: Pink Current) - Tier Change - The symbol, CVROF, no longer is classified as Grey Market.  As of Tue, May 13, 2025, CVROF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GPINF&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: Pink Current) - Tier Change - The symbol, GPINF, no longer is classified as Grey Market.  As of Tue, May 13, 2025, GPINF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CVROF&actionDate=1747108800000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GPINF&actionDate=1747108800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Covestro AG]]></category>
-<pink:symbol>CVROF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: OTCQX U.S.) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMSG&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMSG/company-info">Consensus Mining & Seigniorage Corporation</a> (<a href="http://www.otcmarkets.com/stock/CMSG">CMSG</a>: OTCQX U.S.) - Tier Change - The symbol, CMSG, no longer is classified as Pink Current.  As of Tue, May 13, 2025, CMSG resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMSG&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Consensus Mining & Seigniorage Corporation]]></category>
-<pink:symbol>CMSG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Wintrust Financial Corp. (WTFPV: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFPV/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFPV">WTFPV</a>: Pink Current) - Tier Change - The symbol, WTFPV, no longer is classified as Expert Market.  As of Mon, May 12, 2025, WTFPV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WTFPV&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Wintrust Financial Corp.]]></category>
-<pink:symbol>WTFPV</pink:symbol>
+<category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
+<pink:symbol>GPINF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
