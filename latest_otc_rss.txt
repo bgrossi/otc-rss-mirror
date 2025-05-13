@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 13 21:19:35 UTC 2025
+OTC RSS mirror fetched: Tue May 13 21:39:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 13 21:19:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 17:06:32 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 17:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Forge Group Inc. (FIGP: Pink Current) | Forge Group, Inc. Announces 1st Quarter 2025 Financial Results]]></title>
@@ -1824,14 +1824,14 @@ OTC RSS mirror fetched: Tue May 13 21:19:35 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GPINF&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: Pink Current) - Tier Change - The symbol, GPINF, no longer is classified as Grey Market.  As of Tue, May 13, 2025, GPINF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[New Generation Consumer Group, Inc. (NGCG: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGCG&actionDate=1747108800000]]></link>
+<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGCG/company-info">New Generation Consumer Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NGCG">NGCG</a>: Pink Current) - Tier Change - The symbol, NGCG, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, NGCG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GPINF&actionDate=1747108800000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGCG&actionDate=1747108800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
-<pink:symbol>GPINF</pink:symbol>
+<category><![CDATA[New Generation Consumer Group, Inc.]]></category>
+<pink:symbol>NGCG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
