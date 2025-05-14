@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 06:30:45 UTC 2025
+OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed May 14 06:30:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 02:06:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 02:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Directorate Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477208]]></link>
+<pubDate>Wed, 14 May 2025 02:28:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477208]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Interim Dividend Declaration]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></link>
+<pubDate>Wed, 14 May 2025 02:26:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Half-year Report]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477206]]></link>
+<pubDate>Wed, 14 May 2025 02:24:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477206]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477148]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Wed May 14 06:30:45 UTC 2025
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[The Stephan Co. (SPCO: Pink Current) | The Stephan Co. Reports Q1 Fiscal 2025 Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SPCO/news?id=476997]]></link>
-<pubDate>Mon, 12 May 2025 16:35:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPCO/news?id=476997]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Stephan Co.]]></category>
-<pink:symbol>SPCO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Commercial International Bank Ltd. (CIBEY: OTCQX International) | CIB 1Q2025 Earnings Release]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CIBEY/news?id=476991]]></link>
-<pubDate>Mon, 12 May 2025 16:17:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CIBEY/news?id=476991]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Commercial International Bank Ltd.]]></category>
-<pink:symbol>CIBEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Bexil Corporation Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=476989]]></link>
-<pubDate>Mon, 12 May 2025 16:07:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=476989]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
