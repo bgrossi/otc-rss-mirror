@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 01:45:47 UTC 2025
+OTC RSS mirror fetched: Wed May 14 03:11:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Wed May 14 01:45:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 21:36:33 EDT</lastBuildDate>
+<lastBuildDate>Tue, 13 May 2025 23:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Full Early Redemption (Repayment) of the 13th Series of Ordinary Bonds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477200]]></link>
+<pubDate>Tue, 13 May 2025 22:02:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477200]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Large-Scale Exercise of the 15th and 16th Series of Stock Acquisition Rights and Partial Early Redemption of the 14th Series of Ordinary Bonds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477199]]></link>
+<pubDate>Tue, 13 May 2025 22:01:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477199]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Issuance of the 15th Series of Ordinary Bonds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477198]]></link>
+<pubDate>Tue, 13 May 2025 22:01:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477198]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Change in Use of Proceeds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477197]]></link>
+<pubDate>Tue, 13 May 2025 22:00:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477197]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[American Premium Water Corporation (HIPH: Pink Limited) | Material Event Disclosure]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HIPH/news?id=477196]]></link>
+<pubDate>Tue, 13 May 2025 21:44:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HIPH/news?id=477196]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[American Premium Water Corporation]]></category>
+<pink:symbol>HIPH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Golden State Bancorp (GSBX: OTCQX U.S.) | Golden State Bancorp Announces First Quarter of 2025 Financial Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GSBX/news?id=477191]]></link>
@@ -551,66 +611,6 @@ OTC RSS mirror fetched: Wed May 14 01:45:47 UTC 2025
 <pink:symbol>NDEV</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pt Akr Corporindo (PKCPY: Pink Limited) | PKCPY - Books will close today, May 12, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PKCPY/news?id=476933]]></link>
-<pubDate>Mon, 12 May 2025 07:59:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PKCPY/news?id=476933]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pt Akr Corporindo]]></category>
-<pink:symbol>PKCPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[National Australia Bank Ltd. (Victoria, Australia) (NABZY: Pink Current) | NABZY - Books will close today, May 12, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NABZY/news?id=476931]]></link>
-<pubDate>Mon, 12 May 2025 07:58:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NABZY/news?id=476931]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[National Australia Bank Ltd. (Victoria, Australia)]]></category>
-<pink:symbol>NABZY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Grifols Sa (GIKLY: Pink Current) | GIKLY - Books will close today, May 12, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GIKLY/news?id=476930]]></link>
-<pubDate>Mon, 12 May 2025 07:57:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GIKLY/news?id=476930]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Grifols Sa]]></category>
-<pink:symbol>GIKLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Evolution AB (EVVTY: Pink Limited) | EVVTY - Books will close today, May 12, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EVVTY/news?id=476929]]></link>
-<pubDate>Mon, 12 May 2025 07:56:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EVVTY/news?id=476929]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Evolution AB]]></category>
-<pink:symbol>EVVTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kinetic Seas, Inc. (KSEZ: OTCQB) | Kinetic Seas Incorporated (OTCQB: KSEZ) Officially Uplisted to OTCQB Venture Market]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KSEZ/news?id=476927]]></link>
-<pubDate>Mon, 12 May 2025 07:52:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KSEZ/news?id=476927]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kinetic Seas, Inc.]]></category>
-<pink:symbol>KSEZ</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
