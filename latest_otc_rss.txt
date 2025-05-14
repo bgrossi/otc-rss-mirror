@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 10:45:46 UTC 2025
+OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed May 14 10:45:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 06:36:33 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 07:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Additional Listing]]></title>
@@ -984,6 +984,18 @@ OTC RSS mirror fetched: Wed May 14 10:45:46 UTC 2025
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KAST&actionDate=1747219204000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Zhengduozhe Technology, Inc</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KAST</a>: Pink Current) - Symbol Change - The symbol, KAST, is no longer a valid symbol for Zhengduozhe Technology, Inc.  As of Wed, May 14, 2025, the new trading symbol is KASTD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 06:40:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KAST&actionDate=1747219204000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
+<pink:symbol>KASTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SIENNA RESOURCES INC (SNNAF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SNNAF&actionDate=1747133901000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNAD/company-info">SIENNA RESOURCES INC</a> (<a href="http://www.otcmarkets.com/stock/SNNAD">SNNAF</a>: Pink Current) - Symbol Change - The symbol, SNNAF, is no longer a valid symbol for SIENNA RESOURCES INC.  As of Tue, May 13, 2025, the new trading symbol is SNNAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1124,6 +1136,18 @@ OTC RSS mirror fetched: Wed May 14 10:45:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Pieridae Energy Limited]]></category>
 <pink:symbol>PTOAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KAST&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Zhengduozhe Technology, Inc</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KAST</a>: Pink Current) - Splits - Effective Wed, May 14, 2025, KAST: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, KAST is no longer valid. The new trading symbol is KASTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KAST&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
+<pink:symbol>KASTD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
