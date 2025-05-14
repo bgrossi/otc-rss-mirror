@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 18:49:17 UTC 2025
+OTC RSS mirror fetched: Wed May 14 19:17:04 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 14 18:49:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 14:46:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 15:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Zoomcar and Wego Join Forces to Unlock Self-Drive Travel for Global Tourists in India]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></link>
+<pubDate>Wed, 14 May 2025 14:49:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
+<pink:symbol>ZCAR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477310]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May 14 18:49:17 UTC 2025
 <pink:symbol>ZPHRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Exercise of 17p Warrants. Warrant Exercise Period]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></link>
-<pubDate>Tue, 13 May 2025 06:36:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guardian Metal Resources PLC]]></category>
-<pink:symbol>GMTLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
