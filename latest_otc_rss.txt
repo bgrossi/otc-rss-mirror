@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 13:20:21 UTC 2025
+OTC RSS mirror fetched: Wed May 14 13:46:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 14 13:20:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 09:06:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 09:46:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Siltronic AG (SLTCY: Pink Limited) | SLTCY - Books will close at the close of business today, May 14, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SLTCY/news?id=477293]]></link>
+<pubDate>Wed, 14 May 2025 09:22:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SLTCY/news?id=477293]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Siltronic AG]]></category>
+<pink:symbol>SLTCY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Jeronimo Martins, SGPS, SA (JRONY: Pink Limited) | JRONY - Books will close at the close of business today, May 14, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JRONY/news?id=477292]]></link>
+<pubDate>Wed, 14 May 2025 09:21:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JRONY/news?id=477292]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jeronimo Martins, SGPS, SA]]></category>
+<pink:symbol>JRONY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Institutional $4 million Bridge Funding Secured to Expand Bitcoin Business]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477213]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May 14 13:20:21 UTC 2025
 <pink:symbol>CINGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize share buyback update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477027]]></link>
-<pubDate>Tue, 13 May 2025 02:50:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477027]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
-<pink:symbol>ADRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Trustco Group Holdings Ltd. (TSCHY: Pink Limited) | SENS Announcement - UPDATE ON THE  SUSPENSION OF THE TRADING OF THE TRUSTCO SHARES AND PUBLICATION OF  THE ANNUAL FINANCIAL STATEMENTS FOR THE PERIOD ENDED 31 AUGUST 2024  ("AFS FY2024")]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=477026]]></link>
-<pubDate>Tue, 13 May 2025 02:23:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=477026]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trustco Group Holdings Ltd.]]></category>
-<pink:symbol>TSCHY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1294,6 +1294,18 @@ OTC RSS mirror fetched: Wed May 14 13:20:21 UTC 2025
 <pink:symbol>ADLTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ucore Rare Metals, Inc. (UURAF: OTCQX International) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=UURAF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UURAF/company-info">Ucore Rare Metals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/UURAF">UURAF</a>: OTCQX International) - Halted Security -  Effective Wed, May 14, 2025, UURAF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=UURAF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ucore Rare Metals, Inc.]]></category>
+<pink:symbol>UURAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[USHA RES LTD. (USHAF: OTCQB) | Halted Security]]></title>
