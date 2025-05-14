@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
+OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 00:36:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 01:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Resource Update]]></title>
@@ -1140,6 +1140,78 @@ OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Global Star Acquisition, Inc. (GLSTR: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTR&actionDate=1747198843000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTR: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTR is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTR&actionDate=1747198843000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Star Acquisition, Inc.]]></category>
+<pink:symbol>GLSTR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Global Star Acquisition, Inc. (GLSTU: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTU&actionDate=1747198843000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTU: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTU&actionDate=1747198843000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Star Acquisition, Inc.]]></category>
+<pink:symbol>GLSTU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Global Star Acquisition, Inc. (GLSTW: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTW&actionDate=1747198842000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTW: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTW&actionDate=1747198842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Star Acquisition, Inc.]]></category>
+<pink:symbol>GLSTW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Global Star Acquisition, Inc. (GLST: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLST&actionDate=1747198842000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLST: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLST&actionDate=1747198842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Star Acquisition, Inc.]]></category>
+<pink:symbol>GLST</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kasten, Inc. (KAST: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KAST&actionDate=1747198835000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Kasten, Inc. (KAST: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, KAST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KAST&actionDate=1747198835000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kasten, Inc.]]></category>
+<pink:symbol>KAST</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Barkby Group Plc (BAKBF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BAKBF&actionDate=1747198810000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Barkby Group Plc (BAKBF: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, BAKBF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 01:00:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BAKBF&actionDate=1747198810000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Barkby Group Plc]]></category>
+<pink:symbol>BAKBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Jervois Global Limited (JRVMQ: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=JRVMQ&actionDate=1747141613000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - Jervois Global Limited (JRVMQ: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, JRVMQ is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1186,78 +1258,6 @@ OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
 <pink:symbol>ADLTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Ishares Trust Mexico Shares Latixx Mexico Cetetrac (ISTMF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ISTMF&actionDate=1747112436000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - Ishares Trust Mexico Shares Latixx Mexico Cetetrac (ISTMF: Grey Market) - Deleted Symbol - As of Tue, May 13, 2025, ISTMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ISTMF&actionDate=1747112436000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ishares Trust Mexico Shares Latixx Mexico Cetetrac]]></category>
-<pink:symbol>ISTMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Lithos Group Ltd. (LITSF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LITSF&actionDate=1747112425000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - Lithos Group Ltd. (LITSF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, LITSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LITSF&actionDate=1747112425000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lithos Group Ltd.]]></category>
-<pink:symbol>LITSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SIENNA RESOURCES INC (SNNAF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNNAF&actionDate=1747112415000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - SIENNA RESOURCES INC (SNNAF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, SNNAF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNNAF&actionDate=1747112415000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SIENNA RESOURCES INC]]></category>
-<pink:symbol>SNNAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Corporativo GBM SAB de CV (CPVBF: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CPVBF&actionDate=1747060180000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CPVBF/company-info">Corporativo GBM SAB de CV</a> (<a href="http://www.otcmarkets.com/stock/CPVBF">CPVBF</a>: Grey Market) - Reactivated Symbol -  The symbol, CPVBF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 10:29:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CPVBF&actionDate=1747060180000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Corporativo GBM SAB de CV]]></category>
-<pink:symbol>CPVBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GPINF&actionDate=1747059561000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: Pink Current) - Reactivated Symbol -  The symbol, GPINF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 10:19:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GPINF&actionDate=1747059561000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
-<pink:symbol>GPINF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DVOUF&actionDate=1747026041000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - Distribusi Voucher Nusantara Tbk PT (DVOUF: Grey Market) - Deleted Symbol - As of Mon, May 12, 2025, DVOUF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DVOUF&actionDate=1747026041000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Distribusi Voucher Nusantara Tbk PT]]></category>
-<pink:symbol>DVOUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[USHA RES LTD. (USHAF: OTCQB) | Halted Security]]></title>
@@ -1620,6 +1620,18 @@ OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Element79 Gold Corp. (ELMGF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELMGF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELMGF/company-info">Element79 Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/ELMGF">ELMGF</a>: OTCQB) - Tier Change - The symbol, ELMGF, no longer is classified as Pink Current.  As of Wed, May 14, 2025, ELMGF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELMGF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Element79 Gold Corp.]]></category>
+<pink:symbol>ELMGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Zalemark Holding Co., Inc. (ZMRK: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZMRK&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZMRK/company-info">Zalemark Holding Co., Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZMRK">ZMRK</a>: Pink Current) - Tier Change - The symbol, ZMRK, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, ZMRK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1724,18 +1736,6 @@ OTC RSS mirror fetched: Wed May 14 04:45:47 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Primary Bk]]></category>
 <pink:symbol>PRMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[New Generation Consumer Group, Inc. (NGCG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGCG&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGCG/company-info">New Generation Consumer Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NGCG">NGCG</a>: Pink Current) - Tier Change - The symbol, NGCG, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, NGCG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGCG&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[New Generation Consumer Group, Inc.]]></category>
-<pink:symbol>NGCG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
