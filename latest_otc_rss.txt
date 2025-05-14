@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 19:51:34 UTC 2025
+OTC RSS mirror fetched: Wed May 14 20:19:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 14 19:51:34 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 15:46:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 16:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Tapinator, Inc. (TAPM: Pink Current) | Tapinator Announces Q1 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TAPM/news?id=477307]]></link>
+<pubDate>Wed, 14 May 2025 16:05:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TAPM/news?id=477307]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tapinator, Inc.]]></category>
+<pink:symbol>TAPM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Keweenaw Land Association, Ltd. (KEWL: Pink Limited) | Keweenaw Announces Option Agreement with Hybrid Hydrogen]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KEWL/news?id=477326]]></link>
+<pubDate>Wed, 14 May 2025 16:05:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KEWL/news?id=477326]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Keweenaw Land Association, Ltd.]]></category>
+<pink:symbol>KEWL</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Zoomcar and Wego Join Forces to Unlock Self-Drive Travel for Global Tourists in India]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May 14 19:51:34 UTC 2025
 <pink:symbol>CRPFY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | New Corporate Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=477066]]></link>
-<pubDate>Tue, 13 May 2025 07:25:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=477066]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZEPHYR ENERGY PLC.]]></category>
-<pink:symbol>ZPHRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ZEPHYR ENERGY PLC. (ZPHRF: OTCQB) | New strategic partnership to provide up to US$100m]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=477064]]></link>
-<pubDate>Tue, 13 May 2025 07:23:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZPHRF/news?id=477064]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZEPHYR ENERGY PLC.]]></category>
-<pink:symbol>ZPHRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
