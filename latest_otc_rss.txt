@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 22:51:29 UTC 2025
+OTC RSS mirror fetched: Wed May 14 23:19:20 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 14 22:51:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 18:36:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 19:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Lease Terms for Critical Metals Recovery Facility]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477345]]></link>
+<pubDate>Wed, 14 May 2025 18:59:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477345]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MTM CRITICAL METALS LTD.]]></category>
+<pink:symbol>MTMCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson’s NOI Application to Re-enter Mt Fuel-Skyline Geyser Well at Green River Approved by Utah Government]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477343]]></link>
+<pubDate>Wed, 14 May 2025 18:38:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477343]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anson Resources]]></category>
+<pink:symbol>ANSNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Tapinator, Inc. (TAPM: Pink Current) | Tapinator Announces Q1 2025 Financial Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TAPM/news?id=477307]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Wed May 14 22:51:29 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Evolution AB]]></category>
 <pink:symbol>EVVTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Deliveroo PLC (DLVEY: Pink Current) | DLVEY - Books will close today, May 13, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DLVEY/news?id=477091]]></link>
-<pubDate>Tue, 13 May 2025 08:19:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DLVEY/news?id=477091]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Deliveroo PLC]]></category>
-<pink:symbol>DLVEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Corporacion Financiera Colombiana S.A. (CRPFY: Pink Limited) | CRPFY and CFDZY - Books will close today, May 13, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRPFY/news?id=477087]]></link>
-<pubDate>Tue, 13 May 2025 08:18:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRPFY/news?id=477087]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Corporacion Financiera Colombiana S.A.]]></category>
-<pink:symbol>CRPFY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
