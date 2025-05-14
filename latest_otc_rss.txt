@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 16:49:39 UTC 2025
+OTC RSS mirror fetched: Wed May 14 17:18:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 14 16:49:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 12:46:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 13:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477310]]></link>
+<pubDate>Wed, 14 May 2025 12:57:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477310]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | FORMER CEO GAD’S LITIGATION AND MISMANAGEMENT CONTINUE TO COST SHAREHOLDERS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477305]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Wed May 14 16:49:39 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></link>
 <pubDate>Tue, 13 May 2025 06:36:45 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477044]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guardian Metal Resources PLC]]></category>
-<pink:symbol>GMTLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Exercise of 17p Warrants]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477043]]></link>
-<pubDate>Tue, 13 May 2025 06:34:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477043]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Guardian Metal Resources PLC]]></category>
 <pink:symbol>GMTLF</pink:symbol>
