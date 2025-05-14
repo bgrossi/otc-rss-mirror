@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
+OTC RSS mirror fetched: Wed May 14 05:43:16 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 01:06:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 01:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | TOV: FBR Panel Application Withdrawn]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477205]]></link>
+<pubDate>Wed, 14 May 2025 01:30:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477205]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Cleansing Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477204]]></link>
+<pubDate>Wed, 14 May 2025 01:27:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477204]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | FBR ASX Appendix 2A]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477203]]></link>
+<pubDate>Wed, 14 May 2025 01:26:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477203]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Resource Update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=477189]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Heritage Nola Bancorp Inc (HRGG: Pink Current) | Earnings Release Q1, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HRGG/news?id=476980]]></link>
-<pubDate>Mon, 12 May 2025 14:35:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HRGG/news?id=476980]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Heritage Nola Bancorp Inc]]></category>
-<pink:symbol>HRGG</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476974]]></link>
-<pubDate>Mon, 12 May 2025 12:39:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=476974]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[China New Energy Group Co. (CNER: Pink Current) | Name change to bioEnergy Development Inc.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNER/news?id=476966]]></link>
-<pubDate>Mon, 12 May 2025 09:52:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNER/news?id=476966]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[China New Energy Group Co.]]></category>
-<pink:symbol>CNER</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1080,6 +1080,18 @@ OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Kasten, Inc. (KASTD: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KASTD&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Kasten, Inc.</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KASTD</a>: Pink Current) - Company Name Change - Kasten, Inc. has changed its name to Zhengduozhe Technology, Inc. The change goes into effect as of Wed, May 14, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KASTD&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kasten, Inc.]]></category>
+<pink:symbol>KASTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Vital Battery Metals Inc. (VBAMF: OTCQB) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=VBAMF&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VBAMF/company-info">Vital Battery Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/VBAMF">VBAMF</a>: OTCQB) - Company Name Change - Vital Battery Metals Inc. has changed its name to AVENTIS ENERGY INC.. The change goes into effect as of Tue, May 13, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1188,13 +1200,13 @@ OTC RSS mirror fetched: Wed May 14 05:20:52 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Kasten, Inc. (KAST: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Zhengduozhe Technology, Inc (KAST: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KAST&actionDate=1747198835000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - Kasten, Inc. (KAST: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, KAST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 14, 2025 12:00 - Zhengduozhe Technology, Inc (KAST: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, KAST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 14 May 2025 01:00:35 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KAST&actionDate=1747198835000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kasten, Inc.]]></category>
+<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
 <pink:symbol>KAST</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
