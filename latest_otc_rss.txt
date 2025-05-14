@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
+OTC RSS mirror fetched: Wed May 14 04:25:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 13 May 2025 23:36:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 00:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lake Resources N.L. (LLKKF: OTCQB) | Resource Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=477189]]></link>
+<pubDate>Wed, 14 May 2025 00:00:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LLKKF/news?id=477189]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lake Resources N.L.]]></category>
+<pink:symbol>LLKKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Now Corporation (The) (NWPN: Pink Current) | The Now Corporation (OTC: $NWPN) Announces The Sale Of M Loves Vintage To Mike The Pike Productions Inc. (OTC: $MIKP).]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=477201]]></link>
+<pubDate>Wed, 14 May 2025 00:00:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=477201]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Now Corporation (The)]]></category>
+<pink:symbol>NWPN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Current) | Stock Transactions]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=477195]]></link>
+<pubDate>Tue, 13 May 2025 23:55:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=477195]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DATATRAK International, Inc.]]></category>
+<pink:symbol>DTRK</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Current) | Stock Transactions]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=477194]]></link>
+<pubDate>Tue, 13 May 2025 23:45:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=477194]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DATATRAK International, Inc.]]></category>
+<pink:symbol>DTRK</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Full Early Redemption (Repayment) of the 13th Series of Ordinary Bonds]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477200]]></link>
@@ -566,54 +614,6 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Eurosite Power Inc. (EUSP: Pink Current) | Aivita Group Schedules Earnings Release for Q1 2025 Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=476962]]></link>
-<pubDate>Mon, 12 May 2025 09:30:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=476962]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eurosite Power Inc.]]></category>
-<pink:symbol>EUSP</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice of Additional Purchase of Bitcoin]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476963]]></link>
-<pubDate>Mon, 12 May 2025 09:11:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=476963]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Readen Holding Corp. (RHCO: Pink Current) | READEN HOLDING CORPORATION (OTC PINK: RHCO) ANNOUNCES FILING OF MARCH 31, 2025 FINANCIAL STATEMENTS WITH OTC MARKETS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RHCO/news?id=476894]]></link>
-<pubDate>Mon, 12 May 2025 08:30:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RHCO/news?id=476894]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Readen Holding Corp.]]></category>
-<pink:symbol>RHCO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Novus Acquisition & Development Corp. (NDEV: Pink Current) | Novus’s Positive Financial Performance and Market Position Highlight Novus's 1Q 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NDEV/news?id=476854]]></link>
-<pubDate>Mon, 12 May 2025 08:00:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NDEV/news?id=476854]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Novus Acquisition & Development Corp.]]></category>
-<pink:symbol>NDEV</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1116,30 +1116,6 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Total Helium Ltd. (TTLHD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TTLHD&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Total Helium Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHD</a>: Pink Current) - Company Name Change - Total Helium Ltd. has changed its name to Altura Energy Corp.. The change goes into effect as of Mon, May 12, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TTLHD&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Total Helium Ltd.]]></category>
-<pink:symbol>TTLHD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kondor AI PLC (KOAPF: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KOAPF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KOAPF/company-info">Kondor AI PLC</a> (<a href="http://www.otcmarkets.com/stock/KOAPF">KOAPF</a>: OTCQB) - Company Name Change - Kondor AI PLC has changed its name to SUNDAE BAR PLC. The change goes into effect as of Mon, May 12, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KOAPF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kondor AI PLC]]></category>
-<pink:symbol>KOAPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[SIENNA RESOURCES INC (SNNAF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SNNAF&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNAD/company-info">SIENNA RESOURCES INC</a> (<a href="http://www.otcmarkets.com/stock/SNNAD">SNNAF</a>: Pink Current) - Splits - Effective Tue, May 13, 2025, SNNAF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, SNNAF is no longer valid. The new trading symbol is SNNAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1162,30 +1138,6 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 <pink:symbol>LITSD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Altura Energy Corp. (TTLHF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TTLHF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHD/company-info">Altura Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/TTLHD">TTLHF</a>: Pink Current) - Splits - Effective Mon, May 12, 2025, TTLHF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, TTLHF is no longer valid. The new trading symbol is TTLHD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TTLHF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Altura Energy Corp.]]></category>
-<pink:symbol>TTLHD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CMHSF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMHSD/company-info">COMPREHENSIVE HEALTHCARE SYS INC.</a> (<a href="http://www.otcmarkets.com/stock/CMHSD">CMHSF</a>: Pink Current) - Splits - Effective Mon, May 12, 2025, CMHSF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, CMHSF is no longer valid. The new trading symbol is CMHSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CMHSF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
-<pink:symbol>CMHSD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Jervois Global Limited (JRVMQ: OTC Link) | Deleted Symbol]]></title>
@@ -1332,30 +1284,6 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PET VALU HLDGS LTD (PTVLF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PTVLF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTVLF/company-info">PET VALU HLDGS LTD</a> (<a href="http://www.otcmarkets.com/stock/PTVLF">PTVLF</a>: Pink Current) - Halted Security -  Effective Mon, May 12, 2025, PTVLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PTVLF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PET VALU HLDGS LTD]]></category>
-<pink:symbol>PTVLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[88 Energy Ltd. (EEEND: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EEEND&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEEND/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEEND">EEEND</a>: Pink Current) - Halted Security -  Effective Mon, May 12, 2025, EEEND is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EEEND&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[88 Energy Ltd.]]></category>
-<pink:symbol>EEEND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[SANYO INDUSTRIES LTD (SYOIF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SYOIF&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYOIF/company-info">SANYO INDUSTRIES LTD</a> (<a href="http://www.otcmarkets.com/stock/SYOIF">SYOIF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 13, 2025, SYOIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1450,30 +1378,6 @@ OTC RSS mirror fetched: Wed May 14 03:49:09 UTC 2025
 <pink:symbol>CMSG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PRODIA WIDYAHUSADA TBK PT (PRWDF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PRWDF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRWDF/company-info">PRODIA WIDYAHUSADA TBK PT</a> (<a href="http://www.otcmarkets.com/stock/PRWDF">PRWDF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 12, 2025, PRWDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PRWDF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PRODIA WIDYAHUSADA TBK PT]]></category>
-<pink:symbol>PRWDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Northisle Copper and Gold Inc. (NTCPF: OTCQX International) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NTCPF&actionDate=1747022400000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTCPF/company-info">Northisle Copper and Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTCPF">NTCPF</a>: OTCQX International) - Piggyback Qualified -  Effective Mon, May 12, 2025, NTCPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NTCPF&actionDate=1747022400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Northisle Copper and Gold Inc.]]></category>
-<pink:symbol>NTCPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ASMPT LTD. (ASMVY: Pink Current) | Ex-Dividend]]></title>
