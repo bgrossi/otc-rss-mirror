@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
+OTC RSS mirror fetched: Wed May 14 07:23:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 02:36:33 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 03:07:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Directorate Change]]></title>
@@ -290,7 +290,7 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Resilient Energy Inc. (RENI: Pink Limited) | Pending Acquisition]]></title>
+<title><![CDATA[Resilient Energy Inc. (RENI: Pink Current) | Pending Acquisition]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/RENI/news?id=477132]]></link>
 <pubDate>Tue, 13 May 2025 10:16:35 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RENI/news?id=477132]]></guid>
@@ -298,7 +298,7 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <category><![CDATA[Resilient Energy Inc.]]></category>
 <pink:symbol>RENI</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ACCEL SOLUTIONS GROUP LTD. (ACCLF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ACCLF&actionDate=1747205605000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACCLF/company-info">ACCEL SOLUTIONS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/ACCLF">ACCLF</a>: OTC Link) - Venue Change - The symbol, ACCLF, no longer trades on Grey Market.  As of Wed, May 14, 2025, ACCLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 02:53:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ACCLF&actionDate=1747205605000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ACCEL SOLUTIONS GROUP LTD.]]></category>
+<pink:symbol>ACCLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXK: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PRXK&actionDate=1747134004000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXK/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXK">PRXK</a>: OTC Link) - Venue Change - The symbol, PRXK, no longer trades on Grey Market.  As of Tue, May 13, 2025, PRXK trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:symbol>CMSG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Isabella Bank Corp. (ISBA: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISBA&actionDate=1747053091000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ISBA/company-info">Isabella Bank Corp.</a> (<a href="http://www.otcmarkets.com/stock/ISBA">ISBA</a>: Nasdaq) - Venue Change - The symbol, ISBA, no longer trades on OTC Link.  As of Mon, May 12, 2025, ISBA trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 08:31:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ISBA&actionDate=1747053091000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Isabella Bank Corp.]]></category>
-<pink:symbol>ISBA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SIENNA RESOURCES INC (SNNAF: Pink Current) | Symbol Change]]></title>
@@ -1296,6 +1296,42 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Mitani Corp (MITCF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MITCF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MITCF/company-info">Mitani Corp</a> (<a href="http://www.otcmarkets.com/stock/MITCF">MITCF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 14, 2025, MITCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MITCF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mitani Corp]]></category>
+<pink:symbol>MITCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FGV HLDGS BERHAD (FAGVF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FAGVF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FAGVF/company-info">FGV HLDGS BERHAD</a> (<a href="http://www.otcmarkets.com/stock/FAGVF">FAGVF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 14, 2025, FAGVF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FAGVF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FGV HLDGS BERHAD]]></category>
+<pink:symbol>FAGVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ACCEL SOLUTIONS GROUP LTD. (ACCLF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ACCLF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACCLF/company-info">ACCEL SOLUTIONS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/ACCLF">ACCLF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 14, 2025, ACCLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ACCLF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ACCEL SOLUTIONS GROUP LTD.]]></category>
+<pink:symbol>ACCLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SANYO INDUSTRIES LTD (SYOIF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SYOIF&actionDate=1747108800000]]></link>
 <description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYOIF/company-info">SANYO INDUSTRIES LTD</a> (<a href="http://www.otcmarkets.com/stock/SYOIF">SYOIF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 13, 2025, SYOIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1378,18 +1414,6 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:symbol>CVROF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: OTCQX U.S.) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMSG&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMSG/company-info">Consensus Mining & Seigniorage Corporation</a> (<a href="http://www.otcmarkets.com/stock/CMSG">CMSG</a>: OTCQX U.S.) - Piggyback Qualified -  Effective Tue, May 13, 2025, CMSG is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMSG&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Consensus Mining & Seigniorage Corporation]]></category>
-<pink:symbol>CMSG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ASMPT LTD. (ASMVY: Pink Current) | Ex-Dividend]]></title>
@@ -1632,122 +1656,122 @@ OTC RSS mirror fetched: Wed May 14 06:56:00 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Element79 Gold Corp. (ELMGF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELMGF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELMGF/company-info">Element79 Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/ELMGF">ELMGF</a>: OTCQB) - Tier Change - The symbol, ELMGF, no longer is classified as Pink Current.  As of Wed, May 14, 2025, ELMGF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Worry Free Holdings Company (WYCC: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WYCC/company-info">Worry Free Holdings Company</a> (<a href="http://www.otcmarkets.com/stock/WYCC">WYCC</a>: Pink Current) - Tier Change - The symbol, WYCC, no longer is classified as Expert Market.  As of Wed, May 14, 2025, WYCC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ELMGF&actionDate=1747195200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Element79 Gold Corp.]]></category>
-<pink:symbol>ELMGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zalemark Holding Co., Inc. (ZMRK: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZMRK&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZMRK/company-info">Zalemark Holding Co., Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZMRK">ZMRK</a>: Pink Current) - Tier Change - The symbol, ZMRK, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, ZMRK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZMRK&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zalemark Holding Co., Inc.]]></category>
-<pink:symbol>ZMRK</pink:symbol>
+<category><![CDATA[Worry Free Holdings Company]]></category>
+<pink:symbol>WYCC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ZA Group Inc. (ZAAG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAAG/company-info">ZA Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZAAG">ZAAG</a>: Pink Current) - Tier Change - The symbol, ZAAG, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, ZAAG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1747108800000]]></guid>
+<title><![CDATA[Tennessee Valley Financial Holdings, Inc. (TVLF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TVLF/company-info">Tennessee Valley Financial Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TVLF">TVLF</a>: Pink Current) - Tier Change - The symbol, TVLF, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, TVLF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZA Group Inc.]]></category>
-<pink:symbol>ZAAG</pink:symbol>
+<category><![CDATA[Tennessee Valley Financial Holdings, Inc.]]></category>
+<pink:symbol>TVLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SANYO INDUSTRIES LTD (SYOIF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYOIF&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYOIF/company-info">SANYO INDUSTRIES LTD</a> (<a href="http://www.otcmarkets.com/stock/SYOIF">SYOIF</a>: Pink Limited) - Tier Change - The symbol, SYOIF, no longer is classified as Expert Market.  As of Tue, May 13, 2025, SYOIF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYOIF&actionDate=1747108800000]]></guid>
+<title><![CDATA[Sibannac, Inc. (SNNC: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNNC&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNC/company-info">Sibannac, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SNNC">SNNC</a>: Pink Current) - Tier Change - The symbol, SNNC, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, SNNC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNNC&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SANYO INDUSTRIES LTD]]></category>
-<pink:symbol>SYOIF</pink:symbol>
+<category><![CDATA[Sibannac, Inc.]]></category>
+<pink:symbol>SNNC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Reeltime Rentals, Inc. (RLTR: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RLTR/company-info">Reeltime Rentals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RLTR">RLTR</a>: Pink Current) - Tier Change - The symbol, RLTR, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, RLTR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Reeltime Rentals, Inc.]]></category>
+<pink:symbol>RLTR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Resilient Energy Inc. (RENI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RENI&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RENI/company-info">Resilient Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/RENI">RENI</a>: Pink Current) - Tier Change - The symbol, RENI, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, RENI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RENI&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Resilient Energy Inc.]]></category>
+<pink:symbol>RENI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Phoenix Footwear Group, Inc. (PXFG: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PXFG&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PXFG/company-info">Phoenix Footwear Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PXFG">PXFG</a>: Pink Limited) - Tier Change - The symbol, PXFG, no longer is classified as Pink Current.  As of Wed, May 14, 2025, PXFG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PXFG&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Phoenix Footwear Group, Inc.]]></category>
+<pink:symbol>PXFG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Stemsation International, Inc. (STSN: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STSN&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STSN/company-info">Stemsation International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/STSN">STSN</a>: Pink Current) - Tier Change - The symbol, STSN, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, STSN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STSN&actionDate=1747108800000]]></guid>
+<title><![CDATA[Pegasus Tel, Inc. (PTEL: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTEL&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTEL/company-info">Pegasus Tel, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTEL">PTEL</a>: Pink Current) - Tier Change - The symbol, PTEL, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, PTEL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTEL&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Stemsation International, Inc.]]></category>
-<pink:symbol>STSN</pink:symbol>
+<category><![CDATA[Pegasus Tel, Inc.]]></category>
+<pink:symbol>PTEL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SEALAND CAP GALAXY LTD. (SLCGF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SLCGF&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SLCGF/company-info">SEALAND CAP GALAXY LTD.</a> (<a href="http://www.otcmarkets.com/stock/SLCGF">SLCGF</a>: Pink Current) - Tier Change - The symbol, SLCGF, no longer is classified as Expert Market.  As of Tue, May 13, 2025, SLCGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SLCGF&actionDate=1747108800000]]></guid>
+<title><![CDATA[PetroSun, Inc. (PSUD: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PSUD&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PSUD/company-info">PetroSun, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PSUD">PSUD</a>: Pink Current) - Tier Change - The symbol, PSUD, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, PSUD resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PSUD&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SEALAND CAP GALAXY LTD.]]></category>
-<pink:symbol>SLCGF</pink:symbol>
+<category><![CDATA[PetroSun, Inc.]]></category>
+<pink:symbol>PSUD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Qian Yuan Baixing, Inc. (QYBX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QYBX&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QYBX/company-info">Qian Yuan Baixing, Inc.</a> (<a href="http://www.otcmarkets.com/stock/QYBX">QYBX</a>: Pink Current) - Tier Change - The symbol, QYBX, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, QYBX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QYBX&actionDate=1747108800000]]></guid>
+<title><![CDATA[Mitani Corp (MITCF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MITCF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MITCF/company-info">Mitani Corp</a> (<a href="http://www.otcmarkets.com/stock/MITCF">MITCF</a>: Pink Limited) - Tier Change - The symbol, MITCF, no longer is classified as Expert Market.  As of Wed, May 14, 2025, MITCF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MITCF&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Qian Yuan Baixing, Inc.]]></category>
-<pink:symbol>QYBX</pink:symbol>
+<category><![CDATA[Mitani Corp]]></category>
+<pink:symbol>MITCF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXK: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXK&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXK/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXK">PRXK</a>: Pink Current) - Tier Change - The symbol, PRXK, no longer is classified as Grey Market.  As of Tue, May 13, 2025, PRXK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXK&actionDate=1747108800000]]></guid>
+<title><![CDATA[KAT Exploration Inc. (KATX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KATX&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATX/company-info">KAT Exploration Inc.</a> (<a href="http://www.otcmarkets.com/stock/KATX">KATX</a>: Pink Current) - Tier Change - The symbol, KATX, no longer is classified as Expert Market.  As of Wed, May 14, 2025, KATX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KATX&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
-<pink:symbol>PRXK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PROCACCIANTI HOTEL REIT, INC. (PRXA: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXA&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRXA/company-info">PROCACCIANTI HOTEL REIT, INC.</a> (<a href="http://www.otcmarkets.com/stock/PRXA">PRXA</a>: Pink Current) - Tier Change - The symbol, PRXA, no longer is classified as Grey Market.  As of Tue, May 13, 2025, PRXA resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRXA&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PROCACCIANTI HOTEL REIT, INC.]]></category>
-<pink:symbol>PRXA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Primary Bk (PRMY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRMY&actionDate=1747108800000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMY/company-info">Primary Bk</a> (<a href="http://www.otcmarkets.com/stock/PRMY">PRMY</a>: Pink Current) - Tier Change - The symbol, PRMY, no longer is classified as Pink Limited.  As of Tue, May 13, 2025, PRMY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRMY&actionDate=1747108800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Primary Bk]]></category>
-<pink:symbol>PRMY</pink:symbol>
+<category><![CDATA[KAT Exploration Inc.]]></category>
+<pink:symbol>KATX</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
