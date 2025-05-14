@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
+OTC RSS mirror fetched: Wed May 14 11:38:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 07:06:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 07:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Additional Listing]]></title>
@@ -864,6 +864,54 @@ OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[MEC Resources Ltd. (MECSF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MECSF&actionDate=1747222207000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MECSF/company-info">MEC Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MECSF">MECSF</a>: OTC Link) - Venue Change - The symbol, MECSF, no longer trades on Grey Market.  As of Wed, May 14, 2025, MECSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 07:30:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MECSF&actionDate=1747222207000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MEC Resources Ltd.]]></category>
+<pink:symbol>MECSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LONDAX CORP. (LDXC: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDXC&actionDate=1747222019000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDXC/company-info">LONDAX CORP.</a> (<a href="http://www.otcmarkets.com/stock/LDXC">LDXC</a>: OTC Link) - Venue Change - The symbol, LDXC, no longer trades on Grey Market.  As of Wed, May 14, 2025, LDXC trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 07:26:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDXC&actionDate=1747222019000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LONDAX CORP.]]></category>
+<pink:symbol>LDXC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Freelancer Ltd (FRLCY: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FRLCY&actionDate=1747221856000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FRLCY/company-info">Freelancer Ltd</a> (<a href="http://www.otcmarkets.com/stock/FRLCY">FRLCY</a>: OTC Link) - Venue Change - The symbol, FRLCY, no longer trades on Grey Market.  As of Wed, May 14, 2025, FRLCY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 07:24:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FRLCY&actionDate=1747221856000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Freelancer Ltd]]></category>
+<pink:symbol>FRLCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[EMVISION MED DEVICES LTD. (EMVDF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMVDF&actionDate=1747221803000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMVDF/company-info">EMVISION MED DEVICES LTD.</a> (<a href="http://www.otcmarkets.com/stock/EMVDF">EMVDF</a>: OTC Link) - Venue Change - The symbol, EMVDF, no longer trades on Grey Market.  As of Wed, May 14, 2025, EMVDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 07:23:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMVDF&actionDate=1747221803000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EMVISION MED DEVICES LTD.]]></category>
+<pink:symbol>EMVDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ACCEL SOLUTIONS GROUP LTD. (ACCLF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ACCLF&actionDate=1747205605000]]></link>
 <description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACCLF/company-info">ACCEL SOLUTIONS GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/ACCLF">ACCLF</a>: OTC Link) - Venue Change - The symbol, ACCLF, no longer trades on Grey Market.  As of Wed, May 14, 2025, ACCLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -934,54 +982,6 @@ OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
 <pink:symbol>REEWF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cartesian Growth Corporation II (REEUF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEUF&actionDate=1747112448000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REEUF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/REEUF">REEUF</a>: OTC Link) - Venue Change - The symbol, REEUF, no longer trades on Nasdaq.  As of Tue, May 13, 2025, REEUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REEUF&actionDate=1747112448000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cartesian Growth Corporation II]]></category>
-<pink:symbol>REEUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cartesian Growth Corporation II (RENEF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RENEF&actionDate=1747112447000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RENEF/company-info">Cartesian Growth Corporation II</a> (<a href="http://www.otcmarkets.com/stock/RENEF">RENEF</a>: OTC Link) - Venue Change - The symbol, RENEF, no longer trades on Nasdaq.  As of Tue, May 13, 2025, RENEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RENEF&actionDate=1747112447000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cartesian Growth Corporation II]]></category>
-<pink:symbol>RENEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Hepion Pharmaceuticals, Inc. (HEPA: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HEPA&actionDate=1747112447000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HEPA/company-info">Hepion Pharmaceuticals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/HEPA">HEPA</a>: OTC Link) - Venue Change - The symbol, HEPA, no longer trades on Nasdaq.  As of Tue, May 13, 2025, HEPA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HEPA&actionDate=1747112447000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hepion Pharmaceuticals, Inc.]]></category>
-<pink:symbol>HEPA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Consensus Mining & Seigniorage Corporation (CMSG: OTCQX U.S.) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMSG&actionDate=1747072935000]]></link>
-<description><![CDATA[Mon, May 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMSG/company-info">Consensus Mining & Seigniorage Corporation</a> (<a href="http://www.otcmarkets.com/stock/CMSG">CMSG</a>: OTC Link) - Venue Change - The symbol, CMSG, no longer trades on Grey Market.  As of Mon, May 12, 2025, CMSG trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 12 May 2025 14:02:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMSG&actionDate=1747072935000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Consensus Mining & Seigniorage Corporation]]></category>
-<pink:symbol>CMSG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Symbol Change]]></title>
@@ -1788,16 +1788,16 @@ OTC RSS mirror fetched: Wed May 14 11:18:10 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[KAT Exploration Inc. (KATX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KATX&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATX/company-info">KAT Exploration Inc.</a> (<a href="http://www.otcmarkets.com/stock/KATX">KATX</a>: Pink Current) - Tier Change - The symbol, KATX, no longer is classified as Expert Market.  As of Wed, May 14, 2025, KATX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[MEC Resources Ltd. (MECSF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MECSF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MECSF/company-info">MEC Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MECSF">MECSF</a>: Grey Market) - Tier Change - The symbol, MECSF, no longer is classified as Grey Market.  As of Wed, May 14, 2025, MECSF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KATX&actionDate=1747195200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MECSF&actionDate=1747195200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KAT Exploration Inc.]]></category>
-<pink:symbol>KATX</pink:symbol>
+<category><![CDATA[MEC Resources Ltd.]]></category>
+<pink:symbol>MECSF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 </channel>
 </rss>
