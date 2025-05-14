@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
+OTC RSS mirror fetched: Wed May 14 16:27:12 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 14 May 2025 11:46:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 12:26:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | FORMER CEO GAD’S LITIGATION AND MISMANAGEMENT CONTINUE TO COST SHAREHOLDERS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477305]]></link>
+<pubDate>Wed, 14 May 2025 12:20:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477305]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Siltronic AG (SLTCY: Pink Limited) | SLTCY - Books will close at the close of business today, May 14, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SLTCY/news?id=477293]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Strategic Investment Update: Yellow Network Progress and Upcoming Token Launch]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477031]]></link>
-<pubDate>Tue, 13 May 2025 05:10:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477031]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coinsilium Group Ltd.]]></category>
-<pink:symbol>CINGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747238858000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Venue Change - The symbol, TSESF, no longer trades on OTC Link.  As of Wed, May 14, 2025, TSESF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747238858000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[iQSTEL Inc. (IQST: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IQST&actionDate=1747227092000]]></link>
 <description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IQST/company-info">iQSTEL Inc.</a> (<a href="http://www.otcmarkets.com/stock/IQST">IQST</a>: Nasdaq) - Venue Change - The symbol, IQST, no longer trades on OTC Link.  As of Wed, May 14, 2025, IQST trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,16 +984,16 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD. (GPINF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GPINF&actionDate=1747133961000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GPINF/company-info">GOLD PEAK TECHNOLOGY GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/GPINF">GPINF</a>: OTC Link) - Venue Change - The symbol, GPINF, no longer trades on Grey Market.  As of Tue, May 13, 2025, GPINF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 06:59:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GPINF&actionDate=1747133961000]]></guid>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSUIF: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TSUIF&actionDate=1747238858000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSUIF</a>: Grey Market) - Symbol Change - The symbol, TSUIF, is no longer a valid symbol for Tse Sui Leun Jewelry International Inc..  As of Wed, May 14, 2025, the new trading symbol is TSESF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TSUIF&actionDate=1747238858000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLD PEAK TECHNOLOGY GROUP LTD.]]></category>
-<pink:symbol>GPINF</pink:symbol>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Symbol Change]]></title>
@@ -1176,6 +1188,18 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TSESF&actionDate=1747238858000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Reactivated Symbol -  The symbol, TSESF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TSESF&actionDate=1747238858000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Global Star Acquisition, Inc. (GLSTR: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTR&actionDate=1747198843000]]></link>
 <description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTR: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTR is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1284,18 +1308,6 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ADVANCEDADVT LTD (ADLTF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADLTF&actionDate=1747112438000]]></link>
-<description><![CDATA[Tue, May 13, 2025 12:00 - ADVANCEDADVT LTD (ADLTF: OTC Link) - Deleted Symbol - As of Tue, May 13, 2025, ADLTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 13 May 2025 01:00:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADLTF&actionDate=1747112438000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ADVANCEDADVT LTD]]></category>
-<pink:symbol>ADLTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Zefiro Methane Corp. (ZEFIF: OTCQB) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ZEFIF&actionDate=1747195200000]]></link>
 <description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZEFIF/company-info">Zefiro Methane Corp.</a> (<a href="http://www.otcmarkets.com/stock/ZEFIF">ZEFIF</a>: OTCQB) - Halted Security -  Effective Wed, May 14, 2025, ZEFIF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1318,6 +1330,18 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:symbol>UURAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Stamper Oil & Gas Corp (STMGF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=STMGF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STMGF/company-info">Stamper Oil & Gas Corp</a> (<a href="http://www.otcmarkets.com/stock/STMGF">STMGF</a>: Pink Current) - Halted Security -  Effective Wed, May 14, 2025, STMGF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=STMGF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Stamper Oil & Gas Corp]]></category>
+<pink:symbol>STMGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[USHA RES LTD. (USHAF: OTCQB) | Halted Security]]></title>
@@ -1728,6 +1752,18 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747195200000]]></link>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Tier Change - The symbol, TSESF, no longer is classified as Expert Market.  As of Wed, May 14, 2025, TSESF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747195200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Sibannac, Inc. (SNNC: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNNC&actionDate=1747195200000]]></link>
 <description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNNC/company-info">Sibannac, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SNNC">SNNC</a>: Pink Current) - Tier Change - The symbol, SNNC, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, SNNC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1810,18 +1846,6 @@ OTC RSS mirror fetched: Wed May 14 15:54:40 UTC 2025
 <pink:symbol>MITCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MEC Resources Ltd. (MECSF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MECSF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MECSF/company-info">MEC Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MECSF">MECSF</a>: Pink Current) - Tier Change - The symbol, MECSF, no longer is classified as Grey Market.  As of Wed, May 14, 2025, MECSF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MECSF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MEC Resources Ltd.]]></category>
-<pink:symbol>MECSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
