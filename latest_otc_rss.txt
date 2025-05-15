@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 13:19:11 UTC 2025
+OTC RSS mirror fetched: Thu May 15 13:46:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 15 13:19:11 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 09:06:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 09:46:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Vinanz Joins "Bitcoin for Corporations" Initiative with US based Strategy Inc and Bitcoin Magazine]]></title>
@@ -1176,6 +1176,18 @@ OTC RSS mirror fetched: Thu May 15 13:19:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Mansei Corp. (MSPVF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MSPVF&actionDate=1747316565000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MSPVF/company-info">Mansei Corp.</a> (<a href="http://www.otcmarkets.com/stock/MSPVF">MSPVF</a>: Grey Market) - Reactivated Symbol -  The symbol, MSPVF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 09:42:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MSPVF&actionDate=1747316565000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mansei Corp.]]></category>
+<pink:symbol>MSPVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NZSCF&actionDate=1747285242000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCF: OTC Link) - Deleted Symbol - As of Thu, May 15, 2025, NZSCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1280,18 +1292,6 @@ OTC RSS mirror fetched: Thu May 15 13:19:11 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Global Star Acquisition, Inc.]]></category>
 <pink:symbol>GLSTW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Global Star Acquisition, Inc. (GLST: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLST&actionDate=1747198842000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLST: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLST is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 01:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLST&actionDate=1747198842000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Global Star Acquisition, Inc.]]></category>
-<pink:symbol>GLST</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
