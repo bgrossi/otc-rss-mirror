@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 15:53:48 UTC 2025
+OTC RSS mirror fetched: Thu May 15 16:27:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 15 15:53:48 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 11:46:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 12:26:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Placing to Raise £1.25 million Launch of WRAP Retail Offer Appointment of Joint Broker]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477481]]></link>
+<pubDate>Thu, 15 May 2025 12:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477481]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coinsilium Group Ltd.]]></category>
+<pink:symbol>CINGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Aquafil S.P. A (ECNLF: OTCQX International) | The Board of Directors approved the Company’s consolidated operating and financial results at March 31, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECNLF/news?id=477479]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Thu May 15 15:53:48 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></link>
 <pubDate>Wed, 14 May 2025 02:26:18 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Half-year Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477206]]></link>
-<pubDate>Wed, 14 May 2025 02:24:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477206]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Imperial Brands PLC]]></category>
 <pink:symbol>IMBBY</pink:symbol>
