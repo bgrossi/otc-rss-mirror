@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 05:21:22 UTC 2025
+OTC RSS mirror fetched: Thu May 15 05:43:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 15 05:21:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 01:06:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 01:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Consolidated Financials Results for the First Quarter of Fiscal Year 2025]]></title>
@@ -1032,13 +1032,13 @@ OTC RSS mirror fetched: Thu May 15 05:21:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Superbox, Inc. (SBOX: Pink Current) | Symbol Change]]></title>
+<title><![CDATA[QKI Emulsion Inc. (SBOX: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBOX&actionDate=1747285250000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">Superbox, Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">SBOX</a>: Pink Current) - Symbol Change - The symbol, SBOX, is no longer a valid symbol for Superbox, Inc..  As of Thu, May 15, 2025, the new trading symbol is QKIE. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">QKI Emulsion Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">SBOX</a>: Pink Current) - Symbol Change - The symbol, SBOX, is no longer a valid symbol for QKI Emulsion Inc..  As of Thu, May 15, 2025, the new trading symbol is QKIE. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 01:00:50 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBOX&actionDate=1747285250000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Superbox, Inc.]]></category>
+<category><![CDATA[QKI Emulsion Inc.]]></category>
 <pink:symbol>QKIE</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
@@ -1056,13 +1056,13 @@ OTC RSS mirror fetched: Thu May 15 05:21:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Hempstract Inc. (HPST: Pink Current) | Symbol Change]]></title>
+<title><![CDATA[Parliament House Enterprises, Inc. (HPST: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HPST&actionDate=1747285236000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PHSE/company-info">Hempstract Inc.</a> (<a href="http://www.otcmarkets.com/stock/PHSE">HPST</a>: Pink Current) - Symbol Change - The symbol, HPST, is no longer a valid symbol for Hempstract Inc..  As of Thu, May 15, 2025, the new trading symbol is PHSE. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PHSE/company-info">Parliament House Enterprises, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PHSE">HPST</a>: Pink Current) - Symbol Change - The symbol, HPST, is no longer a valid symbol for Parliament House Enterprises, Inc..  As of Thu, May 15, 2025, the new trading symbol is PHSE. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 01:00:36 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HPST&actionDate=1747285236000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hempstract Inc.]]></category>
+<category><![CDATA[Parliament House Enterprises, Inc.]]></category>
 <pink:symbol>PHSE</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
@@ -1100,6 +1100,30 @@ OTC RSS mirror fetched: Thu May 15 05:21:22 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Zhengduozhe Technology, Inc]]></category>
 <pink:symbol>KASTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Superbox, Inc. (QKIE: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=QKIE&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">Superbox, Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">QKIE</a>: Pink Current) - Company Name Change - Superbox, Inc. has changed its name to QKI Emulsion Inc.. The change goes into effect as of Thu, May 15, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=QKIE&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Superbox, Inc.]]></category>
+<pink:symbol>QKIE</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Hempstract Inc. (PHSE: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PHSE&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PHSE/company-info">Hempstract Inc.</a> (<a href="http://www.otcmarkets.com/stock/PHSE">PHSE</a>: Pink Current) - Company Name Change - Hempstract Inc. has changed its name to Parliament House Enterprises, Inc.. The change goes into effect as of Thu, May 15, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PHSE&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hempstract Inc.]]></category>
+<pink:symbol>PHSE</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
