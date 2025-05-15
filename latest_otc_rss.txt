@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
+OTC RSS mirror fetched: Thu May 15 11:39:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 07:06:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 07:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Director / PDMR Shareholding]]></title>
@@ -864,6 +864,66 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747307480000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: OTC Link) - Venue Change - The symbol, TSESF, no longer trades on Grey Market.  As of Thu, May 15, 2025, TSESF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:11:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747307480000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CLEANSPACE HLDGS LTD. (CSXHF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSXHF&actionDate=1747307455000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSXHF/company-info">CLEANSPACE HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CSXHF">CSXHF</a>: OTC Link) - Venue Change - The symbol, CSXHF, no longer trades on Grey Market.  As of Thu, May 15, 2025, CSXHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:10:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSXHF&actionDate=1747307455000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CLEANSPACE HLDGS LTD.]]></category>
+<pink:symbol>CSXHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cosigo Resources Ltd. (COSRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=COSRF&actionDate=1747307434000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/COSRF/company-info">Cosigo Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/COSRF">COSRF</a>: OTC Link) - Venue Change - The symbol, COSRF, no longer trades on Grey Market.  As of Thu, May 15, 2025, COSRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:10:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=COSRF&actionDate=1747307434000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cosigo Resources Ltd.]]></category>
+<pink:symbol>COSRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[First Busey Corporation (BUSEV: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BUSEV&actionDate=1747307401000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BUSEV/company-info">First Busey Corporation</a> (<a href="http://www.otcmarkets.com/stock/BUSEV">BUSEV</a>: OTC Link) - Venue Change - The symbol, BUSEV, no longer trades on Grey Market.  As of Thu, May 15, 2025, BUSEV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:10:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BUSEV&actionDate=1747307401000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Busey Corporation]]></category>
+<pink:symbol>BUSEV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ASA INTL GROUP PLC (AIGRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIGRF&actionDate=1747307381000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIGRF/company-info">ASA INTL GROUP PLC</a> (<a href="http://www.otcmarkets.com/stock/AIGRF">AIGRF</a>: OTC Link) - Venue Change - The symbol, AIGRF, no longer trades on Grey Market.  As of Thu, May 15, 2025, AIGRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:09:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIGRF&actionDate=1747307381000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASA INTL GROUP PLC]]></category>
+<pink:symbol>AIGRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NORDHEALTH AS (NRDHF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NRDHF&actionDate=1747292003000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRDHF/company-info">NORDHEALTH AS</a> (<a href="http://www.otcmarkets.com/stock/NRDHF">NRDHF</a>: OTC Link) - Venue Change - The symbol, NRDHF, no longer trades on Grey Market.  As of Thu, May 15, 2025, NRDHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -924,62 +984,26 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747238858000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Venue Change - The symbol, TSESF, no longer trades on OTC Link.  As of Wed, May 14, 2025, TSESF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747238858000]]></guid>
+<title><![CDATA[Vaxil Bio Ltd. (VXLLF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VXLLF&actionDate=1747308205000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VXLLD/company-info">Vaxil Bio Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VXLLD">VXLLF</a>: Pink Current) - Symbol Change - The symbol, VXLLF, is no longer a valid symbol for Vaxil Bio Ltd..  As of Thu, May 15, 2025, the new trading symbol is VXLLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:23:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VXLLF&actionDate=1747308205000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
-<pink:symbol>TSESF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[iQSTEL Inc. (IQST: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IQST&actionDate=1747227092000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IQST/company-info">iQSTEL Inc.</a> (<a href="http://www.otcmarkets.com/stock/IQST">IQST</a>: Nasdaq) - Venue Change - The symbol, IQST, no longer trades on OTC Link.  As of Wed, May 14, 2025, IQST trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 08:51:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IQST&actionDate=1747227092000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[iQSTEL Inc.]]></category>
-<pink:symbol>IQST</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CanCambria Energy Corp. (CCEYF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CCEYF&actionDate=1747224637000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCEYF/company-info">CanCambria Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/CCEYF">CCEYF</a>: OTC Link) - Venue Change - The symbol, CCEYF, no longer trades on Grey Market.  As of Wed, May 14, 2025, CCEYF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 08:10:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CCEYF&actionDate=1747224637000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CanCambria Energy Corp.]]></category>
-<pink:symbol>CCEYF</pink:symbol>
+<category><![CDATA[Vaxil Bio Ltd.]]></category>
+<pink:symbol>VXLLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[MEC Resources Ltd. (MECSF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MECSF&actionDate=1747222207000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MECSF/company-info">MEC Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MECSF">MECSF</a>: OTC Link) - Venue Change - The symbol, MECSF, no longer trades on Grey Market.  As of Wed, May 14, 2025, MECSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 07:30:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MECSF&actionDate=1747222207000]]></guid>
+<title><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NZSCF&actionDate=1747308174000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NZSCD/company-info">NEW ZEALAND COASTAL SEAFOODS LTD.</a> (<a href="http://www.otcmarkets.com/stock/NZSCD">NZSCF</a>: Pink Current) - Symbol Change - The symbol, NZSCF, is no longer a valid symbol for NEW ZEALAND COASTAL SEAFOODS LTD..  As of Thu, May 15, 2025, the new trading symbol is NZSCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 07:22:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NZSCF&actionDate=1747308174000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MEC Resources Ltd.]]></category>
-<pink:symbol>MECSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LONDAX CORP. (LDXC: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDXC&actionDate=1747222019000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDXC/company-info">LONDAX CORP.</a> (<a href="http://www.otcmarkets.com/stock/LDXC">LDXC</a>: OTC Link) - Venue Change - The symbol, LDXC, no longer trades on Grey Market.  As of Wed, May 14, 2025, LDXC trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 07:26:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDXC&actionDate=1747222019000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LONDAX CORP.]]></category>
-<pink:symbol>LDXC</pink:symbol>
+<category><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD.]]></category>
+<pink:symbol>NZSCD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1080,30 +1104,6 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSUIF: Grey Market) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TSUIF&actionDate=1747238858000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSUIF</a>: Grey Market) - Symbol Change - The symbol, TSUIF, is no longer a valid symbol for Tse Sui Leun Jewelry International Inc..  As of Wed, May 14, 2025, the new trading symbol is TSESF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TSUIF&actionDate=1747238858000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
-<pink:symbol>TSESF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KAST&actionDate=1747219204000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Zhengduozhe Technology, Inc</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KAST</a>: Pink Current) - Symbol Change - The symbol, KAST, is no longer a valid symbol for Zhengduozhe Technology, Inc.  As of Wed, May 14, 2025, the new trading symbol is KASTD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 06:40:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KAST&actionDate=1747219204000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
-<pink:symbol>KASTD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Superbox, Inc. (QKIE: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=QKIE&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">Superbox, Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">QKIE</a>: Pink Current) - Company Name Change - Superbox, Inc. has changed its name to QKI Emulsion Inc.. The change goes into effect as of Thu, May 15, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1136,6 +1136,30 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kasten, Inc.]]></category>
 <pink:symbol>KASTD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vaxil Bio Ltd. (VXLLF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=VXLLF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VXLLD/company-info">Vaxil Bio Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VXLLD">VXLLF</a>: Pink Current) - Splits - Effective Thu, May 15, 2025, VXLLF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 50 split. Due to the split, VXLLF is no longer valid. The new trading symbol is VXLLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=VXLLF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vaxil Bio Ltd.]]></category>
+<pink:symbol>VXLLD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NZSCF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NZSCD/company-info">NEW ZEALAND COASTAL SEAFOODS LTD.</a> (<a href="http://www.otcmarkets.com/stock/NZSCD">NZSCF</a>: Pink Current) - Splits - Effective Thu, May 15, 2025, NZSCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, NZSCF is no longer valid. The new trading symbol is NZSCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NZSCF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD.]]></category>
+<pink:symbol>NZSCD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1692,6 +1716,18 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Tier Change - The symbol, TSESF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, TSESF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
+<pink:symbol>TSESF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Rubicon Technology, Inc. (RBCN: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBCN&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBCN/company-info">Rubicon Technology, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RBCN">RBCN</a>: Pink Current) - Tier Change - The symbol, RBCN, no longer is classified as OTCQB.  As of Thu, May 15, 2025, RBCN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1752,6 +1788,30 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[CLEANSPACE HLDGS LTD. (CSXHF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CSXHF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSXHF/company-info">CLEANSPACE HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CSXHF">CSXHF</a>: Pink Current) - Tier Change - The symbol, CSXHF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, CSXHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CSXHF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CLEANSPACE HLDGS LTD.]]></category>
+<pink:symbol>CSXHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cosigo Resources Ltd. (COSRF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=COSRF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/COSRF/company-info">Cosigo Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/COSRF">COSRF</a>: Pink Current) - Tier Change - The symbol, COSRF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, COSRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=COSRF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cosigo Resources Ltd.]]></category>
+<pink:symbol>COSRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Cardiff Lexington Corporation (CDIX: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CDIX&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDIX/company-info">Cardiff Lexington Corporation</a> (<a href="http://www.otcmarkets.com/stock/CDIX">CDIX</a>: OTCQB) - Tier Change - The symbol, CDIX, no longer is classified as Pink Current.  As of Thu, May 15, 2025, CDIX resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1762,42 +1822,6 @@ OTC RSS mirror fetched: Thu May 15 11:17:55 UTC 2025
 <pink:symbol>CDIX</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Worry Free Holdings Company (WYCC: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WYCC/company-info">Worry Free Holdings Company</a> (<a href="http://www.otcmarkets.com/stock/WYCC">WYCC</a>: Pink Current) - Tier Change - The symbol, WYCC, no longer is classified as Expert Market.  As of Wed, May 14, 2025, WYCC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Worry Free Holdings Company]]></category>
-<pink:symbol>WYCC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tennessee Valley Financial Holdings, Inc. (TVLF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TVLF/company-info">Tennessee Valley Financial Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TVLF">TVLF</a>: Pink Current) - Tier Change - The symbol, TVLF, no longer is classified as Pink Limited.  As of Wed, May 14, 2025, TVLF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TVLF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tennessee Valley Financial Holdings, Inc.]]></category>
-<pink:symbol>TVLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Tier Change - The symbol, TSESF, no longer is classified as Expert Market.  As of Wed, May 14, 2025, TSESF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
-<pink:symbol>TSESF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 </channel>
 </rss>
