@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 16:27:31 UTC 2025
+OTC RSS mirror fetched: Thu May 15 16:50:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May 15 16:27:31 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 12:26:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 12:46:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477485]]></link>
+<pubDate>Thu, 15 May 2025 12:45:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477485]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[VizConnect, Inc. (VIZC: Pink Limited) | VizConnect, Inc. ($VIZC: OTC) Reaffirms Commitment to Core Fundamentals Amid Market Uncertainty]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VIZC/news?id=477484]]></link>
+<pubDate>Thu, 15 May 2025 12:43:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VIZC/news?id=477484]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VizConnect, Inc.]]></category>
+<pink:symbol>VIZC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Placing to Raise £1.25 million Launch of WRAP Retail Offer Appointment of Joint Broker]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477481]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu May 15 16:27:31 UTC 2025
 <pink:symbol>MTMCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Directorate Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477208]]></link>
-<pubDate>Wed, 14 May 2025 02:28:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477208]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Interim Dividend Declaration]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></link>
-<pubDate>Wed, 14 May 2025 02:26:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477207]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
