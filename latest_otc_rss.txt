@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 22:19:46 UTC 2025
+OTC RSS mirror fetched: Thu May 15 22:42:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 15 22:19:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 18:06:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 18:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Southeastern Banking Corp. (SEBC: Pink Current) | Southeastern Banking Corporation Reports First Quarter 2025 Results - Declares Quarterly Cash Dividend of $0.21 Per Share]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SEBC/news?id=477532]]></link>
+<pubDate>Thu, 15 May 2025 18:27:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SEBC/news?id=477532]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Southeastern Banking Corp.]]></category>
+<pink:symbol>SEBC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Monthly Cash Distribution]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=477488]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Thu May 15 22:19:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bancorp Southern Indiana]]></category>
 <pink:symbol>BCSO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Files Quarterly Report with OTC Markets, Highlighting Strategic Market Expansion]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477276]]></link>
-<pubDate>Wed, 14 May 2025 08:27:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477276]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
-<pink:symbol>NTRXD</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
