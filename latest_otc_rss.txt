@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
+OTC RSS mirror fetched: Thu May 15 15:53:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 11:26:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 11:46:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aquafil S.P. A (ECNLF: OTCQX International) | The Board of Directors approved the Company’s consolidated operating and financial results at March 31, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECNLF/news?id=477479]]></link>
+<pubDate>Thu, 15 May 2025 11:43:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECNLF/news?id=477479]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aquafil S.P. A]]></category>
+<pink:symbol>ECNLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: OTCQX International) | AMSC ASA (under liquidation) – PAYMENT OF DIVIDEND-IN-KIND COMPLETED]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASCJF/news?id=477475]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477148]]></link>
-<pubDate>Wed, 14 May 2025 02:00:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477148]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747323921000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Venue Change - The symbol, CSHJF, no longer trades on OTC Link.  As of Thu, May 15, 2025, CSHJF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747323921000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CSC Holdings Ltd.]]></category>
+<pink:symbol>CSHJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747323844000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBSF/company-info">Autobacs Seven Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ATBSF">ATBSF</a>: Grey Market) - Venue Change - The symbol, ATBSF, no longer trades on OTC Link.  As of Thu, May 15, 2025, ATBSF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:44:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747323844000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Autobacs Seven Co., Ltd.]]></category>
+<pink:symbol>ATBSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747307480000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: OTC Link) - Venue Change - The symbol, TSESF, no longer trades on Grey Market.  As of Thu, May 15, 2025, TSESF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -956,30 +980,6 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Pineapple Financial Inc.]]></category>
 <pink:symbol>PAPLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Baijiayun Group Ltd. (RTCJF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RTCJF&actionDate=1747285251000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RTCJF/company-info">Baijiayun Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/RTCJF">RTCJF</a>: OTC Link) - Venue Change - The symbol, RTCJF, no longer trades on Nasdaq.  As of Thu, May 15, 2025, RTCJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RTCJF&actionDate=1747285251000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Baijiayun Group Ltd.]]></category>
-<pink:symbol>RTCJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Accelerate Diagnostics, Inc. (AXDXQ: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AXDXQ&actionDate=1747285250000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AXDXQ/company-info">Accelerate Diagnostics, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AXDXQ">AXDXQ</a>: OTC Link) - Venue Change - The symbol, AXDXQ, no longer trades on Nasdaq.  As of Thu, May 15, 2025, AXDXQ trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AXDXQ&actionDate=1747285250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Accelerate Diagnostics, Inc.]]></category>
-<pink:symbol>AXDXQ</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1176,6 +1176,30 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Reactivated Symbol -  The symbol, CSHJF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CSC Holdings Ltd.]]></category>
+<pink:symbol>CSHJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ATBSF&actionDate=1747323844000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBSF/company-info">Autobacs Seven Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ATBSF">ATBSF</a>: Grey Market) - Reactivated Symbol -  The symbol, ATBSF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:44:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ATBSF&actionDate=1747323844000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Autobacs Seven Co., Ltd.]]></category>
+<pink:symbol>ATBSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Mansei Corp. (MSPVF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MSPVF&actionDate=1747316565000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MSPVF/company-info">Mansei Corp.</a> (<a href="http://www.otcmarkets.com/stock/MSPVF">MSPVF</a>: Grey Market) - Reactivated Symbol -  The symbol, MSPVF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1268,30 +1292,6 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Global Star Acquisition, Inc.]]></category>
 <pink:symbol>GLSTR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Global Star Acquisition, Inc. (GLSTU: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTU&actionDate=1747198843000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTU: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 01:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTU&actionDate=1747198843000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Global Star Acquisition, Inc.]]></category>
-<pink:symbol>GLSTU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Global Star Acquisition, Inc. (GLSTW: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTW&actionDate=1747198842000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - Global Star Acquisition, Inc. (GLSTW: OTC Link) - Deleted Symbol - As of Wed, May 14, 2025, GLSTW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 01:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GLSTW&actionDate=1747198842000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Global Star Acquisition, Inc.]]></category>
-<pink:symbol>GLSTW</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
@@ -1596,10 +1596,22 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Cuisine Solutions, Inc. (CUSI: OTC Link) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:30 - <a href="http://www.otcmarkets.com/stock/CUSI/company-info">Cuisine Solutions, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CUSI">CUSI</a>: OTC Link) - Scheduled Ex-Dividend - Cuisine Solutions, Inc. has announced a dividend ex-date for (CUSI: OTC Link). Cuisine Solutions, Inc. is scheduled to disburse a Cash Dividend dividend of $0.4 on Fri, May 30, 2025 to shareholders of CUSI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:30:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cuisine Solutions, Inc.]]></category>
+<pink:symbol>CUSI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Lundin Gold Inc. (LUGDF: OTCQX International) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284176]]></link>
-<description><![CDATA[Wed, May 14, 2025 03:33 - <a href="http://www.otcmarkets.com/stock/LUGDF/company-info">Lundin Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/LUGDF">LUGDF</a>: OTCQX International) - Scheduled Ex-Dividend - Lundin Gold Inc. has announced a dividend ex-date for (LUGDF: OTCQX International). Lundin Gold Inc. is scheduled to disburse a Cash Dividend dividend of $0.41 on Thu, May 22, 2025 to shareholders of LUGDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 15:33:10 EDT</pubDate>
+<description><![CDATA[Thu, May 15, 2025 11:29 - <a href="http://www.otcmarkets.com/stock/LUGDF/company-info">Lundin Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/LUGDF">LUGDF</a>: OTCQX International) - Scheduled Ex-Dividend - Lundin Gold Inc. has announced a dividend ex-date for (LUGDF: OTCQX International). Lundin Gold Inc. is scheduled to disburse a Cash Dividend dividend of $0.41 on Thu, May 22, 2025 to shareholders of LUGDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:29:46 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284176]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Lundin Gold Inc.]]></category>
@@ -1618,18 +1630,6 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:symbol>HKBNY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cuisine Solutions, Inc. (CUSI: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></link>
-<description><![CDATA[Wed, May 14, 2025 03:18 - <a href="http://www.otcmarkets.com/stock/CUSI/company-info">Cuisine Solutions, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CUSI">CUSI</a>: OTC Link) - Scheduled Ex-Dividend - Cuisine Solutions, Inc. has announced a dividend ex-date for (CUSI: OTC Link). Cuisine Solutions, Inc. is scheduled to disburse a Cash Dividend dividend of $0.4 on Fri, May 30, 2025 to shareholders of CUSI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 15:18:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cuisine Solutions, Inc.]]></category>
-<pink:symbol>CUSI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[DCC Plc (DCCPY: Pink Current) | Scheduled Ex-Dividend]]></title>
@@ -1812,6 +1812,18 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CSHJF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Tier Change - The symbol, CSHJF, no longer is classified as Pink Current.  As of Thu, May 15, 2025, CSHJF resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CSHJF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CSC Holdings Ltd.]]></category>
+<pink:symbol>CSHJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Cosigo Resources Ltd. (COSRF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=COSRF&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/COSRF/company-info">Cosigo Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/COSRF">COSRF</a>: Pink Current) - Tier Change - The symbol, COSRF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, COSRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1822,18 +1834,6 @@ OTC RSS mirror fetched: Thu May 15 15:42:18 UTC 2025
 <pink:symbol>COSRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cardiff Lexington Corporation (CDIX: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CDIX&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDIX/company-info">Cardiff Lexington Corporation</a> (<a href="http://www.otcmarkets.com/stock/CDIX">CDIX</a>: OTCQB) - Tier Change - The symbol, CDIX, no longer is classified as Pink Current.  As of Thu, May 15, 2025, CDIX resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CDIX&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cardiff Lexington Corporation]]></category>
-<pink:symbol>CDIX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
