@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 09:53:37 UTC 2025
+OTC RSS mirror fetched: Thu May 15 10:23:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Thu May 15 09:53:37 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 05:36:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 06:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Director / PDMR Shareholding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477375]]></link>
+<pubDate>Thu, 15 May 2025 06:05:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477375]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Ensurge Micropower ASA (ENMPY: OTCQB) | Ensurge Micropower ASA - 1Q 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ENMPY/news?id=477371]]></link>
+<pubDate>Thu, 15 May 2025 05:40:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ENMPY/news?id=477371]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ensurge Micropower ASA]]></category>
+<pink:symbol>ENMPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Ensurge Micropower ASA (ENMPY: OTCQB) | Ensurge Micropower ASA - 1Q 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ENMPY/news?id=477370]]></link>
+<pubDate>Thu, 15 May 2025 05:39:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ENMPY/news?id=477370]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ensurge Micropower ASA]]></category>
+<pink:symbol>ENMPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Sincerity Applied Materials Holdings Corp. (SINC: Pink Current) | Sincerity Applied Materials Holdings Corp. (OTC: SINC) Announces 1-for-100,000 Reverse Stock Split and Retirement of Legacy Convertible Note Under Section 3(a)(10)]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SINC/news?id=477368]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Thu May 15 09:53:37 UTC 2025
 <pink:symbol>HIPH</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Golden State Bancorp (GSBX: OTCQX U.S.) | Golden State Bancorp Announces First Quarter of 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GSBX/news?id=477191]]></link>
-<pubDate>Tue, 13 May 2025 19:45:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GSBX/news?id=477191]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Golden State Bancorp]]></category>
-<pink:symbol>GSBX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Forge Group Inc. (FIGP: Pink Current) | Forge Group, Inc. Announces 1st Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FIGP/news?id=477156]]></link>
-<pubDate>Tue, 13 May 2025 17:00:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FIGP/news?id=477156]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Forge Group Inc.]]></category>
-<pink:symbol>FIGP</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[WEST RED LAKE GOLD MINES LTD. (WRLGF: OTCQB) | West Red Lake Gold Comments on Recent Promotional Activity to OTC Market’s Request]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=477172]]></link>
-<pubDate>Tue, 13 May 2025 16:37:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=477172]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WEST RED LAKE GOLD MINES LTD.]]></category>
-<pink:symbol>WRLGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
