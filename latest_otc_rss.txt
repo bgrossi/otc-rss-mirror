@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 09:23:18 UTC 2025
+OTC RSS mirror fetched: Thu May 15 09:42:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 15 09:23:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 05:06:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 05:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Sincerity Applied Materials Holdings Corp. (SINC: Pink Current) | Sincerity Applied Materials Holdings Corp. (OTC: SINC) Announces 1-for-100,000 Reverse Stock Split and Retirement of Legacy Convertible Note Under Section 3(a)(10)]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SINC/news?id=477368]]></link>
+<pubDate>Thu, 15 May 2025 05:28:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SINC/news?id=477368]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sincerity Applied Materials Holdings Corp.]]></category>
+<pink:symbol>SINC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=477366]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 15 09:23:18 UTC 2025
 <pink:symbol>WRLGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Winmill & Co. Incorporated (WNMLA: Pink Current) | Winmill & Co. Announces First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WNMLA/news?id=477163]]></link>
-<pubDate>Tue, 13 May 2025 16:04:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WNMLA/news?id=477163]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Winmill & Co. Incorporated]]></category>
-<pink:symbol>WNMLA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
