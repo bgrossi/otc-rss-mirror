@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 13:46:50 UTC 2025
+OTC RSS mirror fetched: Thu May 15 14:21:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May 15 13:46:50 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 09:46:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 10:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Vortex Brands Co. (VTXB: Pink Current) | Correction: Vortex Brands (OTC: VTXB) Begins Gold Purchases Under New Joint Venture with Dubai-Based Partner]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VTXB/news?id=477470]]></link>
+<pubDate>Thu, 15 May 2025 09:58:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXB/news?id=477470]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vortex Brands Co.]]></category>
+<pink:symbol>VTXB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Citizens Bancshares Corp. (CZBS: Pink Current) | Citizens Bancshares Corporation Reports Solid First Quarter Performance and Announces Share Repurchase Program]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CZBS/news?id=477469]]></link>
+<pubDate>Thu, 15 May 2025 09:54:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CZBS/news?id=477469]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Citizens Bancshares Corp.]]></category>
+<pink:symbol>CZBS</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Vinanz Joins "Bitcoin for Corporations" Initiative with US based Strategy Inc and Bitcoin Magazine]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477402]]></link>
@@ -582,30 +606,6 @@ OTC RSS mirror fetched: Thu May 15 13:46:50 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477205]]></link>
 <pubDate>Wed, 14 May 2025 01:30:20 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477205]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FBR Ltd.]]></category>
-<pink:symbol>FBRKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Cleansing Notice]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477204]]></link>
-<pubDate>Wed, 14 May 2025 01:27:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477204]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FBR Ltd.]]></category>
-<pink:symbol>FBRKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | FBR ASX Appendix 2A]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477203]]></link>
-<pubDate>Wed, 14 May 2025 01:26:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477203]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[FBR Ltd.]]></category>
 <pink:symbol>FBRKF</pink:symbol>
