@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 21:19:51 UTC 2025
+OTC RSS mirror fetched: Thu May 15 21:39:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 15 21:19:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 17:06:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 17:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Monthly Cash Distribution]]></title>
@@ -1740,6 +1740,18 @@ OTC RSS mirror fetched: Thu May 15 21:19:51 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SES SA (SGBAF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGBAF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGBAF/company-info">SES SA</a> (<a href="http://www.otcmarkets.com/stock/SGBAF">SGBAF</a>: Pink Current) - Tier Change - The symbol, SGBAF, no longer is classified as Pink Limited.  As of Thu, May 15, 2025, SGBAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGBAF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SES SA]]></category>
+<pink:symbol>SGBAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Rubicon Technology, Inc. (RBCN: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBCN&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBCN/company-info">Rubicon Technology, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RBCN">RBCN</a>: Pink Current) - Tier Change - The symbol, RBCN, no longer is classified as OTCQB.  As of Thu, May 15, 2025, RBCN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1822,18 +1834,6 @@ OTC RSS mirror fetched: Thu May 15 21:19:51 UTC 2025
 <pink:symbol>CSHJF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cosigo Resources Ltd. (COSRF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=COSRF&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/COSRF/company-info">Cosigo Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/COSRF">COSRF</a>: Pink Current) - Tier Change - The symbol, COSRF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, COSRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=COSRF&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cosigo Resources Ltd.]]></category>
-<pink:symbol>COSRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
