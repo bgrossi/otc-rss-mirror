@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
+OTC RSS mirror fetched: Thu May 15 12:43:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 07:36:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 08:26:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Director / PDMR Shareholding]]></title>
@@ -864,7 +864,7 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSESF&actionDate=1747307480000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: OTC Link) - Venue Change - The symbol, TSESF, no longer trades on Grey Market.  As of Thu, May 15, 2025, TSESF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 07:11:20 EDT</pubDate>
@@ -873,7 +873,7 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 <category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
 <pink:symbol>TSESF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[CLEANSPACE HLDGS LTD. (CSXHF: Pink Current) | Venue Change]]></title>
@@ -1236,16 +1236,16 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TSESF&actionDate=1747238858000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Reactivated Symbol -  The symbol, TSESF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Pink Current) - Reactivated Symbol -  The symbol, TSESF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 14 May 2025 12:07:38 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TSESF&actionDate=1747238858000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
 <pink:symbol>TSESF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Global Star Acquisition, Inc. (GLSTR: OTC Link) | Deleted Symbol]]></title>
@@ -1294,6 +1294,18 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 <pink:symbol>GLST</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tornado Infrastructure Equipment Ltd. (TGHLF: OTCQX International) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGHLF&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGHLF/company-info">Tornado Infrastructure Equipment Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGHLF">TGHLF</a>: OTCQX International) - Halted Security -  Effective Thu, May 15, 2025, TGHLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGHLF&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tornado Infrastructure Equipment Ltd.]]></category>
+<pink:symbol>TGHLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Zefiro Methane Corp. (ZEFIF: OTCQB) | Halted Security]]></title>
@@ -1716,16 +1728,16 @@ OTC RSS mirror fetched: Thu May 15 11:51:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Grey Market) | Tier Change]]></title>
+<title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Grey Market) - Tier Change - The symbol, TSESF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, TSESF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSESF/company-info">Tse Sui Leun Jewelry International Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSESF">TSESF</a>: Pink Current) - Tier Change - The symbol, TSESF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, TSESF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSESF&actionDate=1747281600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
 <pink:symbol>TSESF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Rubicon Technology, Inc. (RBCN: Pink Current) | Tier Change]]></title>
