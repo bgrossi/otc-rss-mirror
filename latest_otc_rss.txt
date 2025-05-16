@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
+OTC RSS mirror fetched: Fri May 16 04:26:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 23:36:33 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 00:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Change in substantial holding]]></title>
@@ -1128,18 +1128,6 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Kasten, Inc. (KASTD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KASTD&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Kasten, Inc.</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KASTD</a>: Pink Current) - Company Name Change - Kasten, Inc. has changed its name to Zhengduozhe Technology, Inc. The change goes into effect as of Wed, May 14, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KASTD&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kasten, Inc.]]></category>
-<pink:symbol>KASTD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Vaxil Bio Ltd. (VXLLF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=VXLLF&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VXLLD/company-info">Vaxil Bio Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VXLLD">VXLLF</a>: Pink Current) - Splits - Effective Thu, May 15, 2025, VXLLF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 50 split. Due to the split, VXLLF is no longer valid. The new trading symbol is VXLLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1160,18 +1148,6 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD.]]></category>
 <pink:symbol>NZSCD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zhengduozhe Technology, Inc (KAST: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KAST&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASTD/company-info">Zhengduozhe Technology, Inc</a> (<a href="http://www.otcmarkets.com/stock/KASTD">KAST</a>: Pink Current) - Splits - Effective Wed, May 14, 2025, KAST: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, KAST is no longer valid. The new trading symbol is KASTD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KAST&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
-<pink:symbol>KASTD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1306,54 +1282,6 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 <pink:symbol>TGHLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zefiro Methane Corp. (ZEFIF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ZEFIF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZEFIF/company-info">Zefiro Methane Corp.</a> (<a href="http://www.otcmarkets.com/stock/ZEFIF">ZEFIF</a>: OTCQB) - Halted Security -  Effective Wed, May 14, 2025, ZEFIF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ZEFIF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zefiro Methane Corp.]]></category>
-<pink:symbol>ZEFIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Ucore Rare Metals, Inc. (UURAF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=UURAF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UURAF/company-info">Ucore Rare Metals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/UURAF">UURAF</a>: OTCQX International) - Halted Security -  Effective Wed, May 14, 2025, UURAF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=UURAF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ucore Rare Metals, Inc.]]></category>
-<pink:symbol>UURAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Stamper Oil & Gas Corp (STMGF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=STMGF&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STMGF/company-info">Stamper Oil & Gas Corp</a> (<a href="http://www.otcmarkets.com/stock/STMGF">STMGF</a>: Pink Current) - Halted Security -  Effective Wed, May 14, 2025, STMGF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=STMGF&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Stamper Oil & Gas Corp]]></category>
-<pink:symbol>STMGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Graphex Group Ltd. (GRFXY: Pink Limited) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=GRFXY&actionDate=1747195200000]]></link>
-<description><![CDATA[Wed, May 14, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRFXY/company-info">Graphex Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRFXY">GRFXY</a>: Pink Limited) - Halted Security -  Effective Wed, May 14, 2025, GRFXY is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 14 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=GRFXY&actionDate=1747195200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Graphex Group Ltd.]]></category>
-<pink:symbol>GRFXY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Baijiayun Group Ltd. (RTCJF: Pink Current) | Piggyback Qualified]]></title>
@@ -1620,78 +1548,6 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[State Bank of India (SBKFF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284183]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:37 - <a href="http://www.otcmarkets.com/stock/SBKFF/company-info">State Bank of India</a> (<a href="http://www.otcmarkets.com/stock/SBKFF">SBKFF</a>: Pink Limited) - Scheduled Ex-Dividend - State Bank of India has announced a dividend ex-date for (SBKFF: Pink Limited). State Bank of India is scheduled to disburse a Cash Dividend dividend of $1.58603 on Fri, May 16, 2025 to shareholders of SBKFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:37:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284183]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[State Bank of India]]></category>
-<pink:symbol>SBKFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[State Bank of India (SBKFF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284195]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:37 - <a href="http://www.otcmarkets.com/stock/SBKFF/company-info">State Bank of India</a> (<a href="http://www.otcmarkets.com/stock/SBKFF">SBKFF</a>: Pink Limited) - Scheduled Ex-Dividend - State Bank of India has announced a dividend ex-date for (SBKFF: Pink Limited). State Bank of India is scheduled to disburse a Cash Dividend dividend of $1.58603 on Fri, May 16, 2025 to shareholders of SBKFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:37:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284195]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[State Bank of India]]></category>
-<pink:symbol>SBKFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[State Bank of India (SBKJY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284182]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:33 - <a href="http://www.otcmarkets.com/stock/SBKJY/company-info">State Bank of India</a> (<a href="http://www.otcmarkets.com/stock/SBKJY">SBKJY</a>: Pink Limited) - Scheduled Ex-Dividend - State Bank of India has announced a dividend ex-date for (SBKJY: Pink Limited). State Bank of India is scheduled to disburse a Cash Dividend dividend of $1.58603 on Fri, May 16, 2025 to shareholders of SBKJY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:33:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284182]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[State Bank of India]]></category>
-<pink:symbol>SBKJY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[State Bank of India (SBKJY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284194]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:32 - <a href="http://www.otcmarkets.com/stock/SBKJY/company-info">State Bank of India</a> (<a href="http://www.otcmarkets.com/stock/SBKJY">SBKJY</a>: Pink Limited) - Scheduled Ex-Dividend - State Bank of India has announced a dividend ex-date for (SBKJY: Pink Limited). State Bank of India is scheduled to disburse a Cash Dividend dividend of $1.58603 on Fri, May 16, 2025 to shareholders of SBKJY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:32:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284194]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[State Bank of India]]></category>
-<pink:symbol>SBKJY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CTT-Correios de Portugal S.A. (CTTPY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283661]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:28 - <a href="http://www.otcmarkets.com/stock/CTTPY/company-info">CTT-Correios de Portugal S.A.</a> (<a href="http://www.otcmarkets.com/stock/CTTPY">CTTPY</a>: Pink Limited) - Scheduled Ex-Dividend - CTT-Correios de Portugal S.A. has announced a dividend ex-date for (CTTPY: Pink Limited). CTT-Correios de Portugal S.A. is scheduled to disburse a Cash Dividend dividend of $0.18075 on Fri, May 16, 2025 to shareholders of CTTPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:28:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283661]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CTT-Correios de Portugal S.A.]]></category>
-<pink:symbol>CTTPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CTT-Correios de Portugal S.A. (CTTPY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284193]]></link>
-<description><![CDATA[Thu, May 15, 2025 04:28 - <a href="http://www.otcmarkets.com/stock/CTTPY/company-info">CTT-Correios de Portugal S.A.</a> (<a href="http://www.otcmarkets.com/stock/CTTPY">CTTPY</a>: Pink Limited) - Scheduled Ex-Dividend - CTT-Correios de Portugal S.A. has announced a dividend ex-date for (CTTPY: Pink Limited). CTT-Correios de Portugal S.A. is scheduled to disburse a Cash Dividend dividend of $0.17703 on Fri, May 16, 2025 to shareholders of CTTPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 16:28:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284193]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CTT-Correios de Portugal S.A.]]></category>
-<pink:symbol>CTTPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[DNO ASA (DTNOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284222]]></link>
 <description><![CDATA[Thu, May 15, 2025 02:27 - <a href="http://www.otcmarkets.com/stock/DTNOY/company-info">DNO ASA</a> (<a href="http://www.otcmarkets.com/stock/DTNOY">DTNOY</a>: Pink Limited) - Scheduled Ex-Dividend - DNO ASA has announced a dividend ex-date for (DTNOY: Pink Limited). DNO ASA is scheduled to disburse a Cash Dividend dividend of $0.16485 on Tue, May 27, 2025 to shareholders of DTNOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1714,6 +1570,78 @@ OTC RSS mirror fetched: Fri May 16 03:51:39 UTC 2025
 <pink:symbol>EBKDY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[OTP Bank Ltd. (OTPGF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284248]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:18 - <a href="http://www.otcmarkets.com/stock/OTPGF/company-info">OTP Bank Ltd.</a> (<a href="http://www.otcmarkets.com/stock/OTPGF">OTPGF</a>: Pink Limited) - Scheduled Ex-Dividend - OTP Bank Ltd. has announced a dividend ex-date for (OTPGF: Pink Limited). OTP Bank Ltd. is scheduled to disburse a Cash Dividend dividend of $1.28276 on Fri, May 23, 2025 to shareholders of OTPGF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 12:18:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284248]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OTP Bank Ltd.]]></category>
+<pink:symbol>OTPGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284227]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:53 - <a href="http://www.otcmarkets.com/stock/EXPGY/company-info">Experian plc</a> (<a href="http://www.otcmarkets.com/stock/EXPGY">EXPGY</a>: OTCQX International) - Scheduled Ex-Dividend - Experian plc has announced a dividend ex-date for (EXPGY: OTCQX International). Experian plc is scheduled to disburse a Cash Dividend dividend of $0.4075 on Fri, Jun 20, 2025 to shareholders of EXPGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:53:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284227]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Indorama Ventures Public Company Limited (INDOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284230]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:44 - <a href="http://www.otcmarkets.com/stock/INDOY/company-info">Indorama Ventures Public Company Limited</a> (<a href="http://www.otcmarkets.com/stock/INDOY">INDOY</a>: Pink Limited) - Scheduled Ex-Dividend - Indorama Ventures Public Company Limited has announced a dividend ex-date for (INDOY: Pink Limited). Indorama Ventures Public Company Limited is scheduled to disburse a Cash Dividend dividend of $0.03677 on Wed, May 28, 2025 to shareholders of INDOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:44:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284230]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Indorama Ventures Public Company Limited]]></category>
+<pink:symbol>INDOY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Euronext NV (ERNXY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284226]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:30 - <a href="http://www.otcmarkets.com/stock/ERNXY/company-info">Euronext NV</a> (<a href="http://www.otcmarkets.com/stock/ERNXY">ERNXY</a>: Pink Limited) - Scheduled Ex-Dividend - Euronext NV has announced a dividend ex-date for (ERNXY: Pink Limited). Euronext NV is scheduled to disburse a Cash Dividend dividend of $0.4827 on Tue, May 27, 2025 to shareholders of ERNXY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:30:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284226]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Euronext NV]]></category>
+<pink:symbol>ERNXY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cuisine Solutions, Inc. (CUSI: OTC Link) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:30 - <a href="http://www.otcmarkets.com/stock/CUSI/company-info">Cuisine Solutions, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CUSI">CUSI</a>: OTC Link) - Scheduled Ex-Dividend - Cuisine Solutions, Inc. has announced a dividend ex-date for (CUSI: OTC Link). Cuisine Solutions, Inc. is scheduled to disburse a Cash Dividend dividend of $0.4 on Fri, May 30, 2025 to shareholders of CUSI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:30:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284162]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cuisine Solutions, Inc.]]></category>
+<pink:symbol>CUSI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lundin Gold Inc. (LUGDF: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284176]]></link>
+<description><![CDATA[Thu, May 15, 2025 11:29 - <a href="http://www.otcmarkets.com/stock/LUGDF/company-info">Lundin Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/LUGDF">LUGDF</a>: OTCQX International) - Scheduled Ex-Dividend - Lundin Gold Inc. has announced a dividend ex-date for (LUGDF: OTCQX International). Lundin Gold Inc. is scheduled to disburse a Cash Dividend dividend of $0.41 on Thu, May 22, 2025 to shareholders of LUGDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 11:29:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284176]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lundin Gold Inc.]]></category>
+<pink:symbol>LUGDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Worry Free Holdings Company (WYCC: Pink Limited) | Tier Change]]></title>
