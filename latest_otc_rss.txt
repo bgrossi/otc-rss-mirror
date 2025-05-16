@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
+OTC RSS mirror fetched: Fri May 16 12:42:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 07:36:33 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 08:26:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[NV Bekaert SA (BEKAY: Pink Limited) | BEKAY - Books will close today, May 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477564]]></link>
+<pubDate>Fri, 16 May 2025 08:26:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477564]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NV Bekaert SA]]></category>
+<pink:symbol>BEKAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[L'Air Liquide SA (AIQUY: Pink Limited) | AIQUY - Books will close at the close of business today, May 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AIQUY/news?id=477563]]></link>
+<pubDate>Fri, 16 May 2025 08:24:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIQUY/news?id=477563]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[L'Air Liquide SA]]></category>
+<pink:symbol>AIQUY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aixtron SE (AIIXY: Pink Current) | AIIXY - Books will close today, May 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AIIXY/news?id=477562]]></link>
+<pubDate>Fri, 16 May 2025 08:24:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIIXY/news?id=477562]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aixtron SE]]></category>
+<pink:symbol>AIIXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[adidas AG (ADDYY: OTCQX International) | ADDYY - Books will close today, May 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADDYY/news?id=477561]]></link>
+<pubDate>Fri, 16 May 2025 08:23:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADDYY/news?id=477561]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[adidas AG]]></category>
+<pink:symbol>ADDYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Security First International Holdings, Inc. (SCFR: Pink Limited) | Security First International Holdings Inc. ($SCFR) Announces Strategic Pivot into Digital Asset Holding Company Powered by Proprietary SMAK Trading Algorithm]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SCFR/news?id=477553]]></link>
+<pubDate>Fri, 16 May 2025 07:58:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SCFR/news?id=477553]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Security First International Holdings, Inc.]]></category>
+<pink:symbol>SCFR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=477545]]></link>
@@ -554,66 +614,6 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Tapinator, Inc. (TAPM: Pink Current) | Tapinator Announces Q1 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TAPM/news?id=477307]]></link>
-<pubDate>Wed, 14 May 2025 16:05:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TAPM/news?id=477307]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tapinator, Inc.]]></category>
-<pink:symbol>TAPM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Keweenaw Land Association, Ltd. (KEWL: Pink Limited) | Keweenaw Announces Option Agreement with Hybrid Hydrogen]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KEWL/news?id=477326]]></link>
-<pubDate>Wed, 14 May 2025 16:05:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KEWL/news?id=477326]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Keweenaw Land Association, Ltd.]]></category>
-<pink:symbol>KEWL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 14.05.2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477542]]></link>
-<pubDate>Wed, 14 May 2025 15:30:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477542]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nordea Bank Abp]]></category>
-<pink:symbol>NRDBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Zoomcar and Wego Join Forces to Unlock Self-Drive Travel for Global Tourists in India]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></link>
-<pubDate>Wed, 14 May 2025 14:49:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
-<pink:symbol>ZCAR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477310]]></link>
-<pubDate>Wed, 14 May 2025 12:57:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477310]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -876,7 +876,7 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747393679000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: OTC Link) - Venue Change - The symbol, CSHJF, no longer trades on Grey Market.  As of Fri, May 16, 2025, CSHJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 16 May 2025 07:07:59 EDT</pubDate>
@@ -885,7 +885,7 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <category><![CDATA[CSC Holdings Ltd.]]></category>
 <pink:symbol>CSHJF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[CROWN CAPITAL PARTNERS INC. (CCPIF: Pink Current) | Venue Change]]></title>
@@ -936,7 +936,7 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747323921000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Venue Change - The symbol, CSHJF, no longer trades on OTC Link.  As of Thu, May 15, 2025, CSHJF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
@@ -945,7 +945,7 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <category><![CDATA[CSC Holdings Ltd.]]></category>
 <pink:symbol>CSHJF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Pink Limited) | Venue Change]]></title>
@@ -1320,16 +1320,16 @@ OTC RSS mirror fetched: Fri May 16 11:51:33 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Reactivated Symbol -  The symbol, CSHJF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Pink Current) - Reactivated Symbol -  The symbol, CSHJF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[CSC Holdings Ltd.]]></category>
 <pink:symbol>CSHJF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tornado Infrastructure Equipment Ltd. (TGHLF: OTCQX International) | Halted Security]]></title>
