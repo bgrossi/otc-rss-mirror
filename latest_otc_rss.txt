@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 16:26:38 UTC 2025
+OTC RSS mirror fetched: Fri May 16 16:49:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May 16 16:26:38 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 12:06:33 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 12:46:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477599]]></link>
+<pubDate>Fri, 16 May 2025 12:45:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477599]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Garden City Company (The) (GCCO: Pink Limited) | Third Quarter 2025 Regular Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GCCO/news?id=477597]]></link>
+<pubDate>Fri, 16 May 2025 12:08:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GCCO/news?id=477597]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Garden City Company (The)]]></category>
+<pink:symbol>GCCO</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[CNB Bank Shares, Inc. (CNBN: OTCQX U.S.) | Earnings Release]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CNBN/news?id=477590]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Fri May 16 16:26:38 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Jindalee Lithium Ltd.]]></category>
 <pink:symbol>JNDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Change of Director's Interest Notice - LD]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=477365]]></link>
-<pubDate>Thu, 15 May 2025 04:58:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=477365]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jindalee Lithium Ltd.]]></category>
-<pink:symbol>JNDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Silver Crown Royalties Inc. (SLCRF: OTCQX International) | SCRi REPORTS 8TH CONSECUTIVE QUARTER REVENUE GROWTH AND PROVIDES CORPORATE UPDATE]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SLCRF/news?id=477355]]></link>
-<pubDate>Thu, 15 May 2025 03:00:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SLCRF/news?id=477355]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Silver Crown Royalties Inc.]]></category>
-<pink:symbol>SLCRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
