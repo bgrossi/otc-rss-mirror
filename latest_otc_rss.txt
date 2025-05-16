@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 22:53:42 UTC 2025
+OTC RSS mirror fetched: Fri May 16 23:19:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 16 22:53:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 18:36:34 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 19:06:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | YQAI Announces 1-for-10 Reverse Stock Split Effective May 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477628]]></link>
+<pubDate>Fri, 16 May 2025 18:45:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477628]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
+<pink:symbol>YQAID</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[One World Lithium Inc. (OWRDF: OTCQB) | ONE WORLD LITHIUM PROVIDES DEFAULT UPDATE]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=477625]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Fri May 16 22:53:42 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bilfinger SE]]></category>
 <pink:symbol>BFLBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Admiral Group Plc. (AMIGY: Pink Current) | AMIGY - Books will close today, May 15, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AMIGY/news?id=477447]]></link>
-<pubDate>Thu, 15 May 2025 08:36:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMIGY/news?id=477447]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Admiral Group Plc.]]></category>
-<pink:symbol>AMIGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
