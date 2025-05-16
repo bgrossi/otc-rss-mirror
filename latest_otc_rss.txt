@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 01:47:17 UTC 2025
+OTC RSS mirror fetched: Fri May 16 03:13:21 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 16 01:47:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 15 May 2025 21:36:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 23:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Change in substantial holding]]></title>
@@ -1716,6 +1716,18 @@ OTC RSS mirror fetched: Fri May 16 01:47:17 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Worry Free Holdings Company (WYCC: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WYCC/company-info">Worry Free Holdings Company</a> (<a href="http://www.otcmarkets.com/stock/WYCC">WYCC</a>: Pink Limited) - Tier Change - The symbol, WYCC, no longer is classified as Pink Current.  As of Thu, May 15, 2025, WYCC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WYCC&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Worry Free Holdings Company]]></category>
+<pink:symbol>WYCC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[VIP ENTMT TECHNOLOGIES INC. (VETIF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VETIF&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VETIF/company-info">VIP ENTMT TECHNOLOGIES INC.</a> (<a href="http://www.otcmarkets.com/stock/VETIF">VETIF</a>: Pink Current) - Tier Change - The symbol, VETIF, no longer is classified as Expert Market.  As of Thu, May 15, 2025, VETIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1726,6 +1738,54 @@ OTC RSS mirror fetched: Fri May 16 01:47:17 UTC 2025
 <pink:symbol>VETIF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[USD Partners LP (USDP: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=USDP&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/USDP/company-info">USD Partners LP</a> (<a href="http://www.otcmarkets.com/stock/USDP">USDP</a>: Pink Limited) - Tier Change - The symbol, USDP, no longer is classified as Pink Current.  As of Thu, May 15, 2025, USDP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=USDP&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[USD Partners LP]]></category>
+<pink:symbol>USDP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[United Energy Corp. (UNRG: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UNRG/company-info">United Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/UNRG">UNRG</a>: Pink Limited) - Tier Change - The symbol, UNRG, no longer is classified as Pink Current.  As of Thu, May 15, 2025, UNRG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[United Energy Corp.]]></category>
+<pink:symbol>UNRG</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[UMC, Inc. (UMCN: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMCN&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMCN/company-info">UMC, Inc.</a> (<a href="http://www.otcmarkets.com/stock/UMCN">UMCN</a>: Pink Limited) - Tier Change - The symbol, UMCN, no longer is classified as Pink Current.  As of Thu, May 15, 2025, UMCN resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMCN&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UMC, Inc.]]></category>
+<pink:symbol>UMCN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Standard Dental Labs Inc. (TUTH: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TUTH&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TUTH/company-info">Standard Dental Labs Inc.</a> (<a href="http://www.otcmarkets.com/stock/TUTH">TUTH</a>: Pink Limited) - Tier Change - The symbol, TUTH, no longer is classified as Pink Current.  As of Thu, May 15, 2025, TUTH resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TUTH&actionDate=1747281600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Standard Dental Labs Inc.]]></category>
+<pink:symbol>TUTH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tse Sui Leun Jewelry International Inc. (TSESF: Pink Current) | Tier Change]]></title>
@@ -1740,100 +1800,40 @@ OTC RSS mirror fetched: Fri May 16 01:47:17 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SES SA (SGBAF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGBAF&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGBAF/company-info">SES SA</a> (<a href="http://www.otcmarkets.com/stock/SGBAF">SGBAF</a>: Pink Current) - Tier Change - The symbol, SGBAF, no longer is classified as Pink Limited.  As of Thu, May 15, 2025, SGBAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Torque Lifestyle Brands Inc. (TQLB: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TQLB&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TQLB/company-info">Torque Lifestyle Brands Inc.</a> (<a href="http://www.otcmarkets.com/stock/TQLB">TQLB</a>: Pink Limited) - Tier Change - The symbol, TQLB, no longer is classified as Pink Current.  As of Thu, May 15, 2025, TQLB resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGBAF&actionDate=1747281600000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TQLB&actionDate=1747281600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SES SA]]></category>
-<pink:symbol>SGBAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Rubicon Technology, Inc. (RBCN: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBCN&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBCN/company-info">Rubicon Technology, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RBCN">RBCN</a>: Pink Current) - Tier Change - The symbol, RBCN, no longer is classified as OTCQB.  As of Thu, May 15, 2025, RBCN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBCN&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Rubicon Technology, Inc.]]></category>
-<pink:symbol>RBCN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MRCB UILL REIT (QULLF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QULLF&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QULLF/company-info">MRCB UILL REIT</a> (<a href="http://www.otcmarkets.com/stock/QULLF">QULLF</a>: Pink Limited) - Tier Change - The symbol, QULLF, no longer is classified as Expert Market.  As of Thu, May 15, 2025, QULLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QULLF&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MRCB UILL REIT]]></category>
-<pink:symbol>QULLF</pink:symbol>
+<category><![CDATA[Torque Lifestyle Brands Inc.]]></category>
+<pink:symbol>TQLB</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NORDHEALTH AS (NRDHF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRDHF&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRDHF/company-info">NORDHEALTH AS</a> (<a href="http://www.otcmarkets.com/stock/NRDHF">NRDHF</a>: Pink Limited) - Tier Change - The symbol, NRDHF, no longer is classified as Grey Market.  As of Thu, May 15, 2025, NRDHF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[TMM, Inc. (TMMI: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMMI&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMMI/company-info">TMM, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMMI">TMMI</a>: Pink Limited) - Tier Change - The symbol, TMMI, no longer is classified as Pink Current.  As of Thu, May 15, 2025, TMMI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRDHF&actionDate=1747281600000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMMI&actionDate=1747281600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORDHEALTH AS]]></category>
-<pink:symbol>NRDHF</pink:symbol>
+<category><![CDATA[TMM, Inc.]]></category>
+<pink:symbol>TMMI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NANO MAGIC INC. (NMGX: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NMGX&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NMGX/company-info">NANO MAGIC INC.</a> (<a href="http://www.otcmarkets.com/stock/NMGX">NMGX</a>: Pink Limited) - Tier Change - The symbol, NMGX, no longer is classified as Pink Current.  As of Thu, May 15, 2025, NMGX resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Tekumo, Inc. (TKMO: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKMO&actionDate=1747281600000]]></link>
+<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TKMO/company-info">Tekumo, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TKMO">TKMO</a>: Pink Limited) - Tier Change - The symbol, TKMO, no longer is classified as Pink Current.  As of Thu, May 15, 2025, TKMO resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NMGX&actionDate=1747281600000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TKMO&actionDate=1747281600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NANO MAGIC INC.]]></category>
-<pink:symbol>NMGX</pink:symbol>
+<category><![CDATA[Tekumo, Inc.]]></category>
+<pink:symbol>TKMO</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Next Generation Management Corp. (NGMC: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGMC&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGMC/company-info">Next Generation Management Corp.</a> (<a href="http://www.otcmarkets.com/stock/NGMC">NGMC</a>: Pink Limited) - Tier Change - The symbol, NGMC, no longer is classified as Pink Current.  As of Thu, May 15, 2025, NGMC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NGMC&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Next Generation Management Corp.]]></category>
-<pink:symbol>NGMC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MC Endeavors, Inc. (MSMY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MSMY&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MSMY/company-info">MC Endeavors, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MSMY">MSMY</a>: Pink Limited) - Tier Change - The symbol, MSMY, no longer is classified as Pink Current.  As of Thu, May 15, 2025, MSMY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MSMY&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MC Endeavors, Inc.]]></category>
-<pink:symbol>MSMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Li-Cycle Holdings Corp. (LICYQ: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LICYQ&actionDate=1747281600000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LICYQ/company-info">Li-Cycle Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/LICYQ">LICYQ</a>: Pink Current) - Tier Change - The symbol, LICYQ, no longer is classified as OTCQX U.S..  As of Thu, May 15, 2025, LICYQ resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LICYQ&actionDate=1747281600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Li-Cycle Holdings Corp.]]></category>
-<pink:symbol>LICYQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
