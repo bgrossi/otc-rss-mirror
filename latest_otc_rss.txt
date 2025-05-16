@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
+OTC RSS mirror fetched: Fri May 16 14:20:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 09:26:34 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 10:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Distributes May 2025 Interested Party Update Video]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477581]]></link>
+<pubDate>Fri, 16 May 2025 10:02:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477581]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
+<pink:symbol>NTRXD</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[CASTILE RES LTD. (CLRSF: OTCQB) | Exploration Program Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=477580]]></link>
+<pubDate>Fri, 16 May 2025 09:34:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=477580]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CASTILE RES LTD.]]></category>
+<pink:symbol>CLRSF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nexus Energy Services, Inc. (IBGR: Pink Current) | DRYWORLD Joins Forces with KIKA for Exclusive New Collection Release]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477539]]></link>
+<pubDate>Fri, 16 May 2025 09:25:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477539]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nexus Energy Services, Inc.]]></category>
+<pink:symbol>IBGR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Wuxi Apptec Co Ltd. (WUXAY: Pink Current) | WUXAY - Books will close today, May 16, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WUXAY/news?id=477571]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction of Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477308]]></link>
-<pubDate>Thu, 15 May 2025 02:00:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477308]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Consolidated Financials Results for the First Quarter of Fiscal Year 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477354]]></link>
-<pubDate>Wed, 14 May 2025 20:36:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477354]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Q1 2025 Earnings Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477353]]></link>
-<pubDate>Wed, 14 May 2025 20:35:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477353]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Admiralty Resources NL (ADMRF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747403128000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADMRF/company-info">Admiralty Resources NL</a> (<a href="http://www.otcmarkets.com/stock/ADMRF">ADMRF</a>: Grey Market) - Venue Change - The symbol, ADMRF, no longer trades on OTC Link.  As of Fri, May 16, 2025, ADMRF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 09:45:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747403128000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Admiralty Resources NL]]></category>
+<pink:symbol>ADMRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[HELIUS MINERALS LTD. (HHHXF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HHHXF&actionDate=1747393736000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHHXF/company-info">HELIUS MINERALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/HHHXF">HHHXF</a>: OTC Link) - Venue Change - The symbol, HHHXF, no longer trades on Grey Market.  As of Fri, May 16, 2025, HHHXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -968,18 +980,6 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Tse Sui Leun Jewelry International Inc.]]></category>
 <pink:symbol>TSESF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CLEANSPACE HLDGS LTD. (CSXHF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSXHF&actionDate=1747307455000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSXHF/company-info">CLEANSPACE HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CSXHF">CSXHF</a>: OTC Link) - Venue Change - The symbol, CSXHF, no longer trades on Grey Market.  As of Thu, May 15, 2025, CSXHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 07:10:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSXHF&actionDate=1747307455000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CLEANSPACE HLDGS LTD.]]></category>
-<pink:symbol>CSXHF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1212,6 +1212,18 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Admiralty Resources NL (ADMRF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADMRF&actionDate=1747403128000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADMRF/company-info">Admiralty Resources NL</a> (<a href="http://www.otcmarkets.com/stock/ADMRF">ADMRF</a>: Grey Market) - Reactivated Symbol -  The symbol, ADMRF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 09:45:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADMRF&actionDate=1747403128000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Admiralty Resources NL]]></category>
+<pink:symbol>ADMRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Galaxy Digital Holdings Ltd. (BRPHF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRPHF&actionDate=1747371652000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - Galaxy Digital Holdings Ltd. (BRPHF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, BRPHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1318,18 +1330,6 @@ OTC RSS mirror fetched: Fri May 16 13:46:11 UTC 2025
 <pink:symbol>KOWLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Pink Current) - Reactivated Symbol -  The symbol, CSHJF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CSHJF&actionDate=1747323921000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CSC Holdings Ltd.]]></category>
-<pink:symbol>CSHJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tornado Infrastructure Equipment Ltd. (TGHLF: OTCQX International) | Halted Security]]></title>
