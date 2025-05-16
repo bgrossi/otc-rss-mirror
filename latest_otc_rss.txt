@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 10:45:15 UTC 2025
+OTC RSS mirror fetched: Fri May 16 11:17:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 16 10:45:15 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 06:36:34 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 07:06:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
@@ -984,6 +984,42 @@ OTC RSS mirror fetched: Fri May 16 10:45:15 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAI: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAI&actionDate=1747392905000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAID/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAID">YQAI</a>: Pink Limited) - Symbol Change - The symbol, YQAI, is no longer a valid symbol for YouneeqAI Technical Services, Inc..  As of Fri, May 16, 2025, the new trading symbol is YQAID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 06:55:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAI&actionDate=1747392905000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
+<pink:symbol>YQAID</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLKOR INC. (KATX: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATX&actionDate=1747392757000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">GOLKOR INC.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATX</a>: Pink Current) - Symbol Change - The symbol, KATX, is no longer a valid symbol for GOLKOR INC..  As of Fri, May 16, 2025, the new trading symbol is KATXD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 06:52:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATX&actionDate=1747392757000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLKOR INC.]]></category>
+<pink:symbol>KATXD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: OTCQX U.S.) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BMNR&actionDate=1747392614000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMNRD/company-info">BitMine Immersion Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMNRD">BMNR</a>: OTCQX U.S.) - Symbol Change - The symbol, BMNR, is no longer a valid symbol for BitMine Immersion Technologies Inc..  As of Fri, May 16, 2025, the new trading symbol is BMNRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 06:50:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BMNR&actionDate=1747392614000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
+<pink:symbol>BMNRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[WW International, Inc. (WW: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=WW&actionDate=1747371651000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGHTQ/company-info">WW International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGHTQ">WW</a>: Pink Current) - Symbol Change - The symbol, WW, is no longer a valid symbol for WW International, Inc..  As of Fri, May 16, 2025, the new trading symbol is WGHTQ. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1068,42 +1104,6 @@ OTC RSS mirror fetched: Fri May 16 10:45:15 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Baijiayun Group Ltd. (RTC: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RTC&actionDate=1747285251000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RTCJF/company-info">Baijiayun Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/RTCJF">RTC</a>: Pink Current) - Symbol Change - The symbol, RTC, is no longer a valid symbol for Baijiayun Group Ltd..  As of Thu, May 15, 2025, the new trading symbol is RTCJF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RTC&actionDate=1747285251000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Baijiayun Group Ltd.]]></category>
-<pink:symbol>RTCJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Accelerate Diagnostics, Inc. (AXDX: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AXDX&actionDate=1747285250000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AXDXQ/company-info">Accelerate Diagnostics, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AXDXQ">AXDX</a>: Pink Current) - Symbol Change - The symbol, AXDX, is no longer a valid symbol for Accelerate Diagnostics, Inc..  As of Thu, May 15, 2025, the new trading symbol is AXDXQ. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AXDX&actionDate=1747285250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Accelerate Diagnostics, Inc.]]></category>
-<pink:symbol>AXDXQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QKI Emulsion Inc. (SBOX: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBOX&actionDate=1747285250000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">QKI Emulsion Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">SBOX</a>: Pink Current) - Symbol Change - The symbol, SBOX, is no longer a valid symbol for QKI Emulsion Inc..  As of Thu, May 15, 2025, the new trading symbol is QKIE. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBOX&actionDate=1747285250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QKI Emulsion Inc.]]></category>
-<pink:symbol>QKIE</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[KAT Exploration Inc. (KATXD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KATXD&actionDate=1747368000000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">KAT Exploration Inc.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATXD</a>: Pink Current) - Company Name Change - KAT Exploration Inc. has changed its name to GOLKOR INC.. The change goes into effect as of Fri, May 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1150,6 +1150,42 @@ OTC RSS mirror fetched: Fri May 16 10:45:15 UTC 2025
 <pink:symbol>PHSE</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAI: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YQAI&actionDate=1747368000000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAID/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAID">YQAI</a>: Pink Limited) - Splits - Effective Fri, May 16, 2025, YQAI: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, YQAI is no longer valid. The new trading symbol is YQAID. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YQAI&actionDate=1747368000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
+<pink:symbol>YQAID</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLKOR INC. (KATX: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KATX&actionDate=1747368000000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">GOLKOR INC.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATX</a>: Pink Current) - Splits - Effective Fri, May 16, 2025, KATX: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 6500 split. Due to the split, KATX is no longer valid. The new trading symbol is KATXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KATX&actionDate=1747368000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLKOR INC.]]></category>
+<pink:symbol>KATXD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: OTCQX U.S.) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BMNR&actionDate=1747368000000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMNRD/company-info">BitMine Immersion Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMNRD">BMNR</a>: OTCQX U.S.) - Splits - Effective Fri, May 16, 2025, BMNR: OTCQX U.S. engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, BMNR is no longer valid. The new trading symbol is BMNRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BMNR&actionDate=1747368000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
+<pink:symbol>BMNRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Vaxil Bio Ltd. (VXLLF: Pink Current) | Splits]]></title>
