@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 18:29:09 UTC 2025
+OTC RSS mirror fetched: Fri May 16 18:50:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 16 18:29:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 14:26:33 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 14:46:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Highlands Bankshares, Inc. (HBSI: Pink Current) | Highlands Bankshares, Inc. Releases 1st Quarter Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HBSI/news?id=477605]]></link>
+<pubDate>Fri, 16 May 2025 14:29:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HBSI/news?id=477605]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Highlands Bankshares, Inc.]]></category>
+<pink:symbol>HBSI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477599]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 16 18:29:09 UTC 2025
 <pink:symbol>SINC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=477366]]></link>
-<pubDate>Thu, 15 May 2025 05:02:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=477366]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jindalee Lithium Ltd.]]></category>
-<pink:symbol>JNDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
