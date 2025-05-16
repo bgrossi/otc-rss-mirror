@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 05:21:40 UTC 2025
+OTC RSS mirror fetched: Fri May 16 05:43:14 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 16 05:21:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 01:06:34 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 01:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS - Ex dividend of NOK 1.59 per share today]]></title>
@@ -1104,6 +1104,30 @@ OTC RSS mirror fetched: Fri May 16 05:21:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[KAT Exploration Inc. (KATXD: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KATXD&actionDate=1747368000000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">KAT Exploration Inc.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATXD</a>: Pink Current) - Company Name Change - KAT Exploration Inc. has changed its name to GOLKOR INC.. The change goes into effect as of Fri, May 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KATXD&actionDate=1747368000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KAT Exploration Inc.]]></category>
+<pink:symbol>KATXD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Gold Digger Resources Inc. (GDIGF: OTCQB) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDIGF&actionDate=1747368000000]]></link>
+<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GDIGF/company-info">Gold Digger Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/GDIGF">GDIGF</a>: OTCQB) - Company Name Change - Gold Digger Resources Inc. has changed its name to Nuclear Vision Limited . The change goes into effect as of Fri, May 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDIGF&actionDate=1747368000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Gold Digger Resources Inc.]]></category>
+<pink:symbol>GDIGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Superbox, Inc. (QKIE: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=QKIE&actionDate=1747281600000]]></link>
 <description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QKIE/company-info">Superbox, Inc.</a> (<a href="http://www.otcmarkets.com/stock/QKIE">QKIE</a>: Pink Current) - Company Name Change - Superbox, Inc. has changed its name to QKI Emulsion Inc.. The change goes into effect as of Thu, May 15, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1176,13 +1200,13 @@ OTC RSS mirror fetched: Fri May 16 05:21:40 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[KAT Exploration Inc. (KATX: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[GOLKOR INC. (KATX: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KATX&actionDate=1747371645000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - KAT Exploration Inc. (KATX: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, KATX is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Fri, May 16, 2025 12:00 - GOLKOR INC. (KATX: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, KATX is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 16 May 2025 01:00:45 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KATX&actionDate=1747371645000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KAT Exploration Inc.]]></category>
+<category><![CDATA[GOLKOR INC.]]></category>
 <pink:symbol>KATX</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
