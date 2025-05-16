@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 16 06:31:08 UTC 2025
+OTC RSS mirror fetched: Fri May 16 06:56:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 16 06:31:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 02:06:33 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 02:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -95,6 +95,18 @@ OTC RSS mirror fetched: Fri May 16 06:31:08 UTC 2025
 <pink:symbol>FULO</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 15.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477543]]></link>
+<pubDate>Thu, 15 May 2025 15:30:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477543]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -554,6 +566,18 @@ OTC RSS mirror fetched: Fri May 16 06:31:08 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 14.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477542]]></link>
+<pubDate>Wed, 14 May 2025 15:30:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477542]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[Zoomcar Holdings, Inc. (ZCAR: OTCQX U.S.) | Zoomcar and Wego Join Forces to Unlock Self-Drive Travel for Global Tourists in India]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ZCAR/news?id=477328]]></link>
 <pubDate>Wed, 14 May 2025 14:49:11 EDT</pubDate>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Fri May 16 06:31:08 UTC 2025
 <pink:symbol>PGNT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Siltronic AG (SLTCY: Pink Limited) | SLTCY - Books will close at the close of business today, May 14, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SLTCY/news?id=477293]]></link>
-<pubDate>Wed, 14 May 2025 09:22:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SLTCY/news?id=477293]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Siltronic AG]]></category>
-<pink:symbol>SLTCY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jeronimo Martins, SGPS, SA (JRONY: Pink Limited) | JRONY - Books will close at the close of business today, May 14, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JRONY/news?id=477292]]></link>
-<pubDate>Wed, 14 May 2025 09:21:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JRONY/news?id=477292]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jeronimo Martins, SGPS, SA]]></category>
-<pink:symbol>JRONY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
