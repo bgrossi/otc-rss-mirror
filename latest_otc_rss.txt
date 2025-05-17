@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat May 17 03:00:14 UTC 2025
+OTC RSS mirror fetched: Sat May 17 03:45:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Sat May 17 03:00:14 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 16 May 2025 22:36:34 EDT</lastBuildDate>
+<lastBuildDate>Fri, 16 May 2025 23:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Izotropic Corporation (IZOZF: OTCQB) | Izotropic’s U.S. FDA Regulatory Pathway Greenlit, Company Provides Corporate Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IZOZF/news?id=477631]]></link>
+<pubDate>Fri, 16 May 2025 23:14:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IZOZF/news?id=477631]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Izotropic Corporation]]></category>
+<pink:symbol>IZOZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | YQAI Announces 1-for-10 Reverse Stock Split Effective May 16, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477628]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Sat May 17 03:00:14 UTC 2025
 <pink:symbol>JRONY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bilfinger SE (BFLBY: Pink Current) | BFLBY - Books will close today, May 15, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BFLBY/news?id=477448]]></link>
-<pubDate>Thu, 15 May 2025 08:37:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BFLBY/news?id=477448]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bilfinger SE]]></category>
-<pink:symbol>BFLBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
