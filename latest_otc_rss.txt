@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun May 18 16:23:39 UTC 2025
+OTC RSS mirror fetched: Sun May 18 16:44:04 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Sun May 18 16:23:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 18 May 2025 12:06:34 EDT</lastBuildDate>
+<lastBuildDate>Sun, 18 May 2025 12:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TOR Minerals International, Inc. (TORM: Pink Limited) | Dr. Tan - Director Resignation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TORM/news?id=477635]]></link>
+<pubDate>Sun, 18 May 2025 12:25:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TORM/news?id=477635]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TOR Minerals International, Inc.]]></category>
+<pink:symbol>TORM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Corero Network Security plc (DDOSF: OTCQX International) | Blocklisting Return]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DDOSF/news?id=477634]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Sun May 18 16:23:39 UTC 2025
 <pink:symbol>MDEVY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lotus Bakeries NV (LOTBY: Pink Limited) | LOTBY - Books will close at the close of business today, May 15, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LOTBY/news?id=477450]]></link>
-<pubDate>Thu, 15 May 2025 08:38:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LOTBY/news?id=477450]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lotus Bakeries NV]]></category>
-<pink:symbol>LOTBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
