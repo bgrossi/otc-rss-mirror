@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun May 18 22:18:52 UTC 2025
+OTC RSS mirror fetched: Sun May 18 22:41:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Sun May 18 22:18:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 18 May 2025 18:06:35 EDT</lastBuildDate>
+<lastBuildDate>Sun, 18 May 2025 18:36:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Success fully Negotiates Lower State Royalty for Green River Lithium Project]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477639]]></link>
+<pubDate>Sun, 18 May 2025 18:18:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477639]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anson Resources]]></category>
+<pink:symbol>ANSNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | WCN raises A$14.4m at an average 29% premium to market close]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477638]]></link>
+<pubDate>Sun, 18 May 2025 18:16:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477638]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Limited) | Snakes & Lattes Inc. Negotiates Cash Purchase Of One Of The Last Remaining Convertible Notes]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477637]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Sun May 18 22:18:52 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Citizens Bancshares Corp.]]></category>
 <pink:symbol>CZBS</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Vinanz Joins "Bitcoin for Corporations" Initiative with US based Strategy Inc and Bitcoin Magazine]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477402]]></link>
-<pubDate>Thu, 15 May 2025 09:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477402]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vinanz Limited]]></category>
-<pink:symbol>VINZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Eurosite Power Inc. (EUSP: Pink Current) | Aivita Group Announces First Quarter 2025 Financial Performance]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=477376]]></link>
-<pubDate>Thu, 15 May 2025 09:00:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EUSP/news?id=477376]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eurosite Power Inc.]]></category>
-<pink:symbol>EUSP</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
