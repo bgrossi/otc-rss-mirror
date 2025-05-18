@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun May 18 22:52:22 UTC 2025
+OTC RSS mirror fetched: Sun May 18 23:18:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Sun May 18 22:52:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 18 May 2025 18:36:34 EDT</lastBuildDate>
+<lastBuildDate>Sun, 18 May 2025 19:06:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notice pursuant to 708A(5)(e) Corporations Act]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477641]]></link>
+<pubDate>Sun, 18 May 2025 18:46:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477641]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Culpeo Minerals Limited]]></category>
+<pink:symbol>CPORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Application for quotation of securities - CPO]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477640]]></link>
+<pubDate>Sun, 18 May 2025 18:45:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477640]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Culpeo Minerals Limited]]></category>
+<pink:symbol>CPORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Success fully Negotiates Lower State Royalty for Green River Lithium Project]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477639]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Sun May 18 22:52:22 UTC 2025
 <pink:symbol>ASCJF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vortex Brands Co. (VTXB: Pink Current) | Correction: Vortex Brands (OTC: VTXB) Begins Gold Purchases Under New Joint Venture with Dubai-Based Partner]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VTXB/news?id=477470]]></link>
-<pubDate>Thu, 15 May 2025 09:58:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXB/news?id=477470]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vortex Brands Co.]]></category>
-<pink:symbol>VTXB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Citizens Bancshares Corp. (CZBS: Pink Current) | Citizens Bancshares Corporation Reports Solid First Quarter Performance and Announces Share Repurchase Program]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CZBS/news?id=477469]]></link>
-<pubDate>Thu, 15 May 2025 09:54:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CZBS/news?id=477469]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Citizens Bancshares Corp.]]></category>
-<pink:symbol>CZBS</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
