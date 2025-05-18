@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
+OTC RSS mirror fetched: Sun May 18 04:34:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 17 May 2025 23:36:34 EDT</lastBuildDate>
+<lastBuildDate>Sun, 18 May 2025 00:06:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Corero Network Security plc (DDOSF: OTCQX International) | Blocklisting Return]]></title>
@@ -960,30 +960,6 @@ OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747323921000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: Grey Market) - Venue Change - The symbol, CSHJF, no longer trades on OTC Link.  As of Thu, May 15, 2025, CSHJF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 11:45:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747323921000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CSC Holdings Ltd.]]></category>
-<pink:symbol>CSHJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747323844000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBSF/company-info">Autobacs Seven Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ATBSF">ATBSF</a>: Grey Market) - Venue Change - The symbol, ATBSF, no longer trades on OTC Link.  As of Thu, May 15, 2025, ATBSF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 11:44:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747323844000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Autobacs Seven Co., Ltd.]]></category>
-<pink:symbol>ATBSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[YouneeqAI Technical Services, Inc. (YQAI: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAI&actionDate=1747392905000]]></link>
 <description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAID/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAID">YQAI</a>: Pink Limited) - Symbol Change - The symbol, YQAI, is no longer a valid symbol for YouneeqAI Technical Services, Inc..  As of Fri, May 16, 2025, the new trading symbol is YQAID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1066,102 +1042,6 @@ OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
 <pink:symbol>EXALF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vaxil Bio Ltd. (VXLLF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VXLLF&actionDate=1747308205000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VXLLD/company-info">Vaxil Bio Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VXLLD">VXLLF</a>: Pink Current) - Symbol Change - The symbol, VXLLF, is no longer a valid symbol for Vaxil Bio Ltd..  As of Thu, May 15, 2025, the new trading symbol is VXLLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 07:23:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VXLLF&actionDate=1747308205000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vaxil Bio Ltd.]]></category>
-<pink:symbol>VXLLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NZSCF&actionDate=1747308174000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NZSCD/company-info">NEW ZEALAND COASTAL SEAFOODS LTD.</a> (<a href="http://www.otcmarkets.com/stock/NZSCD">NZSCF</a>: Pink Current) - Symbol Change - The symbol, NZSCF, is no longer a valid symbol for NEW ZEALAND COASTAL SEAFOODS LTD..  As of Thu, May 15, 2025, the new trading symbol is NZSCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 07:22:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NZSCF&actionDate=1747308174000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD.]]></category>
-<pink:symbol>NZSCD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pineapple Financial Inc. (PAPL: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PAPL&actionDate=1747285251000]]></link>
-<description><![CDATA[Thu, May 15, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PAPLF/company-info">Pineapple Financial Inc.</a> (<a href="http://www.otcmarkets.com/stock/PAPLF">PAPL</a>: Pink Current) - Symbol Change - The symbol, PAPL, is no longer a valid symbol for Pineapple Financial Inc..  As of Thu, May 15, 2025, the new trading symbol is PAPLF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 15 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PAPL&actionDate=1747285251000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pineapple Financial Inc.]]></category>
-<pink:symbol>PAPLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[KAT Exploration Inc. (KATXD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KATXD&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">KAT Exploration Inc.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATXD</a>: Pink Current) - Company Name Change - KAT Exploration Inc. has changed its name to GOLKOR INC.. The change goes into effect as of Fri, May 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KATXD&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KAT Exploration Inc.]]></category>
-<pink:symbol>KATXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Gold Digger Resources Inc. (GDIGF: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDIGF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GDIGF/company-info">Gold Digger Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/GDIGF">GDIGF</a>: OTCQB) - Company Name Change - Gold Digger Resources Inc. has changed its name to Nuclear Vision Limited . The change goes into effect as of Fri, May 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDIGF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gold Digger Resources Inc.]]></category>
-<pink:symbol>GDIGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAI: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YQAI&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAID/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAID">YQAI</a>: Pink Limited) - Splits - Effective Fri, May 16, 2025, YQAI: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, YQAI is no longer valid. The new trading symbol is YQAID. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YQAI&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAID</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLKOR INC. (KATX: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KATX&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">GOLKOR INC.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATX</a>: Pink Current) - Splits - Effective Fri, May 16, 2025, KATX: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 6500 split. Due to the split, KATX is no longer valid. The new trading symbol is KATXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KATX&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLKOR INC.]]></category>
-<pink:symbol>KATXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: OTCQX U.S.) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BMNR&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMNRD/company-info">BitMine Immersion Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMNRD">BMNR</a>: OTCQX U.S.) - Splits - Effective Fri, May 16, 2025, BMNR: OTCQX U.S. engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, BMNR is no longer valid. The new trading symbol is BMNRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BMNR&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
-<pink:symbol>BMNRD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sunevision Holdings Ltd. (SVNHF: Grey Market) | Reactivated Symbol]]></title>
@@ -1282,90 +1162,6 @@ OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
 <pink:symbol>PTRAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[WW International, Inc. (WGHTQ: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=WGHTQ&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGHTQ/company-info">WW International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGHTQ">WGHTQ</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 16, 2025, WGHTQ is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=WGHTQ&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WW International, Inc.]]></category>
-<pink:symbol>WGHTQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT TOTAL BANGUN PERSADA TBK (PTTOF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTTOF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTTOF/company-info">PT TOTAL BANGUN PERSADA TBK</a> (<a href="http://www.otcmarkets.com/stock/PTTOF">PTTOF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 16, 2025, PTTOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTTOF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT TOTAL BANGUN PERSADA TBK]]></category>
-<pink:symbol>PTTOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NORTHERN OCEAN LTD (NTNOF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NTNOF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTNOF/company-info">NORTHERN OCEAN LTD</a> (<a href="http://www.otcmarkets.com/stock/NTNOF">NTNOF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 16, 2025, NTNOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NTNOF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORTHERN OCEAN LTD]]></category>
-<pink:symbol>NTNOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MAYTRONICS LTD (MYTRF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MYTRF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MYTRF/company-info">MAYTRONICS LTD</a> (<a href="http://www.otcmarkets.com/stock/MYTRF">MYTRF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 16, 2025, MYTRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MYTRF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MAYTRONICS LTD]]></category>
-<pink:symbol>MYTRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Fenix Outdoor Intl Ltd. (FNXTF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FNXTF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FNXTF/company-info">Fenix Outdoor Intl Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FNXTF">FNXTF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 16, 2025, FNXTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FNXTF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Fenix Outdoor Intl Ltd.]]></category>
-<pink:symbol>FNXTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ATBSF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBSF/company-info">Autobacs Seven Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ATBSF">ATBSF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 16, 2025, ATBSF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ATBSF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Autobacs Seven Co., Ltd.]]></category>
-<pink:symbol>ATBSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adia Nutrition, Inc. (ADIA: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ADIA&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADIA/company-info">Adia Nutrition, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ADIA">ADIA</a>: OTCQB) - Piggyback Qualified -  Effective Fri, May 16, 2025, ADIA is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ADIA&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adia Nutrition, Inc.]]></category>
-<pink:symbol>ADIA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | Ex-Dividend]]></title>
@@ -1604,126 +1400,6 @@ OTC RSS mirror fetched: Sun May 18 03:59:22 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[DAIMLER TRUCK HLDG AG]]></category>
 <pink:symbol>DTRUY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zealand Pharma A/S (ZLDPY: Grey Market) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZLDPY&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: Grey Market) - Tier Change - The symbol, ZLDPY, no longer is classified as Pink Current.  As of Fri, May 16, 2025, ZLDPY resides in the Grey Market tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZLDPY&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zealand Pharma A/S]]></category>
-<pink:symbol>ZLDPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Synbio International Inc.  (SYIN: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYIN&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYIN/company-info">Synbio International Inc. </a> (<a href="http://www.otcmarkets.com/stock/SYIN">SYIN</a>: Pink Current) - Tier Change - The symbol, SYIN, no longer is classified as Pink Limited.  As of Fri, May 16, 2025, SYIN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYIN&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Synbio International Inc. ]]></category>
-<pink:symbol>SYIN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Service Stream Ltd (SSMZF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSMZF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SSMZF/company-info">Service Stream Ltd</a> (<a href="http://www.otcmarkets.com/stock/SSMZF">SSMZF</a>: Pink Current) - Tier Change - The symbol, SSMZF, no longer is classified as Pink Limited.  As of Fri, May 16, 2025, SSMZF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSMZF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Service Stream Ltd]]></category>
-<pink:symbol>SSMZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Skywealth Group Inc. (SKWG: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SKWG&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SKWG/company-info">Skywealth Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/SKWG">SKWG</a>: Pink Limited) - Tier Change - The symbol, SKWG, no longer is classified as Pink Current.  As of Fri, May 16, 2025, SKWG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SKWG&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Skywealth Group Inc.]]></category>
-<pink:symbol>SKWG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sycamore Entertainment Group, Inc. (SEGI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SEGI&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SEGI/company-info">Sycamore Entertainment Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SEGI">SEGI</a>: Pink Current) - Tier Change - The symbol, SEGI, no longer is classified as Pink Limited.  As of Fri, May 16, 2025, SEGI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SEGI&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sycamore Entertainment Group, Inc.]]></category>
-<pink:symbol>SEGI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Rosinbomb (ROSN: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ROSN&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ROSN/company-info">Rosinbomb</a> (<a href="http://www.otcmarkets.com/stock/ROSN">ROSN</a>: Pink Limited) - Tier Change - The symbol, ROSN, no longer is classified as Pink Current.  As of Fri, May 16, 2025, ROSN resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ROSN&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Rosinbomb]]></category>
-<pink:symbol>ROSN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Regen Biopharma, Inc. (RGBP: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RGBP&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RGBP/company-info">Regen Biopharma, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RGBP">RGBP</a>: Pink Limited) - Tier Change - The symbol, RGBP, no longer is classified as Pink Current.  As of Fri, May 16, 2025, RGBP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RGBP&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Regen Biopharma, Inc.]]></category>
-<pink:symbol>RGBP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Quantum Capital Inc. (QTCI: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTCI&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QTCI/company-info">Quantum Capital Inc.</a> (<a href="http://www.otcmarkets.com/stock/QTCI">QTCI</a>: Pink Limited) - Tier Change - The symbol, QTCI, no longer is classified as Pink Current.  As of Fri, May 16, 2025, QTCI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTCI&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Quantum Capital Inc.]]></category>
-<pink:symbol>QTCI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT TOTAL BANGUN PERSADA TBK (PTTOF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTTOF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTTOF/company-info">PT TOTAL BANGUN PERSADA TBK</a> (<a href="http://www.otcmarkets.com/stock/PTTOF">PTTOF</a>: Pink Limited) - Tier Change - The symbol, PTTOF, no longer is classified as Expert Market.  As of Fri, May 16, 2025, PTTOF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTTOF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT TOTAL BANGUN PERSADA TBK]]></category>
-<pink:symbol>PTTOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Perpetual Resources Limited (PRESF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRESF&actionDate=1747368000000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRESF/company-info">Perpetual Resources Limited</a> (<a href="http://www.otcmarkets.com/stock/PRESF">PRESF</a>: Pink Current) - Tier Change - The symbol, PRESF, no longer is classified as Expert Market.  As of Fri, May 16, 2025, PRESF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRESF&actionDate=1747368000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Perpetual Resources Limited]]></category>
-<pink:symbol>PRESF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
