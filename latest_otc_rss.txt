@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 11:51:25 UTC 2025
+OTC RSS mirror fetched: Mon May 19 12:45:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon May 19 11:51:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 07:36:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 08:26:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
+<pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hot Chili Ltd.]]></category>
+<pink:symbol>HHLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
+<pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hot Chili Ltd.]]></category>
+<pink:symbol>HHLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=477667]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Mon May 19 11:51:25 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[CASTILE RES LTD. (CLRSF: OTCQB) | Exploration Program Update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=477580]]></link>
-<pubDate>Fri, 16 May 2025 09:34:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=477580]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CASTILE RES LTD.]]></category>
-<pink:symbol>CLRSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nexus Energy Services, Inc. (IBGR: Pink Current) | DRYWORLD Joins Forces with KIKA for Exclusive New Collection Release]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477539]]></link>
-<pubDate>Fri, 16 May 2025 09:25:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477539]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nexus Energy Services, Inc.]]></category>
-<pink:symbol>IBGR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1042,6 +1042,18 @@ OTC RSS mirror fetched: Mon May 19 11:51:25 UTC 2025
 <pink:symbol>ARZTY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Serinus Energy Plc (SNUYF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SNUYF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNUYF/company-info">Serinus Energy Plc</a> (<a href="http://www.otcmarkets.com/stock/SNUYF">SNUYF</a>: Pink Current) - Halted Security -  Effective Mon, May 19, 2025, SNUYF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SNUYF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Serinus Energy Plc]]></category>
+<pink:symbol>SNUYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Zealand Pharma A/S (ZLDPY: Pink Limited) | Piggyback Qualified]]></title>
