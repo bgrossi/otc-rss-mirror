@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
+OTC RSS mirror fetched: Mon May 19 11:38:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 07:06:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 07:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=477667]]></link>
+<pubDate>Mon, 19 May 2025 07:18:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=477667]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Honat Bancorp, Inc.]]></category>
+<pink:symbol>HONT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Adia Nutrition, Inc. (ADIA: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ADIA/news?id=477585]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Wuxi Apptec Co Ltd. (WUXAY: Pink Current) | WUXAY - Books will close today, May 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WUXAY/news?id=477571]]></link>
-<pubDate>Fri, 16 May 2025 08:31:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WUXAY/news?id=477571]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Wuxi Apptec Co Ltd.]]></category>
-<pink:symbol>WUXAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,14 +864,38 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DMNIF&actionDate=1747651433000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DMNIF/company-info">Damon Inc.</a> (<a href="http://www.otcmarkets.com/stock/DMNIF">DMNIF</a>: OTC Link) - Venue Change - The symbol, DMNIF, no longer trades on Nasdaq.  As of Mon, May 19, 2025, DMNIF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 06:43:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DMNIF&actionDate=1747651433000]]></guid>
+<title><![CDATA[REA HOLDINGS PLC (REHLF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REHLF&actionDate=1747652872000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REHLF/company-info">REA HOLDINGS PLC</a> (<a href="http://www.otcmarkets.com/stock/REHLF">REHLF</a>: OTC Link) - Venue Change - The symbol, REHLF, no longer trades on Grey Market.  As of Mon, May 19, 2025, REHLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 07:07:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REHLF&actionDate=1747652872000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Damon Inc.]]></category>
-<pink:symbol>DMNIF</pink:symbol>
+<category><![CDATA[REA HOLDINGS PLC]]></category>
+<pink:symbol>REHLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CONNECTED MINERALS LTD (CMLAF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMLAF&actionDate=1747652852000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMLAF/company-info">CONNECTED MINERALS LTD</a> (<a href="http://www.otcmarkets.com/stock/CMLAF">CMLAF</a>: OTC Link) - Venue Change - The symbol, CMLAF, no longer trades on Grey Market.  As of Mon, May 19, 2025, CMLAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 07:07:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMLAF&actionDate=1747652852000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CONNECTED MINERALS LTD]]></category>
+<pink:symbol>CMLAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Admiralty Resources NL (ADMRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747652830000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADMRF/company-info">Admiralty Resources NL</a> (<a href="http://www.otcmarkets.com/stock/ADMRF">ADMRF</a>: OTC Link) - Venue Change - The symbol, ADMRF, no longer trades on Grey Market.  As of Mon, May 19, 2025, ADMRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 07:07:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747652830000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Admiralty Resources NL]]></category>
+<pink:symbol>ADMRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -896,18 +920,6 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sunevision Holdings Ltd.]]></category>
 <pink:symbol>SVNHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Damon Inc. (DMN: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=DMN&actionDate=1747651433000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DMNIF/company-info">Damon Inc.</a> (<a href="http://www.otcmarkets.com/stock/DMNIF">DMN</a>: Pink Current) - Symbol Change - The symbol, DMN, is no longer a valid symbol for Damon Inc..  As of Mon, May 19, 2025, the new trading symbol is DMNIF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 06:43:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=DMN&actionDate=1747651433000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Damon Inc.]]></category>
-<pink:symbol>DMNIF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1224,6 +1236,18 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Sanford Ltd. (SARDY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284344]]></link>
+<description><![CDATA[Mon, May 19, 2025 07:20 - <a href="http://www.otcmarkets.com/stock/SARDY/company-info">Sanford Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SARDY">SARDY</a>: Pink Current) - Scheduled Ex-Dividend - Sanford Ltd. has announced a dividend ex-date for (SARDY: Pink Current). Sanford Ltd. is scheduled to disburse a Cash Dividend dividend of $0.10075 on Wed, May 28, 2025 to shareholders of SARDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 07:20:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284344]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sanford Ltd.]]></category>
+<pink:symbol>SARDY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Mauch Chunk Trust Financial Corp. (MCHT: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284324]]></link>
 <description><![CDATA[Fri, May 16, 2025 05:11 - <a href="http://www.otcmarkets.com/stock/MCHT/company-info">Mauch Chunk Trust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/MCHT">MCHT</a>: Pink Current) - Scheduled Ex-Dividend - Mauch Chunk Trust Financial Corp. has announced a dividend ex-date for (MCHT: Pink Current). Mauch Chunk Trust Financial Corp. is scheduled to disburse a Cash Dividend dividend of $0.08 on Mon, Jun 02, 2025 to shareholders of MCHT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1328,18 +1352,6 @@ OTC RSS mirror fetched: Mon May 19 11:18:12 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Mount Logan Cap Corp.]]></category>
 <pink:symbol>PYCFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DAIMLER TRUCK HLDG AG (DTRUY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284318]]></link>
-<description><![CDATA[Fri, May 16, 2025 01:04 - <a href="http://www.otcmarkets.com/stock/DTRUY/company-info">DAIMLER TRUCK HLDG AG</a> (<a href="http://www.otcmarkets.com/stock/DTRUY">DTRUY</a>: Pink Current) - Scheduled Ex-Dividend - DAIMLER TRUCK HLDG AG has announced a dividend ex-date for (DTRUY: Pink Current). DAIMLER TRUCK HLDG AG is scheduled to disburse a Cash Dividend dividend of $0.75022 on Thu, May 29, 2025 to shareholders of DTRUY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 13:04:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284318]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DAIMLER TRUCK HLDG AG]]></category>
-<pink:symbol>DTRUY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
