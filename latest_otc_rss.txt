@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
+OTC RSS mirror fetched: Mon May 19 04:42:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 18 May 2025 23:36:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 00:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Notice of General Meeting/Proxy Form]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=477646]]></link>
+<pubDate>Mon, 19 May 2025 00:08:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=477646]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Carnegie Clean Energy Ltd. (CWGYF: OTCQB) | EuropeWave Milestone Payment Received]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CWGYF/news?id=477644]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[VizConnect, Inc. (VIZC: Pink Limited) | VizConnect, Inc. ($VIZC: OTC) Reaffirms Commitment to Core Fundamentals Amid Market Uncertainty]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VIZC/news?id=477484]]></link>
-<pubDate>Thu, 15 May 2025 12:43:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VIZC/news?id=477484]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VizConnect, Inc.]]></category>
-<pink:symbol>VIZC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -755,10 +755,10 @@ OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -766,10 +766,10 @@ OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -862,306 +862,6 @@ OTC RSS mirror fetched: Mon May 19 04:00:34 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zealand Pharma A/S (ZLDPY: Grey Market) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZLDPY&actionDate=1747416143000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: Grey Market) - Venue Change - The symbol, ZLDPY, no longer trades on OTC Link.  As of Fri, May 16, 2025, ZLDPY trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 13:22:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZLDPY&actionDate=1747416143000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zealand Pharma A/S]]></category>
-<pink:symbol>ZLDPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Admiralty Resources NL (ADMRF: Grey Market) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747403128000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADMRF/company-info">Admiralty Resources NL</a> (<a href="http://www.otcmarkets.com/stock/ADMRF">ADMRF</a>: Grey Market) - Venue Change - The symbol, ADMRF, no longer trades on OTC Link.  As of Fri, May 16, 2025, ADMRF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 09:45:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ADMRF&actionDate=1747403128000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Admiralty Resources NL]]></category>
-<pink:symbol>ADMRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HELIUS MINERALS LTD. (HHHXF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HHHXF&actionDate=1747393736000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHHXF/company-info">HELIUS MINERALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/HHHXF">HHHXF</a>: OTC Link) - Venue Change - The symbol, HHHXF, no longer trades on Grey Market.  As of Fri, May 16, 2025, HHHXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 07:08:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HHHXF&actionDate=1747393736000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HELIUS MINERALS LTD.]]></category>
-<pink:symbol>HHHXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CSC Holdings Ltd. (CSHJF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747393679000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSHJF/company-info">CSC Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CSHJF">CSHJF</a>: OTC Link) - Venue Change - The symbol, CSHJF, no longer trades on Grey Market.  As of Fri, May 16, 2025, CSHJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 07:07:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CSHJF&actionDate=1747393679000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CSC Holdings Ltd.]]></category>
-<pink:symbol>CSHJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CROWN CAPITAL PARTNERS INC. (CCPIF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CCPIF&actionDate=1747393623000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCPIF/company-info">CROWN CAPITAL PARTNERS INC.</a> (<a href="http://www.otcmarkets.com/stock/CCPIF">CCPIF</a>: OTC Link) - Venue Change - The symbol, CCPIF, no longer trades on Grey Market.  As of Fri, May 16, 2025, CCPIF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 07:07:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CCPIF&actionDate=1747393623000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CROWN CAPITAL PARTNERS INC.]]></category>
-<pink:symbol>CCPIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MAYTRONICS LTD (MYTRF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MYTRF&actionDate=1747378472000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MYTRF/company-info">MAYTRONICS LTD</a> (<a href="http://www.otcmarkets.com/stock/MYTRF">MYTRF</a>: OTC Link) - Venue Change - The symbol, MYTRF, no longer trades on Grey Market.  As of Fri, May 16, 2025, MYTRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 02:54:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MYTRF&actionDate=1747378472000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MAYTRONICS LTD]]></category>
-<pink:symbol>MYTRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Autobacs Seven Co., Ltd. (ATBSF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747378464000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATBSF/company-info">Autobacs Seven Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ATBSF">ATBSF</a>: OTC Link) - Venue Change - The symbol, ATBSF, no longer trades on Grey Market.  As of Fri, May 16, 2025, ATBSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ATBSF&actionDate=1747378464000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Autobacs Seven Co., Ltd.]]></category>
-<pink:symbol>ATBSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[WW International, Inc. (WGHTQ: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGHTQ&actionDate=1747371651000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGHTQ/company-info">WW International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGHTQ">WGHTQ</a>: OTC Link) - Venue Change - The symbol, WGHTQ, no longer trades on Nasdaq.  As of Fri, May 16, 2025, WGHTQ trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGHTQ&actionDate=1747371651000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WW International, Inc.]]></category>
-<pink:symbol>WGHTQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAI: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAI&actionDate=1747392905000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAID/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAID">YQAI</a>: Pink Limited) - Symbol Change - The symbol, YQAI, is no longer a valid symbol for YouneeqAI Technical Services, Inc..  As of Fri, May 16, 2025, the new trading symbol is YQAID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 06:55:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAI&actionDate=1747392905000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAID</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLKOR INC. (KATX: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATX&actionDate=1747392757000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KATXD/company-info">GOLKOR INC.</a> (<a href="http://www.otcmarkets.com/stock/KATXD">KATX</a>: Pink Current) - Symbol Change - The symbol, KATX, is no longer a valid symbol for GOLKOR INC..  As of Fri, May 16, 2025, the new trading symbol is KATXD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 06:52:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATX&actionDate=1747392757000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLKOR INC.]]></category>
-<pink:symbol>KATXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: OTCQX U.S.) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BMNR&actionDate=1747392614000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMNRD/company-info">BitMine Immersion Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMNRD">BMNR</a>: OTCQX U.S.) - Symbol Change - The symbol, BMNR, is no longer a valid symbol for BitMine Immersion Technologies Inc..  As of Fri, May 16, 2025, the new trading symbol is BMNRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 06:50:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BMNR&actionDate=1747392614000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
-<pink:symbol>BMNRD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[WW International, Inc. (WW: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=WW&actionDate=1747371651000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGHTQ/company-info">WW International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGHTQ">WW</a>: Pink Current) - Symbol Change - The symbol, WW, is no longer a valid symbol for WW International, Inc..  As of Fri, May 16, 2025, the new trading symbol is WGHTQ. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=WW&actionDate=1747371651000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WW International, Inc.]]></category>
-<pink:symbol>WGHTQ</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pet Ecology Brands, Inc. (PECD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PECD&actionDate=1747371650000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DBLR/company-info">Pet Ecology Brands, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DBLR">PECD</a>: Pink Current) - Symbol Change - The symbol, PECD, is no longer a valid symbol for Pet Ecology Brands, Inc..  As of Fri, May 16, 2025, the new trading symbol is DBLR. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PECD&actionDate=1747371650000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pet Ecology Brands, Inc.]]></category>
-<pink:symbol>DBLR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Trident Resources Corp. (EROSD: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EROSD&actionDate=1747371642000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRDTF/company-info">Trident Resources Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRDTF">EROSD</a>: OTCQB) - Symbol Change - The symbol, EROSD, is no longer a valid symbol for Trident Resources Corp..  As of Fri, May 16, 2025, the new trading symbol is TRDTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EROSD&actionDate=1747371642000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trident Resources Corp.]]></category>
-<pink:symbol>TRDTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[EXAIL TECHNOLOGIES (GGRGF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GGRGF&actionDate=1747371614000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EXALF/company-info">EXAIL TECHNOLOGIES</a> (<a href="http://www.otcmarkets.com/stock/EXALF">GGRGF</a>: Pink Current) - Symbol Change - The symbol, GGRGF, is no longer a valid symbol for EXAIL TECHNOLOGIES.  As of Fri, May 16, 2025, the new trading symbol is EXALF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GGRGF&actionDate=1747371614000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EXAIL TECHNOLOGIES]]></category>
-<pink:symbol>EXALF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sunevision Holdings Ltd. (SVNHF: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SVNHF&actionDate=1747423988000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVNHF/company-info">Sunevision Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SVNHF">SVNHF</a>: Grey Market) - Reactivated Symbol -  The symbol, SVNHF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 15:33:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SVNHF&actionDate=1747423988000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunevision Holdings Ltd.]]></category>
-<pink:symbol>SVNHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zealand Pharma A/S (ZLDPY: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZLDPY&actionDate=1747416143000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: Grey Market) - Reactivated Symbol -  The symbol, ZLDPY, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 13:22:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZLDPY&actionDate=1747416143000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zealand Pharma A/S]]></category>
-<pink:symbol>ZLDPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Admiralty Resources NL (ADMRF: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADMRF&actionDate=1747403128000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADMRF/company-info">Admiralty Resources NL</a> (<a href="http://www.otcmarkets.com/stock/ADMRF">ADMRF</a>: Grey Market) - Reactivated Symbol -  The symbol, ADMRF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 09:45:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ADMRF&actionDate=1747403128000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Admiralty Resources NL]]></category>
-<pink:symbol>ADMRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Galaxy Digital Holdings Ltd. (BRPHF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRPHF&actionDate=1747371652000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - Galaxy Digital Holdings Ltd. (BRPHF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, BRPHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRPHF&actionDate=1747371652000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Galaxy Digital Holdings Ltd.]]></category>
-<pink:symbol>BRPHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BMNR&actionDate=1747371647000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - BitMine Immersion Technologies Inc. (BMNR: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, BMNR is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BMNR&actionDate=1747371647000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
-<pink:symbol>BMNR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLKOR INC. (KATX: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KATX&actionDate=1747371645000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - GOLKOR INC. (KATX: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, KATX is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KATX&actionDate=1747371645000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLKOR INC.]]></category>
-<pink:symbol>KATX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Noxopharm Limited (NOXOF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NOXOF&actionDate=1747371638000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - Noxopharm Limited (NOXOF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, NOXOF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NOXOF&actionDate=1747371638000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Noxopharm Limited]]></category>
-<pink:symbol>NOXOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[KALIUM LAKES LTD. (KLLKF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KLLKF&actionDate=1747371637000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - KALIUM LAKES LTD. (KLLKF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, KLLKF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=KLLKF&actionDate=1747371637000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KALIUM LAKES LTD.]]></category>
-<pink:symbol>KLLKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Harum Energy TBK (PTHMF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTHMF&actionDate=1747371633000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - PT Harum Energy TBK (PTHMF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, PTHMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTHMF&actionDate=1747371633000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Harum Energy TBK]]></category>
-<pink:symbol>PTHMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT RESOURCE ALAM INDONESIA TBK (PTRAF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTRAF&actionDate=1747371631000]]></link>
-<description><![CDATA[Fri, May 16, 2025 12:00 - PT RESOURCE ALAM INDONESIA TBK (PTRAF: OTC Link) - Deleted Symbol - As of Fri, May 16, 2025, PTRAF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 16 May 2025 01:00:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTRAF&actionDate=1747371631000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT RESOURCE ALAM INDONESIA TBK]]></category>
-<pink:symbol>PTRAF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | Ex-Dividend]]></title>
