@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 04:56:46 UTC 2025
+OTC RSS mirror fetched: Mon May 19 05:25:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 19 04:56:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 00:36:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 01:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Buscar Company (CGLD: Pink Current) | Buscar Company Announces Strategic Partnership with Mother Lode Mining, Ltd.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CGLD/news?id=477647]]></link>
+<pubDate>Mon, 19 May 2025 01:04:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGLD/news?id=477647]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Buscar Company]]></category>
+<pink:symbol>CGLD</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Notice of General Meeting/Proxy Form]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=477646]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Mon May 19 04:56:46 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477485]]></link>
-<pubDate>Thu, 15 May 2025 12:45:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477485]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,90 @@ OTC RSS mirror fetched: Mon May 19 04:56:46 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Traack Technologies Inc. (TRAA: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRAA&actionDate=1747630847000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTPR/company-info">Traack Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTPR">TRAA</a>: Pink Limited) - Symbol Change - The symbol, TRAA, is no longer a valid symbol for Traack Technologies Inc..  As of Mon, May 19, 2025, the new trading symbol is NTPR. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRAA&actionDate=1747630847000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Traack Technologies Inc.]]></category>
+<pink:symbol>NTPR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLDEN SHIELD RES INC. (GSRFD: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GSRFD&actionDate=1747630819000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GSRFF/company-info">GOLDEN SHIELD RES INC.</a> (<a href="http://www.otcmarkets.com/stock/GSRFF">GSRFD</a>: OTCQB) - Symbol Change - The symbol, GSRFD, is no longer a valid symbol for GOLDEN SHIELD RES INC..  As of Mon, May 19, 2025, the new trading symbol is GSRFF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GSRFD&actionDate=1747630819000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLDEN SHIELD RES INC.]]></category>
+<pink:symbol>GSRFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[First Busey Corporation (BUSEV: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BUSEV&actionDate=1747630816000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BUSEL/company-info">First Busey Corporation</a> (<a href="http://www.otcmarkets.com/stock/BUSEL">BUSEV</a>: Pink Current) - Symbol Change - The symbol, BUSEV, is no longer a valid symbol for First Busey Corporation.  As of Mon, May 19, 2025, the new trading symbol is BUSEL. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BUSEV&actionDate=1747630816000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Busey Corporation]]></category>
+<pink:symbol>BUSEL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[InPlay Oil Corp. (IPOOD: OTCQX International) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IPOOD&actionDate=1747630807000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IPOOF/company-info">InPlay Oil Corp.</a> (<a href="http://www.otcmarkets.com/stock/IPOOF">IPOOD</a>: OTCQX International) - Symbol Change - The symbol, IPOOD, is no longer a valid symbol for InPlay Oil Corp..  As of Mon, May 19, 2025, the new trading symbol is IPOOF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IPOOD&actionDate=1747630807000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[InPlay Oil Corp.]]></category>
+<pink:symbol>IPOOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ASEP Medical Holdings Inc. (SEPSD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SEPSD&actionDate=1747630802000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SEPSF/company-info">ASEP Medical Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/SEPSF">SEPSD</a>: Pink Current) - Symbol Change - The symbol, SEPSD, is no longer a valid symbol for ASEP Medical Holdings Inc..  As of Mon, May 19, 2025, the new trading symbol is SEPSF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SEPSD&actionDate=1747630802000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASEP Medical Holdings Inc.]]></category>
+<pink:symbol>SEPSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Pulsenmore Ltd. (PLSSF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PLSSF&actionDate=1747630842000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - Pulsenmore Ltd. (PLSSF: Grey Market) - Deleted Symbol - As of Mon, May 19, 2025, PLSSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PLSSF&actionDate=1747630842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Pulsenmore Ltd.]]></category>
+<pink:symbol>PLSSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aryzta AG (ARZTY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ARZTY&actionDate=1747630812000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - Aryzta AG (ARZTY: OTC Link) - Deleted Symbol - As of Mon, May 19, 2025, ARZTY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 01:00:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ARZTY&actionDate=1747630812000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aryzta AG]]></category>
+<pink:symbol>ARZTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169309]]></link>
 <description><![CDATA[Fri, May 16, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/TGSGY/company-info">TGS ASA</a> (<a href="http://www.otcmarkets.com/stock/TGSGY">TGSGY</a>: OTCQX International) - Ex-Dividend -  As of Mon, May 19, 2025, TGS ASA traded ex-dividend. TGS ASA will disburse a Cash Dividend dividend of $0.08436 to shareholders of TGSGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1186,126 @@ OTC RSS mirror fetched: Mon May 19 04:56:46 UTC 2025
 <pink:symbol>DTRUY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Value Exchange International, Inc. (VEII: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEII&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VEII/company-info">Value Exchange International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/VEII">VEII</a>: Pink Limited) - Tier Change - The symbol, VEII, no longer is classified as OTCQB.  As of Mon, May 19, 2025, VEII resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEII&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Value Exchange International, Inc.]]></category>
+<pink:symbol>VEII</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sunstock, Inc. (SSOK: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSOK&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SSOK/company-info">Sunstock, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SSOK">SSOK</a>: Pink Limited) - Tier Change - The symbol, SSOK, no longer is classified as OTCQB.  As of Mon, May 19, 2025, SSOK resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSOK&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sunstock, Inc.]]></category>
+<pink:symbol>SSOK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LOWELL FARMS INC. (LOWLF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LOWLF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOWLF/company-info">LOWELL FARMS INC.</a> (<a href="http://www.otcmarkets.com/stock/LOWLF">LOWLF</a>: Pink Limited) - Tier Change - The symbol, LOWLF, no longer is classified as OTCQB.  As of Mon, May 19, 2025, LOWLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LOWLF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LOWELL FARMS INC.]]></category>
+<pink:symbol>LOWLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[International Land Alliance Inc. (ILAL: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ILAL/company-info">International Land Alliance Inc.</a> (<a href="http://www.otcmarkets.com/stock/ILAL">ILAL</a>: Pink Limited) - Tier Change - The symbol, ILAL, no longer is classified as OTCQB.  As of Mon, May 19, 2025, ILAL resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Land Alliance Inc.]]></category>
+<pink:symbol>ILAL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Getaround, Inc. (GETR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GETR&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GETR/company-info">Getaround, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GETR">GETR</a>: Pink Limited) - Tier Change - The symbol, GETR, no longer is classified as OTCQB.  As of Mon, May 19, 2025, GETR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GETR&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Getaround, Inc.]]></category>
+<pink:symbol>GETR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[4Front Ventures Corp. (FFNTF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FFNTF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FFNTF/company-info">4Front Ventures Corp.</a> (<a href="http://www.otcmarkets.com/stock/FFNTF">FFNTF</a>: Pink Limited) - Tier Change - The symbol, FFNTF, no longer is classified as OTCQB.  As of Mon, May 19, 2025, FFNTF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FFNTF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[4Front Ventures Corp.]]></category>
+<pink:symbol>FFNTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Enservco Corp. (ENSV: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ENSV&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ENSV/company-info">Enservco Corp.</a> (<a href="http://www.otcmarkets.com/stock/ENSV">ENSV</a>: Pink Limited) - Tier Change - The symbol, ENSV, no longer is classified as OTCQB.  As of Mon, May 19, 2025, ENSV resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ENSV&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Enservco Corp.]]></category>
+<pink:symbol>ENSV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Deep Green Waste & Recycling, Inc. (DGWR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DGWR&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGWR/company-info">Deep Green Waste & Recycling, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DGWR">DGWR</a>: Pink Limited) - Tier Change - The symbol, DGWR, no longer is classified as OTCQB.  As of Mon, May 19, 2025, DGWR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DGWR&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Deep Green Waste & Recycling, Inc.]]></category>
+<pink:symbol>DGWR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cell Source, Inc. (CLCS: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CLCS&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLCS/company-info">Cell Source, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CLCS">CLCS</a>: Pink Limited) - Tier Change - The symbol, CLCS, no longer is classified as OTCQB.  As of Mon, May 19, 2025, CLCS resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CLCS&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cell Source, Inc.]]></category>
+<pink:symbol>CLCS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CAN B CORP. (CANB: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CANB&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CANB/company-info">CAN B CORP.</a> (<a href="http://www.otcmarkets.com/stock/CANB">CANB</a>: Pink Limited) - Tier Change - The symbol, CANB, no longer is classified as OTCQB.  As of Mon, May 19, 2025, CANB resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CANB&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CAN B CORP.]]></category>
+<pink:symbol>CANB</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
