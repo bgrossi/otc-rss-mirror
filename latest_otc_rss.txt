@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 20:23:21 UTC 2025
+OTC RSS mirror fetched: Mon May 19 20:42:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 19 20:23:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 16:06:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 16:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Third Of Five Remaining Convertible Notes]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477717]]></link>
+<pubDate>Mon, 19 May 2025 16:22:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477717]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Amfil Technologies Inc.]]></category>
+<pink:symbol>FUNN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Pennexx Foods, Inc. (PNNX: Pink Current) | Pennexx Foods, Inc. (PNNX) Announces Upcoming Release of a ‘Savings Buddy’ Artificial Intelligence Shopping App]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PNNX/news?id=477714]]></link>
@@ -375,9 +387,9 @@ OTC RSS mirror fetched: Mon May 19 20:23:21 UTC 2025
 </item>
 <item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -387,9 +399,9 @@ OTC RSS mirror fetched: Mon May 19 20:23:21 UTC 2025
 </item>
 <item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Mon May 19 20:23:21 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477656]]></link>
 <pubDate>Mon, 19 May 2025 03:19:31 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477656]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaplanet Inc.]]></category>
-<pink:symbol>MTPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Full Early Redemption (Repayment) of the 14th Series of Ordinary Bonds]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477655]]></link>
-<pubDate>Mon, 19 May 2025 03:19:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477655]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Metaplanet Inc.]]></category>
 <pink:symbol>MTPLF</pink:symbol>
