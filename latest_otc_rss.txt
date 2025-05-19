@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
+OTC RSS mirror fetched: Mon May 19 07:25:05 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 02:36:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 03:07:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -146,7 +146,7 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Limited) | Snakes & Lattes Inc. Negotiates Cash Purchase Of One Of The Last Remaining Convertible Notes]]></title>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of One Of The Last Remaining Convertible Notes]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477637]]></link>
 <pubDate>Sun, 18 May 2025 17:46:02 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477637]]></guid>
@@ -154,7 +154,7 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <category><![CDATA[Amfil Technologies Inc.]]></category>
 <pink:symbol>FUNN</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Zealand Pharma A/S (ZLDPY: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZLDPY&actionDate=1747637606000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: OTC Link) - Venue Change - The symbol, ZLDPY, no longer trades on Grey Market.  As of Mon, May 19, 2025, ZLDPY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 02:53:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZLDPY&actionDate=1747637606000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zealand Pharma A/S]]></category>
+<pink:symbol>ZLDPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sunevision Holdings Ltd. (SVNHF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SVNHF&actionDate=1747637603000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVNHF/company-info">Sunevision Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SVNHF">SVNHF</a>: OTC Link) - Venue Change - The symbol, SVNHF, no longer trades on Grey Market.  As of Mon, May 19, 2025, SVNHF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 02:53:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SVNHF&actionDate=1747637603000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sunevision Holdings Ltd.]]></category>
+<pink:symbol>SVNHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NutraProducts Inc. (TRAA: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRAA&actionDate=1747630847000]]></link>
 <description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTPR/company-info">NutraProducts Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTPR">TRAA</a>: Pink Limited) - Symbol Change - The symbol, TRAA, is no longer a valid symbol for NutraProducts Inc..  As of Mon, May 19, 2025, the new trading symbol is NTPR. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -982,6 +1006,78 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <pink:symbol>ARZTY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zealand Pharma A/S (ZLDPY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZLDPY&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 19, 2025, ZLDPY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZLDPY&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zealand Pharma A/S]]></category>
+<pink:symbol>ZLDPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED (TRPCY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TRPCY&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRPCY/company-info">TRUE CORPORATION PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/TRPCY">TRPCY</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 19, 2025, TRPCY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TRPCY&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>TRPCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED (TCPFF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TCPFF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCPFF/company-info">TRUE CORPORATION PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/TCPFF">TCPFF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 19, 2025, TCPFF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TCPFF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>TCPFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sunevision Holdings Ltd. (SVNHF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SVNHF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVNHF/company-info">Sunevision Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SVNHF">SVNHF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 19, 2025, SVNHF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SVNHF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sunevision Holdings Ltd.]]></category>
+<pink:symbol>SVNHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SHIN MAINT HLDGS CO LTD (SHNMF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SHNMF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SHNMF/company-info">SHIN MAINT HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/SHNMF">SHNMF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 19, 2025, SHNMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SHNMF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SHIN MAINT HLDGS CO LTD]]></category>
+<pink:symbol>SHNMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lion Rock Resources Inc. (LRRIF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LRRIF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LRRIF/company-info">Lion Rock Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/LRRIF">LRRIF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, May 19, 2025, LRRIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LRRIF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lion Rock Resources Inc.]]></category>
+<pink:symbol>LRRIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | Ex-Dividend]]></title>
@@ -1224,6 +1320,54 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Zalemark Holding Co., Inc. (ZMRK: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZMRK&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZMRK/company-info">Zalemark Holding Co., Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZMRK">ZMRK</a>: Pink Limited) - Tier Change - The symbol, ZMRK, no longer is classified as Pink Current.  As of Mon, May 19, 2025, ZMRK resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZMRK&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zalemark Holding Co., Inc.]]></category>
+<pink:symbol>ZMRK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zealand Pharma A/S (ZLDPY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZLDPY&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZLDPY/company-info">Zealand Pharma A/S</a> (<a href="http://www.otcmarkets.com/stock/ZLDPY">ZLDPY</a>: Pink Limited) - Tier Change - The symbol, ZLDPY, no longer is classified as Grey Market.  As of Mon, May 19, 2025, ZLDPY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZLDPY&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zealand Pharma A/S]]></category>
+<pink:symbol>ZLDPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Wiremedia, Inc. (WRMA: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WRMA&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WRMA/company-info">Wiremedia, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WRMA">WRMA</a>: Pink Limited) - Tier Change - The symbol, WRMA, no longer is classified as Pink Current.  As of Mon, May 19, 2025, WRMA resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WRMA&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Wiremedia, Inc.]]></category>
+<pink:symbol>WRMA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Weiss Korea Opportunity Fund Ltd. (WISKF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WISKF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WISKF/company-info">Weiss Korea Opportunity Fund Ltd.</a> (<a href="http://www.otcmarkets.com/stock/WISKF">WISKF</a>: Pink Current) - Tier Change - The symbol, WISKF, no longer is classified as Expert Market.  As of Mon, May 19, 2025, WISKF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WISKF&actionDate=1747627200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Weiss Korea Opportunity Fund Ltd.]]></category>
+<pink:symbol>WISKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Value Exchange International, Inc. (VEII: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VEII&actionDate=1747627200000]]></link>
 <description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VEII/company-info">Value Exchange International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/VEII">VEII</a>: Pink Limited) - Tier Change - The symbol, VEII, no longer is classified as OTCQB.  As of Mon, May 19, 2025, VEII resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1236,112 +1380,64 @@ OTC RSS mirror fetched: Mon May 19 06:56:36 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Sunstock, Inc. (SSOK: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSOK&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SSOK/company-info">Sunstock, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SSOK">SSOK</a>: Pink Limited) - Tier Change - The symbol, SSOK, no longer is classified as OTCQB.  As of Mon, May 19, 2025, SSOK resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[United American Petroleum Corp. (UAPC: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UAPC&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UAPC/company-info">United American Petroleum Corp.</a> (<a href="http://www.otcmarkets.com/stock/UAPC">UAPC</a>: Pink Limited) - Tier Change - The symbol, UAPC, no longer is classified as Pink Current.  As of Mon, May 19, 2025, UAPC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SSOK&actionDate=1747627200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UAPC&actionDate=1747627200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunstock, Inc.]]></category>
-<pink:symbol>SSOK</pink:symbol>
+<category><![CDATA[United American Petroleum Corp.]]></category>
+<pink:symbol>UAPC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[LOWELL FARMS INC. (LOWLF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LOWLF&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOWLF/company-info">LOWELL FARMS INC.</a> (<a href="http://www.otcmarkets.com/stock/LOWLF">LOWLF</a>: Pink Limited) - Tier Change - The symbol, LOWLF, no longer is classified as OTCQB.  As of Mon, May 19, 2025, LOWLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Tristar Wellness Solutions Inc. (TWSI: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TWSI&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TWSI/company-info">Tristar Wellness Solutions Inc.</a> (<a href="http://www.otcmarkets.com/stock/TWSI">TWSI</a>: Pink Limited) - Tier Change - The symbol, TWSI, no longer is classified as Pink Current.  As of Mon, May 19, 2025, TWSI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LOWLF&actionDate=1747627200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TWSI&actionDate=1747627200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LOWELL FARMS INC.]]></category>
-<pink:symbol>LOWLF</pink:symbol>
+<category><![CDATA[Tristar Wellness Solutions Inc.]]></category>
+<pink:symbol>TWSI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[International Land Alliance Inc. (ILAL: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ILAL/company-info">International Land Alliance Inc.</a> (<a href="http://www.otcmarkets.com/stock/ILAL">ILAL</a>: Pink Limited) - Tier Change - The symbol, ILAL, no longer is classified as OTCQB.  As of Mon, May 19, 2025, ILAL resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED (TRPCY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRPCY&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRPCY/company-info">TRUE CORPORATION PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/TRPCY">TRPCY</a>: Pink Limited) - Tier Change - The symbol, TRPCY, no longer is classified as Expert Market.  As of Mon, May 19, 2025, TRPCY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1747627200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRPCY&actionDate=1747627200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[International Land Alliance Inc.]]></category>
-<pink:symbol>ILAL</pink:symbol>
+<category><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>TRPCY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Getaround, Inc. (GETR: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GETR&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GETR/company-info">Getaround, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GETR">GETR</a>: Pink Limited) - Tier Change - The symbol, GETR, no longer is classified as OTCQB.  As of Mon, May 19, 2025, GETR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED (TCPFF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCPFF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCPFF/company-info">TRUE CORPORATION PUBLIC COMPANY LIMITED</a> (<a href="http://www.otcmarkets.com/stock/TCPFF">TCPFF</a>: Pink Limited) - Tier Change - The symbol, TCPFF, no longer is classified as Expert Market.  As of Mon, May 19, 2025, TCPFF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GETR&actionDate=1747627200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCPFF&actionDate=1747627200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Getaround, Inc.]]></category>
-<pink:symbol>GETR</pink:symbol>
+<category><![CDATA[TRUE CORPORATION PUBLIC COMPANY LIMITED]]></category>
+<pink:symbol>TCPFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[4Front Ventures Corp. (FFNTF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FFNTF&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FFNTF/company-info">4Front Ventures Corp.</a> (<a href="http://www.otcmarkets.com/stock/FFNTF">FFNTF</a>: Pink Limited) - Tier Change - The symbol, FFNTF, no longer is classified as OTCQB.  As of Mon, May 19, 2025, FFNTF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Sunevision Holdings Ltd. (SVNHF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SVNHF&actionDate=1747627200000]]></link>
+<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVNHF/company-info">Sunevision Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SVNHF">SVNHF</a>: Pink Current) - Tier Change - The symbol, SVNHF, no longer is classified as Grey Market.  As of Mon, May 19, 2025, SVNHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FFNTF&actionDate=1747627200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SVNHF&actionDate=1747627200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[4Front Ventures Corp.]]></category>
-<pink:symbol>FFNTF</pink:symbol>
+<category><![CDATA[Sunevision Holdings Ltd.]]></category>
+<pink:symbol>SVNHF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Enservco Corp. (ENSV: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ENSV&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ENSV/company-info">Enservco Corp.</a> (<a href="http://www.otcmarkets.com/stock/ENSV">ENSV</a>: Pink Limited) - Tier Change - The symbol, ENSV, no longer is classified as OTCQB.  As of Mon, May 19, 2025, ENSV resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ENSV&actionDate=1747627200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Enservco Corp.]]></category>
-<pink:symbol>ENSV</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Deep Green Waste & Recycling, Inc. (DGWR: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DGWR&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DGWR/company-info">Deep Green Waste & Recycling, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DGWR">DGWR</a>: Pink Limited) - Tier Change - The symbol, DGWR, no longer is classified as OTCQB.  As of Mon, May 19, 2025, DGWR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DGWR&actionDate=1747627200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Deep Green Waste & Recycling, Inc.]]></category>
-<pink:symbol>DGWR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cell Source, Inc. (CLCS: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CLCS&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLCS/company-info">Cell Source, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CLCS">CLCS</a>: Pink Limited) - Tier Change - The symbol, CLCS, no longer is classified as OTCQB.  As of Mon, May 19, 2025, CLCS resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CLCS&actionDate=1747627200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cell Source, Inc.]]></category>
-<pink:symbol>CLCS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CAN B CORP. (CANB: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CANB&actionDate=1747627200000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CANB/company-info">CAN B CORP.</a> (<a href="http://www.otcmarkets.com/stock/CANB">CANB</a>: Pink Limited) - Tier Change - The symbol, CANB, no longer is classified as OTCQB.  As of Mon, May 19, 2025, CANB resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CANB&actionDate=1747627200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CAN B CORP.]]></category>
-<pink:symbol>CANB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
