@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 09:28:51 UTC 2025
+OTC RSS mirror fetched: Mon May 19 09:45:20 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Mon May 19 09:28:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 05:06:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 05:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | TOV: FBR Panel Receives Application]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477664]]></link>
+<pubDate>Mon, 19 May 2025 05:33:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=477664]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Appendix 2A - Application for Quotation of Securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=477663]]></link>
+<pubDate>Mon, 19 May 2025 05:17:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=477663]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[80 MILE PLC (BLLYF: Pink Current) | KoBold Interest in Disko Reverts to 80 Mile]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=477662]]></link>
+<pubDate>Mon, 19 May 2025 05:10:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=477662]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[80 MILE PLC]]></category>
+<pink:symbol>BLLYF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize appoints Tim Bork as Chief Commercial Officer Ahold Delhaize Europe & Indonesia]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477660]]></link>
@@ -573,42 +609,6 @@ OTC RSS mirror fetched: Mon May 19 09:28:51 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[adidas AG]]></category>
 <pink:symbol>ADDYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Security First International Holdings, Inc. (SCFR: Pink Limited) | Security First International Holdings Inc. ($SCFR) Announces Strategic Pivot into Digital Asset Holding Company Powered by Proprietary SMAK Trading Algorithm]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SCFR/news?id=477553]]></link>
-<pubDate>Fri, 16 May 2025 07:58:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SCFR/news?id=477553]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Security First International Holdings, Inc.]]></category>
-<pink:symbol>SCFR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=477545]]></link>
-<pubDate>Fri, 16 May 2025 03:11:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=477545]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
-<pink:symbol>KPGHF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477487]]></link>
-<pubDate>Fri, 16 May 2025 02:01:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477487]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
