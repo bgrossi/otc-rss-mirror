@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 12:45:23 UTC 2025
+OTC RSS mirror fetched: Mon May 19 13:33:04 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,13 +11,289 @@ OTC RSS mirror fetched: Mon May 19 12:45:23 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 08:26:34 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 09:26:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
+<title><![CDATA[Wolters Kluwer N.V. (WTKWY: Pink Limited) | WTKWY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WTKWY/news?id=477696]]></link>
+<pubDate>Mon, 19 May 2025 09:13:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WTKWY/news?id=477696]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Wolters Kluwer N.V.]]></category>
+<pink:symbol>WTKWY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Volkswagen AG (VWAGY: Pink Current) | VWAGY and VWAPY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VWAGY/news?id=477695]]></link>
+<pubDate>Mon, 19 May 2025 09:13:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VWAGY/news?id=477695]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Volkswagen AG]]></category>
+<pink:symbol>VWAGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[THALES (THLLY: Pink Limited) | THLLY - Books will close at the close of business today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/THLLY/news?id=477694]]></link>
+<pubDate>Mon, 19 May 2025 09:12:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/THLLY/news?id=477694]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[THALES]]></category>
+<pink:symbol>THLLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Saipem S.p.A. (SAPMY: Pink Limited) | SAPMY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SAPMY/news?id=477691]]></link>
+<pubDate>Mon, 19 May 2025 09:00:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SAPMY/news?id=477691]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Saipem S.p.A.]]></category>
+<pink:symbol>SAPMY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Bitcoin Purchase]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477661]]></link>
+<pubDate>Mon, 19 May 2025 09:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477661]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vinanz Limited]]></category>
+<pink:symbol>VINZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[NN Group NV (NNGRY: Pink Limited) | NNGRY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NNGRY/news?id=477690]]></link>
+<pubDate>Mon, 19 May 2025 09:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NNGRY/news?id=477690]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NN Group NV]]></category>
+<pink:symbol>NNGRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nexans Paris ACT (NEXNY: Pink Limited) | NEXNY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NEXNY/news?id=477689]]></link>
+<pubDate>Mon, 19 May 2025 08:59:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NEXNY/news?id=477689]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nexans Paris ACT]]></category>
+<pink:symbol>NEXNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Moncler S.P.A. (MONRY: Pink Limited) | MONRY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MONRY/news?id=477688]]></link>
+<pubDate>Mon, 19 May 2025 08:58:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MONRY/news?id=477688]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Moncler S.P.A.]]></category>
+<pink:symbol>MONRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[MedioBanca SpA (MDIBY: Pink Limited) | MDIBY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477687]]></link>
+<pubDate>Mon, 19 May 2025 08:58:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477687]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MedioBanca SpA]]></category>
+<pink:symbol>MDIBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Warpaint London PLC (WPNTF: OTCQX International) | Results for the year ended 31 December 2024]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477686]]></link>
+<pubDate>Mon, 19 May 2025 08:58:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477686]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Warpaint London PLC]]></category>
+<pink:symbol>WPNTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Webuild SpA (IMPJY: Pink Limited) | IMPJY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMPJY/news?id=477685]]></link>
+<pubDate>Mon, 19 May 2025 08:57:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMPJY/news?id=477685]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Webuild SpA]]></category>
+<pink:symbol>IMPJY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Hella Gmbh & Co Kgaa (HLLGY: Pink Current) | HLLGY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HLLGY/news?id=477684]]></link>
+<pubDate>Mon, 19 May 2025 08:57:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HLLGY/news?id=477684]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hella Gmbh & Co Kgaa]]></category>
+<pink:symbol>HLLGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Warpaint London PLC (WPNTF: OTCQX International) | 6 February 2025 Trading Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477683]]></link>
+<pubDate>Mon, 19 May 2025 08:56:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477683]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Warpaint London PLC]]></category>
+<pink:symbol>WPNTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | HCMLY - Books will close at the close of business today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477682]]></link>
+<pubDate>Mon, 19 May 2025 08:56:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477682]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOLCIM LTD]]></category>
+<pink:symbol>HCMLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[EFG HLDG. (EFGHY: Pink Limited) | EFGHY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EFGHY/news?id=477681]]></link>
+<pubDate>Mon, 19 May 2025 08:55:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EFGHY/news?id=477681]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EFG HLDG.]]></category>
+<pink:symbol>EFGHY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Capgemini SE (CGEMY: Pink Limited) | CGEMY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CGEMY/news?id=477680]]></link>
+<pubDate>Mon, 19 May 2025 08:55:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGEMY/news?id=477680]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capgemini SE]]></category>
+<pink:symbol>CGEMY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[NV Bekaert SA (BEKAY: Pink Limited) | BEKAY - Books will close at the close of business today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477679]]></link>
+<pubDate>Mon, 19 May 2025 08:54:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477679]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NV Bekaert SA]]></category>
+<pink:symbol>BEKAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BDO Unibank Inc. (BDOUY: Pink Limited) | BDOUY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BDOUY/news?id=477678]]></link>
+<pubDate>Mon, 19 May 2025 08:54:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDOUY/news?id=477678]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BDO Unibank Inc.]]></category>
+<pink:symbol>BDOUY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Assicurazioni Generali Spa (ARZGY: Pink Limited) | ARZGY - Books will close today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARZGY/news?id=477677]]></link>
+<pubDate>Mon, 19 May 2025 08:53:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARZGY/news?id=477677]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Assicurazioni Generali Spa]]></category>
+<pink:symbol>ARZGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Accor SA Ltd. (ACCYY: Pink Limited) | ACCYY - Books will close at the close of business today, May 19, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACCYY/news?id=477676]]></link>
+<pubDate>Mon, 19 May 2025 08:52:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCYY/news?id=477676]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Accor SA Ltd.]]></category>
+<pink:symbol>ACCYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Further Trading Statement for the Six Months Ended 31 March 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=477675]]></link>
+<pubDate>Mon, 19 May 2025 08:38:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=477675]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Oceana Group Ltd.]]></category>
+<pink:symbol>OCGPF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Second Of Five Remaining Convertible Notes]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477645]]></link>
+<pubDate>Mon, 19 May 2025 08:30:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477645]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Amfil Technologies Inc.]]></category>
+<pink:symbol>FUNN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | Strategic Large Scale USA Antimony Acquisition]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=477672]]></link>
+<pubDate>Mon, 19 May 2025 08:26:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=477672]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trigg Minerals Ltd]]></category>
+<pink:symbol>TMGLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -27,9 +303,9 @@ OTC RSS mirror fetched: Mon May 19 12:45:23 UTC 2025
 </item>
 <item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -335,282 +611,6 @@ OTC RSS mirror fetched: Mon May 19 12:45:23 UTC 2025
 <pink:symbol>DGGXF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[American Rare Earths Ltd. (AMRRY: OTCQX International) | Appendix 3Y Richard Hudson]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=477642]]></link>
-<pubDate>Sun, 18 May 2025 19:37:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=477642]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Rare Earths Ltd.]]></category>
-<pink:symbol>AMRRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notice pursuant to 708A(5)(e) Corporations Act]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477641]]></link>
-<pubDate>Sun, 18 May 2025 18:46:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477641]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Culpeo Minerals Limited]]></category>
-<pink:symbol>CPORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Application for quotation of securities - CPO]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477640]]></link>
-<pubDate>Sun, 18 May 2025 18:45:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=477640]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Culpeo Minerals Limited]]></category>
-<pink:symbol>CPORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Success fully Negotiates Lower State Royalty for Green River Lithium Project]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477639]]></link>
-<pubDate>Sun, 18 May 2025 18:18:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=477639]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anson Resources]]></category>
-<pink:symbol>ANSNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | WCN raises A$14.4m at an average 29% premium to market close]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477638]]></link>
-<pubDate>Sun, 18 May 2025 18:16:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477638]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[White Cliff Minerals Ltd]]></category>
-<pink:symbol>WCMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of One Of The Last Remaining Convertible Notes]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477637]]></link>
-<pubDate>Sun, 18 May 2025 17:46:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477637]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Amfil Technologies Inc.]]></category>
-<pink:symbol>FUNN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Windrock Ld Co. (WRLC: Pink Limited) | Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WRLC/news?id=477636]]></link>
-<pubDate>Sun, 18 May 2025 12:42:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WRLC/news?id=477636]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Windrock Ld Co.]]></category>
-<pink:symbol>WRLC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TOR Minerals International, Inc. (TORM: Pink Limited) | Dr. Tan - Director Resignation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TORM/news?id=477635]]></link>
-<pubDate>Sun, 18 May 2025 12:25:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TORM/news?id=477635]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TOR Minerals International, Inc.]]></category>
-<pink:symbol>TORM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Corero Network Security plc (DDOSF: OTCQX International) | Blocklisting Return]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DDOSF/news?id=477634]]></link>
-<pubDate>Sat, 17 May 2025 14:51:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DDOSF/news?id=477634]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Corero Network Security plc]]></category>
-<pink:symbol>DDOSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Izotropic Corporation (IZOZF: OTCQB) | Izotropic’s U.S. FDA Regulatory Pathway Greenlit, Company Provides Corporate Update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IZOZF/news?id=477631]]></link>
-<pubDate>Fri, 16 May 2025 23:14:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IZOZF/news?id=477631]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Izotropic Corporation]]></category>
-<pink:symbol>IZOZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | YQAI Announces 1-for-10 Reverse Stock Split Effective May 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477628]]></link>
-<pubDate>Fri, 16 May 2025 18:45:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477628]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAID</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[One World Lithium Inc. (OWRDF: OTCQB) | ONE WORLD LITHIUM PROVIDES DEFAULT UPDATE]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=477625]]></link>
-<pubDate>Fri, 16 May 2025 17:47:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OWRDF/news?id=477625]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[One World Lithium Inc.]]></category>
-<pink:symbol>OWRDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hugoton Royalty Trust (HGTXU: OTCQB) | HUGOTON ROYALTY TRUST ANNOUNCES EXECUTION OF ADVANCE DISTRIBUTION AGREEMENT AND THE CLOSING OF XTO ENERGY'S TRANSACTION WITH MACH NATURAL RESOURCES, LP]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HGTXU/news?id=477615]]></link>
-<pubDate>Fri, 16 May 2025 16:29:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HGTXU/news?id=477615]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hugoton Royalty Trust]]></category>
-<pink:symbol>HGTXU</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hugoton Royalty Trust (HGTXU: OTCQB) | HUGOTON ROYALTY TRUST DECLARES NO APRIL CASH DISTRIBUTION]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HGTXU/news?id=477612]]></link>
-<pubDate>Fri, 16 May 2025 16:27:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HGTXU/news?id=477612]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hugoton Royalty Trust]]></category>
-<pink:symbol>HGTXU</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Standard Dental Labs Inc. (TUTH: Pink Limited) | Standard Dental Labs Inc. Announces Completion of Restatement of Financial Statements]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TUTH/news?id=477607]]></link>
-<pubDate>Fri, 16 May 2025 15:39:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TUTH/news?id=477607]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Standard Dental Labs Inc.]]></category>
-<pink:symbol>TUTH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 16.05.2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477650]]></link>
-<pubDate>Fri, 16 May 2025 15:30:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=477650]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nordea Bank Abp]]></category>
-<pink:symbol>NRDBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lumbee Guaranty Bank (LUMB: OTCQX U.S.) | Lumbee Guaranty Bank Reports 1st Quarter 2025 Earnings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LUMB/news?id=477606]]></link>
-<pubDate>Fri, 16 May 2025 14:50:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LUMB/news?id=477606]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lumbee Guaranty Bank]]></category>
-<pink:symbol>LUMB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Highlands Bankshares, Inc. (HBSI: Pink Current) | Highlands Bankshares, Inc. Releases 1st Quarter Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HBSI/news?id=477605]]></link>
-<pubDate>Fri, 16 May 2025 14:29:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HBSI/news?id=477605]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Highlands Bankshares, Inc.]]></category>
-<pink:symbol>HBSI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477599]]></link>
-<pubDate>Fri, 16 May 2025 12:45:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477599]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Garden City Company (The) (GCCO: Pink Limited) | Third Quarter 2025 Regular Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GCCO/news?id=477597]]></link>
-<pubDate>Fri, 16 May 2025 12:08:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GCCO/news?id=477597]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Garden City Company (The)]]></category>
-<pink:symbol>GCCO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CNB Bank Shares, Inc. (CNBN: OTCQX U.S.) | Earnings Release]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNBN/news?id=477590]]></link>
-<pubDate>Fri, 16 May 2025 12:00:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNBN/news?id=477590]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CNB Bank Shares, Inc.]]></category>
-<pink:symbol>CNBN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nexus Energy Services, Inc. (IBGR: Pink Current) | Correction: DRYWORLD Joins Forces with KIKA for Exclusive New Collection Release]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477596]]></link>
-<pubDate>Fri, 16 May 2025 11:56:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IBGR/news?id=477596]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nexus Energy Services, Inc.]]></category>
-<pink:symbol>IBGR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Entrex Distributes May 2025 Interested Party Update Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477581]]></link>
-<pubDate>Fri, 16 May 2025 10:02:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NTRXD/news?id=477581]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
-<pink:symbol>NTRXD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
