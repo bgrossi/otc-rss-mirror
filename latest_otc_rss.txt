@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 19 08:30:39 UTC 2025
+OTC RSS mirror fetched: Mon May 19 08:56:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 19 08:30:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 19 May 2025 04:06:35 EDT</lastBuildDate>
+<lastBuildDate>Mon, 19 May 2025 04:36:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize appoints Tim Bork as Chief Commercial Officer Ahold Delhaize Europe & Indonesia]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477660]]></link>
+<pubDate>Mon, 19 May 2025 04:20:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477660]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
+<pink:symbol>ADRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Completion of the 15th Series of Stock Acquisition Rights and the Large-Scale Exercise of the 16th Series of Stock Acquisition Rights]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=477657]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon May 19 08:30:39 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[J Sainsbury plc]]></category>
 <pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS - Ex dividend of NOK 1.59 per share today]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=477294]]></link>
-<pubDate>Fri, 16 May 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=477294]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TGS ASA]]></category>
-<pink:symbol>TGSGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
