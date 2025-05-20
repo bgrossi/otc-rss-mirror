@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
+OTC RSS mirror fetched: Tue May 20 22:42:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 18:06:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 18:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Notification of cessation of securities - CGS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=477893]]></link>
+<pubDate>Tue, 20 May 2025 18:28:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=477893]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cogstate Ltd.]]></category>
+<pink:symbol>COGZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Community Capital Bancshares, Inc. (ALBY: OTCQX U.S.) | Community Capital Bancshares, Inc. Announces Dividend Payment]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ALBY/news?id=477875]]></link>
@@ -170,7 +182,7 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Limited) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Fourth Of Five Remaining Convertible Notes]]></title>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Fourth Of Five Remaining Convertible Notes]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477718]]></link>
 <pubDate>Tue, 20 May 2025 09:00:52 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477718]]></guid>
@@ -178,7 +190,7 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <category><![CDATA[Amfil Technologies Inc.]]></category>
 <pink:symbol>FUNN</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -386,7 +398,7 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Limited) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Third Of Five Remaining Convertible Notes]]></title>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Third Of Five Remaining Convertible Notes]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477717]]></link>
 <pubDate>Mon, 19 May 2025 16:22:38 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477717]]></guid>
@@ -394,7 +406,7 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <category><![CDATA[Amfil Technologies Inc.]]></category>
 <pink:symbol>FUNN</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <pink:symbol>WPNTF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Webuild SpA (IMPJY: Pink Limited) | IMPJY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMPJY/news?id=477685]]></link>
-<pubDate>Mon, 19 May 2025 08:57:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMPJY/news?id=477685]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Webuild SpA]]></category>
-<pink:symbol>IMPJY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
