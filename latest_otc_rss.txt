@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 06:31:24 UTC 2025
+OTC RSS mirror fetched: Tue May 20 06:56:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 20 06:31:24 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 02:06:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 02:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize share buyback update May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477729]]></link>
+<pubDate>Tue, 20 May 2025 02:11:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=477729]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
+<pink:symbol>ADRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=477705]]></link>
@@ -423,9 +435,9 @@ OTC RSS mirror fetched: Tue May 20 06:31:24 UTC 2025
 </item>
 <item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -435,9 +447,9 @@ OTC RSS mirror fetched: Tue May 20 06:31:24 UTC 2025
 </item>
 <item>
 <title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for  La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></link>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></link>
 <pubDate>Mon, 19 May 2025 07:43:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477652]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=477651]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 20 06:31:24 UTC 2025
 <pink:symbol>LTSRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[80 MILE PLC (BLLYF: Pink Current) | KoBold Interest in Disko Reverts to 80 Mile]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=477662]]></link>
-<pubDate>Mon, 19 May 2025 05:10:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=477662]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[80 MILE PLC]]></category>
-<pink:symbol>BLLYF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
