@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 14:45:39 UTC 2025
+OTC RSS mirror fetched: Tue May 20 15:23:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 20 14:45:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 10:26:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 11:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Eureka Homestead Bancorp Inc. (ERKH: Pink Current) | EUREKA HOMESTEAD BANCORP, INC.  ANNOUNCES THE TERMINATION OF ITS PROPOSED MERGER AND ITS RECEIPT OF A TERMINATION FEE FROM THE PROPOSED MERGER PARTNER]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ERKH/news?id=477853]]></link>
+<pubDate>Tue, 20 May 2025 11:04:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ERKH/news?id=477853]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eureka Homestead Bancorp Inc.]]></category>
+<pink:symbol>ERKH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Hugoton Royalty Trust (HGTXU: OTCQB) | HUGOTON ROYALTY TRUST DECLARES NO MAY CASH DISTRIBUTION, SECOND ADVANCE FROM XTO, NEW OPERATOR, LATE FILING OF 10-Q AND DISMISSAL OF AUDITOR]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HGTXU/news?id=477839]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 20 14:45:39 UTC 2025
 <pink:symbol>OCGPF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Limited) | Snakes & Lattes Inc. Negotiates Cash Purchase Of The Second Of Five Remaining Convertible Notes]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477645]]></link>
-<pubDate>Mon, 19 May 2025 08:30:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=477645]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Amfil Technologies Inc.]]></category>
-<pink:symbol>FUNN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1608,6 +1608,18 @@ OTC RSS mirror fetched: Tue May 20 14:45:39 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Peoples, Ltd. (PPLL: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284427]]></link>
+<description><![CDATA[Tue, May 20, 2025 10:25 - <a href="http://www.otcmarkets.com/stock/PPLL/company-info">Peoples, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPLL">PPLL</a>: Pink Current) - Scheduled Ex-Dividend - Peoples, Ltd. has announced a dividend ex-date for (PPLL: Pink Current). Peoples, Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Mon, Jun 02, 2025 to shareholders of PPLL. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 10:25:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284427]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Peoples, Ltd.]]></category>
+<pink:symbol>PPLL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Synnex Technology International Corp. (SYXZF: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284419]]></link>
 <description><![CDATA[Mon, May 19, 2025 04:23 - <a href="http://www.otcmarkets.com/stock/SYXZF/company-info">Synnex Technology International Corp.</a> (<a href="http://www.otcmarkets.com/stock/SYXZF">SYXZF</a>: Pink Limited) - Scheduled Ex-Dividend - Synnex Technology International Corp. has announced a dividend ex-date for (SYXZF: Pink Limited). Synnex Technology International Corp. is scheduled to disburse a Cash Dividend dividend of $0.39946 on Tue, Jun 24, 2025 to shareholders of SYXZF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1714,18 +1726,6 @@ OTC RSS mirror fetched: Tue May 20 14:45:39 UTC 2025
 <pink:symbol>LOTBY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CLP Holdings Ltd. (CLPHY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284379]]></link>
-<description><![CDATA[Mon, May 19, 2025 01:32 - <a href="http://www.otcmarkets.com/stock/CLPHY/company-info">CLP Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CLPHY">CLPHY</a>: Pink Current) - Scheduled Ex-Dividend - CLP Holdings Ltd. has announced a dividend ex-date for (CLPHY: Pink Current). CLP Holdings Ltd. is scheduled to disburse a Cash Dividend dividend of $0.07257 on Tue, Jun 03, 2025 to shareholders of CLPHY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 13:32:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284379]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CLP Holdings Ltd.]]></category>
-<pink:symbol>CLPHY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[WaterPure International, Inc. (WPUR: Pink Limited) | Tier Change]]></title>
