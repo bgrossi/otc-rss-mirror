@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 16:50:10 UTC 2025
+OTC RSS mirror fetched: Tue May 20 17:18:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 20 16:50:10 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 12:46:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 13:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Benchmark Bankshares, Inc. (BMBN: Pink Current) | Earnings Release 2025-03-31]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BMBN/news?id=477864]]></link>
+<pubDate>Tue, 20 May 2025 12:47:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BMBN/news?id=477864]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Benchmark Bankshares, Inc.]]></category>
+<pink:symbol>BMBN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Benchmark Bankshares, Inc. (BMBN: Pink Current) | Dividend Announcement 2025-05-16]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BMBN/news?id=477863]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue May 20 16:50:10 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Capgemini SE]]></category>
 <pink:symbol>CGEMY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NV Bekaert SA (BEKAY: Pink Limited) | BEKAY - Books will close at the close of business today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477679]]></link>
-<pubDate>Mon, 19 May 2025 08:54:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEKAY/news?id=477679]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NV Bekaert SA]]></category>
-<pink:symbol>BEKAY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
