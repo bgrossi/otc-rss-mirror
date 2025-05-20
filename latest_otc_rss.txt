@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 21:52:03 UTC 2025
+OTC RSS mirror fetched: Tue May 20 22:19:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 20 21:52:03 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 17:36:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 18:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Community Capital Bancshares, Inc. (ALBY: OTCQX U.S.) | Community Capital Bancshares, Inc. Announces Dividend Payment]]></title>
@@ -1344,6 +1344,18 @@ OTC RSS mirror fetched: Tue May 20 21:52:03 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[AMAROQ MINERALS LTD. (AMRQF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1747713600000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AMRQF/company-info">AMAROQ MINERALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/AMRQF">AMRQF</a>: Pink Current) - Halted Security -  Effective Tue, May 20, 2025, AMRQF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1747713600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AMAROQ MINERALS LTD.]]></category>
+<pink:symbol>AMRQF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Serinus Energy Plc (SNUYF: Pink Current) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SNUYF&actionDate=1747627200000]]></link>
 <description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNUYF/company-info">Serinus Energy Plc</a> (<a href="http://www.otcmarkets.com/stock/SNUYF">SNUYF</a>: Pink Current) - Halted Security -  Effective Mon, May 19, 2025, SNUYF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1728,28 +1740,28 @@ OTC RSS mirror fetched: Tue May 20 21:52:03 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[WaterPure International, Inc. (WPUR: Pink Limited) | Tier Change]]></title>
+<title><![CDATA[WaterPure International, Inc. (WPUR: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WPUR&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WPUR/company-info">WaterPure International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WPUR">WPUR</a>: Pink Limited) - Tier Change - The symbol, WPUR, no longer is classified as Pink Limited.  As of Tue, May 20, 2025, WPUR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WPUR/company-info">WaterPure International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WPUR">WPUR</a>: Pink Current) - Tier Change - The symbol, WPUR, no longer is classified as Pink Limited.  As of Tue, May 20, 2025, WPUR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WPUR&actionDate=1747713600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[WaterPure International, Inc.]]></category>
 <pink:symbol>WPUR</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[WaterPure International, Inc. (WPUR: Pink Limited) | Tier Change]]></title>
+<title><![CDATA[WaterPure International, Inc. (WPUR: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WPUR&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WPUR/company-info">WaterPure International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WPUR">WPUR</a>: Pink Limited) - Tier Change - The symbol, WPUR, no longer is classified as Pink Current.  As of Tue, May 20, 2025, WPUR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WPUR/company-info">WaterPure International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WPUR">WPUR</a>: Pink Current) - Tier Change - The symbol, WPUR, no longer is classified as Pink Current.  As of Tue, May 20, 2025, WPUR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WPUR&actionDate=1747713600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[WaterPure International, Inc.]]></category>
 <pink:symbol>WPUR</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Virpax Pharmaceuticals, Inc. (VRPX: Pink Limited) | Tier Change]]></title>
