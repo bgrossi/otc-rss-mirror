@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 10:45:59 UTC 2025
+OTC RSS mirror fetched: Tue May 20 11:18:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 20 10:45:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 06:36:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 07:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Renalytix plc (RNLXY: OTCQB) | Renalytix plc - First use of KidneyIntelX in a clinical trial for new CKD therapy]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=477737]]></link>
+<pubDate>Tue, 20 May 2025 07:00:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=477737]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Renalytix plc]]></category>
+<pink:symbol>RNLXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Initial Bitcoin Purchase Plan and Allocation to Forza!]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477738]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue May 20 10:45:59 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Cardiff Lexington Corporation (CDIX: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CDIX/news?id=477587]]></link>
-<pubDate>Mon, 19 May 2025 07:00:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CDIX/news?id=477587]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cardiff Lexington Corporation]]></category>
-<pink:symbol>CDIX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1162,6 +1162,18 @@ OTC RSS mirror fetched: Tue May 20 10:45:59 UTC 2025
 <pink:symbol>MSBC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LOKOTECH GROUP AS (LOKRF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LOKRF&actionDate=1747738899000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - LOKOTECH GROUP AS (LOKRF: Grey Market) - Deleted Symbol - As of Tue, May 20, 2025, LOKRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 07:01:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LOKRF&actionDate=1747738899000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LOKOTECH GROUP AS]]></category>
+<pink:symbol>LOKRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[AVANTIUM N V (AVTXF: OTC Link) | Deleted Symbol]]></title>
