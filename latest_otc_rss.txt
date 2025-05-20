@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 16:27:31 UTC 2025
+OTC RSS mirror fetched: Tue May 20 16:50:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 20 16:27:31 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 12:26:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 12:46:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Benchmark Bankshares, Inc. (BMBN: Pink Current) | Dividend Announcement 2025-05-16]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BMBN/news?id=477863]]></link>
+<pubDate>Tue, 20 May 2025 12:44:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BMBN/news?id=477863]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Benchmark Bankshares, Inc.]]></category>
+<pink:symbol>BMBN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477861]]></link>
+<pubDate>Tue, 20 May 2025 12:35:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=477861]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[FNB, Inc. (FIDS: Pink Current) | Dividend Announcement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FIDS/news?id=477860]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Tue May 20 16:27:31 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NV Bekaert SA]]></category>
 <pink:symbol>BEKAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BDO Unibank Inc. (BDOUY: Pink Limited) | BDOUY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BDOUY/news?id=477678]]></link>
-<pubDate>Mon, 19 May 2025 08:54:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDOUY/news?id=477678]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BDO Unibank Inc.]]></category>
-<pink:symbol>BDOUY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Assicurazioni Generali Spa (ARZGY: Pink Limited) | ARZGY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ARZGY/news?id=477677]]></link>
-<pubDate>Mon, 19 May 2025 08:53:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARZGY/news?id=477677]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Assicurazioni Generali Spa]]></category>
-<pink:symbol>ARZGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
