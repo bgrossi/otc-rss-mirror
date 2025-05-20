@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 23:19:18 UTC 2025
+OTC RSS mirror fetched: Tue May 20 23:39:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue May 20 23:19:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 19:06:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 19:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Blue Star Helium Ltd. (BSNLF: Pink Current) | State 9 Drilling Spud]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=477897]]></link>
+<pubDate>Tue, 20 May 2025 19:16:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=477897]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blue Star Helium Ltd.]]></category>
+<pink:symbol>BSNLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ENDEXX Corp. (EDXC: Pink Limited) | HYLA Leads Endexx Corporation’s Strategic Focus Amid Market Challenges]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EDXC/news?id=477896]]></link>
+<pubDate>Tue, 20 May 2025 19:11:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EDXC/news?id=477896]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ENDEXX Corp.]]></category>
+<pink:symbol>EDXC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Cogstate Ltd. (COGZF: OTCQX International) | Notification of cessation of securities - CGS]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/COGZF/news?id=477893]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Tue May 20 23:19:18 UTC 2025
 <pink:symbol>MONRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[MedioBanca SpA (MDIBY: Pink Limited) | MDIBY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477687]]></link>
-<pubDate>Mon, 19 May 2025 08:58:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477687]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MedioBanca SpA]]></category>
-<pink:symbol>MDIBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Warpaint London PLC (WPNTF: OTCQX International) | Results for the year ended 31 December 2024]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477686]]></link>
-<pubDate>Mon, 19 May 2025 08:58:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WPNTF/news?id=477686]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Warpaint London PLC]]></category>
-<pink:symbol>WPNTF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
