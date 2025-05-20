@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
+OTC RSS mirror fetched: Tue May 20 12:45:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,92 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 07:36:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 08:26:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Clarification of Executive Remuneration]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477815]]></link>
+<pubDate>Tue, 20 May 2025 08:16:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477815]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MTM CRITICAL METALS LTD.]]></category>
+<pink:symbol>MTMCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Allotment of Employee Options and Performance Rights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477814]]></link>
+<pubDate>Tue, 20 May 2025 08:13:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=477814]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MTM CRITICAL METALS LTD.]]></category>
+<pink:symbol>MTMCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Solvay S.A. (SLVYY: Pink Limited) | SLVYY - Books will close today, May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SLVYY/news?id=477813]]></link>
+<pubDate>Tue, 20 May 2025 08:10:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SLVYY/news?id=477813]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Solvay S.A.]]></category>
+<pink:symbol>SLVYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND (MGDDY: Pink Limited) | MGDDY - Books will close at the close of business today, May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MGDDY/news?id=477812]]></link>
+<pubDate>Tue, 20 May 2025 08:09:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MGDDY/news?id=477812]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND]]></category>
+<pink:symbol>MGDDY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[MedioBanca SpA (MDIBY: Pink Limited) | MDIBY - Books will close at the close of business today, May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477810]]></link>
+<pubDate>Tue, 20 May 2025 08:08:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=477810]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MedioBanca SpA]]></category>
+<pink:symbol>MDIBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | HCMLY - Books will close today, May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477809]]></link>
+<pubDate>Tue, 20 May 2025 08:07:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477809]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOLCIM LTD]]></category>
+<pink:symbol>HCMLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Eiffage Sa (EFGSY: Pink Limited) | EFGSY - Books will close at the close of business today, May 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EFGSY/news?id=477808]]></link>
+<pubDate>Tue, 20 May 2025 08:06:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EFGSY/news?id=477808]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eiffage Sa]]></category>
+<pink:symbol>EFGSY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Renalytix plc (RNLXY: OTCQB) | Renalytix plc - First use of KidneyIntelX in a clinical trial for new CKD therapy]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=477737]]></link>
@@ -530,90 +614,6 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=477667]]></link>
-<pubDate>Mon, 19 May 2025 07:18:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=477667]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Honat Bancorp, Inc.]]></category>
-<pink:symbol>HONT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Adia Nutrition, Inc. (ADIA: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADIA/news?id=477585]]></link>
-<pubDate>Mon, 19 May 2025 07:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADIA/news?id=477585]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adia Nutrition, Inc.]]></category>
-<pink:symbol>ADIA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Qrons Inc. (QRON: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QRON/news?id=477592]]></link>
-<pubDate>Mon, 19 May 2025 07:00:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QRON/news?id=477592]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Qrons Inc.]]></category>
-<pink:symbol>QRON</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[OTC Markets Group Inc. (OTCM: OTCQX U.S.) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=477584]]></link>
-<pubDate>Mon, 19 May 2025 07:00:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=477584]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTC Markets Group Inc.]]></category>
-<pink:symbol>OTCM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Trex Acquisition Corp. (TRXA: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TRXA/news?id=477593]]></link>
-<pubDate>Mon, 19 May 2025 07:00:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRXA/news?id=477593]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trex Acquisition Corp.]]></category>
-<pink:symbol>TRXA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Union Jack Oil plc (UJOGF: OTCQB) | FINAL RESULTS FOR THE YEAR ENDED 31 DECEMBER 2024]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/UJOGF/news?id=477653]]></link>
-<pubDate>Mon, 19 May 2025 07:00:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UJOGF/news?id=477653]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Union Jack Oil plc]]></category>
-<pink:symbol>UJOGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Element79 Gold Corp. (ELMGF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 19]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ELMGF/news?id=477588]]></link>
-<pubDate>Mon, 19 May 2025 07:00:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ELMGF/news?id=477588]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Element79 Gold Corp.]]></category>
-<pink:symbol>ELMGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Futian Holdings Limited (FUTIF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FUTIF&actionDate=1747741428000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FUTIF/company-info">Futian Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/FUTIF">FUTIF</a>: OTC Link) - Venue Change - The symbol, FUTIF, no longer trades on Grey Market.  As of Tue, May 20, 2025, FUTIF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 07:43:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FUTIF&actionDate=1747741428000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Futian Holdings Limited]]></category>
+<pink:symbol>FUTIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[RAIZNEXT CORP. (RZNXF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RZNXF&actionDate=1747724070000]]></link>
 <description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RZNXF/company-info">RAIZNEXT CORP.</a> (<a href="http://www.otcmarkets.com/stock/RZNXF">RZNXF</a>: OTC Link) - Venue Change - The symbol, RZNXF, no longer trades on Grey Market.  As of Tue, May 20, 2025, RZNXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -960,28 +972,64 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[REA HOLDINGS PLC (REHLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REHLF&actionDate=1747652872000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/REHLF/company-info">REA HOLDINGS PLC</a> (<a href="http://www.otcmarkets.com/stock/REHLF">REHLF</a>: OTC Link) - Venue Change - The symbol, REHLF, no longer trades on Grey Market.  As of Mon, May 19, 2025, REHLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 07:07:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=REHLF&actionDate=1747652872000]]></guid>
+<title><![CDATA[Medallion Bank (MBNKV: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MBNKV&actionDate=1747717246000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MBNKV/company-info">Medallion Bank</a> (<a href="http://www.otcmarkets.com/stock/MBNKV">MBNKV</a>: OTC Link) - Venue Change - The symbol, MBNKV, no longer trades on Grey Market.  As of Tue, May 20, 2025, MBNKV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 01:00:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MBNKV&actionDate=1747717246000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[REA HOLDINGS PLC]]></category>
-<pink:symbol>REHLF</pink:symbol>
+<category><![CDATA[Medallion Bank]]></category>
+<pink:symbol>MBNKV</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[CONNECTED MINERALS LTD (CMLAF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMLAF&actionDate=1747652852000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMLAF/company-info">CONNECTED MINERALS LTD</a> (<a href="http://www.otcmarkets.com/stock/CMLAF">CMLAF</a>: OTC Link) - Venue Change - The symbol, CMLAF, no longer trades on Grey Market.  As of Mon, May 19, 2025, CMLAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 07:07:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CMLAF&actionDate=1747652852000]]></guid>
+<title><![CDATA[FIH Mobile Ltd (FXCNF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNF&actionDate=1747743082000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCXD/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCXD">FXCNF</a>: Pink Current) - Symbol Change - The symbol, FXCNF, is no longer a valid symbol for FIH Mobile Ltd.  As of Tue, May 20, 2025, the new trading symbol is FXCXD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 08:11:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNF&actionDate=1747743082000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CONNECTED MINERALS LTD]]></category>
-<pink:symbol>CMLAF</pink:symbol>
+<category><![CDATA[FIH Mobile Ltd]]></category>
+<pink:symbol>FXCXD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FIH Mobile Ltd (FXCNY: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNY&actionDate=1747742989000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCND/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCND">FXCNY</a>: Pink Current) - Symbol Change - The symbol, FXCNY, is no longer a valid symbol for FIH Mobile Ltd.  As of Tue, May 20, 2025, the new trading symbol is FXCND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 08:09:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNY&actionDate=1747742989000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FIH Mobile Ltd]]></category>
+<pink:symbol>FXCND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Magnum Goldcorp Inc. (MGIDF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MGIDF&actionDate=1747742937000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDF</a>: Pink Current) - Symbol Change - The symbol, MGIDF, is no longer a valid symbol for Magnum Goldcorp Inc..  As of Tue, May 20, 2025, the new trading symbol is MGIDD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 08:08:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MGIDF&actionDate=1747742937000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Magnum Goldcorp Inc.]]></category>
+<pink:symbol>MGIDD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tectonic Metals Inc. (TETOF: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TETOF&actionDate=1747742857000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TETOD/company-info">Tectonic Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/TETOD">TETOF</a>: OTCQB) - Symbol Change - The symbol, TETOF, is no longer a valid symbol for Tectonic Metals Inc..  As of Tue, May 20, 2025, the new trading symbol is TETOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 08:07:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TETOF&actionDate=1747742857000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tectonic Metals Inc.]]></category>
+<pink:symbol>TETOD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Damon Inc. (DMN: Pink Current) | Symbol Change]]></title>
@@ -1056,54 +1104,6 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NutraProducts Inc. (TRAA: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRAA&actionDate=1747630847000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTPR/company-info">NutraProducts Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTPR">TRAA</a>: Pink Limited) - Symbol Change - The symbol, TRAA, is no longer a valid symbol for NutraProducts Inc..  As of Mon, May 19, 2025, the new trading symbol is NTPR. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 01:00:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRAA&actionDate=1747630847000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NutraProducts Inc.]]></category>
-<pink:symbol>NTPR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLDEN SHIELD RES INC. (GSRFD: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GSRFD&actionDate=1747630819000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GSRFF/company-info">GOLDEN SHIELD RES INC.</a> (<a href="http://www.otcmarkets.com/stock/GSRFF">GSRFD</a>: OTCQB) - Symbol Change - The symbol, GSRFD, is no longer a valid symbol for GOLDEN SHIELD RES INC..  As of Mon, May 19, 2025, the new trading symbol is GSRFF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 01:00:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GSRFD&actionDate=1747630819000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLDEN SHIELD RES INC.]]></category>
-<pink:symbol>GSRFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[First Busey Corporation (BUSEV: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BUSEV&actionDate=1747630816000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BUSEL/company-info">First Busey Corporation</a> (<a href="http://www.otcmarkets.com/stock/BUSEL">BUSEV</a>: Pink Current) - Symbol Change - The symbol, BUSEV, is no longer a valid symbol for First Busey Corporation.  As of Mon, May 19, 2025, the new trading symbol is BUSEL. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 01:00:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BUSEV&actionDate=1747630816000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[First Busey Corporation]]></category>
-<pink:symbol>BUSEL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[InPlay Oil Corp. (IPOOD: OTCQX International) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IPOOD&actionDate=1747630807000]]></link>
-<description><![CDATA[Mon, May 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IPOOF/company-info">InPlay Oil Corp.</a> (<a href="http://www.otcmarkets.com/stock/IPOOF">IPOOD</a>: OTCQX International) - Symbol Change - The symbol, IPOOD, is no longer a valid symbol for InPlay Oil Corp..  As of Mon, May 19, 2025, the new trading symbol is IPOOF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 01:00:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IPOOD&actionDate=1747630807000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[InPlay Oil Corp.]]></category>
-<pink:symbol>IPOOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Africa Oil Corp. (AOIFF: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AOIFF&actionDate=1747713600000]]></link>
 <description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AOIFF/company-info">Africa Oil Corp.</a> (<a href="http://www.otcmarkets.com/stock/AOIFF">AOIFF</a>: Pink Current) - Company Name Change - Africa Oil Corp. has changed its name to Meren Energy Inc.. The change goes into effect as of Tue, May 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1138,6 +1138,54 @@ OTC RSS mirror fetched: Tue May 20 11:51:33 UTC 2025
 <pink:symbol>PCAEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tectonic Metals Inc. (TETOF: OTCQB) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TETOF&actionDate=1747713600000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TETOD/company-info">Tectonic Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/TETOD">TETOF</a>: OTCQB) - Splits - Effective Tue, May 20, 2025, TETOF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, TETOF is no longer valid. The new trading symbol is TETOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TETOF&actionDate=1747713600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tectonic Metals Inc.]]></category>
+<pink:symbol>TETOD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Magnum Goldcorp Inc. (MGIDF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MGIDF&actionDate=1747713600000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDF</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, MGIDF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 2 split. Due to the split, MGIDF is no longer valid. The new trading symbol is MGIDD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MGIDF&actionDate=1747713600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Magnum Goldcorp Inc.]]></category>
+<pink:symbol>MGIDD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FIH Mobile Ltd (FXCNY: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNY&actionDate=1747713600000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCND/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCND">FXCNY</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, FXCNY: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, FXCNY is no longer valid. The new trading symbol is FXCND. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNY&actionDate=1747713600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FIH Mobile Ltd]]></category>
+<pink:symbol>FXCND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[FIH Mobile Ltd (FXCNF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNF&actionDate=1747713600000]]></link>
+<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCXD/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCXD">FXCNF</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, FXCNF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, FXCNF is no longer valid. The new trading symbol is FXCXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNF&actionDate=1747713600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FIH Mobile Ltd]]></category>
+<pink:symbol>FXCXD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Aryzta AG (ARZTY: Pink Limited) | Splits]]></title>
