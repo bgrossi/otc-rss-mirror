@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 22:20:08 UTC 2025
+OTC RSS mirror fetched: Wed May 21 22:42:43 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 21 22:20:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 18:06:36 EDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 18:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Successfully Concludes Community Benefit Agreement with Green River Council]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=478064]]></link>
+<pubDate>Wed, 21 May 2025 18:26:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=478064]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anson Resources]]></category>
+<pink:symbol>ANSNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[United Internet AG (UDIRY: Pink Current) | UDIRY - Books will close at the close of business today, May 21, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/UDIRY/news?id=478049]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Wed May 21 22:20:08 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477915]]></link>
 <pubDate>Wed, 21 May 2025 02:16:45 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477915]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Change of Director's Interest Notice]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477914]]></link>
-<pubDate>Wed, 21 May 2025 02:16:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477914]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Zelira Therapeutics Ltd.]]></category>
 <pink:symbol>ZLDAF</pink:symbol>
