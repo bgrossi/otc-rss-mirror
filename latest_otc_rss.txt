@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 07:24:09 UTC 2025
+OTC RSS mirror fetched: Wed May 21 07:40:13 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Wed May 21 07:24:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 03:07:32 EDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 03:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Investor Presentation via Investor Meet Company]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=477930]]></link>
+<pubDate>Wed, 21 May 2025 03:31:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=477930]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lexington Gold Ltd.]]></category>
+<pink:symbol>LEXLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BSF Enterprise Plc (BSFAF: OTCQB) | Lab-grown Leather Progress]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BSFAF/news?id=477929]]></link>
+<pubDate>Wed, 21 May 2025 03:24:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSFAF/news?id=477929]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BSF Enterprise Plc]]></category>
+<pink:symbol>BSFAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Sparc AI Inc. (SPAIF: OTCQB) | SPARC AI Targets Global Drone Market with Chip-Based Navigation Solution]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=477928]]></link>
+<pubDate>Wed, 21 May 2025 03:21:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=477928]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sparc AI Inc.]]></category>
+<pink:symbol>SPAIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Silex Systems Ltd. (SILXY: OTCQX International) | Application for quotation of securities - SLX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=477927]]></link>
+<pubDate>Wed, 21 May 2025 03:15:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SILXY/news?id=477927]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Silex Systems Ltd.]]></category>
+<pink:symbol>SILXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Ministerial Consent Issue of Equity and Total Voting Rights]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=477925]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Wed May 21 07:24:09 UTC 2025
 <pink:symbol>MDIBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | HCMLY - Books will close today, May 20, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477809]]></link>
-<pubDate>Tue, 20 May 2025 08:07:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=477809]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HOLCIM LTD]]></category>
-<pink:symbol>HCMLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Eiffage Sa (EFGSY: Pink Limited) | EFGSY - Books will close at the close of business today, May 20, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EFGSY/news?id=477808]]></link>
-<pubDate>Tue, 20 May 2025 08:06:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EFGSY/news?id=477808]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eiffage Sa]]></category>
-<pink:symbol>EFGSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Renalytix plc (RNLXY: OTCQB) | Renalytix plc - First use of KidneyIntelX in a clinical trial for new CKD therapy]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=477737]]></link>
-<pubDate>Tue, 20 May 2025 07:00:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=477737]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renalytix plc]]></category>
-<pink:symbol>RNLXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Initial Bitcoin Purchase Plan and Allocation to Forza!]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477738]]></link>
-<pubDate>Tue, 20 May 2025 05:12:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=477738]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coinsilium Group Ltd.]]></category>
-<pink:symbol>CINGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
