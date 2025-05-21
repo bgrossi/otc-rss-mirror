@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
+OTC RSS mirror fetched: Wed May 21 16:27:59 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 11:46:35 EDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 12:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | Correction: SNAKES & LATTES INC. REPORTS Q3 FY2025 QUARTERLY RESULTS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=478031]]></link>
+<pubDate>Wed, 21 May 2025 12:20:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=478031]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Amfil Technologies Inc.]]></category>
+<pink:symbol>FUNN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Proposed Capital Raise]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478030]]></link>
+<pubDate>Wed, 21 May 2025 12:14:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478030]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ilika PLC.]]></category>
+<pink:symbol>ILIKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Amfil Technologies Inc. (FUNN: Pink Current) | SNAKES & LATTES INC. REPORTS Q3 FY2025 QUARTERLY RESULTS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=478029]]></link>
+<pubDate>Wed, 21 May 2025 11:55:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNN/news?id=478029]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Amfil Technologies Inc.]]></category>
+<pink:symbol>FUNN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Increases Stake in Moralltach Global Plc Through Strategic Share Acquisition]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=477975]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Now Corporation (The) (NWPN: Pink Current) | The Now Corporation (OTC:NWPN) Transfers Stake in Incued Fintech App to TransGlobal Assets Inc. (OTC:TMSH)]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=477909]]></link>
-<pubDate>Wed, 21 May 2025 00:00:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPN/news?id=477909]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Now Corporation (The)]]></category>
-<pink:symbol>NWPN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | Correction: Appointment of Independent Board Members]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477907]]></link>
-<pubDate>Tue, 20 May 2025 22:07:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477907]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAID</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | Correction: Appointment of Independent Board Members]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477906]]></link>
-<pubDate>Tue, 20 May 2025 22:02:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477906]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAID</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747843075000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Grey Market) - Venue Change - The symbol, BKTXF, no longer trades on OTC Link.  As of Wed, May 21, 2025, BKTXF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747843075000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Black Rock Mining Ltd.]]></category>
+<pink:symbol>BKTXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NANOVEU LTD. (NNUVF: Grey Market) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NNUVF&actionDate=1747832555000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNUVF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNUVF">NNUVF</a>: Grey Market) - Venue Change - The symbol, NNUVF, no longer trades on OTC Link.  As of Wed, May 21, 2025, NNUVF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,16 +984,16 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Zapp Electric Vehicles Group Limited (ZAPPF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZAPPF&actionDate=1747717253000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAPPF/company-info">Zapp Electric Vehicles Group Limited</a> (<a href="http://www.otcmarkets.com/stock/ZAPPF">ZAPPF</a>: OTC Link) - Venue Change - The symbol, ZAPPF, no longer trades on Nasdaq.  As of Tue, May 20, 2025, ZAPPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZAPPF&actionDate=1747717253000]]></guid>
+<title><![CDATA[Black Rock Mining Ltd. (BKTRF: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BKTRF&actionDate=1747843075000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTRF</a>: Grey Market) - Symbol Change - The symbol, BKTRF, is no longer a valid symbol for Black Rock Mining Ltd..  As of Wed, May 21, 2025, the new trading symbol is BKTXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BKTRF&actionDate=1747843075000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zapp Electric Vehicles Group Limited]]></category>
-<pink:symbol>ZAPPF</pink:symbol>
+<category><![CDATA[Black Rock Mining Ltd.]]></category>
+<pink:symbol>BKTXF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Symbol Change]]></title>
@@ -1092,18 +1104,6 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tectonic Metals Inc. (TETOF: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TETOF&actionDate=1747742857000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TETOD/company-info">Tectonic Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/TETOD">TETOF</a>: OTCQB) - Symbol Change - The symbol, TETOF, is no longer a valid symbol for Tectonic Metals Inc..  As of Tue, May 20, 2025, the new trading symbol is TETOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 08:07:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TETOF&actionDate=1747742857000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tectonic Metals Inc.]]></category>
-<pink:symbol>TETOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. (KHCLF: Grey Market) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KHCLF&actionDate=1747800000000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KHCLF/company-info">MIRAE ASSET NO 2 SPL PURP ACQUISITION CO.</a> (<a href="http://www.otcmarkets.com/stock/KHCLF">KHCLF</a>: Grey Market) - Company Name Change - MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. has changed its name to KOLMARBNH CO LTD. The change goes into effect as of Wed, May 21, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1200,6 +1200,30 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Future Generation Invt Fd Ltd. (FGXXF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FGXXF&actionDate=1747843363000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FGXXF/company-info">Future Generation Invt Fd Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FGXXF">FGXXF</a>: Grey Market) - Reactivated Symbol -  The symbol, FGXXF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 12:02:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FGXXF&actionDate=1747843363000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Future Generation Invt Fd Ltd.]]></category>
+<pink:symbol>FGXXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKTXF&actionDate=1747843075000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Grey Market) - Reactivated Symbol -  The symbol, BKTXF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKTXF&actionDate=1747843075000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Black Rock Mining Ltd.]]></category>
+<pink:symbol>BKTXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NNVUF&actionDate=1747832506000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNVUF</a>: Grey Market) - Reactivated Symbol -  The symbol, NNVUF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1292,30 +1316,6 @@ OTC RSS mirror fetched: Wed May 21 15:55:12 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Media Tek Inc.]]></category>
 <pink:symbol>MDTTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SPIELVEREINIGUNG UNTERHACHING FU BALL GMBH & CO. (SUFBF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUFBF&actionDate=1747717239000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - SPIELVEREINIGUNG UNTERHACHING FU BALL GMBH & CO. (SUFBF: Grey Market) - Deleted Symbol - As of Tue, May 20, 2025, SUFBF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUFBF&actionDate=1747717239000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SPIELVEREINIGUNG UNTERHACHING FU BALL GMBH & CO.]]></category>
-<pink:symbol>SUFBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[FIH Mobile Ltd (FXCNY: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FXCNY&actionDate=1747717231000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - FIH Mobile Ltd (FXCNY: OTC Link) - Deleted Symbol - As of Tue, May 20, 2025, FXCNY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FXCNY&actionDate=1747717231000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIH Mobile Ltd]]></category>
-<pink:symbol>FXCNY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
