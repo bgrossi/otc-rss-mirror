@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 09:54:18 UTC 2025
+OTC RSS mirror fetched: Wed May 21 10:23:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 21 09:54:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 05:36:36 EDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 06:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Power Supply MOU & Malawi Hydropower Project Approved]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=477905]]></link>
+<pubDate>Wed, 21 May 2025 06:00:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=477905]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sovereign Metals Ltd.]]></category>
+<pink:symbol>SVMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Plc – Annual Results for the Year Ended 31 March 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=477936]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May 21 09:54:18 UTC 2025
 <pink:symbol>HGTXU</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Board Responds to Gad's Latest Misleading Statements – Shareholders Deserve the Truth  Gad Continues Pattern of Lying to Shareholders and Misrepresenting the Facts]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477838]]></link>
-<pubDate>Tue, 20 May 2025 09:12:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=477838]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
