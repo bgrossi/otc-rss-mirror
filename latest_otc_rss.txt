@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
+OTC RSS mirror fetched: Wed May 21 19:51:24 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 15:26:36 EDT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 15:46:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Standard Dental Labs Inc. (TUTH: Pink Limited) | Announces Completion of Restated Audited Financial Statements]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TUTH/news?id=478047]]></link>
+<pubDate>Wed, 21 May 2025 15:36:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TUTH/news?id=478047]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Standard Dental Labs Inc.]]></category>
+<pink:symbol>TUTH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Large-Scale Exercise and Completion of the 16th Series of Stock Acquisition Rights Issued by Third-Party Allotment, and the Monthly Exercise Status of the 15th to 17th Series of Stock Acquisition Rights]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=478039]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Pantheon Resources Plc (PTHRF: OTCQX International) | Further Results from the Flow Testing of the Megrez-1]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PTHRF/news?id=477889]]></link>
-<pubDate>Wed, 21 May 2025 02:00:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTHRF/news?id=477889]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pantheon Resources Plc]]></category>
-<pink:symbol>PTHRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -984,6 +984,18 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[YIT OYJ (YITYF: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YITYF&actionDate=1747856393000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YITJF/company-info">YIT OYJ</a> (<a href="http://www.otcmarkets.com/stock/YITJF">YITYF</a>: Grey Market) - Symbol Change - The symbol, YITYF, is no longer a valid symbol for YIT OYJ.  As of Wed, May 21, 2025, the new trading symbol is YITJF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 15:39:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YITYF&actionDate=1747856393000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YIT OYJ]]></category>
+<pink:symbol>YITJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Black Rock Mining Ltd. (BKTRF: Grey Market) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BKTRF&actionDate=1747843075000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTRF</a>: Grey Market) - Symbol Change - The symbol, BKTRF, is no longer a valid symbol for Black Rock Mining Ltd..  As of Wed, May 21, 2025, the new trading symbol is BKTXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1092,18 +1104,6 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Magnum Goldcorp Inc. (MGIDF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MGIDF&actionDate=1747742937000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDF</a>: Pink Current) - Symbol Change - The symbol, MGIDF, is no longer a valid symbol for Magnum Goldcorp Inc..  As of Tue, May 20, 2025, the new trading symbol is MGIDD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 08:08:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MGIDF&actionDate=1747742937000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Magnum Goldcorp Inc.]]></category>
-<pink:symbol>MGIDD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. (KHCLF: Grey Market) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KHCLF&actionDate=1747800000000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KHCLF/company-info">MIRAE ASSET NO 2 SPL PURP ACQUISITION CO.</a> (<a href="http://www.otcmarkets.com/stock/KHCLF">KHCLF</a>: Grey Market) - Company Name Change - MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. has changed its name to KOLMARBNH CO LTD. The change goes into effect as of Wed, May 21, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1198,6 +1198,18 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 <pink:symbol>AVTXD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[YIT OYJ (YITJF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=YITJF&actionDate=1747856393000]]></link>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YITJF/company-info">YIT OYJ</a> (<a href="http://www.otcmarkets.com/stock/YITJF">YITJF</a>: Grey Market) - Reactivated Symbol -  The symbol, YITJF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 21 May 2025 15:39:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=YITJF&actionDate=1747856393000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YIT OYJ]]></category>
+<pink:symbol>YITJF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Future Generation Invt Fd Ltd. (FGXXF: Grey Market) | Reactivated Symbol]]></title>
@@ -1304,18 +1316,6 @@ OTC RSS mirror fetched: Wed May 21 19:37:47 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[AVANTIUM N V]]></category>
 <pink:symbol>AVTXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Media Tek Inc. (MDTTF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MDTTF&actionDate=1747717243000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - Media Tek Inc. (MDTTF: OTC Link) - Deleted Symbol - As of Tue, May 20, 2025, MDTTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MDTTF&actionDate=1747717243000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Media Tek Inc.]]></category>
-<pink:symbol>MDTTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
