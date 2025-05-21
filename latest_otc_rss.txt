@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 20 23:51:34 UTC 2025
+OTC RSS mirror fetched: Wed May 21 01:47:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Tue May 20 23:51:34 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 19:36:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 21:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Update on Category III CPT Code Application]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=477904]]></link>
+<pubDate>Tue, 20 May 2025 20:23:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=477904]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECHOIQ LTD.]]></category>
+<pink:symbol>ECHQF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Response to ASX Price Query]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=477903]]></link>
+<pubDate>Tue, 20 May 2025 20:22:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=477903]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECHOIQ LTD.]]></category>
+<pink:symbol>ECHQF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[American Rare Earths Ltd. (AMRRY: OTCQX International) | ARR  Channel Sampling Results - Bluegrass and County Line]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=477902]]></link>
+<pubDate>Tue, 20 May 2025 20:05:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=477902]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[American Rare Earths Ltd.]]></category>
+<pink:symbol>AMRRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Prospectus]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477901]]></link>
+<pubDate>Tue, 20 May 2025 20:03:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477901]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Rae Copper Project Delivers Further Outstanding Copper Results with 90m @ 4% Cu from surface]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477900]]></link>
+<pubDate>Tue, 20 May 2025 20:01:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=477900]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Blue Star Helium Ltd. (BSNLF: Pink Current) | State 9 Drilling Spud]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=477897]]></link>
@@ -549,66 +609,6 @@ OTC RSS mirror fetched: Tue May 20 23:51:34 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[THALES]]></category>
 <pink:symbol>THLLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Saipem S.p.A. (SAPMY: Pink Limited) | SAPMY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SAPMY/news?id=477691]]></link>
-<pubDate>Mon, 19 May 2025 09:00:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SAPMY/news?id=477691]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Saipem S.p.A.]]></category>
-<pink:symbol>SAPMY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Bitcoin Purchase]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477661]]></link>
-<pubDate>Mon, 19 May 2025 09:00:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=477661]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vinanz Limited]]></category>
-<pink:symbol>VINZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NN Group NV (NNGRY: Pink Limited) | NNGRY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NNGRY/news?id=477690]]></link>
-<pubDate>Mon, 19 May 2025 09:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NNGRY/news?id=477690]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NN Group NV]]></category>
-<pink:symbol>NNGRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nexans Paris ACT (NEXNY: Pink Limited) | NEXNY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NEXNY/news?id=477689]]></link>
-<pubDate>Mon, 19 May 2025 08:59:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NEXNY/news?id=477689]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nexans Paris ACT]]></category>
-<pink:symbol>NEXNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Moncler S.P.A. (MONRY: Pink Limited) | MONRY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MONRY/news?id=477688]]></link>
-<pubDate>Mon, 19 May 2025 08:58:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MONRY/news?id=477688]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Moncler S.P.A.]]></category>
-<pink:symbol>MONRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1500,6 +1500,114 @@ OTC RSS mirror fetched: Tue May 20 23:51:34 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Singapore Technologies Engineering Ltd. (SGGKY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169406]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SGGKY/company-info">Singapore Technologies Engineering Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SGGKY">SGGKY</a>: Pink Current) - Ex-Dividend -  As of Wed, May 21, 2025, Singapore Technologies Engineering Ltd. traded ex-dividend. Singapore Technologies Engineering Ltd. will disburse a Cash Dividend dividend of $0.23827 to shareholders of SGGKY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169406]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Singapore Technologies Engineering Ltd.]]></category>
+<pink:symbol>SGGKY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Fraser & Neave Ltd. (FNEVY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169405]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/FNEVY/company-info">Fraser & Neave Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FNEVY">FNEVY</a>: Pink Current) - Ex-Dividend -  As of Wed, May 21, 2025, Fraser & Neave Ltd. traded ex-dividend. Fraser & Neave Ltd. will disburse a Cash Dividend dividend of $0.0447 to shareholders of FNEVY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169405]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fraser & Neave Ltd.]]></category>
+<pink:symbol>FNEVY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Arcadis NV (ARCAY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169404]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ARCAY/company-info">Arcadis NV</a> (<a href="http://www.otcmarkets.com/stock/ARCAY">ARCAY</a>: Pink Limited) - Ex-Dividend -  As of Wed, May 21, 2025, Arcadis NV traded ex-dividend. Arcadis NV will disburse a Cash Dividend dividend of $0.9231 to shareholders of ARCAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169404]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Arcadis NV]]></category>
+<pink:symbol>ARCAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Stella International Holdings Ltd. (SLNLY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169407]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SLNLY/company-info">Stella International Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SLNLY">SLNLY</a>: Pink Current) - Ex-Dividend -  As of Wed, May 21, 2025, Stella International Holdings Ltd. traded ex-dividend. Stella International Holdings Ltd. will disburse a Cash Dividend dividend of $1.29764 to shareholders of SLNLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169407]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Stella International Holdings Ltd.]]></category>
+<pink:symbol>SLNLY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT Jasa Marga (Persero) TBK (PTJSY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169403]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PTJSY/company-info">PT Jasa Marga (Persero) TBK</a> (<a href="http://www.otcmarkets.com/stock/PTJSY">PTJSY</a>: Pink Limited) - Ex-Dividend -  As of Wed, May 21, 2025, PT Jasa Marga (Persero) TBK traded ex-dividend. PT Jasa Marga (Persero) TBK will disburse a Cash Dividend dividend of $0.11362 to shareholders of PTJSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169403]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Jasa Marga (Persero) TBK]]></category>
+<pink:symbol>PTJSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Coface S.A. (CFACY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169399]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CFACY/company-info">Coface S.A.</a> (<a href="http://www.otcmarkets.com/stock/CFACY">CFACY</a>: Pink Limited) - Ex-Dividend -  As of Wed, May 21, 2025, Coface S.A. traded ex-dividend. Coface S.A. will disburse a Cash Dividend dividend of $1.10164 to shareholders of CFACY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169399]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coface S.A.]]></category>
+<pink:symbol>CFACY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[M&F Bancorp, Inc. (MFBP: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169402]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MFBP/company-info">M&F Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MFBP">MFBP</a>: Pink Current) - Ex-Dividend -  As of Wed, May 21, 2025, M&F Bancorp, Inc. traded ex-dividend. M&F Bancorp, Inc. will disburse a Cash Dividend dividend of $0.06 to shareholders of MFBP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169402]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[M&F Bancorp, Inc.]]></category>
+<pink:symbol>MFBP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Duni AB (DUNIY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169401]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/DUNIY/company-info">Duni AB</a> (<a href="http://www.otcmarkets.com/stock/DUNIY">DUNIY</a>: Pink Limited) - Ex-Dividend -  As of Wed, May 21, 2025, Duni AB traded ex-dividend. Duni AB will disburse a Cash Dividend dividend of $0.28072 to shareholders of DUNIY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169401]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Duni AB]]></category>
+<pink:symbol>DUNIY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BUDWEISER BREWING CO APAC LTD. (BDWBY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169400]]></link>
+<description><![CDATA[Tue, May 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BDWBY/company-info">BUDWEISER BREWING CO APAC LTD.</a> (<a href="http://www.otcmarkets.com/stock/BDWBY">BDWBY</a>: Pink Current) - Ex-Dividend -  As of Wed, May 21, 2025, BUDWEISER BREWING CO APAC LTD. traded ex-dividend. BUDWEISER BREWING CO APAC LTD. will disburse a Cash Dividend dividend of $0.18112 to shareholders of BDWBY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169400]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUDWEISER BREWING CO APAC LTD.]]></category>
+<pink:symbol>BDWBY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Chesapeake Granite Wash Trust (CHKR: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169356]]></link>
 <description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CHKR/company-info">Chesapeake Granite Wash Trust</a> (<a href="http://www.otcmarkets.com/stock/CHKR">CHKR</a>: Pink Current) - Ex-Dividend -  As of Tue, May 20, 2025, Chesapeake Granite Wash Trust traded ex-dividend. Chesapeake Granite Wash Trust will disburse a Cash Dividend dividend of $0.0294 to shareholders of CHKR. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1512,230 +1620,122 @@ OTC RSS mirror fetched: Tue May 20 23:51:34 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Nexans Paris ACT (NEXNY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169355]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/NEXNY/company-info">Nexans Paris ACT</a> (<a href="http://www.otcmarkets.com/stock/NEXNY">NEXNY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, Nexans Paris ACT traded ex-dividend. Nexans Paris ACT will disburse a Cash Dividend dividend of $1.03595 to shareholders of NEXNY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169355]]></guid>
+<title><![CDATA[SVB&T Corporation (SVBT: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284492]]></link>
+<description><![CDATA[Tue, May 20, 2025 05:43 - <a href="http://www.otcmarkets.com/stock/SVBT/company-info">SVB&T Corporation</a> (<a href="http://www.otcmarkets.com/stock/SVBT">SVBT</a>: OTCQX U.S.) - Scheduled Ex-Dividend - SVB&T Corporation has announced a dividend ex-date for (SVBT: OTCQX U.S.). SVB&T Corporation is scheduled to disburse a Cash Dividend dividend of $0.23 on Mon, Jun 16, 2025 to shareholders of SVBT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 17:43:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284492]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nexans Paris ACT]]></category>
-<pink:symbol>NEXNY</pink:symbol>
+<category><![CDATA[SVB&T Corporation]]></category>
+<pink:symbol>SVBT</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Saipem S.p.A. (SAPMY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169354]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SAPMY/company-info">Saipem S.p.A.</a> (<a href="http://www.otcmarkets.com/stock/SAPMY">SAPMY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, Saipem S.p.A. traded ex-dividend. Saipem S.p.A. will disburse a Cash Dividend dividend of $0.02001 to shareholders of SAPMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169354]]></guid>
+<title><![CDATA[CMUV Bancorp (CMUV: OTCQB) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284466]]></link>
+<description><![CDATA[Tue, May 20, 2025 05:41 - <a href="http://www.otcmarkets.com/stock/CMUV/company-info">CMUV Bancorp</a> (<a href="http://www.otcmarkets.com/stock/CMUV">CMUV</a>: OTCQB) - Scheduled Ex-Dividend - CMUV Bancorp has announced a dividend ex-date for (CMUV: OTCQB). CMUV Bancorp is scheduled to disburse a Cash Dividend dividend of $0.12 on Mon, Jun 09, 2025 to shareholders of CMUV. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 17:41:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284466]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Saipem S.p.A.]]></category>
-<pink:symbol>SAPMY</pink:symbol>
+<category><![CDATA[CMUV Bancorp]]></category>
+<pink:symbol>CMUV</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[LOTTOMATICA GROUP SPA (LOTMY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169353]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/LOTMY/company-info">LOTTOMATICA GROUP SPA</a> (<a href="http://www.otcmarkets.com/stock/LOTMY">LOTMY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, LOTTOMATICA GROUP SPA traded ex-dividend. LOTTOMATICA GROUP SPA will disburse a Cash Dividend dividend of $0.1992 to shareholders of LOTMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169353]]></guid>
+<title><![CDATA[F.S. Bancorp (FXLG: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284476]]></link>
+<description><![CDATA[Tue, May 20, 2025 05:30 - <a href="http://www.otcmarkets.com/stock/FXLG/company-info">F.S. Bancorp</a> (<a href="http://www.otcmarkets.com/stock/FXLG">FXLG</a>: Pink Current) - Scheduled Ex-Dividend - F.S. Bancorp has announced a dividend ex-date for (FXLG: Pink Current). F.S. Bancorp is scheduled to disburse a Cash Dividend dividend of $0.23 on Tue, Jun 10, 2025 to shareholders of FXLG. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 17:30:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284476]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LOTTOMATICA GROUP SPA]]></category>
-<pink:symbol>LOTMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND (MGDDY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169352]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MGDDY/company-info">CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND</a> (<a href="http://www.otcmarkets.com/stock/MGDDY">MGDDY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND traded ex-dividend. CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND will disburse a Cash Dividend dividend of $0.49677 to shareholders of MGDDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169352]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CIE GENERALE DES ETABLISSEMENTS MICHELIN SA CLERMONT-FERRAND]]></category>
-<pink:symbol>MGDDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Eiffage Sa (EFGSY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169351]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/EFGSY/company-info">Eiffage Sa</a> (<a href="http://www.otcmarkets.com/stock/EFGSY">EFGSY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, Eiffage Sa traded ex-dividend. Eiffage Sa will disburse a Cash Dividend dividend of $0.70212 to shareholders of EFGSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169351]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eiffage Sa]]></category>
-<pink:symbol>EFGSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Unipol Gruppo S.p.A (UFGSY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169350]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/UFGSY/company-info">Unipol Gruppo S.p.A</a> (<a href="http://www.otcmarkets.com/stock/UFGSY">UFGSY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, Unipol Gruppo S.p.A traded ex-dividend. Unipol Gruppo S.p.A will disburse a Cash Dividend dividend of $0.28561 to shareholders of UFGSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169350]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Unipol Gruppo S.p.A]]></category>
-<pink:symbol>UFGSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Intesa Sanpaolo S.p.A. (ISNPY: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169349]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ISNPY/company-info">Intesa Sanpaolo S.p.A.</a> (<a href="http://www.otcmarkets.com/stock/ISNPY">ISNPY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 20, 2025, Intesa Sanpaolo S.p.A. traded ex-dividend. Intesa Sanpaolo S.p.A. will disburse a Cash Dividend dividend of $0.84128 to shareholders of ISNPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169349]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Intesa Sanpaolo S.p.A.]]></category>
-<pink:symbol>ISNPY</pink:symbol>
+<category><![CDATA[F.S. Bancorp]]></category>
+<pink:symbol>FXLG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Hkt Trust and Hkt Ltd (HKTTY: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169348]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/HKTTY/company-info">Hkt Trust and Hkt Ltd</a> (<a href="http://www.otcmarkets.com/stock/HKTTY">HKTTY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 20, 2025, Hkt Trust and Hkt Ltd traded ex-dividend. Hkt Trust and Hkt Ltd will disburse a Cash Dividend dividend of $0.52152 to shareholders of HKTTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169348]]></guid>
+<title><![CDATA[Vornado Realty Trust (VNORP: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284502]]></link>
+<description><![CDATA[Tue, May 20, 2025 05:28 - <a href="http://www.otcmarkets.com/stock/VNORP/company-info">Vornado Realty Trust</a> (<a href="http://www.otcmarkets.com/stock/VNORP">VNORP</a>: Pink Current) - Scheduled Ex-Dividend - Vornado Realty Trust has announced a dividend ex-date for (VNORP: Pink Current). Vornado Realty Trust is scheduled to disburse a Cash Dividend dividend of $0.8125 on Mon, Jun 16, 2025 to shareholders of VNORP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 17:28:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284502]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hkt Trust and Hkt Ltd]]></category>
-<pink:symbol>HKTTY</pink:symbol>
+<category><![CDATA[Vornado Realty Trust]]></category>
+<pink:symbol>VNORP</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Buzzi SpA (BZZUY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169347]]></link>
-<description><![CDATA[Mon, May 19, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BZZUY/company-info">Buzzi SpA</a> (<a href="http://www.otcmarkets.com/stock/BZZUY">BZZUY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 20, 2025, Buzzi SpA traded ex-dividend. Buzzi SpA will disburse a Cash Dividend dividend of $0.21366 to shareholders of BZZUY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169347]]></guid>
+<title><![CDATA[Orient Overseas International Ltd. (OROVY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284487]]></link>
+<description><![CDATA[Tue, May 20, 2025 05:20 - <a href="http://www.otcmarkets.com/stock/OROVY/company-info">Orient Overseas International Ltd.</a> (<a href="http://www.otcmarkets.com/stock/OROVY">OROVY</a>: Pink Current) - Scheduled Ex-Dividend - Orient Overseas International Ltd. has announced a dividend ex-date for (OROVY: Pink Current). Orient Overseas International Ltd. is scheduled to disburse a Cash Dividend dividend of $6.57209 on Mon, Jun 02, 2025 to shareholders of OROVY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 17:20:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284487]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Buzzi SpA]]></category>
-<pink:symbol>BZZUY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Peoples, Ltd. (PPLL: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284427]]></link>
-<description><![CDATA[Tue, May 20, 2025 10:25 - <a href="http://www.otcmarkets.com/stock/PPLL/company-info">Peoples, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPLL">PPLL</a>: Pink Current) - Scheduled Ex-Dividend - Peoples, Ltd. has announced a dividend ex-date for (PPLL: Pink Current). Peoples, Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Mon, Jun 02, 2025 to shareholders of PPLL. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 10:25:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284427]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Peoples, Ltd.]]></category>
-<pink:symbol>PPLL</pink:symbol>
+<category><![CDATA[Orient Overseas International Ltd.]]></category>
+<pink:symbol>OROVY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Synnex Technology International Corp. (SYXZF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284419]]></link>
-<description><![CDATA[Mon, May 19, 2025 04:23 - <a href="http://www.otcmarkets.com/stock/SYXZF/company-info">Synnex Technology International Corp.</a> (<a href="http://www.otcmarkets.com/stock/SYXZF">SYXZF</a>: Pink Limited) - Scheduled Ex-Dividend - Synnex Technology International Corp. has announced a dividend ex-date for (SYXZF: Pink Limited). Synnex Technology International Corp. is scheduled to disburse a Cash Dividend dividend of $0.39946 on Tue, Jun 24, 2025 to shareholders of SYXZF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 16:23:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284419]]></guid>
+<title><![CDATA[SSC Security Services Corp. (SECUF: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284496]]></link>
+<description><![CDATA[Tue, May 20, 2025 04:38 - <a href="http://www.otcmarkets.com/stock/SECUF/company-info">SSC Security Services Corp.</a> (<a href="http://www.otcmarkets.com/stock/SECUF">SECUF</a>: OTCQX International) - Scheduled Ex-Dividend - SSC Security Services Corp. has announced a dividend ex-date for (SECUF: OTCQX International). SSC Security Services Corp. is scheduled to disburse a Cash Dividend dividend of $0.03 on Mon, Jun 30, 2025 to shareholders of SECUF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 16:38:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284496]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Synnex Technology International Corp.]]></category>
-<pink:symbol>SYXZF</pink:symbol>
+<category><![CDATA[SSC Security Services Corp.]]></category>
+<pink:symbol>SECUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Synnex Technology International Corp. (SYXTY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284418]]></link>
-<description><![CDATA[Mon, May 19, 2025 04:19 - <a href="http://www.otcmarkets.com/stock/SYXTY/company-info">Synnex Technology International Corp.</a> (<a href="http://www.otcmarkets.com/stock/SYXTY">SYXTY</a>: Pink Limited) - Scheduled Ex-Dividend - Synnex Technology International Corp. has announced a dividend ex-date for (SYXTY: Pink Limited). Synnex Technology International Corp. is scheduled to disburse a Cash Dividend dividend of $0.39946 on Tue, Jun 24, 2025 to shareholders of SYXTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 16:19:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284418]]></guid>
+<title><![CDATA[SOURCE ROCK ROYALTIES LTD (SRRRF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284495]]></link>
+<description><![CDATA[Tue, May 20, 2025 04:33 - <a href="http://www.otcmarkets.com/stock/SRRRF/company-info">SOURCE ROCK ROYALTIES LTD</a> (<a href="http://www.otcmarkets.com/stock/SRRRF">SRRRF</a>: Pink Current) - Scheduled Ex-Dividend - SOURCE ROCK ROYALTIES LTD has announced a dividend ex-date for (SRRRF: Pink Current). SOURCE ROCK ROYALTIES LTD is scheduled to disburse a Cash Dividend dividend of $0.0065 on Fri, May 30, 2025 to shareholders of SRRRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 16:33:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284495]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Synnex Technology International Corp.]]></category>
-<pink:symbol>SYXTY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Citic Resources Holdings Ltd. (CTJHY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284378]]></link>
-<description><![CDATA[Mon, May 19, 2025 02:22 - <a href="http://www.otcmarkets.com/stock/CTJHY/company-info">Citic Resources Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CTJHY">CTJHY</a>: Pink Current) - Scheduled Ex-Dividend - Citic Resources Holdings Ltd. has announced a dividend ex-date for (CTJHY: Pink Current). Citic Resources Holdings Ltd. is scheduled to disburse a Cash Dividend dividend of $0.59482 on Wed, Jun 18, 2025 to shareholders of CTJHY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 14:22:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284378]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Citic Resources Holdings Ltd.]]></category>
-<pink:symbol>CTJHY</pink:symbol>
+<category><![CDATA[SOURCE ROCK ROYALTIES LTD]]></category>
+<pink:symbol>SRRRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Sinopharm Group Co. Ltd. (SHTDY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284415]]></link>
-<description><![CDATA[Mon, May 19, 2025 02:20 - <a href="http://www.otcmarkets.com/stock/SHTDY/company-info">Sinopharm Group Co. Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SHTDY">SHTDY</a>: Pink Current) - Scheduled Ex-Dividend - Sinopharm Group Co. Ltd. has announced a dividend ex-date for (SHTDY: Pink Current). Sinopharm Group Co. Ltd. is scheduled to disburse a Cash Dividend dividend of $0.35415 on Tue, Jun 17, 2025 to shareholders of SHTDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 14:20:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284415]]></guid>
+<title><![CDATA[Meren Energy Inc. (AOIFF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284485]]></link>
+<description><![CDATA[Tue, May 20, 2025 04:28 - <a href="http://www.otcmarkets.com/stock/AOIFF/company-info">Meren Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/AOIFF">AOIFF</a>: Pink Current) - Scheduled Ex-Dividend - Meren Energy Inc. has announced a dividend ex-date for (AOIFF: Pink Current). Meren Energy Inc. is scheduled to disburse a Cash Dividend dividend of $0.0371 on Wed, May 28, 2025 to shareholders of AOIFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 16:28:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284485]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sinopharm Group Co. Ltd.]]></category>
-<pink:symbol>SHTDY</pink:symbol>
+<category><![CDATA[Meren Energy Inc.]]></category>
+<pink:symbol>AOIFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Peoples Trust Co. (PPAL: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284404]]></link>
-<description><![CDATA[Mon, May 19, 2025 02:10 - <a href="http://www.otcmarkets.com/stock/PPAL/company-info">Peoples Trust Co.</a> (<a href="http://www.otcmarkets.com/stock/PPAL">PPAL</a>: OTC Link) - Scheduled Ex-Dividend - Peoples Trust Co. has announced a dividend ex-date for (PPAL: OTC Link). Peoples Trust Co. is scheduled to disburse a Cash Dividend dividend of $0.3 on Fri, Jun 13, 2025 to shareholders of PPAL. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 14:10:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284404]]></guid>
+<title><![CDATA[China Resources Building Materials Technology Holdings Limited (CARCY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284470]]></link>
+<description><![CDATA[Tue, May 20, 2025 03:28 - <a href="http://www.otcmarkets.com/stock/CARCY/company-info">China Resources Building Materials Technology Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CARCY">CARCY</a>: Pink Current) - Scheduled Ex-Dividend - China Resources Building Materials Technology Holdings Limited has announced a dividend ex-date for (CARCY: Pink Current). China Resources Building Materials Technology Holdings Limited is scheduled to disburse a Cash Dividend dividend of $0.03066 on Fri, Jun 06, 2025 to shareholders of CARCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 15:28:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284470]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Peoples Trust Co.]]></category>
-<pink:symbol>PPAL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UNIVERSAL MUSIC GROUP (UNVGY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284421]]></link>
-<description><![CDATA[Mon, May 19, 2025 01:56 - <a href="http://www.otcmarkets.com/stock/UNVGY/company-info">UNIVERSAL MUSIC GROUP</a> (<a href="http://www.otcmarkets.com/stock/UNVGY">UNVGY</a>: Pink Limited) - Scheduled Ex-Dividend - UNIVERSAL MUSIC GROUP has announced a dividend ex-date for (UNVGY: Pink Limited). UNIVERSAL MUSIC GROUP is scheduled to disburse a Cash Dividend dividend of $0.10178 on Tue, May 27, 2025 to shareholders of UNVGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 13:56:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284421]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UNIVERSAL MUSIC GROUP]]></category>
-<pink:symbol>UNVGY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UNIVERSAL MUSIC GROUP (UNVGY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284422]]></link>
-<description><![CDATA[Mon, May 19, 2025 01:55 - <a href="http://www.otcmarkets.com/stock/UNVGY/company-info">UNIVERSAL MUSIC GROUP</a> (<a href="http://www.otcmarkets.com/stock/UNVGY">UNVGY</a>: Pink Limited) - Scheduled Ex-Dividend - UNIVERSAL MUSIC GROUP has announced a dividend ex-date for (UNVGY: Pink Limited). UNIVERSAL MUSIC GROUP is scheduled to disburse a Cash Dividend dividend of $0.10178 on Fri, May 23, 2025 to shareholders of UNVGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 13:55:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284422]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UNIVERSAL MUSIC GROUP]]></category>
-<pink:symbol>UNVGY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Meitu Inc. (MEIUY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284399]]></link>
-<description><![CDATA[Mon, May 19, 2025 01:48 - <a href="http://www.otcmarkets.com/stock/MEIUY/company-info">Meitu Inc.</a> (<a href="http://www.otcmarkets.com/stock/MEIUY">MEIUY</a>: Pink Current) - Scheduled Ex-Dividend - Meitu Inc. has announced a dividend ex-date for (MEIUY: Pink Current). Meitu Inc. is scheduled to disburse a Cash Dividend dividend of $0.05646 on Tue, Jun 10, 2025 to shareholders of MEIUY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 13:48:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284399]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Meitu Inc.]]></category>
-<pink:symbol>MEIUY</pink:symbol>
+<category><![CDATA[China Resources Building Materials Technology Holdings Limited]]></category>
+<pink:symbol>CARCY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Lotus Bakeries NV (LOTBY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284398]]></link>
-<description><![CDATA[Mon, May 19, 2025 01:41 - <a href="http://www.otcmarkets.com/stock/LOTBY/company-info">Lotus Bakeries NV</a> (<a href="http://www.otcmarkets.com/stock/LOTBY">LOTBY</a>: Pink Limited) - Scheduled Ex-Dividend - Lotus Bakeries NV has announced a dividend ex-date for (LOTBY: Pink Limited). Lotus Bakeries NV is scheduled to disburse a Cash Dividend dividend of $0.54818 on Fri, May 23, 2025 to shareholders of LOTBY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 19 May 2025 13:41:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284398]]></guid>
+<title><![CDATA[Bank Hapoalim B.M. (BKHYY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284464]]></link>
+<description><![CDATA[Tue, May 20, 2025 02:19 - <a href="http://www.otcmarkets.com/stock/BKHYY/company-info">Bank Hapoalim B.M.</a> (<a href="http://www.otcmarkets.com/stock/BKHYY">BKHYY</a>: Pink Limited) - Scheduled Ex-Dividend - Bank Hapoalim B.M. has announced a dividend ex-date for (BKHYY: Pink Limited). Bank Hapoalim B.M. is scheduled to disburse a Cash Dividend dividend of $0.53856 on Fri, May 30, 2025 to shareholders of BKHYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 20 May 2025 14:19:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284464]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lotus Bakeries NV]]></category>
-<pink:symbol>LOTBY</pink:symbol>
+<category><![CDATA[Bank Hapoalim B.M.]]></category>
+<pink:symbol>BKHYY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
