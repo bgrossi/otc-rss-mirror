@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 21 01:47:08 UTC 2025
+OTC RSS mirror fetched: Wed May 21 03:12:37 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 21 01:47:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 20 May 2025 21:36:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 20 May 2025 23:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | Correction: Appointment of Independent Board Members]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477907]]></link>
+<pubDate>Tue, 20 May 2025 22:07:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477907]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
+<pink:symbol>YQAID</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | Correction: Appointment of Independent Board Members]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477906]]></link>
+<pubDate>Tue, 20 May 2025 22:02:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YQAID/news?id=477906]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
+<pink:symbol>YQAID</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Update on Category III CPT Code Application]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=477904]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Wed May 21 01:47:08 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Wolters Kluwer N.V.]]></category>
 <pink:symbol>WTKWY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Volkswagen AG (VWAGY: Pink Current) | VWAGY and VWAPY - Books will close today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VWAGY/news?id=477695]]></link>
-<pubDate>Mon, 19 May 2025 09:13:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VWAGY/news?id=477695]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Volkswagen AG]]></category>
-<pink:symbol>VWAGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[THALES (THLLY: Pink Limited) | THLLY - Books will close at the close of business today, May 19, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/THLLY/news?id=477694]]></link>
-<pubDate>Mon, 19 May 2025 09:12:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/THLLY/news?id=477694]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[THALES]]></category>
-<pink:symbol>THLLY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
