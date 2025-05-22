@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 15:54:23 UTC 2025
+OTC RSS mirror fetched: Thu May 22 16:27:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 22 15:54:23 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 11:46:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 12:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Shield Therapeutics PLC (SHIEF: OTCQB) | Result of 2025 AGM]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SHIEF/news?id=478198]]></link>
+<pubDate>Thu, 22 May 2025 12:08:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SHIEF/news?id=478198]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Shield Therapeutics PLC]]></category>
+<pink:symbol>SHIEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Bell Rose Capital Inc. (BELR: Pink Current) | Pay Pilot coming soon]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=478166]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 22 15:54:23 UTC 2025
 <pink:symbol>POWMF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | TR-1: Standard form for notification of major holdings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477949]]></link>
-<pubDate>Wed, 21 May 2025 06:58:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=477949]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guardian Metal Resources PLC]]></category>
-<pink:symbol>GMTLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
