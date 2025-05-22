@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 17:18:46 UTC 2025
+OTC RSS mirror fetched: Thu May 22 17:41:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May 22 17:18:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 13:06:35 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 13:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | Bulletin from the Annual General Meeting in AAC Clyde Space AB (publ)]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478204]]></link>
+<pubDate>Thu, 22 May 2025 13:09:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478204]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AAC CLYDE SPACE AB]]></category>
+<pink:symbol>ACCMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478203]]></link>
+<pubDate>Thu, 22 May 2025 13:07:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478203]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Shield Therapeutics PLC (SHIEF: OTCQB) | Result of 2025 AGM]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SHIEF/news?id=478198]]></link>
@@ -582,30 +606,6 @@ OTC RSS mirror fetched: Thu May 22 17:18:46 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477962]]></link>
 <pubDate>Wed, 21 May 2025 07:06:47 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477962]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Power Metal Resources Plc]]></category>
-<pink:symbol>POWMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Power Metal Resources Plc (POWMF: OTCQB) | Director Dealings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477961]]></link>
-<pubDate>Wed, 21 May 2025 07:05:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477961]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Power Metal Resources Plc]]></category>
-<pink:symbol>POWMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Power Metal Resources Plc (POWMF: OTCQB) | Block 8 Oman: Initial Ground Gravimetric Survey Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477960]]></link>
-<pubDate>Wed, 21 May 2025 07:03:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=477960]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Power Metal Resources Plc]]></category>
 <pink:symbol>POWMF</pink:symbol>
