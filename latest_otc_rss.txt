@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 20:54:03 UTC 2025
+OTC RSS mirror fetched: Thu May 22 21:19:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 22 20:54:03 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 16:36:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 17:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[First Niles Financial, Inc. (FNFI: Pink Current) | First Niles Financial, Inc. Declares Cash Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FNFI/news?id=478226]]></link>
+<pubDate>Thu, 22 May 2025 16:51:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNFI/news?id=478226]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Niles Financial, Inc.]]></category>
+<pink:symbol>FNFI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ladybug Resource Group, Inc. (LBRG: Pink Current) | Ladybug Resource Group Completes Acquisition of  Real Estate Development Company “Thee Mine Inc.”]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LBRG/news?id=478224]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 22 20:54:03 UTC 2025
 <pink:symbol>IESFY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[EVS Broadcasting Equipment SA (EVSBY: Pink Limited) | EVSBY - Books will close today, May 21, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EVSBY/news?id=478000]]></link>
-<pubDate>Wed, 21 May 2025 08:48:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EVSBY/news?id=478000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EVS Broadcasting Equipment SA]]></category>
-<pink:symbol>EVSBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
