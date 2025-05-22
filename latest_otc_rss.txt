@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 10:45:52 UTC 2025
+OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Thu May 22 10:45:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 06:36:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 07:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Andrada Mining Limited (ATMTF: OTCQB) | Change of registered address]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ATMTF/news?id=478093]]></link>
+<pubDate>Thu, 22 May 2025 06:57:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATMTF/news?id=478093]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Andrada Mining Limited]]></category>
+<pink:symbol>ATMTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Trendlines Group Ltd. (TRNLY: OTCQX International) | AGM Question and Answer Summary]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478092]]></link>
+<pubDate>Thu, 22 May 2025 06:53:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478092]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Trendlines Group Ltd.]]></category>
+<pink:symbol>TRNLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Trendlines Group Ltd. (TRNLY: OTCQX International) | SGM Minutes]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478091]]></link>
+<pubDate>Thu, 22 May 2025 06:52:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478091]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Trendlines Group Ltd.]]></category>
+<pink:symbol>TRNLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Trendlines Group Ltd. (TRNLY: OTCQX International) | AGM Minutes]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478090]]></link>
+<pubDate>Thu, 22 May 2025 06:51:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRNLY/news?id=478090]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Trendlines Group Ltd.]]></category>
+<pink:symbol>TRNLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Sparc AI Inc. (SPAIF: OTCQB) | SPARC AI Shortlisted for Prestigious Innovation Award]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=478084]]></link>
@@ -558,54 +606,6 @@ OTC RSS mirror fetched: Thu May 22 10:45:52 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477923]]></link>
 <pubDate>Wed, 21 May 2025 02:20:03 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477923]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Application for quotation of securities - ZLD]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477922]]></link>
-<pubDate>Wed, 21 May 2025 02:19:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477922]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Cleansing Prospectus]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477921]]></link>
-<pubDate>Wed, 21 May 2025 02:19:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477921]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Proposed issue of securities - ZLD]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477920]]></link>
-<pubDate>Wed, 21 May 2025 02:18:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477920]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Zelira secures $1 Million At-the-Market Funding Facility]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477919]]></link>
-<pubDate>Wed, 21 May 2025 02:18:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477919]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Zelira Therapeutics Ltd.]]></category>
 <pink:symbol>ZLDAF</pink:symbol>
