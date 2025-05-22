@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 03:50:20 UTC 2025
+OTC RSS mirror fetched: Thu May 22 04:27:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 22 03:50:20 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 21 May 2025 23:36:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 00:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Atlantic Lithium Ltd. (ALLIF: OTCQX International) | Spodumene Pegmatite Discovery at Agboville and Rubino]]></title>
@@ -1128,78 +1128,6 @@ OTC RSS mirror fetched: Thu May 22 03:50:20 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Africa Oil Corp. (AOIFF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AOIFF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AOIFF/company-info">Africa Oil Corp.</a> (<a href="http://www.otcmarkets.com/stock/AOIFF">AOIFF</a>: Pink Current) - Company Name Change - Africa Oil Corp. has changed its name to Meren Energy Inc.. The change goes into effect as of Tue, May 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AOIFF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Africa Oil Corp.]]></category>
-<pink:symbol>AOIFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tectonic Metals Inc. (TETOF: OTCQB) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TETOF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TETOD/company-info">Tectonic Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/TETOD">TETOF</a>: OTCQB) - Splits - Effective Tue, May 20, 2025, TETOF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, TETOF is no longer valid. The new trading symbol is TETOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TETOF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tectonic Metals Inc.]]></category>
-<pink:symbol>TETOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Magnum Goldcorp Inc. (MGIDF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MGIDF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDF</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, MGIDF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 2 split. Due to the split, MGIDF is no longer valid. The new trading symbol is MGIDD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MGIDF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Magnum Goldcorp Inc.]]></category>
-<pink:symbol>MGIDD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[FIH Mobile Ltd (FXCNY: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNY&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCND/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCND">FXCNY</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, FXCNY: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, FXCNY is no longer valid. The new trading symbol is FXCND. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNY&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIH Mobile Ltd]]></category>
-<pink:symbol>FXCND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[FIH Mobile Ltd (FXCNF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCXD/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCXD">FXCNF</a>: Pink Current) - Splits - Effective Tue, May 20, 2025, FXCNF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, FXCNF is no longer valid. The new trading symbol is FXCXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=FXCNF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIH Mobile Ltd]]></category>
-<pink:symbol>FXCXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AVANTIUM N V (AVTXF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AVTXF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AVTXD/company-info">AVANTIUM N V</a> (<a href="http://www.otcmarkets.com/stock/AVTXD">AVTXF</a>: Pink Limited) - Splits - Effective Tue, May 20, 2025, AVTXF: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, AVTXF is no longer valid. The new trading symbol is AVTXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AVTXF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AVANTIUM N V]]></category>
-<pink:symbol>AVTXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TDLKF&actionDate=1747857702000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Grey Market) - Reactivated Symbol -  The symbol, TDLKF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1332,30 +1260,6 @@ OTC RSS mirror fetched: Thu May 22 03:50:20 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Slam Exploration Ltd. (SLMXF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SLMXF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SLMXF/company-info">Slam Exploration Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SLMXF">SLMXF</a>: Pink Current) - Halted Security -  Effective Tue, May 20, 2025, SLMXF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SLMXF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Slam Exploration Ltd.]]></category>
-<pink:symbol>SLMXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AMAROQ MINERALS LTD. (AMRQF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AMRQF/company-info">AMAROQ MINERALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/AMRQF">AMRQF</a>: Pink Current) - Halted Security -  Effective Tue, May 20, 2025, AMRQF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AMAROQ MINERALS LTD.]]></category>
-<pink:symbol>AMRQF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[MRCB UILL REIT (QULLF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QULLF&actionDate=1747800000000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QULLF/company-info">MRCB UILL REIT</a> (<a href="http://www.otcmarkets.com/stock/QULLF">QULLF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 21, 2025, QULLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1400,78 +1304,6 @@ OTC RSS mirror fetched: Thu May 22 03:50:20 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[AVANTIUM N V]]></category>
 <pink:symbol>AVTXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zapp Electric Vehicles Group Limited (ZAPWF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZAPWF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAPWF/company-info">Zapp Electric Vehicles Group Limited</a> (<a href="http://www.otcmarkets.com/stock/ZAPWF">ZAPWF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 20, 2025, ZAPWF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZAPWF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zapp Electric Vehicles Group Limited]]></category>
-<pink:symbol>ZAPWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zapp Electric Vehicles Group Limited (ZAPPF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZAPPF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAPPF/company-info">Zapp Electric Vehicles Group Limited</a> (<a href="http://www.otcmarkets.com/stock/ZAPPF">ZAPPF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 20, 2025, ZAPPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ZAPPF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zapp Electric Vehicles Group Limited]]></category>
-<pink:symbol>ZAPPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RAIZNEXT CORP. (RZNXF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RZNXF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RZNXF/company-info">RAIZNEXT CORP.</a> (<a href="http://www.otcmarkets.com/stock/RZNXF">RZNXF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 20, 2025, RZNXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RZNXF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RAIZNEXT CORP.]]></category>
-<pink:symbol>RZNXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Royal Road Minerals Limited (RRDMF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RRDMF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RRDMF/company-info">Royal Road Minerals Limited</a> (<a href="http://www.otcmarkets.com/stock/RRDMF">RRDMF</a>: OTCQB) - Piggyback Qualified -  Effective Tue, May 20, 2025, RRDMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RRDMF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Royal Road Minerals Limited]]></category>
-<pink:symbol>RRDMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DMNIF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DMNIF/company-info">Damon Inc.</a> (<a href="http://www.otcmarkets.com/stock/DMNIF">DMNIF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 20, 2025, DMNIF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DMNIF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Damon Inc.]]></category>
-<pink:symbol>DMNIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BEAGLEE INC. (BGLEF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGLEF&actionDate=1747713600000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGLEF/company-info">BEAGLEE INC.</a> (<a href="http://www.otcmarkets.com/stock/BGLEF">BGLEF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 20, 2025, BGLEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BGLEF&actionDate=1747713600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BEAGLEE INC.]]></category>
-<pink:symbol>BGLEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
