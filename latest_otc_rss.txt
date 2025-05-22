@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 13:21:41 UTC 2025
+OTC RSS mirror fetched: Thu May 22 13:48:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu May 22 13:21:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 09:06:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 09:46:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Announces Private Placement Financing]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=477987]]></link>
+<pubDate>Thu, 22 May 2025 09:30:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=477987]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cirmaker Technology Corp.]]></category>
+<pink:symbol>CRKT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Retail Offer for up to £0.5 million]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478153]]></link>
+<pubDate>Thu, 22 May 2025 09:18:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478153]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ilika PLC.]]></category>
+<pink:symbol>ILIKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Result of Placing & Director Subscription]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478147]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Thu May 22 13:21:41 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sanwire Corp.]]></category>
 <pink:symbol>SNWR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Power Supply MOU & Malawi Hydropower Project Approved]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=477905]]></link>
-<pubDate>Wed, 21 May 2025 06:00:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=477905]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sovereign Metals Ltd.]]></category>
-<pink:symbol>SVMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Plc – Annual Results for the Year Ended 31 March 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=477936]]></link>
-<pubDate>Wed, 21 May 2025 05:14:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=477936]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
