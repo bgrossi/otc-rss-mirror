@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
+OTC RSS mirror fetched: Thu May 22 12:44:06 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 07:36:35 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 08:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[1812 Brewing Company Inc. (KEGS: Pink Current) | 1812 Brewing Company, Inc. Announces Milestone-based Plan to Reduce Authorized Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KEGS/news?id=478108]]></link>
+<pubDate>Thu, 22 May 2025 08:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KEGS/news?id=478108]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1812 Brewing Company Inc.]]></category>
+<pink:symbol>KEGS</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Andrada Mining Limited (ATMTF: OTCQB) | Change of registered address]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ATMTF/news?id=478093]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Zelira Therapeutics Ltd. (ZLDAF: OTCQB) | Investor Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477923]]></link>
-<pubDate>Wed, 21 May 2025 02:20:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZLDAF/news?id=477923]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zelira Therapeutics Ltd.]]></category>
-<pink:symbol>ZLDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,7 +864,7 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TDLKF&actionDate=1747912077000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: OTC Link) - Venue Change - The symbol, TDLKF, no longer trades on Grey Market.  As of Thu, May 22, 2025, TDLKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 22 May 2025 07:07:57 EDT</pubDate>
@@ -873,10 +873,10 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
 <pink:symbol>TDLKF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[NANOVEU LTD. (NNVUF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NNVUF&actionDate=1747912054000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNVUF</a>: OTC Link) - Venue Change - The symbol, NNVUF, no longer trades on Grey Market.  As of Thu, May 22, 2025, NNVUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 22 May 2025 07:07:34 EDT</pubDate>
@@ -885,10 +885,10 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNVUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Venue Change]]></title>
+<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747912032000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: OTC Link) - Venue Change - The symbol, BKTXF, no longer trades on Grey Market.  As of Thu, May 22, 2025, BKTXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 22 May 2025 07:07:12 EDT</pubDate>
@@ -897,7 +897,7 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <category><![CDATA[Black Rock Mining Ltd.]]></category>
 <pink:symbol>BKTXF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[IPD GROUP LTD. (IPDGF: Pink Current) | Venue Change]]></title>
@@ -1020,16 +1020,16 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NANOVEU LTD. (NNUVF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[NANOVEU LTD. (NNUVF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747912054000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNUVF</a>: Grey Market) - Symbol Change - The symbol, NNUVF, is no longer a valid symbol for NANOVEU LTD..  As of Thu, May 22, 2025, the new trading symbol is NNVUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNUVF</a>: Pink Current) - Symbol Change - The symbol, NNUVF, is no longer a valid symbol for NANOVEU LTD..  As of Thu, May 22, 2025, the new trading symbol is NNVUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 22 May 2025 07:07:34 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747912054000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNVUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[YIT OYJ (YITYF: Pink Limited) | Symbol Change]]></title>
@@ -1044,28 +1044,28 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Black Rock Mining Ltd. (BKTRF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[Black Rock Mining Ltd. (BKTRF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BKTRF&actionDate=1747843075000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTRF</a>: Grey Market) - Symbol Change - The symbol, BKTRF, is no longer a valid symbol for Black Rock Mining Ltd..  As of Wed, May 21, 2025, the new trading symbol is BKTXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTRF</a>: Pink Current) - Symbol Change - The symbol, BKTRF, is no longer a valid symbol for Black Rock Mining Ltd..  As of Wed, May 21, 2025, the new trading symbol is BKTXF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BKTRF&actionDate=1747843075000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Black Rock Mining Ltd.]]></category>
 <pink:symbol>BKTXF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[NANOVEU LTD. (NNVUF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNVUF&actionDate=1747832555000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNUVF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNUVF">NNVUF</a>: Grey Market) - Symbol Change - The symbol, NNVUF, is no longer a valid symbol for NANOVEU LTD..  As of Wed, May 21, 2025, the new trading symbol is NNUVF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNUVF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNUVF">NNVUF</a>: Pink Current) - Symbol Change - The symbol, NNVUF, is no longer a valid symbol for NANOVEU LTD..  As of Wed, May 21, 2025, the new trading symbol is NNUVF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 21 May 2025 09:02:35 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNVUF&actionDate=1747832555000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNUVF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[HAWK RES LTD (ALDRF: Pink Current) | Symbol Change]]></title>
@@ -1248,16 +1248,16 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TDLKF&actionDate=1747857702000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Grey Market) - Reactivated Symbol -  The symbol, TDLKF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Pink Current) - Reactivated Symbol -  The symbol, TDLKF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 21 May 2025 16:01:42 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TDLKF&actionDate=1747857702000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
 <pink:symbol>TDLKF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[YIT OYJ (YITJF: Pink Limited) | Reactivated Symbol]]></title>
@@ -1284,28 +1284,28 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKTXF&actionDate=1747843075000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Grey Market) - Reactivated Symbol -  The symbol, BKTXF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Pink Current) - Reactivated Symbol -  The symbol, BKTXF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKTXF&actionDate=1747843075000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Black Rock Mining Ltd.]]></category>
 <pink:symbol>BKTXF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[NANOVEU LTD. (NNVUF: Pink Current) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NNVUF&actionDate=1747832506000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNVUF</a>: Grey Market) - Reactivated Symbol -  The symbol, NNVUF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNVUF</a>: Pink Current) - Reactivated Symbol -  The symbol, NNVUF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 21 May 2025 09:01:46 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NNVUF&actionDate=1747832506000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNVUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[AMAROQ MINERALS LTD. (AMRQF: Pink Current) | Halted Security]]></title>
@@ -1764,16 +1764,16 @@ OTC RSS mirror fetched: Thu May 22 11:51:17 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Tier Change]]></title>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDLKF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Grey Market) - Tier Change - The symbol, TDLKF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, TDLKF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Pink Current) - Tier Change - The symbol, TDLKF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, TDLKF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDLKF&actionDate=1747886400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
 <pink:symbol>TDLKF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Regen Biopharma, Inc. (RGBPP: Pink Limited) | Tier Change]]></title>
