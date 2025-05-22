@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
+OTC RSS mirror fetched: Thu May 22 11:38:43 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 07:06:36 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 07:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Andrada Mining Limited (ATMTF: OTCQB) | Change of registered address]]></title>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TDLKF&actionDate=1747912077000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: OTC Link) - Venue Change - The symbol, TDLKF, no longer trades on Grey Market.  As of Thu, May 22, 2025, TDLKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 07:07:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TDLKF&actionDate=1747912077000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
+<pink:symbol>TDLKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NANOVEU LTD. (NNVUF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NNVUF&actionDate=1747912054000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNVUF</a>: OTC Link) - Venue Change - The symbol, NNVUF, no longer trades on Grey Market.  As of Thu, May 22, 2025, NNVUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 07:07:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NNVUF&actionDate=1747912054000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NANOVEU LTD.]]></category>
+<pink:symbol>NNVUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747912032000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: OTC Link) - Venue Change - The symbol, BKTXF, no longer trades on Grey Market.  As of Thu, May 22, 2025, BKTXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 07:07:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747912032000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Black Rock Mining Ltd.]]></category>
+<pink:symbol>BKTXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[IPD GROUP LTD. (IPDGF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IPDGF&actionDate=1747896866000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IPDGF/company-info">IPD GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/IPDGF">IPDGF</a>: OTC Link) - Venue Change - The symbol, IPDGF, no longer trades on Grey Market.  As of Thu, May 22, 2025, IPDGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -948,40 +984,28 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Westgate Energy Inc. (WGTFF: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGTFF&actionDate=1747890041000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGTFF/company-info">Westgate Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGTFF">WGTFF</a>: OTC Link) - Venue Change - The symbol, WGTFF, no longer trades on Grey Market.  As of Thu, May 22, 2025, WGTFF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGTFF&actionDate=1747890041000]]></guid>
+<title><![CDATA[Allied Gold Corp. (AAUCF: OTCQX International) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AAUCF&actionDate=1747912313000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AAUCD/company-info">Allied Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/AAUCD">AAUCF</a>: OTCQX International) - Symbol Change - The symbol, AAUCF, is no longer a valid symbol for Allied Gold Corp..  As of Thu, May 22, 2025, the new trading symbol is AAUCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 07:11:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AAUCF&actionDate=1747912313000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Westgate Energy Inc.]]></category>
-<pink:symbol>WGTFF</pink:symbol>
+<category><![CDATA[Allied Gold Corp.]]></category>
+<pink:symbol>AAUCD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Metaguest AI Incorporated (MGSTF: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MGSTF&actionDate=1747890033000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGSTF/company-info">Metaguest AI Incorporated</a> (<a href="http://www.otcmarkets.com/stock/MGSTF">MGSTF</a>: OTC Link) - Venue Change - The symbol, MGSTF, no longer trades on Grey Market.  As of Thu, May 22, 2025, MGSTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 01:00:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MGSTF&actionDate=1747890033000]]></guid>
+<title><![CDATA[Aquiva Group Inc. (BHPA: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BHPA&actionDate=1747912275000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BHPAD/company-info">Aquiva Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/BHPAD">BHPA</a>: Pink Current) - Symbol Change - The symbol, BHPA, is no longer a valid symbol for Aquiva Group Inc..  As of Thu, May 22, 2025, the new trading symbol is BHPAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 07:11:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BHPA&actionDate=1747912275000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Metaguest AI Incorporated]]></category>
-<pink:symbol>MGSTF</pink:symbol>
+<category><![CDATA[Aquiva Group Inc.]]></category>
+<pink:symbol>BHPAD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747843075000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Grey Market) - Venue Change - The symbol, BKTXF, no longer trades on OTC Link.  As of Wed, May 21, 2025, BKTXF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 11:57:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747843075000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Black Rock Mining Ltd.]]></category>
-<pink:symbol>BKTXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Atos Origin SA (AEXAD: Pink Limited) | Symbol Change]]></title>
@@ -997,10 +1021,10 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 </item>
 <item>
 <title><![CDATA[NANOVEU LTD. (NNUVF: Grey Market) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747890007000]]></link>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747912054000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNUVF</a>: Grey Market) - Symbol Change - The symbol, NNUVF, is no longer a valid symbol for NANOVEU LTD..  As of Thu, May 22, 2025, the new trading symbol is NNVUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 01:00:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747890007000]]></guid>
+<pubDate>Thu, 22 May 2025 07:07:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747912054000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNVUF</pink:symbol>
@@ -1080,30 +1104,6 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Medallion Bank (MBNKV: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MBNKV&actionDate=1747803610000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MBNKG/company-info">Medallion Bank</a> (<a href="http://www.otcmarkets.com/stock/MBNKG">MBNKV</a>: Pink Current) - Symbol Change - The symbol, MBNKV, is no longer a valid symbol for Medallion Bank.  As of Wed, May 21, 2025, the new trading symbol is MBNKG. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 01:00:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MBNKV&actionDate=1747803610000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Medallion Bank]]></category>
-<pink:symbol>MBNKG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AVANTIUM N V (AVTXF: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AVTXF&actionDate=1747743116000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AVTXD/company-info">AVANTIUM N V</a> (<a href="http://www.otcmarkets.com/stock/AVTXD">AVTXF</a>: Pink Limited) - Symbol Change - The symbol, AVTXF, is no longer a valid symbol for AVANTIUM N V.  As of Tue, May 20, 2025, the new trading symbol is AVTXD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 08:11:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AVTXF&actionDate=1747743116000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AVANTIUM N V]]></category>
-<pink:symbol>AVTXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[BHPA Inc. (BHPAD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BHPAD&actionDate=1747886400000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BHPAD/company-info">BHPA Inc.</a> (<a href="http://www.otcmarkets.com/stock/BHPAD">BHPAD</a>: Pink Current) - Company Name Change - BHPA Inc. has changed its name to Aquiva Group Inc.. The change goes into effect as of Thu, May 22, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1150,6 +1150,30 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:symbol>MRAEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aquiva Group Inc. (BHPA: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BHPA&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BHPAD/company-info">Aquiva Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/BHPAD">BHPA</a>: Pink Current) - Splits - Effective Thu, May 22, 2025, BHPA: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 70 split. Due to the split, BHPA is no longer valid. The new trading symbol is BHPAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BHPA&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aquiva Group Inc.]]></category>
+<pink:symbol>BHPAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Allied Gold Corp. (AAUCF: OTCQX International) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AAUCF&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AAUCD/company-info">Allied Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/AAUCD">AAUCF</a>: OTCQX International) - Splits - Effective Thu, May 22, 2025, AAUCF: OTCQX International engaged in a rev split. As a result of the split, shs decreased by 1 for 3 split. Due to the split, AAUCF is no longer valid. The new trading symbol is AAUCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AAUCF&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Allied Gold Corp.]]></category>
+<pink:symbol>AAUCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Ford Otomotiv Sanayi AS (FOVSY: Pink Limited) | Splits]]></title>
@@ -1740,6 +1764,18 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDLKF&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Grey Market) - Tier Change - The symbol, TDLKF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, TDLKF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDLKF&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
+<pink:symbol>TDLKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Regen Biopharma, Inc. (RGBPP: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RGBPP&actionDate=1747886400000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RGBPP/company-info">Regen Biopharma, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RGBPP">RGBPP</a>: Pink Limited) - Tier Change - The symbol, RGBPP, no longer is classified as Pink Current.  As of Thu, May 22, 2025, RGBPP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1762,18 +1798,6 @@ OTC RSS mirror fetched: Thu May 22 11:18:32 UTC 2025
 <pink:symbol>RAFA</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QUETZAL COPPER CORP. (QTZCF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTZCF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QTZCF/company-info">QUETZAL COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/QTZCF">QTZCF</a>: Pink Limited) - Tier Change - The symbol, QTZCF, no longer is classified as Pink Current.  As of Thu, May 22, 2025, QTZCF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTZCF&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QUETZAL COPPER CORP.]]></category>
-<pink:symbol>QTZCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
