@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
+OTC RSS mirror fetched: Thu May 22 05:21:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 22 May 2025 00:36:35 EDT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 01:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Atlantic Lithium Ltd. (ALLIF: OTCQX International) | Spodumene Pegmatite Discovery at Agboville and Rubino]]></title>
@@ -864,6 +864,54 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Petros Pharmaceuticals, Inc. (PTPI: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTPI&actionDate=1747890044000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTPI/company-info">Petros Pharmaceuticals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTPI">PTPI</a>: OTC Link) - Venue Change - The symbol, PTPI, no longer trades on Nasdaq.  As of Thu, May 22, 2025, PTPI trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTPI&actionDate=1747890044000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Petros Pharmaceuticals, Inc.]]></category>
+<pink:symbol>PTPI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[iCoreConnect Inc. (ICCT: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ICCT&actionDate=1747890044000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICCT/company-info">iCoreConnect Inc.</a> (<a href="http://www.otcmarkets.com/stock/ICCT">ICCT</a>: OTC Link) - Venue Change - The symbol, ICCT, no longer trades on Nasdaq.  As of Thu, May 22, 2025, ICCT trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ICCT&actionDate=1747890044000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[iCoreConnect Inc.]]></category>
+<pink:symbol>ICCT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Westgate Energy Inc. (WGTFF: OTCQB) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGTFF&actionDate=1747890041000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGTFF/company-info">Westgate Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGTFF">WGTFF</a>: OTC Link) - Venue Change - The symbol, WGTFF, no longer trades on Grey Market.  As of Thu, May 22, 2025, WGTFF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WGTFF&actionDate=1747890041000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Westgate Energy Inc.]]></category>
+<pink:symbol>WGTFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Metaguest AI Incorporated (MGSTF: OTCQB) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MGSTF&actionDate=1747890033000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGSTF/company-info">Metaguest AI Incorporated</a> (<a href="http://www.otcmarkets.com/stock/MGSTF">MGSTF</a>: OTC Link) - Venue Change - The symbol, MGSTF, no longer trades on Grey Market.  As of Thu, May 22, 2025, MGSTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MGSTF&actionDate=1747890033000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaguest AI Incorporated]]></category>
+<pink:symbol>MGSTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Black Rock Mining Ltd. (BKTXF: Grey Market) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BKTXF&actionDate=1747843075000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BKTXF/company-info">Black Rock Mining Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BKTXF">BKTXF</a>: Grey Market) - Venue Change - The symbol, BKTXF, no longer trades on OTC Link.  As of Wed, May 21, 2025, BKTXF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -936,52 +984,28 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DMNIF&actionDate=1747717255000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DMNIF/company-info">Damon Inc.</a> (<a href="http://www.otcmarkets.com/stock/DMNIF">DMNIF</a>: OTC Link) - Venue Change - The symbol, DMNIF, no longer trades on Nasdaq.  As of Tue, May 20, 2025, DMNIF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=DMNIF&actionDate=1747717255000]]></guid>
+<title><![CDATA[Atos Origin SA (AEXAD: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXAD&actionDate=1747890046000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXAF/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXAF">AEXAD</a>: Pink Limited) - Symbol Change - The symbol, AEXAD, is no longer a valid symbol for Atos Origin SA.  As of Thu, May 22, 2025, the new trading symbol is AEXAF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXAD&actionDate=1747890046000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Damon Inc.]]></category>
-<pink:symbol>DMNIF</pink:symbol>
+<category><![CDATA[Atos Origin SA]]></category>
+<pink:symbol>AEXAF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[AppTech Payments Corp. (APCXW: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=APCXW&actionDate=1747717254000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APCXW/company-info">AppTech Payments Corp.</a> (<a href="http://www.otcmarkets.com/stock/APCXW">APCXW</a>: OTC Link) - Venue Change - The symbol, APCXW, no longer trades on Nasdaq.  As of Tue, May 20, 2025, APCXW trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=APCXW&actionDate=1747717254000]]></guid>
+<title><![CDATA[NANOVEU LTD. (NNUVF: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747890007000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NNVUF/company-info">NANOVEU LTD.</a> (<a href="http://www.otcmarkets.com/stock/NNVUF">NNUVF</a>: Grey Market) - Symbol Change - The symbol, NNUVF, is no longer a valid symbol for NANOVEU LTD..  As of Thu, May 22, 2025, the new trading symbol is NNVUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NNUVF&actionDate=1747890007000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AppTech Payments Corp.]]></category>
-<pink:symbol>APCXW</pink:symbol>
+<category><![CDATA[NANOVEU LTD.]]></category>
+<pink:symbol>NNVUF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AppTech Payments Corp. (APCX: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=APCX&actionDate=1747717253000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APCX/company-info">AppTech Payments Corp.</a> (<a href="http://www.otcmarkets.com/stock/APCX">APCX</a>: OTC Link) - Venue Change - The symbol, APCX, no longer trades on Nasdaq.  As of Tue, May 20, 2025, APCX trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=APCX&actionDate=1747717253000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AppTech Payments Corp.]]></category>
-<pink:symbol>APCX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zapp Electric Vehicles Group Limited (ZAPWF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZAPWF&actionDate=1747717253000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAPWF/company-info">Zapp Electric Vehicles Group Limited</a> (<a href="http://www.otcmarkets.com/stock/ZAPWF">ZAPWF</a>: OTC Link) - Venue Change - The symbol, ZAPWF, no longer trades on Nasdaq.  As of Tue, May 20, 2025, ZAPWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 01:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ZAPWF&actionDate=1747717253000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zapp Electric Vehicles Group Limited]]></category>
-<pink:symbol>ZAPWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[YIT OYJ (YITYF: Grey Market) | Symbol Change]]></title>
@@ -1080,30 +1104,6 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[FIH Mobile Ltd (FXCNF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNF&actionDate=1747743082000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCXD/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCXD">FXCNF</a>: Pink Current) - Symbol Change - The symbol, FXCNF, is no longer a valid symbol for FIH Mobile Ltd.  As of Tue, May 20, 2025, the new trading symbol is FXCXD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 08:11:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNF&actionDate=1747743082000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIH Mobile Ltd]]></category>
-<pink:symbol>FXCXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[FIH Mobile Ltd (FXCNY: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNY&actionDate=1747742989000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FXCND/company-info">FIH Mobile Ltd</a> (<a href="http://www.otcmarkets.com/stock/FXCND">FXCNY</a>: Pink Current) - Symbol Change - The symbol, FXCNY, is no longer a valid symbol for FIH Mobile Ltd.  As of Tue, May 20, 2025, the new trading symbol is FXCND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 08:09:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FXCNY&actionDate=1747742989000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIH Mobile Ltd]]></category>
-<pink:symbol>FXCND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. (KHCLF: Grey Market) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=KHCLF&actionDate=1747800000000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KHCLF/company-info">MIRAE ASSET NO 2 SPL PURP ACQUISITION CO.</a> (<a href="http://www.otcmarkets.com/stock/KHCLF">KHCLF</a>: Grey Market) - Company Name Change - MIRAE ASSET NO 2 SPL PURP ACQUISITION CO. has changed its name to KOLMARBNH CO LTD. The change goes into effect as of Wed, May 21, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1126,6 +1126,66 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <pink:symbol>MRAEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Serinus Energy Plc (SNUYF: Pink Limited) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNUYF&actionDate=1747890040000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - Serinus Energy Plc (SNUYF: Pink Limited) - Deleted Symbol - As of Thu, May 22, 2025, SNUYF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNUYF&actionDate=1747890040000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Serinus Energy Plc]]></category>
+<pink:symbol>SNUYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Allied Gold Corp. (AAUCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUCF&actionDate=1747890027000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - Allied Gold Corp. (AAUCF: OTC Link) - Deleted Symbol - As of Thu, May 22, 2025, AAUCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUCF&actionDate=1747890027000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Allied Gold Corp.]]></category>
+<pink:symbol>AAUCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BHPA Inc. (BHPA: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHPA&actionDate=1747890019000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - BHPA Inc. (BHPA: OTC Link) - Deleted Symbol - As of Thu, May 22, 2025, BHPA is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHPA&actionDate=1747890019000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BHPA Inc.]]></category>
+<pink:symbol>BHPA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brookfield Office Properties Inc. (BROPF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BROPF&actionDate=1747890014000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - Brookfield Office Properties Inc. (BROPF: Grey Market) - Deleted Symbol - As of Thu, May 22, 2025, BROPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BROPF&actionDate=1747890014000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookfield Office Properties Inc.]]></category>
+<pink:symbol>BROPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ascendant Resources Inc. (ASDRF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ASDRF&actionDate=1747890010000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - Ascendant Resources Inc. (ASDRF: OTC Link) - Deleted Symbol - As of Thu, May 22, 2025, ASDRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 01:00:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ASDRF&actionDate=1747890010000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ascendant Resources Inc.]]></category>
+<pink:symbol>ASDRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Grey Market) | Reactivated Symbol]]></title>
@@ -1184,66 +1244,6 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NANOVEU LTD.]]></category>
 <pink:symbol>NNVUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UBS AG (London Branch) (UBAGF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UBAGF&actionDate=1747826356000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - UBS AG (London Branch) (UBAGF: OTC Link) - Deleted Symbol - As of Wed, May 21, 2025, UBAGF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 07:19:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UBAGF&actionDate=1747826356000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UBS AG (London Branch)]]></category>
-<pink:symbol>UBAGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[STEP ONE CLOTHING LTD. (STPCF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=STPCF&actionDate=1747803632000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - STEP ONE CLOTHING LTD. (STPCF: OTC Link) - Deleted Symbol - As of Wed, May 21, 2025, STPCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 01:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=STPCF&actionDate=1747803632000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[STEP ONE CLOTHING LTD.]]></category>
-<pink:symbol>STPCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OTGKS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGKS&actionDate=1747803630000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - OTIS GALLERY LLC. (OTGKS: Grey Market) - Deleted Symbol - As of Wed, May 21, 2025, OTGKS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 01:00:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGKS&actionDate=1747803630000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OTGKS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OTKWS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTKWS&actionDate=1747803627000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - OTIS GALLERY LLC. (OTKWS: Grey Market) - Deleted Symbol - As of Wed, May 21, 2025, OTKWS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 01:00:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTKWS&actionDate=1747803627000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OTKWS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LOKOTECH GROUP AS (LOKRF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LOKRF&actionDate=1747738899000]]></link>
-<description><![CDATA[Tue, May 20, 2025 12:00 - LOKOTECH GROUP AS (LOKRF: Grey Market) - Deleted Symbol - As of Tue, May 20, 2025, LOKRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 20 May 2025 07:01:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LOKRF&actionDate=1747738899000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LOKOTECH GROUP AS]]></category>
-<pink:symbol>LOKRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
@@ -1548,6 +1548,66 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Westgate Energy Inc. (WGTFF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WGTFF&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGTFF/company-info">Westgate Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGTFF">WGTFF</a>: OTCQB) - Tier Change - The symbol, WGTFF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, WGTFF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WGTFF&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Westgate Energy Inc.]]></category>
+<pink:symbol>WGTFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Regen Biopharma, Inc. (RGBPP: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RGBPP&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RGBPP/company-info">Regen Biopharma, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RGBPP">RGBPP</a>: Pink Limited) - Tier Change - The symbol, RGBPP, no longer is classified as Pink Current.  As of Thu, May 22, 2025, RGBPP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RGBPP&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Regen Biopharma, Inc.]]></category>
+<pink:symbol>RGBPP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Naples Soap Company Inc. (NASO: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NASO&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NASO/company-info">Naples Soap Company Inc.</a> (<a href="http://www.otcmarkets.com/stock/NASO">NASO</a>: OTCQB) - Tier Change - The symbol, NASO, no longer is classified as Pink Current.  As of Thu, May 22, 2025, NASO resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NASO&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Naples Soap Company Inc.]]></category>
+<pink:symbol>NASO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Metaguest AI Incorporated (MGSTF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGSTF&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGSTF/company-info">Metaguest AI Incorporated</a> (<a href="http://www.otcmarkets.com/stock/MGSTF">MGSTF</a>: OTCQB) - Tier Change - The symbol, MGSTF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, MGSTF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGSTF&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaguest AI Incorporated]]></category>
+<pink:symbol>MGSTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Blueberries Medical Co. (BBRRF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BBRRF&actionDate=1747886400000]]></link>
+<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BBRRF/company-info">Blueberries Medical Co.</a> (<a href="http://www.otcmarkets.com/stock/BBRRF">BBRRF</a>: Pink Current) - Tier Change - The symbol, BBRRF, no longer is classified as OTCQB.  As of Thu, May 22, 2025, BBRRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BBRRF&actionDate=1747886400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blueberries Medical Co.]]></category>
+<pink:symbol>BBRRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ZA Group Inc. (ZAAG: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1747800000000]]></link>
 <description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAAG/company-info">ZA Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZAAG">ZAAG</a>: Pink Limited) - Tier Change - The symbol, ZAAG, no longer is classified as Pink Current.  As of Wed, May 21, 2025, ZAAG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1604,66 +1664,6 @@ OTC RSS mirror fetched: Thu May 22 04:47:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Vemanti Group Inc.]]></category>
 <pink:symbol>VMNT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Victory Marine Holdings Corp. (VMHG: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMHG&actionDate=1747800000000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VMHG/company-info">Victory Marine Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VMHG">VMHG</a>: Pink Limited) - Tier Change - The symbol, VMHG, no longer is classified as Pink Current.  As of Wed, May 21, 2025, VMHG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMHG&actionDate=1747800000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Victory Marine Holdings Corp.]]></category>
-<pink:symbol>VMHG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[United Energy Corp. (UNRG: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747800000000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UNRG/company-info">United Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/UNRG">UNRG</a>: Pink Limited) - Tier Change - The symbol, UNRG, no longer is classified as Pink Current.  As of Wed, May 21, 2025, UNRG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747800000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[United Energy Corp.]]></category>
-<pink:symbol>UNRG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Umbra Companies Inc. (UCIX: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1747800000000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UCIX/company-info">Umbra Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/UCIX">UCIX</a>: Pink Limited) - Tier Change - The symbol, UCIX, no longer is classified as Pink Current.  As of Wed, May 21, 2025, UCIX resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1747800000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Umbra Companies Inc.]]></category>
-<pink:symbol>UCIX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tiderock Companies Inc. (TDRK: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDRK&actionDate=1747800000000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDRK/company-info">Tiderock Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/TDRK">TDRK</a>: Pink Limited) - Tier Change - The symbol, TDRK, no longer is classified as Pink Current.  As of Wed, May 21, 2025, TDRK resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDRK&actionDate=1747800000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tiderock Companies Inc.]]></category>
-<pink:symbol>TDRK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Serinus Energy Plc (SNUYF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNUYF&actionDate=1747800000000]]></link>
-<description><![CDATA[Wed, May 21, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNUYF/company-info">Serinus Energy Plc</a> (<a href="http://www.otcmarkets.com/stock/SNUYF">SNUYF</a>: Pink Limited) - Tier Change - The symbol, SNUYF, no longer is classified as Pink Current.  As of Wed, May 21, 2025, SNUYF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 21 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNUYF&actionDate=1747800000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Serinus Energy Plc]]></category>
-<pink:symbol>SNUYF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
