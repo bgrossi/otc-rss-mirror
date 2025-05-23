@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 11:17:42 UTC 2025
+OTC RSS mirror fetched: Fri May 23 11:38:38 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 23 11:17:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 07:06:36 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 07:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[BSF Enterprise Plc (BSFAF: OTCQB) | 15p Warrants amended]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Fri May 23 11:17:42 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[QXO, Inc (QXOBV: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=QXOBV&actionDate=1747998411000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QXOBV/company-info">QXO, Inc</a> (<a href="http://www.otcmarkets.com/stock/QXOBV">QXOBV</a>: OTC Link) - Venue Change - The symbol, QXOBV, no longer trades on Grey Market.  As of Fri, May 23, 2025, QXOBV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 07:06:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=QXOBV&actionDate=1747998411000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[QXO, Inc]]></category>
+<pink:symbol>QXOBV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Svenska Kullagerfabriken AB (SKULF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SKULF&actionDate=1747983203000]]></link>
 <description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SKULF/company-info">Svenska Kullagerfabriken AB</a> (<a href="http://www.otcmarkets.com/stock/SKULF">SKULF</a>: OTC Link) - Venue Change - The symbol, SKULF, no longer trades on Grey Market.  As of Fri, May 23, 2025, SKULF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Fri May 23 11:17:42 UTC 2025
 <pink:symbol>LCREY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Future Generation Invt Fd Ltd. (FGXXF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FGXXF&actionDate=1747896865000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FGXXF/company-info">Future Generation Invt Fd Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FGXXF">FGXXF</a>: OTC Link) - Venue Change - The symbol, FGXXF, no longer trades on Grey Market.  As of Thu, May 22, 2025, FGXXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 02:54:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FGXXF&actionDate=1747896865000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Future Generation Invt Fd Ltd.]]></category>
-<pink:symbol>FGXXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Symbol Change]]></title>
