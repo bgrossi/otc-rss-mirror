@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 10:22:44 UTC 2025
+OTC RSS mirror fetched: Fri May 23 10:45:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 23 10:22:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 06:06:36 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 06:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[BSF Enterprise Plc (BSFAF: OTCQB) | 15p Warrants amended]]></title>
@@ -47,6 +47,18 @@ OTC RSS mirror fetched: Fri May 23 10:22:44 UTC 2025
 <pink:symbol>EULIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea completes its share buy-back programme announced in March 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=478277]]></link>
+<pubDate>Fri, 23 May 2025 04:00:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=478277]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -350,6 +362,18 @@ OTC RSS mirror fetched: Fri May 23 10:22:44 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 22.05.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=478276]]></link>
+<pubDate>Thu, 22 May 2025 15:30:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=478276]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[American Bank, Inc. (AMBK: Pink Current) | American Bank Announces Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AMBK/news?id=478206]]></link>
 <pubDate>Thu, 22 May 2025 13:52:04 EDT</pubDate>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Fri May 23 10:22:44 UTC 2025
 <pink:symbol>CEVMY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[1812 Brewing Company Inc. (KEGS: Pink Current) | 1812 Brewing Company, Inc. Announces Milestone-based Plan to Reduce Authorized Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KEGS/news?id=478108]]></link>
-<pubDate>Thu, 22 May 2025 08:00:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KEGS/news?id=478108]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[1812 Brewing Company Inc.]]></category>
-<pink:symbol>KEGS</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Andrada Mining Limited (ATMTF: OTCQB) | Change of registered address]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ATMTF/news?id=478093]]></link>
-<pubDate>Thu, 22 May 2025 06:57:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATMTF/news?id=478093]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Andrada Mining Limited]]></category>
-<pink:symbol>ATMTF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
