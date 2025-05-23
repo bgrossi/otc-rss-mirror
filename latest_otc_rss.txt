@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
+OTC RSS mirror fetched: Fri May 23 07:22:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 02:36:37 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 03:07:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=478262]]></link>
+<pubDate>Fri, 23 May 2025 03:03:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=478262]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478200]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Strategic Update on Forza! Bitcoin Treasury Accumulation Roadmap and Live X Space]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=478076]]></link>
-<pubDate>Thu, 22 May 2025 05:54:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=478076]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coinsilium Group Ltd.]]></category>
-<pink:symbol>CINGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Svenska Kullagerfabriken AB (SKULF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SKULF&actionDate=1747983203000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SKULF/company-info">Svenska Kullagerfabriken AB</a> (<a href="http://www.otcmarkets.com/stock/SKULF">SKULF</a>: OTC Link) - Venue Change - The symbol, SKULF, no longer trades on Grey Market.  As of Fri, May 23, 2025, SKULF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 02:53:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SKULF&actionDate=1747983203000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Svenska Kullagerfabriken AB]]></category>
+<pink:symbol>SKULF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Wintrust Financial Corp. (WTFCN: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=WTFCN&actionDate=1747918232000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTFCN/company-info">Wintrust Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTFCN">WTFCN</a>: Nasdaq) - Venue Change - The symbol, WTFCN, no longer trades on OTC Link.  As of Thu, May 22, 2025, WTFCN trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:symbol>FGXXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[YIT OYJ (YITJF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=YITJF&actionDate=1747896863000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YITJF/company-info">YIT OYJ</a> (<a href="http://www.otcmarkets.com/stock/YITJF">YITJF</a>: OTC Link) - Venue Change - The symbol, YITJF, no longer trades on Grey Market.  As of Thu, May 22, 2025, YITJF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 02:54:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=YITJF&actionDate=1747896863000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YIT OYJ]]></category>
-<pink:symbol>YITJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Symbol Change]]></title>
@@ -1344,6 +1344,78 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Vinacapital Vietnam Opportnty Fd Ltd (VCVOF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VCVOF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VCVOF/company-info">Vinacapital Vietnam Opportnty Fd Ltd</a> (<a href="http://www.otcmarkets.com/stock/VCVOF">VCVOF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 23, 2025, VCVOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VCVOF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vinacapital Vietnam Opportnty Fd Ltd]]></category>
+<pink:symbol>VCVOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tradelink Electronic Commerce, Ltd. (TDLKF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TDLKF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDLKF/company-info">Tradelink Electronic Commerce, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TDLKF">TDLKF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 23, 2025, TDLKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TDLKF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tradelink Electronic Commerce, Ltd.]]></category>
+<pink:symbol>TDLKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Svenska Kullagerfabriken AB (SKULF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SKULF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SKULF/company-info">Svenska Kullagerfabriken AB</a> (<a href="http://www.otcmarkets.com/stock/SKULF">SKULF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 23, 2025, SKULF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SKULF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Svenska Kullagerfabriken AB]]></category>
+<pink:symbol>SKULF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[RASPBERRY PI HLDGS PLC (RPBPF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RPBPF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RPBPF/company-info">RASPBERRY PI HLDGS PLC</a> (<a href="http://www.otcmarkets.com/stock/RPBPF">RPBPF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 23, 2025, RPBPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RPBPF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RASPBERRY PI HLDGS PLC]]></category>
+<pink:symbol>RPBPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CAVENDISH HYDROGEN ASA (CANVF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CANVF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CANVF/company-info">CAVENDISH HYDROGEN ASA</a> (<a href="http://www.otcmarkets.com/stock/CANVF">CANVF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, May 23, 2025, CANVF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CANVF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CAVENDISH HYDROGEN ASA]]></category>
+<pink:symbol>CANVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BUILDDIRECT COM TECHNOLOGIES INC. (BDCTF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BDCTF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDCTF/company-info">BUILDDIRECT COM TECHNOLOGIES INC.</a> (<a href="http://www.otcmarkets.com/stock/BDCTF">BDCTF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, May 23, 2025, BDCTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BDCTF&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUILDDIRECT COM TECHNOLOGIES INC.]]></category>
+<pink:symbol>BDCTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[YIT OYJ (YITJF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=YITJF&actionDate=1747886400000]]></link>
 <description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YITJF/company-info">YIT OYJ</a> (<a href="http://www.otcmarkets.com/stock/YITJF">YITJF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 22, 2025, YITJF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1390,78 +1462,6 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:symbol>MGSTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LAOPU GOLD CO LTD (LPGCY: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LPGCY&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LPGCY/company-info">LAOPU GOLD CO LTD</a> (<a href="http://www.otcmarkets.com/stock/LPGCY">LPGCY</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 22, 2025, LPGCY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LPGCY&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LAOPU GOLD CO LTD]]></category>
-<pink:symbol>LPGCY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LATECOERE (LCREY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LCREY&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LCREY/company-info">LATECOERE</a> (<a href="http://www.otcmarkets.com/stock/LCREY">LCREY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 22, 2025, LCREY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LCREY&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LATECOERE]]></category>
-<pink:symbol>LCREY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[IPD GROUP LTD. (IPDGF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IPDGF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IPDGF/company-info">IPD GROUP LTD.</a> (<a href="http://www.otcmarkets.com/stock/IPDGF">IPDGF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 22, 2025, IPDGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IPDGF&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[IPD GROUP LTD.]]></category>
-<pink:symbol>IPDGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[iCoreConnect Inc. (ICCT: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICCT&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICCT/company-info">iCoreConnect Inc.</a> (<a href="http://www.otcmarkets.com/stock/ICCT">ICCT</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 22, 2025, ICCT is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICCT&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[iCoreConnect Inc.]]></category>
-<pink:symbol>ICCT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HOMELAND URANIUM CORP (HLUCF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HLUCF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HLUCF/company-info">HOMELAND URANIUM CORP</a> (<a href="http://www.otcmarkets.com/stock/HLUCF">HLUCF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 22, 2025, HLUCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HLUCF&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HOMELAND URANIUM CORP]]></category>
-<pink:symbol>HLUCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Future Generation Invt Fd Ltd. (FGXXF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FGXXF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FGXXF/company-info">Future Generation Invt Fd Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FGXXF">FGXXF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 22, 2025, FGXXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FGXXF&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Future Generation Invt Fd Ltd.]]></category>
-<pink:symbol>FGXXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Horizon Kinetics Holding Corporation (HKHC: Pink Current) | Ex-Dividend]]></title>
@@ -1704,124 +1704,124 @@ OTC RSS mirror fetched: Fri May 23 06:55:42 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Group Eleven Resources Corp. (GRLVF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRLVF&actionDate=1747972800000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRLVF/company-info">Group Eleven Resources Corp.</a> (<a href="http://www.otcmarkets.com/stock/GRLVF">GRLVF</a>: OTCQB) - Tier Change - The symbol, GRLVF, no longer is classified as Pink Current.  As of Fri, May 23, 2025, GRLVF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[WinVest Acquisition Corp. (WINV: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WINV&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WINV/company-info">WinVest Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/WINV">WINV</a>: Pink Limited) - Tier Change - The symbol, WINV, no longer is classified as Pink Current.  As of Fri, May 23, 2025, WINV resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRLVF&actionDate=1747972800000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WINV&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Group Eleven Resources Corp.]]></category>
-<pink:symbol>GRLVF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bayer A.G. (BAYZF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BAYZF&actionDate=1747972800000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BAYZF/company-info">Bayer A.G.</a> (<a href="http://www.otcmarkets.com/stock/BAYZF">BAYZF</a>: OTCQX International) - Tier Change - The symbol, BAYZF, no longer is classified as Pink Current.  As of Fri, May 23, 2025, BAYZF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BAYZF&actionDate=1747972800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bayer A.G.]]></category>
-<pink:symbol>BAYZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bayer A.G. (BAYRY: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BAYRY&actionDate=1747972800000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BAYRY/company-info">Bayer A.G.</a> (<a href="http://www.otcmarkets.com/stock/BAYRY">BAYRY</a>: OTCQX International) - Tier Change - The symbol, BAYRY, no longer is classified as Pink Current.  As of Fri, May 23, 2025, BAYRY resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BAYRY&actionDate=1747972800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bayer A.G.]]></category>
-<pink:symbol>BAYRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[YIT OYJ (YITJF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=YITJF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YITJF/company-info">YIT OYJ</a> (<a href="http://www.otcmarkets.com/stock/YITJF">YITJF</a>: Pink Limited) - Tier Change - The symbol, YITJF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, YITJF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=YITJF&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YIT OYJ]]></category>
-<pink:symbol>YITJF</pink:symbol>
+<category><![CDATA[WinVest Acquisition Corp.]]></category>
+<pink:symbol>WINV</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Westgate Energy Inc. (WGTFF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WGTFF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WGTFF/company-info">Westgate Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/WGTFF">WGTFF</a>: OTCQB) - Tier Change - The symbol, WGTFF, no longer is classified as Grey Market.  As of Thu, May 22, 2025, WGTFF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WGTFF&actionDate=1747886400000]]></guid>
+<title><![CDATA[Integrated Wellness Acquisition Corp. (WELNF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELNF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WELNF/company-info">Integrated Wellness Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/WELNF">WELNF</a>: Pink Limited) - Tier Change - The symbol, WELNF, no longer is classified as Pink Current.  As of Fri, May 23, 2025, WELNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELNF&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Westgate Energy Inc.]]></category>
-<pink:symbol>WGTFF</pink:symbol>
+<category><![CDATA[Integrated Wellness Acquisition Corp.]]></category>
+<pink:symbol>WELNF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VeeMost Technologies Inc (VMST: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMST&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VMST/company-info">VeeMost Technologies Inc</a> (<a href="http://www.otcmarkets.com/stock/VMST">VMST</a>: Pink Current) - Tier Change - The symbol, VMST, no longer is classified as Pink Limited.  As of Thu, May 22, 2025, VMST resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMST&actionDate=1747886400000]]></guid>
+<title><![CDATA[Webstar Technology Group Inc. (WBSR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WBSR&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WBSR/company-info">Webstar Technology Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/WBSR">WBSR</a>: Pink Limited) - Tier Change - The symbol, WBSR, no longer is classified as Pink Current.  As of Fri, May 23, 2025, WBSR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WBSR&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VeeMost Technologies Inc]]></category>
-<pink:symbol>VMST</pink:symbol>
+<category><![CDATA[Webstar Technology Group Inc.]]></category>
+<pink:symbol>WBSR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHAIW: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAIW&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHAIW/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHAIW">VHAIW</a>: Pink Limited) - Tier Change - The symbol, VHAIW, no longer is classified as Pink Current.  As of Fri, May 23, 2025, VHAIW resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAIW&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHAIW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHAI: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAI&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHAI/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHAI">VHAI</a>: Pink Limited) - Tier Change - The symbol, VHAI, no longer is classified as Pink Current.  As of Fri, May 23, 2025, VHAI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHAI&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHAI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vocodia Holdings Corp. (VHABW: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHABW&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VHABW/company-info">Vocodia Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VHABW">VHABW</a>: Pink Limited) - Tier Change - The symbol, VHABW, no longer is classified as Pink Current.  As of Fri, May 23, 2025, VHABW resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VHABW&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vocodia Holdings Corp.]]></category>
+<pink:symbol>VHABW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Umbra Companies Inc. (UCIX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UCIX/company-info">Umbra Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/UCIX">UCIX</a>: Pink Current) - Tier Change - The symbol, UCIX, no longer is classified as Pink Limited.  As of Fri, May 23, 2025, UCIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UCIX&actionDate=1747972800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Umbra Companies Inc.]]></category>
+<pink:symbol>UCIX</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Victory Marine Holdings Corp. (VMHG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMHG&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VMHG/company-info">Victory Marine Holdings Corp.</a> (<a href="http://www.otcmarkets.com/stock/VMHG">VMHG</a>: Pink Current) - Tier Change - The symbol, VMHG, no longer is classified as Pink Limited.  As of Thu, May 22, 2025, VMHG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VMHG&actionDate=1747886400000]]></guid>
+<title><![CDATA[Target Global Acquisition I Corp. (TGAWF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGAWF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGAWF/company-info">Target Global Acquisition I Corp.</a> (<a href="http://www.otcmarkets.com/stock/TGAWF">TGAWF</a>: Pink Limited) - Tier Change - The symbol, TGAWF, no longer is classified as Pink Current.  As of Fri, May 23, 2025, TGAWF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGAWF&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Victory Marine Holdings Corp.]]></category>
-<pink:symbol>VMHG</pink:symbol>
+<category><![CDATA[Target Global Acquisition I Corp.]]></category>
+<pink:symbol>TGAWF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vinacapital Vietnam Opportnty Fd Ltd (VCVOF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VCVOF&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VCVOF/company-info">Vinacapital Vietnam Opportnty Fd Ltd</a> (<a href="http://www.otcmarkets.com/stock/VCVOF">VCVOF</a>: Pink Current) - Tier Change - The symbol, VCVOF, no longer is classified as Expert Market.  As of Thu, May 22, 2025, VCVOF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VCVOF&actionDate=1747886400000]]></guid>
+<title><![CDATA[Target Global Acquisition I Corp. (TGAAF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGAAF&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGAAF/company-info">Target Global Acquisition I Corp.</a> (<a href="http://www.otcmarkets.com/stock/TGAAF">TGAAF</a>: Pink Limited) - Tier Change - The symbol, TGAAF, no longer is classified as Pink Current.  As of Fri, May 23, 2025, TGAAF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TGAAF&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vinacapital Vietnam Opportnty Fd Ltd]]></category>
-<pink:symbol>VCVOF</pink:symbol>
+<category><![CDATA[Target Global Acquisition I Corp.]]></category>
+<pink:symbol>TGAAF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[United Energy Corp. (UNRG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UNRG/company-info">United Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/UNRG">UNRG</a>: Pink Current) - Tier Change - The symbol, UNRG, no longer is classified as Pink Limited.  As of Thu, May 22, 2025, UNRG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UNRG&actionDate=1747886400000]]></guid>
+<title><![CDATA[CANNAISSEUR GROUP INC. (TCRG: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCRG&actionDate=1747972800000]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TCRG/company-info">CANNAISSEUR GROUP INC.</a> (<a href="http://www.otcmarkets.com/stock/TCRG">TCRG</a>: Pink Limited) - Tier Change - The symbol, TCRG, no longer is classified as Pink Current.  As of Fri, May 23, 2025, TCRG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TCRG&actionDate=1747972800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[United Energy Corp.]]></category>
-<pink:symbol>UNRG</pink:symbol>
+<category><![CDATA[CANNAISSEUR GROUP INC.]]></category>
+<pink:symbol>TCRG</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tiderock Companies Inc. (TDRK: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDRK&actionDate=1747886400000]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDRK/company-info">Tiderock Companies Inc.</a> (<a href="http://www.otcmarkets.com/stock/TDRK">TDRK</a>: Pink Current) - Tier Change - The symbol, TDRK, no longer is classified as Pink Limited.  As of Thu, May 22, 2025, TDRK resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TDRK&actionDate=1747886400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tiderock Companies Inc.]]></category>
-<pink:symbol>TDRK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
