@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 15:21:55 UTC 2025
+OTC RSS mirror fetched: Fri May 23 15:40:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 23 15:21:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 11:06:37 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 11:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Limited) | SmartCard Marketing Systems Inc. (OTC: SMKG) Combines Fintech and DeFi as the Optimal Digital Finance Strategy for Digital Assets & ICOs]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=478318]]></link>
+<pubDate>Fri, 23 May 2025 11:22:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=478318]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
+<pink:symbol>SMKG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of conversion of unquoted equity securities-Cancelled]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478315]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 23 15:21:55 UTC 2025
 <pink:symbol>NRDBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[American Bank, Inc. (AMBK: Pink Current) | American Bank Announces Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AMBK/news?id=478206]]></link>
-<pubDate>Thu, 22 May 2025 13:52:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMBK/news?id=478206]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Bank, Inc.]]></category>
-<pink:symbol>AMBK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
