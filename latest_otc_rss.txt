@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 04:25:42 UTC 2025
+OTC RSS mirror fetched: Fri May 23 04:45:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri May 23 04:25:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 00:06:36 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 00:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of conversion of unquoted equity securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478241]]></link>
+<pubDate>Fri, 23 May 2025 00:25:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478241]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brainchip Holdings Ltd.]]></category>
+<pink:symbol>BCHPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of conversion of unquoted equity securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478240]]></link>
+<pubDate>Fri, 23 May 2025 00:24:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478240]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brainchip Holdings Ltd.]]></category>
+<pink:symbol>BCHPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of conversion of unquoted equity securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478239]]></link>
+<pubDate>Fri, 23 May 2025 00:22:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478239]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brainchip Holdings Ltd.]]></category>
+<pink:symbol>BCHPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[American Rare Earths Ltd. (AMRRY: OTCQX International) | Notification for Substantial Shareholder Disclosure]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=478238]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Fri May 23 04:25:42 UTC 2025
 <pink:symbol>MQBKY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[MedioBanca SpA (MDIBY: Pink Limited) | MDIBY - Books will close today, May 21, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=478014]]></link>
-<pubDate>Wed, 21 May 2025 09:21:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDIBY/news?id=478014]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MedioBanca SpA]]></category>
-<pink:symbol>MDIBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[IMERYS SA (IMYSY: Pink Limited) | IMYSY - Books will close at the close of business today, May 21, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMYSY/news?id=478004]]></link>
-<pubDate>Wed, 21 May 2025 09:01:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMYSY/news?id=478004]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[IMERYS SA]]></category>
-<pink:symbol>IMYSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Adriatic Metals PLC (ADMLF: OTCQX International) | Statement re Press Speculation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADMLF/news?id=478003]]></link>
-<pubDate>Wed, 21 May 2025 08:53:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADMLF/news?id=478003]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adriatic Metals PLC]]></category>
-<pink:symbol>ADMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
