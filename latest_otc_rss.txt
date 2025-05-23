@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 12:42:04 UTC 2025
+OTC RSS mirror fetched: Fri May 23 13:18:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Fri May 23 12:42:04 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 08:26:37 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 09:06:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | Major General Lars-Olof Corneliusson elected to the  Board of Directors of AAC Clyde Space]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478212]]></link>
+<pubDate>Fri, 23 May 2025 09:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478212]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AAC CLYDE SPACE AB]]></category>
+<pink:symbol>ACCMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Vinanz Limited (VINZF: OTCQB) | Appointment of Chief Executive Officer and EBT]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=478268]]></link>
+<pubDate>Fri, 23 May 2025 09:00:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VINZF/news?id=478268]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vinanz Limited]]></category>
+<pink:symbol>VINZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Delhi Bank Corp. (DWNX: Pink Current) | DELHI BANK CORP ANNOUNCES MANAGEMENT SUCCESSION PLAN]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=478294]]></link>
+<pubDate>Fri, 23 May 2025 08:55:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=478294]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Delhi Bank Corp.]]></category>
+<pink:symbol>DWNX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | Pacific Saddlery Unveils "Stable Power" Mobile Generators]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=478270]]></link>
+<pubDate>Fri, 23 May 2025 08:30:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=478270]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECGI Holdings Inc.]]></category>
+<pink:symbol>ECGI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[SulNOx Group Plc (SNOXF: OTCQX International) | Issue of Shares to EPS Ventures Pte Ltd.]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=478283]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Fri May 23 12:42:04 UTC 2025
 <pink:symbol>PUMSY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Orica Ltd. (OCLDY: Pink Current) | OCLDY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OCLDY/news?id=478139]]></link>
-<pubDate>Thu, 22 May 2025 08:38:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCLDY/news?id=478139]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Orica Ltd.]]></category>
-<pink:symbol>OCLDY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DNO ASA (DTNOY: Pink Limited) | DTNOY - Books will close at the close of business today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTNOY/news?id=478138]]></link>
-<pubDate>Thu, 22 May 2025 08:38:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTNOY/news?id=478138]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DNO ASA]]></category>
-<pink:symbol>DTNOY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DR ING H C F PORSCHE AG (DRPRY: Pink Current) | DRPRY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DRPRY/news?id=478137]]></link>
-<pubDate>Thu, 22 May 2025 08:37:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DRPRY/news?id=478137]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DR ING H C F PORSCHE AG]]></category>
-<pink:symbol>DRPRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DCC Plc (DCCPY: Pink Current) | DCCPY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DCCPY/news?id=478136]]></link>
-<pubDate>Thu, 22 May 2025 08:36:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DCCPY/news?id=478136]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DCC Plc]]></category>
-<pink:symbol>DCCPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
