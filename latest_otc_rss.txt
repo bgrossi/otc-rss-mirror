@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 07:51:25 UTC 2025
+OTC RSS mirror fetched: Fri May 23 08:28:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 23 07:51:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 03:36:36 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 04:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aixia Group AB (AIXAF: OTCQX International) | Aixia signs into LOI for strategic acquisition]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=478263]]></link>
+<pubDate>Fri, 23 May 2025 03:53:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=478263]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aixia Group AB]]></category>
+<pink:symbol>AIXAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=478262]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 23 07:51:25 UTC 2025
 <pink:symbol>TRNLY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sparc AI Inc. (SPAIF: OTCQB) | SPARC AI Shortlisted for Prestigious Innovation Award]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=478084]]></link>
-<pubDate>Thu, 22 May 2025 06:04:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPAIF/news?id=478084]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sparc AI Inc.]]></category>
-<pink:symbol>SPAIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
