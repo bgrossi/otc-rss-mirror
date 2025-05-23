@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 11:51:25 UTC 2025
+OTC RSS mirror fetched: Fri May 23 12:42:04 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 23 11:51:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 07:36:36 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 08:26:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[SulNOx Group Plc (SNOXF: OTCQX International) | Issue of Shares to EPS Ventures Pte Ltd.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=478283]]></link>
+<pubDate>Fri, 23 May 2025 08:00:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=478283]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SulNOx Group Plc]]></category>
+<pink:symbol>SNOXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[BSF Enterprise Plc (BSFAF: OTCQB) | 15p Warrants amended]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BSFAF/news?id=478269]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Fri May 23 11:51:25 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[DCC Plc]]></category>
 <pink:symbol>DCCPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CTS Eventim AG & Co. KGAA (CEVMY: Pink Current) | CEVMY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CEVMY/news?id=478135]]></link>
-<pubDate>Thu, 22 May 2025 08:33:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CEVMY/news?id=478135]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CTS Eventim AG & Co. KGAA]]></category>
-<pink:symbol>CEVMY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -1584,6 +1584,54 @@ OTC RSS mirror fetched: Fri May 23 11:51:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Activia Properties Inc (ATVXF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284631]]></link>
+<description><![CDATA[Fri, May 23, 2025 07:42 - <a href="http://www.otcmarkets.com/stock/ATVXF/company-info">Activia Properties Inc</a> (<a href="http://www.otcmarkets.com/stock/ATVXF">ATVXF</a>: Pink Limited) - Scheduled Ex-Dividend - Activia Properties Inc has announced a dividend ex-date for (ATVXF: Pink Limited). Activia Properties Inc is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Thu, May 29, 2025 to shareholders of ATVXF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 07:42:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284631]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Activia Properties Inc]]></category>
+<pink:symbol>ATVXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284630]]></link>
+<description><![CDATA[Fri, May 23, 2025 07:41 - <a href="http://www.otcmarkets.com/stock/YACPF/company-info">Yamatane Corp.</a> (<a href="http://www.otcmarkets.com/stock/YACPF">YACPF</a>: Pink Limited) - Scheduled Ex-Dividend - Yamatane Corp. has announced a dividend ex-date for (YACPF: Pink Limited). Yamatane Corp. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Thu, May 29, 2025 to shareholders of YACPF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 07:41:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284630]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Yamatane Corp.]]></category>
+<pink:symbol>YACPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NIPPON PROLOGIS REIT INC. (NPONF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284629]]></link>
+<description><![CDATA[Fri, May 23, 2025 07:37 - <a href="http://www.otcmarkets.com/stock/NPONF/company-info">NIPPON PROLOGIS REIT INC.</a> (<a href="http://www.otcmarkets.com/stock/NPONF">NPONF</a>: Pink Limited) - Scheduled Ex-Dividend - NIPPON PROLOGIS REIT INC. has announced a dividend ex-date for (NPONF: Pink Limited). NIPPON PROLOGIS REIT INC. is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Thu, May 29, 2025 to shareholders of NPONF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 07:37:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284629]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NIPPON PROLOGIS REIT INC.]]></category>
+<pink:symbol>NPONF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DAITO PHARMACEUTICAL CO LTD, (DAITF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284628]]></link>
+<description><![CDATA[Fri, May 23, 2025 07:36 - <a href="http://www.otcmarkets.com/stock/DAITF/company-info">DAITO PHARMACEUTICAL CO LTD,</a> (<a href="http://www.otcmarkets.com/stock/DAITF">DAITF</a>: Pink Limited) - Scheduled Ex-Dividend - DAITO PHARMACEUTICAL CO LTD, has announced a dividend ex-date for (DAITF: Pink Limited). DAITO PHARMACEUTICAL CO LTD, is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Thu, May 29, 2025 to shareholders of DAITF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 07:36:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284628]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DAITO PHARMACEUTICAL CO LTD,]]></category>
+<pink:symbol>DAITF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[CANADIAN NET REAL ESTATE INVT TR (CNNRF: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284597]]></link>
 <description><![CDATA[Thu, May 22, 2025 04:22 - <a href="http://www.otcmarkets.com/stock/CNNRF/company-info">CANADIAN NET REAL ESTATE INVT TR</a> (<a href="http://www.otcmarkets.com/stock/CNNRF">CNNRF</a>: Pink Current) - Scheduled Ex-Dividend - CANADIAN NET REAL ESTATE INVT TR has announced a dividend ex-date for (CNNRF: Pink Current). CANADIAN NET REAL ESTATE INVT TR is scheduled to disburse a Cash Dividend dividend of $0.02917 on Mon, Sep 15, 2025 to shareholders of CNNRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1654,54 +1702,6 @@ OTC RSS mirror fetched: Fri May 23 11:51:25 UTC 2025
 <pink:symbol>AMBK</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pennsylvania Warehousing & Safe Deposit Co. (PAWH: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284615]]></link>
-<description><![CDATA[Thu, May 22, 2025 02:37 - <a href="http://www.otcmarkets.com/stock/PAWH/company-info">Pennsylvania Warehousing & Safe Deposit Co.</a> (<a href="http://www.otcmarkets.com/stock/PAWH">PAWH</a>: OTC Link) - Scheduled Ex-Dividend - Pennsylvania Warehousing & Safe Deposit Co. has announced a dividend ex-date for (PAWH: OTC Link). Pennsylvania Warehousing & Safe Deposit Co. is scheduled to disburse a Cash Dividend dividend of $25 on Mon, Jun 09, 2025 to shareholders of PAWH. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 14:37:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284615]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pennsylvania Warehousing & Safe Deposit Co.]]></category>
-<pink:symbol>PAWH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Central Bank Corp. (CBSU: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284600]]></link>
-<description><![CDATA[Thu, May 22, 2025 02:30 - <a href="http://www.otcmarkets.com/stock/CBSU/company-info">Central Bank Corp.</a> (<a href="http://www.otcmarkets.com/stock/CBSU">CBSU</a>: OTC Link) - Scheduled Ex-Dividend - Central Bank Corp. has announced a dividend ex-date for (CBSU: OTC Link). Central Bank Corp. is scheduled to disburse a Cash Dividend dividend of $0.5 on Tue, Jun 24, 2025 to shareholders of CBSU. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 14:30:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284600]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Central Bank Corp.]]></category>
-<pink:symbol>CBSU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Life Healthcare Group Holdings Ltd (LTGHY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284611]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:14 - <a href="http://www.otcmarkets.com/stock/LTGHY/company-info">Life Healthcare Group Holdings Ltd</a> (<a href="http://www.otcmarkets.com/stock/LTGHY">LTGHY</a>: Pink Current) - Scheduled Ex-Dividend - Life Healthcare Group Holdings Ltd has announced a dividend ex-date for (LTGHY: Pink Current). Life Healthcare Group Holdings Ltd is scheduled to disburse a Cash Dividend dividend of $0.02793 on Fri, Jun 13, 2025 to shareholders of LTGHY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 12:14:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284611]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Life Healthcare Group Holdings Ltd]]></category>
-<pink:symbol>LTGHY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bank of the Philippine Islands (BPHLY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284593]]></link>
-<description><![CDATA[Thu, May 22, 2025 12:12 - <a href="http://www.otcmarkets.com/stock/BPHLY/company-info">Bank of the Philippine Islands</a> (<a href="http://www.otcmarkets.com/stock/BPHLY">BPHLY</a>: Pink Limited) - Scheduled Ex-Dividend - Bank of the Philippine Islands has announced a dividend ex-date for (BPHLY: Pink Limited). Bank of the Philippine Islands is scheduled to disburse a Cash Dividend dividend of $0.49064 on Tue, Jun 10, 2025 to shareholders of BPHLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 12:12:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284593]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank of the Philippine Islands]]></category>
-<pink:symbol>BPHLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[WinVest Acquisition Corp. (WINV: Pink Limited) | Tier Change]]></title>
