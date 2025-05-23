@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 13:45:49 UTC 2025
+OTC RSS mirror fetched: Fri May 23 14:20:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,164 @@ OTC RSS mirror fetched: Fri May 23 13:45:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 09:26:37 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 10:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Euronext NV (ERNXY: Pink Limited) | Books will close on May 26, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ERNXY/news?id=478313]]></link>
+<pubDate>Fri, 23 May 2025 10:05:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ERNXY/news?id=478313]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Euronext NV]]></category>
+<pink:symbol>ERNXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Salzgitter AG (SZGPY: Pink Current) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SZGPY/news?id=478312]]></link>
+<pubDate>Fri, 23 May 2025 10:04:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SZGPY/news?id=478312]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Salzgitter AG]]></category>
+<pink:symbol>SZGPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Swatch Group AG (SWGAY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=478311]]></link>
+<pubDate>Fri, 23 May 2025 10:03:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=478311]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Swatch Group AG]]></category>
+<pink:symbol>SWGAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Robinsons Retail Holdings Inc. (RRETY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RRETY/news?id=478310]]></link>
+<pubDate>Fri, 23 May 2025 10:02:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RRETY/news?id=478310]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Robinsons Retail Holdings Inc.]]></category>
+<pink:symbol>RRETY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Porsche Automobile Holding SE (POAHY: Pink Current) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/POAHY/news?id=478309]]></link>
+<pubDate>Fri, 23 May 2025 10:01:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/POAHY/news?id=478309]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Porsche Automobile Holding SE]]></category>
+<pink:symbol>POAHY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Mowi ASA (MHGVY: Pink Limited) | Books will close at the close of business today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MHGVY/news?id=478308]]></link>
+<pubDate>Fri, 23 May 2025 10:00:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MHGVY/news?id=478308]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mowi ASA]]></category>
+<pink:symbol>MHGVY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Globe Telecom, Inc. (GTMEY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GTMEY/news?id=478307]]></link>
+<pubDate>Fri, 23 May 2025 10:00:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GTMEY/news?id=478307]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Globe Telecom, Inc.]]></category>
+<pink:symbol>GTMEY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Fresenius SE & Co. KGaA (FSNUY: Pink Current) | Books will close at the close of business today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FSNUY/news?id=478306]]></link>
+<pubDate>Fri, 23 May 2025 09:58:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FSNUY/news?id=478306]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fresenius SE & Co. KGaA]]></category>
+<pink:symbol>FSNUY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Credit Agricole SA (CRARY: Pink Limited) | Books will close at the close of business today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CRARY/news?id=478305]]></link>
+<pubDate>Fri, 23 May 2025 09:57:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRARY/news?id=478305]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Credit Agricole SA]]></category>
+<pink:symbol>CRARY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Brenntag SE  (BNTGY: Pink Current) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BNTGY/news?id=478304]]></link>
+<pubDate>Fri, 23 May 2025 09:55:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BNTGY/news?id=478304]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brenntag SE ]]></category>
+<pink:symbol>BNTGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ASR Nederland N.V. (ARNNY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARNNY/news?id=478303]]></link>
+<pubDate>Fri, 23 May 2025 09:51:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARNNY/news?id=478303]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASR Nederland N.V.]]></category>
+<pink:symbol>ARNNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Alpha Services and Holdings SA (ALBKY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ALBKY/news?id=478302]]></link>
+<pubDate>Fri, 23 May 2025 09:49:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALBKY/news?id=478302]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Alpha Services and Holdings SA]]></category>
+<pink:symbol>ALBKY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ACCELLERON INDS LTD. (ACLLY: Pink Limited) | Books will close today, May 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACLLY/news?id=478301]]></link>
+<pubDate>Fri, 23 May 2025 09:42:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACLLY/news?id=478301]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ACCELLERON INDS LTD.]]></category>
+<pink:symbol>ACLLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | Major General Lars-Olof Corneliusson elected to the  Board of Directors of AAC Clyde Space]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478212]]></link>
@@ -455,162 +611,6 @@ OTC RSS mirror fetched: Fri May 23 13:45:49 UTC 2025
 <pink:symbol>ACCMF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478203]]></link>
-<pubDate>Thu, 22 May 2025 13:07:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478203]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Shield Therapeutics PLC (SHIEF: OTCQB) | Result of 2025 AGM]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SHIEF/news?id=478198]]></link>
-<pubDate>Thu, 22 May 2025 12:08:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SHIEF/news?id=478198]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Shield Therapeutics PLC]]></category>
-<pink:symbol>SHIEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bell Rose Capital Inc. (BELR: Pink Current) | Pay Pilot coming soon]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=478166]]></link>
-<pubDate>Thu, 22 May 2025 10:37:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=478166]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bell Rose Capital Inc.]]></category>
-<pink:symbol>BELR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jetblack Corp. (JTBK: Pink Limited) | Jetblack Corp. Announces Upcoming Release of DeFi Digital Asset]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JTBK/news?id=478162]]></link>
-<pubDate>Thu, 22 May 2025 10:32:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JTBK/news?id=478162]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jetblack Corp.]]></category>
-<pink:symbol>JTBK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ECHOIQ LTD. (ECHQF: OTCQB) | Investor Webinar]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=478157]]></link>
-<pubDate>Thu, 22 May 2025 09:54:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECHQF/news?id=478157]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ECHOIQ LTD.]]></category>
-<pink:symbol>ECHQF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Announces Private Placement Financing]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=477987]]></link>
-<pubDate>Thu, 22 May 2025 09:30:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=477987]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cirmaker Technology Corp.]]></category>
-<pink:symbol>CRKT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Retail Offer for up to £0.5 million]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478153]]></link>
-<pubDate>Thu, 22 May 2025 09:18:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478153]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ilika PLC.]]></category>
-<pink:symbol>ILIKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Result of Placing & Director Subscription]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478147]]></link>
-<pubDate>Thu, 22 May 2025 08:51:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478147]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ilika PLC.]]></category>
-<pink:symbol>ILIKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Utilities Finance Plc - Publication of Supplementary Prospectus]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478144]]></link>
-<pubDate>Thu, 22 May 2025 08:42:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478144]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[UNIVERSAL MUSIC GROUP (UNVGY: Pink Limited) | UNVGY - Books will close at the close of business today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/UNVGY/news?id=478143]]></link>
-<pubDate>Thu, 22 May 2025 08:41:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UNVGY/news?id=478143]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UNIVERSAL MUSIC GROUP]]></category>
-<pink:symbol>UNVGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Teleperformance (TLPFY: Pink Limited) | TLPFY - Books will close at the close of business today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TLPFY/news?id=478142]]></link>
-<pubDate>Thu, 22 May 2025 08:40:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TLPFY/news?id=478142]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Teleperformance]]></category>
-<pink:symbol>TLPFY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Salvatore Ferragamo S.P.A. (SFRGY: Pink Limited) | SFRGY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SFRGY/news?id=478141]]></link>
-<pubDate>Thu, 22 May 2025 08:40:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SFRGY/news?id=478141]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Salvatore Ferragamo S.P.A.]]></category>
-<pink:symbol>SFRGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Puma SE (PUMSY: Pink Limited) | PUMSY - Books will close today, May 22, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PUMSY/news?id=478140]]></link>
-<pubDate>Thu, 22 May 2025 08:39:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PUMSY/news?id=478140]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Puma SE]]></category>
-<pink:symbol>PUMSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
