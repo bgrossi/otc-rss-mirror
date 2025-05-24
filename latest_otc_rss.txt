@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 23 23:52:02 UTC 2025
+OTC RSS mirror fetched: Sat May 24 01:42:43 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 23 23:52:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 23 May 2025 19:36:37 EDT</lastBuildDate>
+<lastBuildDate>Fri, 23 May 2025 21:36:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Lumbee Guaranty Bank (LUMB: OTCQX U.S.) | Lumbee Guaranty Bank Declares June Dividend]]></title>
@@ -1596,124 +1596,124 @@ OTC RSS mirror fetched: Fri May 23 23:52:02 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Activia Properties Inc (ATVXF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284631]]></link>
-<description><![CDATA[Fri, May 23, 2025 07:42 - <a href="http://www.otcmarkets.com/stock/ATVXF/company-info">Activia Properties Inc</a> (<a href="http://www.otcmarkets.com/stock/ATVXF">ATVXF</a>: Pink Limited) - Scheduled Ex-Dividend - Activia Properties Inc has announced a dividend ex-date for (ATVXF: Pink Limited). Activia Properties Inc is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Thu, May 29, 2025 to shareholders of ATVXF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 07:42:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284631]]></guid>
+<title><![CDATA[Anglo American plc (NGLOY: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284710]]></link>
+<description><![CDATA[Fri, May 23, 2025 08:26 - <a href="http://www.otcmarkets.com/stock/NGLOY/company-info">Anglo American plc</a> (<a href="http://www.otcmarkets.com/stock/NGLOY">NGLOY</a>: OTCQX International) - Scheduled Ex-Dividend - Anglo American plc has announced a dividend ex-date for (NGLOY: OTCQX International). Anglo American plc is scheduled to disburse a Stock Div. payable in another Company dividend of null on Fri, May 30, 2025 to shareholders of NGLOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 20:26:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284710]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Activia Properties Inc]]></category>
-<pink:symbol>ATVXF</pink:symbol>
+<category><![CDATA[Anglo American plc]]></category>
+<pink:symbol>NGLOY</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284630]]></link>
-<description><![CDATA[Fri, May 23, 2025 07:41 - <a href="http://www.otcmarkets.com/stock/YACPF/company-info">Yamatane Corp.</a> (<a href="http://www.otcmarkets.com/stock/YACPF">YACPF</a>: Pink Limited) - Scheduled Ex-Dividend - Yamatane Corp. has announced a dividend ex-date for (YACPF: Pink Limited). Yamatane Corp. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Thu, May 29, 2025 to shareholders of YACPF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 07:41:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284630]]></guid>
+<title><![CDATA[Automotive Finco Corp. (RMIAF: OTC Link) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284668]]></link>
+<description><![CDATA[Fri, May 23, 2025 04:10 - <a href="http://www.otcmarkets.com/stock/RMIAF/company-info">Automotive Finco Corp.</a> (<a href="http://www.otcmarkets.com/stock/RMIAF">RMIAF</a>: OTC Link) - Scheduled Ex-Dividend - Automotive Finco Corp. has announced a dividend ex-date for (RMIAF: OTC Link). Automotive Finco Corp. is scheduled to disburse a Cash Dividend dividend of $0.0513 on Mon, Jun 30, 2025 to shareholders of RMIAF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 16:10:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284668]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Yamatane Corp.]]></category>
-<pink:symbol>YACPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NIPPON PROLOGIS REIT INC. (NPONF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284629]]></link>
-<description><![CDATA[Fri, May 23, 2025 07:37 - <a href="http://www.otcmarkets.com/stock/NPONF/company-info">NIPPON PROLOGIS REIT INC.</a> (<a href="http://www.otcmarkets.com/stock/NPONF">NPONF</a>: Pink Limited) - Scheduled Ex-Dividend - NIPPON PROLOGIS REIT INC. has announced a dividend ex-date for (NPONF: Pink Limited). NIPPON PROLOGIS REIT INC. is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Thu, May 29, 2025 to shareholders of NPONF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 07:37:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284629]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NIPPON PROLOGIS REIT INC.]]></category>
-<pink:symbol>NPONF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DAITO PHARMACEUTICAL CO LTD, (DAITF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284628]]></link>
-<description><![CDATA[Fri, May 23, 2025 07:36 - <a href="http://www.otcmarkets.com/stock/DAITF/company-info">DAITO PHARMACEUTICAL CO LTD,</a> (<a href="http://www.otcmarkets.com/stock/DAITF">DAITF</a>: Pink Limited) - Scheduled Ex-Dividend - DAITO PHARMACEUTICAL CO LTD, has announced a dividend ex-date for (DAITF: Pink Limited). DAITO PHARMACEUTICAL CO LTD, is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Thu, May 29, 2025 to shareholders of DAITF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 07:36:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284628]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DAITO PHARMACEUTICAL CO LTD,]]></category>
-<pink:symbol>DAITF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CANADIAN NET REAL ESTATE INVT TR (CNNRF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284597]]></link>
-<description><![CDATA[Thu, May 22, 2025 04:22 - <a href="http://www.otcmarkets.com/stock/CNNRF/company-info">CANADIAN NET REAL ESTATE INVT TR</a> (<a href="http://www.otcmarkets.com/stock/CNNRF">CNNRF</a>: Pink Current) - Scheduled Ex-Dividend - CANADIAN NET REAL ESTATE INVT TR has announced a dividend ex-date for (CNNRF: Pink Current). CANADIAN NET REAL ESTATE INVT TR is scheduled to disburse a Cash Dividend dividend of $0.02917 on Mon, Sep 15, 2025 to shareholders of CNNRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 16:22:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284597]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CANADIAN NET REAL ESTATE INVT TR]]></category>
-<pink:symbol>CNNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CANADIAN NET REAL ESTATE INVT TR (CNNRF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284598]]></link>
-<description><![CDATA[Thu, May 22, 2025 04:21 - <a href="http://www.otcmarkets.com/stock/CNNRF/company-info">CANADIAN NET REAL ESTATE INVT TR</a> (<a href="http://www.otcmarkets.com/stock/CNNRF">CNNRF</a>: Pink Current) - Scheduled Ex-Dividend - CANADIAN NET REAL ESTATE INVT TR has announced a dividend ex-date for (CNNRF: Pink Current). CANADIAN NET REAL ESTATE INVT TR is scheduled to disburse a Cash Dividend dividend of $0.02917 on Fri, Aug 15, 2025 to shareholders of CNNRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 16:21:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284598]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CANADIAN NET REAL ESTATE INVT TR]]></category>
-<pink:symbol>CNNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CANADIAN NET REAL ESTATE INVT TR (CNNRF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284599]]></link>
-<description><![CDATA[Thu, May 22, 2025 04:19 - <a href="http://www.otcmarkets.com/stock/CNNRF/company-info">CANADIAN NET REAL ESTATE INVT TR</a> (<a href="http://www.otcmarkets.com/stock/CNNRF">CNNRF</a>: Pink Current) - Scheduled Ex-Dividend - CANADIAN NET REAL ESTATE INVT TR has announced a dividend ex-date for (CNNRF: Pink Current). CANADIAN NET REAL ESTATE INVT TR is scheduled to disburse a Cash Dividend dividend of $0.02917 on Tue, Jul 15, 2025 to shareholders of CNNRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 16:19:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284599]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CANADIAN NET REAL ESTATE INVT TR]]></category>
-<pink:symbol>CNNRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Citizens National Corp. (CZNL: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284601]]></link>
-<description><![CDATA[Thu, May 22, 2025 02:57 - <a href="http://www.otcmarkets.com/stock/CZNL/company-info">Citizens National Corp.</a> (<a href="http://www.otcmarkets.com/stock/CZNL">CZNL</a>: Pink Current) - Scheduled Ex-Dividend - Citizens National Corp. has announced a dividend ex-date for (CZNL: Pink Current). Citizens National Corp. is scheduled to disburse a Cash Dividend dividend of $0.25 on Tue, Jun 17, 2025 to shareholders of CZNL. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 14:57:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284601]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Citizens National Corp.]]></category>
-<pink:symbol>CZNL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[American Capital Trust I (AMBKP: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284590]]></link>
-<description><![CDATA[Thu, May 22, 2025 02:49 - <a href="http://www.otcmarkets.com/stock/AMBKP/company-info">American Capital Trust I</a> (<a href="http://www.otcmarkets.com/stock/AMBKP">AMBKP</a>: OTC Link) - Scheduled Ex-Dividend - American Capital Trust I has announced a dividend ex-date for (AMBKP: OTC Link). American Capital Trust I is scheduled to disburse a Cash Dividend dividend of $0.1275 on Mon, Jun 16, 2025 to shareholders of AMBKP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 14:49:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284590]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Capital Trust I]]></category>
-<pink:symbol>AMBKP</pink:symbol>
+<category><![CDATA[Automotive Finco Corp.]]></category>
+<pink:symbol>RMIAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[American Bank, Inc. (AMBK: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284589]]></link>
-<description><![CDATA[Thu, May 22, 2025 02:43 - <a href="http://www.otcmarkets.com/stock/AMBK/company-info">American Bank, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AMBK">AMBK</a>: Pink Current) - Scheduled Ex-Dividend - American Bank, Inc. has announced a dividend ex-date for (AMBK: Pink Current). American Bank, Inc. is scheduled to disburse a Cash Dividend dividend of $0.14 on Mon, Jun 16, 2025 to shareholders of AMBK. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 14:43:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284589]]></guid>
+<title><![CDATA[Malaga Financial Corp. (MLGF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284692]]></link>
+<description><![CDATA[Fri, May 23, 2025 03:02 - <a href="http://www.otcmarkets.com/stock/MLGF/company-info">Malaga Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/MLGF">MLGF</a>: Pink Current) - Scheduled Ex-Dividend - Malaga Financial Corp. has announced a dividend ex-date for (MLGF: Pink Current). Malaga Financial Corp. is scheduled to disburse a Cash Dividend dividend of $0.25 on Mon, Jun 23, 2025 to shareholders of MLGF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 15:02:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284692]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Bank, Inc.]]></category>
-<pink:symbol>AMBK</pink:symbol>
+<category><![CDATA[Malaga Financial Corp.]]></category>
+<pink:symbol>MLGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Banco Do Brasil SA (BDORY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284672]]></link>
+<description><![CDATA[Fri, May 23, 2025 02:32 - <a href="http://www.otcmarkets.com/stock/BDORY/company-info">Banco Do Brasil SA</a> (<a href="http://www.otcmarkets.com/stock/BDORY">BDORY</a>: Pink Current) - Scheduled Ex-Dividend - Banco Do Brasil SA has announced a dividend ex-date for (BDORY: Pink Current). Banco Do Brasil SA is scheduled to disburse a Cash Dividend dividend of $0.04871 on Wed, Jun 04, 2025 to shareholders of BDORY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 14:32:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284672]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Banco Do Brasil SA]]></category>
+<pink:symbol>BDORY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Salvatore Ferragamo S.P.A. (SFRGY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284704]]></link>
+<description><![CDATA[Fri, May 23, 2025 02:01 - <a href="http://www.otcmarkets.com/stock/SFRGY/company-info">Salvatore Ferragamo S.P.A.</a> (<a href="http://www.otcmarkets.com/stock/SFRGY">SFRGY</a>: Pink Limited) - Scheduled Ex-Dividend - Salvatore Ferragamo S.P.A. has announced a dividend ex-date for (SFRGY: Pink Limited). Salvatore Ferragamo S.P.A. is scheduled to disburse a Cash Dividend dividend of $0.03047 on Mon, Jun 02, 2025 to shareholders of SFRGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 14:01:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284704]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Salvatore Ferragamo S.P.A.]]></category>
+<pink:symbol>SFRGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Almirall SA (ALMRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284665]]></link>
+<description><![CDATA[Fri, May 23, 2025 01:53 - <a href="http://www.otcmarkets.com/stock/ALMRY/company-info">Almirall SA</a> (<a href="http://www.otcmarkets.com/stock/ALMRY">ALMRY</a>: Pink Limited) - Scheduled Ex-Dividend - Almirall SA has announced a dividend ex-date for (ALMRY: Pink Limited). Almirall SA is scheduled to disburse a Cash Dividend dividend of $0.1266 on Mon, Jun 02, 2025 to shareholders of ALMRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 13:53:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284665]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Almirall SA]]></category>
+<pink:symbol>ALMRY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Israel Discount Bank Ltd. (ISDAY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284686]]></link>
+<description><![CDATA[Fri, May 23, 2025 01:47 - <a href="http://www.otcmarkets.com/stock/ISDAY/company-info">Israel Discount Bank Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ISDAY">ISDAY</a>: Pink Limited) - Scheduled Ex-Dividend - Israel Discount Bank Ltd. has announced a dividend ex-date for (ISDAY: Pink Limited). Israel Discount Bank Ltd. is scheduled to disburse a Cash Dividend dividend of $0.45702 on Mon, Jun 09, 2025 to shareholders of ISDAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 13:47:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284686]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Israel Discount Bank Ltd.]]></category>
+<pink:symbol>ISDAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ballston Spa Bancorp, Inc. (BSPA: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284671]]></link>
+<description><![CDATA[Fri, May 23, 2025 01:07 - <a href="http://www.otcmarkets.com/stock/BSPA/company-info">Ballston Spa Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BSPA">BSPA</a>: Pink Current) - Scheduled Ex-Dividend - Ballston Spa Bancorp, Inc. has announced a dividend ex-date for (BSPA: Pink Current). Ballston Spa Bancorp, Inc. is scheduled to disburse a Cash Dividend dividend of $0.33 on Tue, Jun 03, 2025 to shareholders of BSPA. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 13:07:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284671]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ballston Spa Bancorp, Inc.]]></category>
+<pink:symbol>BSPA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[1st Summit Bancorp Johnstown, Inc. (FSMK: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284681]]></link>
+<description><![CDATA[Fri, May 23, 2025 12:04 - <a href="http://www.otcmarkets.com/stock/FSMK/company-info">1st Summit Bancorp Johnstown, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FSMK">FSMK</a>: Pink Current) - Scheduled Ex-Dividend - 1st Summit Bancorp Johnstown, Inc. has announced a dividend ex-date for (FSMK: Pink Current). 1st Summit Bancorp Johnstown, Inc. is scheduled to disburse a Cash Dividend dividend of $0.43 on Mon, Jun 02, 2025 to shareholders of FSMK. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 12:04:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284681]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1st Summit Bancorp Johnstown, Inc.]]></category>
+<pink:symbol>FSMK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tate & Lyle, PLC (TATYY: OTCQX International) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284708]]></link>
+<description><![CDATA[Fri, May 23, 2025 11:59 - <a href="http://www.otcmarkets.com/stock/TATYY/company-info">Tate & Lyle, PLC</a> (<a href="http://www.otcmarkets.com/stock/TATYY">TATYY</a>: OTCQX International) - Scheduled Ex-Dividend - Tate & Lyle, PLC has announced a dividend ex-date for (TATYY: OTCQX International). Tate & Lyle, PLC is scheduled to disburse a Cash Dividend dividend of $0.66958 on Fri, Jun 20, 2025 to shareholders of TATYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 23 May 2025 11:59:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284708]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tate & Lyle, PLC]]></category>
+<pink:symbol>TATYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[WinVest Acquisition Corp. (WINV: Pink Limited) | Tier Change]]></title>
