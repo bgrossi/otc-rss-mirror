@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat May 24 19:15:27 UTC 2025
+OTC RSS mirror fetched: Sat May 24 19:37:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Sat May 24 19:15:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 24 May 2025 15:06:37 EDT</lastBuildDate>
+<lastBuildDate>Sat, 24 May 2025 15:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[FUNR (FUNR: Pink Current) | Corporate Strategy and new CTO]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FUNR/news?id=478340]]></link>
+<pubDate>Sat, 24 May 2025 15:20:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUNR/news?id=478340]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FUNR]]></category>
+<pink:symbol>FUNR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Drilling commences at the Jennings-Pioneer Project in South Carolina, USA]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=478338]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Sat May 24 19:15:27 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Brainchip Holdings Ltd.]]></category>
 <pink:symbol>BCHPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[American Rare Earths Ltd. (AMRRY: OTCQX International) | Notification for Substantial Shareholder Disclosure]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=478238]]></link>
-<pubDate>Thu, 22 May 2025 20:09:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=478238]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Rare Earths Ltd.]]></category>
-<pink:symbol>AMRRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
