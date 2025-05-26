@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 26 14:55:22 UTC 2025
+OTC RSS mirror fetched: Mon May 26 15:23:09 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon May 26 14:55:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 26 May 2025 10:46:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 11:06:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[KORYX COPPER INC. (KRYXF: OTCQB) | Koryx Copper Announces Further Highly Encouraging Drill Results  at the Haib Copper Project, Southern Namibia]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=478384]]></link>
+<pubDate>Mon, 26 May 2025 11:01:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=478384]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KORYX COPPER INC.]]></category>
+<pink:symbol>KRYXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[HAWK RES LTD (HAWRF: Pink Current) | March 2025 Quarterly Activities & Appendix 5B Cash Flow Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HAWRF/news?id=478361]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon May 26 14:55:22 UTC 2025
 <pink:symbol>SZGPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Swatch Group AG (SWGAY: Pink Limited) | SWGAY - Books will close today, May 23, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=478252]]></link>
-<pubDate>Fri, 23 May 2025 00:44:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SWGAY/news?id=478252]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Swatch Group AG]]></category>
-<pink:symbol>SWGAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
