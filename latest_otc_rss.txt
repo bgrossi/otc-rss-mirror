@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 26 03:58:28 UTC 2025
+OTC RSS mirror fetched: Mon May 26 04:33:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 26 03:58:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 25 May 2025 23:36:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 00:06:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Change of Directors Interests Notice - Turcinov]]></title>
@@ -755,10 +755,10 @@ OTC RSS mirror fetched: Mon May 26 03:58:28 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -766,10 +766,10 @@ OTC RSS mirror fetched: Mon May 26 03:58:28 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -862,138 +862,6 @@ OTC RSS mirror fetched: Mon May 26 03:58:28 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QXO, Inc (QXOBV: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=QXOBV&actionDate=1747998411000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QXOBV/company-info">QXO, Inc</a> (<a href="http://www.otcmarkets.com/stock/QXOBV">QXOBV</a>: OTC Link) - Venue Change - The symbol, QXOBV, no longer trades on Grey Market.  As of Fri, May 23, 2025, QXOBV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 07:06:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=QXOBV&actionDate=1747998411000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QXO, Inc]]></category>
-<pink:symbol>QXOBV</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Svenska Kullagerfabriken AB (SKULF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SKULF&actionDate=1747983203000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SKULF/company-info">Svenska Kullagerfabriken AB</a> (<a href="http://www.otcmarkets.com/stock/SKULF">SKULF</a>: OTC Link) - Venue Change - The symbol, SKULF, no longer trades on Grey Market.  As of Fri, May 23, 2025, SKULF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 02:53:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SKULF&actionDate=1747983203000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Svenska Kullagerfabriken AB]]></category>
-<pink:symbol>SKULF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Entrex Carbon Market,Inc. (NTRXD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NTRXD&actionDate=1747976409000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NTRX/company-info">Entrex Carbon Market,Inc.</a> (<a href="http://www.otcmarkets.com/stock/NTRX">NTRXD</a>: Pink Current) - Symbol Change - The symbol, NTRXD, is no longer a valid symbol for Entrex Carbon Market,Inc..  As of Fri, May 23, 2025, the new trading symbol is NTRX. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NTRXD&actionDate=1747976409000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
-<pink:symbol>NTRX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NEW WAVE HLDGS CORP (TRMND: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRMND&actionDate=1747976403000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRMNF/company-info">NEW WAVE HLDGS CORP</a> (<a href="http://www.otcmarkets.com/stock/TRMNF">TRMND</a>: Pink Current) - Symbol Change - The symbol, TRMND, is no longer a valid symbol for NEW WAVE HLDGS CORP.  As of Fri, May 23, 2025, the new trading symbol is TRMNF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRMND&actionDate=1747976403000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NEW WAVE HLDGS CORP]]></category>
-<pink:symbol>TRMNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OSGBS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OSGBS&actionDate=1747976450000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - OTIS GALLERY LLC. (OSGBS: Grey Market) - Deleted Symbol - As of Fri, May 23, 2025, OSGBS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OSGBS&actionDate=1747976450000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OSGBS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BIO VIEW LTD. (BIVWF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BIVWF&actionDate=1747976450000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - BIO VIEW LTD. (BIVWF: Grey Market) - Deleted Symbol - As of Fri, May 23, 2025, BIVWF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BIVWF&actionDate=1747976450000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BIO VIEW LTD.]]></category>
-<pink:symbol>BIVWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RUBIX RES LTD (RBXRF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RBXRF&actionDate=1747976425000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - RUBIX RES LTD (RBXRF: Grey Market) - Deleted Symbol - As of Fri, May 23, 2025, RBXRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RBXRF&actionDate=1747976425000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RUBIX RES LTD]]></category>
-<pink:symbol>RBXRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LORD RES LTD (LRDLF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LRDLF&actionDate=1747976422000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - LORD RES LTD (LRDLF: OTC Link) - Deleted Symbol - As of Fri, May 23, 2025, LRDLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=LRDLF&actionDate=1747976422000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LORD RES LTD]]></category>
-<pink:symbol>LRDLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Harvest Community Bank (Pennsville, NJ) (HCBP: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HCBP&actionDate=1747976420000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - Harvest Community Bank (Pennsville, NJ) (HCBP: Grey Market) - Deleted Symbol - As of Fri, May 23, 2025, HCBP is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HCBP&actionDate=1747976420000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Harvest Community Bank (Pennsville, NJ)]]></category>
-<pink:symbol>HCBP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OLIVER S REAL FOOD LTD. (OVRFF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OVRFF&actionDate=1747976417000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - OLIVER S REAL FOOD LTD. (OVRFF: OTC Link) - Deleted Symbol - As of Fri, May 23, 2025, OVRFF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OVRFF&actionDate=1747976417000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OLIVER S REAL FOOD LTD.]]></category>
-<pink:symbol>OVRFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BASIN ENERGY LTD. (BSNEF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BSNEF&actionDate=1747976415000]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:00 - BASIN ENERGY LTD. (BSNEF: OTC Link) - Deleted Symbol - As of Fri, May 23, 2025, BSNEF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 01:00:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BSNEF&actionDate=1747976415000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BASIN ENERGY LTD.]]></category>
-<pink:symbol>BSNEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Horizon Kinetics Holding Corporation (HKHC: Pink Current) | Ex-Dividend]]></title>
