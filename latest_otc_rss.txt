@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 05:20:59 UTC 2025
+OTC RSS mirror fetched: Tue May 27 05:43:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 27 05:20:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 01:06:37 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 01:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Bruins Well Stimulation Operations Completed]]></title>
@@ -924,11 +924,23 @@ OTC RSS mirror fetched: Tue May 27 05:20:59 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Simply Better Brands Corp. (SBBCF: OTCQX International) | Symbol Change]]></title>
+<title><![CDATA[TRUBAR INC. (SBBCF: OTCQX International) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBBCF&actionDate=1748322017000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRBRF/company-info">Simply Better Brands Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRBRF">SBBCF</a>: OTCQX International) - Symbol Change - The symbol, SBBCF, is no longer a valid symbol for Simply Better Brands Corp..  As of Tue, May 27, 2025, the new trading symbol is TRBRF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRBRF/company-info">TRUBAR INC.</a> (<a href="http://www.otcmarkets.com/stock/TRBRF">SBBCF</a>: OTCQX International) - Symbol Change - The symbol, SBBCF, is no longer a valid symbol for TRUBAR INC..  As of Tue, May 27, 2025, the new trading symbol is TRBRF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 27 May 2025 01:00:17 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBBCF&actionDate=1748322017000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRUBAR INC.]]></category>
+<pink:symbol>TRBRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Simply Better Brands Corp. (TRBRF: OTCQX International) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TRBRF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRBRF/company-info">Simply Better Brands Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRBRF">TRBRF</a>: OTCQX International) - Company Name Change - Simply Better Brands Corp. has changed its name to TRUBAR INC.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TRBRF&actionDate=1748318400000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Simply Better Brands Corp.]]></category>
 <pink:symbol>TRBRF</pink:symbol>
@@ -936,16 +948,52 @@ OTC RSS mirror fetched: Tue May 27 05:20:59 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Riverside Resources, Inc. New (RVSDF: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Performance Drink Group Inc. (PDPGD: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PDPGD&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PDPGD/company-info">Performance Drink Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/PDPGD">PDPGD</a>: Pink Current) - Company Name Change - Performance Drink Group Inc. has changed its name to Genesis Holding Inc. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PDPGD&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Performance Drink Group Inc.]]></category>
+<pink:symbol>PDPGD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Odyssey Group Intl Inc. (ODYY: OTCQB) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ODYY&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ODYY/company-info">Odyssey Group Intl Inc.</a> (<a href="http://www.otcmarkets.com/stock/ODYY">ODYY</a>: OTCQB) - Company Name Change - Odyssey Group Intl Inc. has changed its name to Odyssey Health Inc.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ODYY&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Odyssey Group Intl Inc.]]></category>
+<pink:symbol>ODYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Errawarra Res Ltd (ERWWF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ERWWF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ERWWF/company-info">Errawarra Res Ltd</a> (<a href="http://www.otcmarkets.com/stock/ERWWF">ERWWF</a>: Pink Current) - Company Name Change - Errawarra Res Ltd has changed its name to WEST COAST SILVER LTD.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ERWWF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Errawarra Res Ltd]]></category>
+<pink:symbol>ERWWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Riverside Resources, Inc. New (RVSDF: Grey Market) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RVSDF&actionDate=1748322049000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - Riverside Resources, Inc. New (RVSDF: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, RVSDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 27, 2025 12:00 - Riverside Resources, Inc. New (RVSDF: Grey Market) - Deleted Symbol - As of Tue, May 27, 2025, RVSDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 27 May 2025 01:00:49 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RVSDF&actionDate=1748322049000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Riverside Resources, Inc. New]]></category>
 <pink:symbol>RVSDF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sinolink Worldwide Holdings Ltd. (SNLKF: OTC Link) | Deleted Symbol]]></title>
@@ -996,13 +1044,13 @@ OTC RSS mirror fetched: Tue May 27 05:20:59 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Performance Drink Group Inc. (PDPG: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Genesis Holding Inc (PDPG: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PDPG&actionDate=1748322028000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - Performance Drink Group Inc. (PDPG: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, PDPG is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 27, 2025 12:00 - Genesis Holding Inc (PDPG: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, PDPG is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 27 May 2025 01:00:28 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PDPG&actionDate=1748322028000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Performance Drink Group Inc.]]></category>
+<category><![CDATA[Genesis Holding Inc]]></category>
 <pink:symbol>PDPG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
