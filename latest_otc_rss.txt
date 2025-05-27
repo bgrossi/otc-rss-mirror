@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 17:19:07 UTC 2025
+OTC RSS mirror fetched: Tue May 27 17:40:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 27 17:19:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 13:06:38 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 13:26:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[CORDYCEPS SUNSHINE BIOTECH HOLDINGS CO., LTD. (RAJAF: OTCQB) | 【C.S Group】: Launches Antcin A-Based Veterinary Drug Initiative Across Taiwan and China]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RAJAF/news?id=478532]]></link>
+<pubDate>Tue, 27 May 2025 13:26:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RAJAF/news?id=478532]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CORDYCEPS SUNSHINE BIOTECH HOLDINGS CO., LTD.]]></category>
+<pink:symbol>RAJAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478531]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 27 17:19:07 UTC 2025
 <pink:symbol>LUMB</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Somerset Trust Holding Co. (SOME: Pink Current) | Results of Annual Shareholder Meeting and Board Org. Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SOME/news?id=478327]]></link>
-<pubDate>Fri, 23 May 2025 15:29:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SOME/news?id=478327]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Somerset Trust Holding Co.]]></category>
-<pink:symbol>SOME</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
