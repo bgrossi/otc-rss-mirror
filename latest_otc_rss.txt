@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 01:45:52 UTC 2025
+OTC RSS mirror fetched: Tue May 27 03:11:56 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 27 01:45:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 26 May 2025 21:36:38 EDT</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 23:06:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Bruins Well Stimulation Operations Completed]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=478400]]></link>
+<pubDate>Mon, 26 May 2025 22:36:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=478400]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookside Energy Ltd.]]></category>
+<pink:symbol>RDFEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Change of Directors Interests Notice - Viana]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478397]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 27 01:45:52 UTC 2025
 <pink:symbol>MTMCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Euronext NV (ERNXY: Pink Limited) | ERNXY - Books will close on May 26, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ERNXY/news?id=478254]]></link>
-<pubDate>Fri, 23 May 2025 00:45:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ERNXY/news?id=478254]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Euronext NV]]></category>
-<pink:symbol>ERNXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
