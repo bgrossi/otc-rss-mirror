@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
+OTC RSS mirror fetched: Tue May 27 11:39:13 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 07:06:38 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 07:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Sentinel Holdings Ltd. (SNTL: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSWCF&actionDate=1748345583000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTC Link) - Venue Change - The symbol, TSWCF, no longer trades on Grey Market.  As of Tue, May 27, 2025, TSWCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 07:33:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSWCF&actionDate=1748345583000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Great Wall Pan Asia Hldgs Ltd. (GRWWF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRWWF&actionDate=1748345521000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRWWF/company-info">Great Wall Pan Asia Hldgs Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRWWF">GRWWF</a>: OTC Link) - Venue Change - The symbol, GRWWF, no longer trades on Grey Market.  As of Tue, May 27, 2025, GRWWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 07:32:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRWWF&actionDate=1748345521000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Great Wall Pan Asia Hldgs Ltd.]]></category>
+<pink:symbol>GRWWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLD HART COPPER CORP. (GHCCF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GHCCF&actionDate=1748345492000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GHCCF/company-info">GOLD HART COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/GHCCF">GHCCF</a>: OTC Link) - Venue Change - The symbol, GHCCF, no longer trades on Grey Market.  As of Tue, May 27, 2025, GHCCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 07:31:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GHCCF&actionDate=1748345492000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLD HART COPPER CORP.]]></category>
+<pink:symbol>GHCCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Vast Renewables Limited (VSTEW: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTEW&actionDate=1748322048000]]></link>
 <description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTEW/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTEW">VSTEW</a>: OTC Link) - Venue Change - The symbol, VSTEW, no longer trades on Nasdaq.  As of Tue, May 27, 2025, VSTEW trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -1488,6 +1524,18 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: Pink Current) - Tier Change - The symbol, TSWCF, no longer is classified as Grey Market.  As of Tue, May 27, 2025, TSWCF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tsuruha Holdings, Inc. (TSUSF: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSUSF&actionDate=1748318400000]]></link>
 <description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSUSF/company-info">Tsuruha Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSUSF">TSUSF</a>: Pink Limited) - Tier Change - The symbol, TSUSF, no longer is classified as Expert Market.  As of Tue, May 27, 2025, TSUSF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1536,6 +1584,18 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Great Wall Pan Asia Hldgs Ltd. (GRWWF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRWWF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRWWF/company-info">Great Wall Pan Asia Hldgs Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRWWF">GRWWF</a>: Pink Current) - Tier Change - The symbol, GRWWF, no longer is classified as Grey Market.  As of Tue, May 27, 2025, GRWWF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRWWF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Great Wall Pan Asia Hldgs Ltd.]]></category>
+<pink:symbol>GRWWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Greenheart Gold Inc. (GHRTF: OTCQX International) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GHRTF&actionDate=1748318400000]]></link>
 <description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GHRTF/company-info">Greenheart Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/GHRTF">GHRTF</a>: OTCQX International) - Tier Change - The symbol, GHRTF, no longer is classified as OTCQB.  As of Tue, May 27, 2025, GHRTF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1546,6 +1606,18 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 <pink:symbol>GHRTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLD HART COPPER CORP. (GHCCF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GHCCF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GHCCF/company-info">GOLD HART COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/GHCCF">GHCCF</a>: Pink Current) - Tier Change - The symbol, GHCCF, no longer is classified as Grey Market.  As of Tue, May 27, 2025, GHCCF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GHCCF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLD HART COPPER CORP.]]></category>
+<pink:symbol>GHCCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[EXAIL TECHNOLOGIES (EXALF: OTCQX International) | Tier Change]]></title>
@@ -1568,42 +1640,6 @@ OTC RSS mirror fetched: Tue May 27 11:18:06 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Can Do Co., Ltd.]]></category>
 <pink:symbol>CCDOF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Barrel Energy Inc (BRLL: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRLL&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRLL/company-info">Barrel Energy Inc</a> (<a href="http://www.otcmarkets.com/stock/BRLL">BRLL</a>: Pink Current) - Tier Change - The symbol, BRLL, no longer is classified as Pink Limited.  As of Tue, May 27, 2025, BRLL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRLL&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Barrel Energy Inc]]></category>
-<pink:symbol>BRLL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Standard Dental Labs Inc. (TUTH: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TUTH&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TUTH/company-info">Standard Dental Labs Inc.</a> (<a href="http://www.otcmarkets.com/stock/TUTH">TUTH</a>: Pink Current) - Tier Change - The symbol, TUTH, no longer is classified as Pink Limited.  As of Mon, May 26, 2025, TUTH resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TUTH&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Standard Dental Labs Inc.]]></category>
-<pink:symbol>TUTH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SFS GROUP AG (SFSLF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SFSLF&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFSLF/company-info">SFS GROUP AG</a> (<a href="http://www.otcmarkets.com/stock/SFSLF">SFSLF</a>: Pink Limited) - Tier Change - The symbol, SFSLF, no longer is classified as Grey Market.  As of Mon, May 26, 2025, SFSLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SFSLF&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SFS GROUP AG]]></category>
-<pink:symbol>SFSLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
