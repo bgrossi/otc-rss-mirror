@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 20:23:35 UTC 2025
+OTC RSS mirror fetched: Tue May 27 20:42:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 27 20:23:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 16:06:38 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 16:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Troubadour Resources Inc. (TROUF: OTCQB) | Troubadour Resources Secures Government Approval with ATI Permit for Senneville Copper-Gold Project in Val-d’Or]]></title>
@@ -1212,6 +1212,18 @@ OTC RSS mirror fetched: Tue May 27 20:23:35 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[DEFINITY FINL CORP. (DFYFF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DFYFF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DFYFF/company-info">DEFINITY FINL CORP.</a> (<a href="http://www.otcmarkets.com/stock/DFYFF">DFYFF</a>: Pink Current) - Halted Security -  Effective Tue, May 27, 2025, DFYFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DFYFF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DEFINITY FINL CORP.]]></category>
+<pink:symbol>DFYFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Vast Renewables Limited (VSTEW: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTEW&actionDate=1748318400000]]></link>
 <description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTEW/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTEW">VSTEW</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 27, 2025, VSTEW is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1428,6 +1440,30 @@ OTC RSS mirror fetched: Tue May 27 20:23:35 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Mapfre SA (MPFRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284711]]></link>
+<description><![CDATA[Tue, May 27, 2025 04:15 - <a href="http://www.otcmarkets.com/stock/MPFRY/company-info">Mapfre SA</a> (<a href="http://www.otcmarkets.com/stock/MPFRY">MPFRY</a>: Pink Limited) - Scheduled Ex-Dividend - Mapfre SA has announced a dividend ex-date for (MPFRY: Pink Limited). Mapfre SA is scheduled to disburse a Cash Dividend dividend of $0.12655 on Wed, May 28, 2025 to shareholders of MPFRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 16:15:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284711]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mapfre SA]]></category>
+<pink:symbol>MPFRY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Mapfre SA (MPFRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283893]]></link>
+<description><![CDATA[Tue, May 27, 2025 04:15 - <a href="http://www.otcmarkets.com/stock/MPFRY/company-info">Mapfre SA</a> (<a href="http://www.otcmarkets.com/stock/MPFRY">MPFRY</a>: Pink Limited) - Scheduled Ex-Dividend - Mapfre SA has announced a dividend ex-date for (MPFRY: Pink Limited). Mapfre SA is scheduled to disburse a Cash Dividend dividend of $0.12627 on Wed, May 28, 2025 to shareholders of MPFRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 16:15:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=283893]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mapfre SA]]></category>
+<pink:symbol>MPFRY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Anglo American plc (NGLOY: OTCQX International) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284710]]></link>
 <description><![CDATA[Fri, May 23, 2025 08:26 - <a href="http://www.otcmarkets.com/stock/NGLOY/company-info">Anglo American plc</a> (<a href="http://www.otcmarkets.com/stock/NGLOY">NGLOY</a>: OTCQX International) - Scheduled Ex-Dividend - Anglo American plc has announced a dividend ex-date for (NGLOY: OTCQX International). Anglo American plc is scheduled to disburse a Stock Div. payable in another Company dividend of null on Fri, May 30, 2025 to shareholders of NGLOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1522,30 +1558,6 @@ OTC RSS mirror fetched: Tue May 27 20:23:35 UTC 2025
 <pink:symbol>BSPA</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[1st Summit Bancorp Johnstown, Inc. (FSMK: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284681]]></link>
-<description><![CDATA[Fri, May 23, 2025 12:04 - <a href="http://www.otcmarkets.com/stock/FSMK/company-info">1st Summit Bancorp Johnstown, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FSMK">FSMK</a>: Pink Current) - Scheduled Ex-Dividend - 1st Summit Bancorp Johnstown, Inc. has announced a dividend ex-date for (FSMK: Pink Current). 1st Summit Bancorp Johnstown, Inc. is scheduled to disburse a Cash Dividend dividend of $0.43 on Mon, Jun 02, 2025 to shareholders of FSMK. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 12:04:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284681]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[1st Summit Bancorp Johnstown, Inc.]]></category>
-<pink:symbol>FSMK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tate & Lyle, PLC (TATYY: OTCQX International) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284708]]></link>
-<description><![CDATA[Fri, May 23, 2025 11:59 - <a href="http://www.otcmarkets.com/stock/TATYY/company-info">Tate & Lyle, PLC</a> (<a href="http://www.otcmarkets.com/stock/TATYY">TATYY</a>: OTCQX International) - Scheduled Ex-Dividend - Tate & Lyle, PLC has announced a dividend ex-date for (TATYY: OTCQX International). Tate & Lyle, PLC is scheduled to disburse a Cash Dividend dividend of $0.66958 on Fri, Jun 20, 2025 to shareholders of TATYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 23 May 2025 11:59:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284708]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tate & Lyle, PLC]]></category>
-<pink:symbol>TATYY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[The Smarter Web Company PLC (TSWCF: Pink Current) | Tier Change]]></title>
