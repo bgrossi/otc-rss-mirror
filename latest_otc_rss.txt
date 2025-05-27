@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon May 26 23:52:10 UTC 2025
+OTC RSS mirror fetched: Tue May 27 01:45:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon May 26 23:52:10 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 26 May 2025 19:36:38 EDT</lastBuildDate>
+<lastBuildDate>Mon, 26 May 2025 21:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Change of Directors Interests Notice - Viana]]></title>
@@ -924,124 +924,124 @@ OTC RSS mirror fetched: Mon May 26 23:52:10 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Horizon Kinetics Holding Corporation (HKHC: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169508]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/HKHC/company-info">Horizon Kinetics Holding Corporation</a> (<a href="http://www.otcmarkets.com/stock/HKHC">HKHC</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, Horizon Kinetics Holding Corporation traded ex-dividend. Horizon Kinetics Holding Corporation will disburse a Cash Dividend dividend of $0.056 to shareholders of HKHC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169508]]></guid>
+<title><![CDATA[UNIVERSAL MUSIC GROUP (UNVGY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169562]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/UNVGY/company-info">UNIVERSAL MUSIC GROUP</a> (<a href="http://www.otcmarkets.com/stock/UNVGY">UNVGY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, UNIVERSAL MUSIC GROUP traded ex-dividend. UNIVERSAL MUSIC GROUP will disburse a Cash Dividend dividend of $0.10178 to shareholders of UNVGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169562]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Horizon Kinetics Holding Corporation]]></category>
-<pink:symbol>HKHC</pink:symbol>
+<category><![CDATA[UNIVERSAL MUSIC GROUP]]></category>
+<pink:symbol>UNVGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Minerva S.A. (MRVSY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169561]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/MRVSY/company-info">Minerva S.A.</a> (<a href="http://www.otcmarkets.com/stock/MRVSY">MRVSY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 27, 2025, Minerva S.A. traded ex-dividend. Minerva S.A. will disburse a Cash Dividend dividend of $0.12981 to shareholders of MRVSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169561]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Minerva S.A.]]></category>
+<pink:symbol>MRVSY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[International Paper Company (INPAP: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169507]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/INPAP/company-info">International Paper Company</a> (<a href="http://www.otcmarkets.com/stock/INPAP">INPAP</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, International Paper Company traded ex-dividend. International Paper Company will disburse a Cash Dividend dividend of $1 to shareholders of INPAP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169507]]></guid>
+<title><![CDATA[IMERYS SA (IMYSY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169560]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/IMYSY/company-info">IMERYS SA</a> (<a href="http://www.otcmarkets.com/stock/IMYSY">IMYSY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, IMERYS SA traded ex-dividend. IMERYS SA will disburse a Cash Dividend dividend of $0.1933 to shareholders of IMYSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169560]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[International Paper Company]]></category>
-<pink:symbol>INPAP</pink:symbol>
+<category><![CDATA[IMERYS SA]]></category>
+<pink:symbol>IMYSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Solvay S.A. (SLVYY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169559]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SLVYY/company-info">Solvay S.A.</a> (<a href="http://www.otcmarkets.com/stock/SLVYY">SLVYY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, Solvay S.A. traded ex-dividend. Solvay S.A. will disburse a Cash Dividend dividend of $0.08161 to shareholders of SLVYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169559]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Solvay S.A.]]></category>
+<pink:symbol>SLVYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Mount Logan Cap Corp. (PYCFF: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169558]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PYCFF/company-info">Mount Logan Cap Corp.</a> (<a href="http://www.otcmarkets.com/stock/PYCFF">PYCFF</a>: Pink Current) - Ex-Dividend -  As of Tue, May 27, 2025, Mount Logan Cap Corp. traded ex-dividend. Mount Logan Cap Corp. will disburse a Cash Dividend dividend of $0.02 to shareholders of PYCFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169558]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mount Logan Cap Corp.]]></category>
+<pink:symbol>PYCFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Thai Beverage Public Co., Ltd. (TBVPY: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169506]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/TBVPY/company-info">Thai Beverage Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TBVPY">TBVPY</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, Thai Beverage Public Co., Ltd. traded ex-dividend. Thai Beverage Public Co., Ltd. will disburse a Cash Dividend dividend of $0.33623 to shareholders of TBVPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169506]]></guid>
+<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169557]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/HCMLY/company-info">HOLCIM LTD</a> (<a href="http://www.otcmarkets.com/stock/HCMLY">HCMLY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, HOLCIM LTD traded ex-dividend. HOLCIM LTD will disburse a Cash Dividend dividend of $0.69216 to shareholders of HCMLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169557]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Thai Beverage Public Co., Ltd.]]></category>
-<pink:symbol>TBVPY</pink:symbol>
+<category><![CDATA[HOLCIM LTD]]></category>
+<pink:symbol>HCMLY</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Pinnacle Bankshares Corp. (PPBN: OTCQX U.S.) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169505]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PPBN/company-info">Pinnacle Bankshares Corp.</a> (<a href="http://www.otcmarkets.com/stock/PPBN">PPBN</a>: OTCQX U.S.) - Ex-Dividend -  As of Fri, May 23, 2025, Pinnacle Bankshares Corp. traded ex-dividend. Pinnacle Bankshares Corp. will disburse a Cash Dividend dividend of $0.26 to shareholders of PPBN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169505]]></guid>
+<title><![CDATA[Consumers Bancorp, Inc. (CBKM: OTCQX U.S.) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169556]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CBKM/company-info">Consumers Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CBKM">CBKM</a>: OTCQX U.S.) - Ex-Dividend -  As of Tue, May 27, 2025, Consumers Bancorp, Inc. traded ex-dividend. Consumers Bancorp, Inc. will disburse a Cash Dividend dividend of $0.19 to shareholders of CBKM. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169556]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pinnacle Bankshares Corp.]]></category>
-<pink:symbol>PPBN</pink:symbol>
+<category><![CDATA[Consumers Bancorp, Inc.]]></category>
+<pink:symbol>CBKM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NV Bekaert SA (BEKAY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169504]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/BEKAY/company-info">NV Bekaert SA</a> (<a href="http://www.otcmarkets.com/stock/BEKAY">BEKAY</a>: Pink Limited) - Ex-Dividend -  As of Fri, May 23, 2025, NV Bekaert SA traded ex-dividend. NV Bekaert SA will disburse a Cash Dividend dividend of $0.10185 to shareholders of BEKAY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169504]]></guid>
+<title><![CDATA[Euronext NV (ERNXY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169555]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ERNXY/company-info">Euronext NV</a> (<a href="http://www.otcmarkets.com/stock/ERNXY">ERNXY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, Euronext NV traded ex-dividend. Euronext NV will disburse a Cash Dividend dividend of $0.4827 to shareholders of ERNXY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169555]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NV Bekaert SA]]></category>
-<pink:symbol>BEKAY</pink:symbol>
+<category><![CDATA[Euronext NV]]></category>
+<pink:symbol>ERNXY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Globe Telecom, Inc. (GTMEY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169503]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/GTMEY/company-info">Globe Telecom, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GTMEY">GTMEY</a>: Pink Limited) - Ex-Dividend -  As of Fri, May 23, 2025, Globe Telecom, Inc. traded ex-dividend. Globe Telecom, Inc. will disburse a Cash Dividend dividend of $0.25158 to shareholders of GTMEY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169503]]></guid>
+<title><![CDATA[Erste Group Bank AG (EBKDY: Pink Current) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169554]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/EBKDY/company-info">Erste Group Bank AG</a> (<a href="http://www.otcmarkets.com/stock/EBKDY">EBKDY</a>: Pink Current) - Ex-Dividend -  As of Tue, May 27, 2025, Erste Group Bank AG traded ex-dividend. Erste Group Bank AG will disburse a Cash Dividend dividend of $1.16572 to shareholders of EBKDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169554]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Globe Telecom, Inc.]]></category>
-<pink:symbol>GTMEY</pink:symbol>
+<category><![CDATA[Erste Group Bank AG]]></category>
+<pink:symbol>EBKDY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DNO ASA (DTNOY: Pink Limited) | Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169553]]></link>
+<description><![CDATA[Mon, May 26, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/DTNOY/company-info">DNO ASA</a> (<a href="http://www.otcmarkets.com/stock/DTNOY">DTNOY</a>: Pink Limited) - Ex-Dividend -  As of Tue, May 27, 2025, DNO ASA traded ex-dividend. DNO ASA will disburse a Cash Dividend dividend of $0.16485 to shareholders of DTNOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 26 May 2025 20:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169553]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DNO ASA]]></category>
+<pink:symbol>DTNOY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Central Bancompany (CBCY: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169502]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/CBCY/company-info">Central Bancompany</a> (<a href="http://www.otcmarkets.com/stock/CBCY">CBCY</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, Central Bancompany traded ex-dividend. Central Bancompany will disburse a Cash Dividend dividend of $2.75 to shareholders of CBCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169502]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Central Bancompany]]></category>
-<pink:symbol>CBCY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Economic Investment Trust Limited (ECVTF: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169501]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ECVTF/company-info">Economic Investment Trust Limited</a> (<a href="http://www.otcmarkets.com/stock/ECVTF">ECVTF</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, Economic Investment Trust Limited traded ex-dividend. Economic Investment Trust Limited will disburse a Stock Dividend/Split dividend of 10 shares to shareholders of ECVTF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169501]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Economic Investment Trust Limited]]></category>
-<pink:symbol>ECVTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Puma SE (PUMSY: Pink Limited) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169500]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/PUMSY/company-info">Puma SE</a> (<a href="http://www.otcmarkets.com/stock/PUMSY">PUMSY</a>: Pink Limited) - Ex-Dividend -  As of Fri, May 23, 2025, Puma SE traded ex-dividend. Puma SE will disburse a Cash Dividend dividend of $0.04305 to shareholders of PUMSY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169500]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Puma SE]]></category>
-<pink:symbol>PUMSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DR ING H C F PORSCHE AG (DRPRY: Pink Current) | Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169499]]></link>
-<description><![CDATA[Thu, May 22, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/DRPRY/company-info">DR ING H C F PORSCHE AG</a> (<a href="http://www.otcmarkets.com/stock/DRPRY">DRPRY</a>: Pink Current) - Ex-Dividend -  As of Fri, May 23, 2025, DR ING H C F PORSCHE AG traded ex-dividend. DR ING H C F PORSCHE AG will disburse a Cash Dividend dividend of $0.14157 to shareholders of DRPRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 22 May 2025 20:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169499]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DR ING H C F PORSCHE AG]]></category>
-<pink:symbol>DRPRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Anglo American plc (NGLOY: OTCQX International) | Scheduled Ex-Dividend]]></title>
