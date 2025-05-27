@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 19:16:38 UTC 2025
+OTC RSS mirror fetched: Tue May 27 19:37:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue May 27 19:16:38 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 15:06:38 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 15:26:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Troubadour Resources Inc. (TROUF: OTCQB) | Troubadour Resources Secures Government Approval with ATI Permit for Senneville Copper-Gold Project in Val-d’Or]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TROUF/news?id=478541]]></link>
+<pubDate>Tue, 27 May 2025 15:22:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TROUF/news?id=478541]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Troubadour Resources Inc.]]></category>
+<pink:symbol>TROUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Golden Energy Offshore Services ASA (GEOUF: OTCQB) | Notice of Annual General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GEOUF/news?id=478536]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue May 27 19:16:38 UTC 2025
 <pink:symbol>FUNR</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Drilling commences at the Jennings-Pioneer Project in South Carolina, USA]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=478338]]></link>
-<pubDate>Sat, 24 May 2025 04:24:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=478338]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lexington Gold Ltd.]]></category>
-<pink:symbol>LEXLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
