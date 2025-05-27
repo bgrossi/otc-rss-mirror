@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
+OTC RSS mirror fetched: Tue May 27 07:23:20 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 27 May 2025 02:36:38 EDT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 03:07:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize share buyback update]]></title>
@@ -1080,6 +1080,78 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Vast Renewables Limited (VSTEW: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTEW&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTEW/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTEW">VSTEW</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 27, 2025, VSTEW is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTEW&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vast Renewables Limited]]></category>
+<pink:symbol>VSTEW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Vast Renewables Limited (VSTE: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTE&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTE/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTE">VSTE</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 27, 2025, VSTE is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTE&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Vast Renewables Limited]]></category>
+<pink:symbol>VSTE</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tsuruha Holdings, Inc. (TSUSF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSUSF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSUSF/company-info">Tsuruha Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSUSF">TSUSF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, TSUSF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSUSF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tsuruha Holdings, Inc.]]></category>
+<pink:symbol>TSUSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MRCB UILL REIT (QULLF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QULLF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QULLF/company-info">MRCB UILL REIT</a> (<a href="http://www.otcmarkets.com/stock/QULLF">QULLF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, QULLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QULLF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MRCB UILL REIT]]></category>
+<pink:symbol>QULLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AKEWL (MGCUF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MGCUF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGCUF/company-info">AKEWL</a> (<a href="http://www.otcmarkets.com/stock/MGCUF">MGCUF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, MGCUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MGCUF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AKEWL]]></category>
+<pink:symbol>MGCUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Can Do Co., Ltd. (CCDOF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CCDOF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCDOF/company-info">Can Do Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CCDOF">CCDOF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, CCDOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CCDOF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Can Do Co., Ltd.]]></category>
+<pink:symbol>CCDOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SFS GROUP AG (SFSLF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SFSLF&actionDate=1748232000000]]></link>
 <description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SFSLF/company-info">SFS GROUP AG</a> (<a href="http://www.otcmarkets.com/stock/SFSLF">SFSLF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 26, 2025, SFSLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1102,18 +1174,6 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 <pink:symbol>FMBRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[COSCO CAP INC. (CSTCF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CSTCF&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSTCF/company-info">COSCO CAP INC.</a> (<a href="http://www.otcmarkets.com/stock/CSTCF">CSTCF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, May 26, 2025, CSTCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CSTCF&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[COSCO CAP INC.]]></category>
-<pink:symbol>CSTCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[UNIVERSAL MUSIC GROUP (UNVGY: Pink Limited) | Ex-Dividend]]></title>
@@ -1356,6 +1416,42 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Tsuruha Holdings, Inc. (TSUSF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSUSF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSUSF/company-info">Tsuruha Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSUSF">TSUSF</a>: Pink Limited) - Tier Change - The symbol, TSUSF, no longer is classified as Expert Market.  As of Tue, May 27, 2025, TSUSF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSUSF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tsuruha Holdings, Inc.]]></category>
+<pink:symbol>TSUSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MRCB UILL REIT (QULLF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QULLF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QULLF/company-info">MRCB UILL REIT</a> (<a href="http://www.otcmarkets.com/stock/QULLF">QULLF</a>: Pink Limited) - Tier Change - The symbol, QULLF, no longer is classified as Expert Market.  As of Tue, May 27, 2025, QULLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QULLF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MRCB UILL REIT]]></category>
+<pink:symbol>QULLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AKEWL (MGCUF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGCUF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGCUF/company-info">AKEWL</a> (<a href="http://www.otcmarkets.com/stock/MGCUF">MGCUF</a>: Pink Limited) - Tier Change - The symbol, MGCUF, no longer is classified as Expert Market.  As of Tue, May 27, 2025, MGCUF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGCUF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AKEWL]]></category>
+<pink:symbol>MGCUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Kumyang Co., Ltd. (KMYGY: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KMYGY&actionDate=1748318400000]]></link>
 <description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KMYGY/company-info">Kumyang Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KMYGY">KMYGY</a>: Pink Current) - Tier Change - The symbol, KMYGY, no longer is classified as OTCQX International.  As of Tue, May 27, 2025, KMYGY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1392,6 +1488,30 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Can Do Co., Ltd. (CCDOF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CCDOF&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCDOF/company-info">Can Do Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CCDOF">CCDOF</a>: Pink Limited) - Tier Change - The symbol, CCDOF, no longer is classified as Expert Market.  As of Tue, May 27, 2025, CCDOF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CCDOF&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Can Do Co., Ltd.]]></category>
+<pink:symbol>CCDOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Barrel Energy Inc (BRLL: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRLL&actionDate=1748318400000]]></link>
+<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRLL/company-info">Barrel Energy Inc</a> (<a href="http://www.otcmarkets.com/stock/BRLL">BRLL</a>: Pink Current) - Tier Change - The symbol, BRLL, no longer is classified as Pink Limited.  As of Tue, May 27, 2025, BRLL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BRLL&actionDate=1748318400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Barrel Energy Inc]]></category>
+<pink:symbol>BRLL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Standard Dental Labs Inc. (TUTH: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TUTH&actionDate=1748232000000]]></link>
 <description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TUTH/company-info">Standard Dental Labs Inc.</a> (<a href="http://www.otcmarkets.com/stock/TUTH">TUTH</a>: Pink Current) - Tier Change - The symbol, TUTH, no longer is classified as Pink Limited.  As of Mon, May 26, 2025, TUTH resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1414,66 +1534,6 @@ OTC RSS mirror fetched: Tue May 27 06:55:57 UTC 2025
 <pink:symbol>SFSLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MC Endeavors, Inc. (MSMY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MSMY&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MSMY/company-info">MC Endeavors, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MSMY">MSMY</a>: Pink Current) - Tier Change - The symbol, MSMY, no longer is classified as Pink Limited.  As of Mon, May 26, 2025, MSMY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MSMY&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MC Endeavors, Inc.]]></category>
-<pink:symbol>MSMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Magnis Energy Technologies Ltd. (MNSEF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNSEF&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MNSEF/company-info">Magnis Energy Technologies Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MNSEF">MNSEF</a>: Pink Current) - Tier Change - The symbol, MNSEF, no longer is classified as Expert Market.  As of Mon, May 26, 2025, MNSEF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNSEF&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Magnis Energy Technologies Ltd.]]></category>
-<pink:symbol>MNSEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Lamperd Less Lethal Inc. (LLLI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LLLI&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LLLI/company-info">Lamperd Less Lethal Inc.</a> (<a href="http://www.otcmarkets.com/stock/LLLI">LLLI</a>: Pink Current) - Tier Change - The symbol, LLLI, no longer is classified as Pink Limited.  As of Mon, May 26, 2025, LLLI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LLLI&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lamperd Less Lethal Inc.]]></category>
-<pink:symbol>LLLI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Famous Brands Ltd (FMBRF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FMBRF&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMBRF/company-info">Famous Brands Ltd</a> (<a href="http://www.otcmarkets.com/stock/FMBRF">FMBRF</a>: Pink Current) - Tier Change - The symbol, FMBRF, no longer is classified as Grey Market.  As of Mon, May 26, 2025, FMBRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FMBRF&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Famous Brands Ltd]]></category>
-<pink:symbol>FMBRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dear Cashmere Holding Co. (DRCR: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRCR&actionDate=1748232000000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DRCR/company-info">Dear Cashmere Holding Co.</a> (<a href="http://www.otcmarkets.com/stock/DRCR">DRCR</a>: Pink Current) - Tier Change - The symbol, DRCR, no longer is classified as Pink Limited.  As of Mon, May 26, 2025, DRCR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRCR&actionDate=1748232000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dear Cashmere Holding Co.]]></category>
-<pink:symbol>DRCR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
