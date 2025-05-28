@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
+OTC RSS mirror fetched: Wed May 28 13:22:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 08:26:38 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 09:06:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Director/PDMR Shareholdings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478647]]></link>
+<pubDate>Wed, 28 May 2025 09:01:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478647]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[United Internet AG (UDIRY: Pink Current) | UDIRY - Books will close today, May 28, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/UDIRY/news?id=478634]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
 <pink:symbol>BCHPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[KORYX COPPER INC. (KRYXF: OTCQB) | Koryx Copper Announces Further Highly Encouraging Drill Results  at the Haib Copper Project, Southern Namibia]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=478384]]></link>
-<pubDate>Mon, 26 May 2025 11:01:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=478384]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KORYX COPPER INC.]]></category>
-<pink:symbol>KRYXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1272,16 +1272,16 @@ OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Riverside Resources, Inc. New (RVSDF: Grey Market) | Deleted Symbol]]></title>
+<title><![CDATA[Riverside Resources, Inc. New (RVSDF: Pink Current) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RVSDF&actionDate=1748322049000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - Riverside Resources, Inc. New (RVSDF: Grey Market) - Deleted Symbol - As of Tue, May 27, 2025, RVSDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Tue, May 27, 2025 12:00 - Riverside Resources, Inc. New (RVSDF: Pink Current) - Deleted Symbol - As of Tue, May 27, 2025, RVSDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Tue, 27 May 2025 01:00:49 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RVSDF&actionDate=1748322049000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Riverside Resources, Inc. New]]></category>
 <pink:symbol>RVSDF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Sinolink Worldwide Holdings Ltd. (SNLKF: OTC Link) | Deleted Symbol]]></title>
@@ -1342,6 +1342,18 @@ OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
 <pink:symbol>PDPG</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BELGRAVIA HARTFORD CAP INC. (BLGVF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BLGVF&actionDate=1748404800000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BLGVF/company-info">BELGRAVIA HARTFORD CAP INC.</a> (<a href="http://www.otcmarkets.com/stock/BLGVF">BLGVF</a>: Pink Current) - Halted Security -  Effective Wed, May 28, 2025, BLGVF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BLGVF&actionDate=1748404800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BELGRAVIA HARTFORD CAP INC.]]></category>
+<pink:symbol>BLGVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Halted Security]]></title>
@@ -1752,16 +1764,16 @@ OTC RSS mirror fetched: Wed May 28 12:44:39 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[RIVERSIDE RES INC CDA (RVSDF: Grey Market) | Tier Change]]></title>
+<title><![CDATA[RIVERSIDE RES INC CDA (RVSDF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RVSDF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RVSDF/company-info">RIVERSIDE RES INC CDA</a> (<a href="http://www.otcmarkets.com/stock/RVSDF">RVSDF</a>: Grey Market) - Tier Change - The symbol, RVSDF, no longer is classified as Grey Market.  As of Wed, May 28, 2025, RVSDF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RVSDF/company-info">RIVERSIDE RES INC CDA</a> (<a href="http://www.otcmarkets.com/stock/RVSDF">RVSDF</a>: Pink Current) - Tier Change - The symbol, RVSDF, no longer is classified as Grey Market.  As of Wed, May 28, 2025, RVSDF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RVSDF&actionDate=1748404800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[RIVERSIDE RES INC CDA]]></category>
 <pink:symbol>RVSDF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Tier Change]]></title>
