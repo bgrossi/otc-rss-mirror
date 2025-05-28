@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 19:37:59 UTC 2025
+OTC RSS mirror fetched: Wed May 28 19:51:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 28 19:37:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 15:26:38 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 15:46:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Minco Silver Corp. (MISVF: OTCQX International) | Minco Silver Corporation Receives Final Loan Payment from Longxin Mining Co.,Ltd.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MISVF/news?id=478687]]></link>
+<pubDate>Wed, 28 May 2025 15:34:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MISVF/news?id=478687]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Minco Silver Corp.]]></category>
+<pink:symbol>MISVF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | CEO TOMAS BRENNAN COMMENCES OPEN MARKET PURCHASES OF SHARES]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=478684]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Wed May 28 19:37:59 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Futian Holdings Limited]]></category>
 <pink:symbol>FUTIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AppTech Payments Corp. (APCX: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/APCX/news?id=478414]]></link>
-<pubDate>Tue, 27 May 2025 07:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/APCX/news?id=478414]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AppTech Payments Corp.]]></category>
-<pink:symbol>APCX</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
