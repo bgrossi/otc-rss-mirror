@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 21:51:17 UTC 2025
+OTC RSS mirror fetched: Wed May 28 22:19:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 28 21:51:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 17:36:38 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 18:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Peoples Financial Corp. (PFBX: OTCQX U.S.) | Peoples Financial Corporation Announces a Regular Cash Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PFBX/news?id=478706]]></link>
+<pubDate>Wed, 28 May 2025 17:49:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PFBX/news?id=478706]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Peoples Financial Corp.]]></category>
+<pink:symbol>PFBX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Commercial International Bank Ltd. (CIBEY: OTCQX International) | Changes to the Board of Directors]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CIBEY/news?id=478656]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed May 28 21:51:17 UTC 2025
 <pink:symbol>OTCM</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Naples Soap Company Inc. (NASO: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NASO/news?id=478420]]></link>
-<pubDate>Tue, 27 May 2025 07:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NASO/news?id=478420]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Naples Soap Company Inc.]]></category>
-<pink:symbol>NASO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1620,6 +1620,18 @@ OTC RSS mirror fetched: Wed May 28 21:51:17 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284885]]></link>
+<description><![CDATA[Wed, May 28, 2025 05:45 - <a href="http://www.otcmarkets.com/stock/ELFIF/company-info">E L Financial Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ELFIF">ELFIF</a>: Pink Current) - Scheduled Ex-Dividend - E L Financial Ltd. has announced a dividend ex-date for (ELFIF: Pink Current). E L Financial Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 100 shares on Mon, Jun 02, 2025 to shareholders of ELFIF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 17:45:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284885]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[E L Financial Ltd.]]></category>
+<pink:symbol>ELFIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[First Niles Financial, Inc. (FNFI: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284835]]></link>
 <description><![CDATA[Tue, May 27, 2025 05:36 - <a href="http://www.otcmarkets.com/stock/FNFI/company-info">First Niles Financial, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FNFI">FNFI</a>: Pink Current) - Scheduled Ex-Dividend - First Niles Financial, Inc. has announced a dividend ex-date for (FNFI: Pink Current). First Niles Financial, Inc. is scheduled to disburse a Cash Dividend dividend of $0.06 on Fri, Jun 06, 2025 to shareholders of FNFI. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1726,18 +1738,6 @@ OTC RSS mirror fetched: Wed May 28 21:51:17 UTC 2025
 <pink:symbol>MSSEL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[New England Power Co. (NEWEN: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284861]]></link>
-<description><![CDATA[Tue, May 27, 2025 03:12 - <a href="http://www.otcmarkets.com/stock/NEWEN/company-info">New England Power Co.</a> (<a href="http://www.otcmarkets.com/stock/NEWEN">NEWEN</a>: Pink Current) - Scheduled Ex-Dividend - New England Power Co. has announced a dividend ex-date for (NEWEN: Pink Current). New England Power Co. is scheduled to disburse a Cash Dividend dividend of $1.5 on Tue, Jun 17, 2025 to shareholders of NEWEN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 15:12:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284861]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[New England Power Co.]]></category>
-<pink:symbol>NEWEN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ZA Group Inc. (ZAAG: Pink Current) | Tier Change]]></title>
