@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
+OTC RSS mirror fetched: Wed May 28 11:38:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 07:06:38 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 07:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[PINEWOOD TECHNOLOGIES GROUP PLC (PINWF: OTCQX International) | 2025-05 PDMR D Exler]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PINWF/news?id=478600]]></link>
+<pubDate>Wed, 28 May 2025 07:22:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PINWF/news?id=478600]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PINEWOOD TECHNOLOGIES GROUP PLC]]></category>
+<pink:symbol>PINWF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Voting Results from the 2025 Annual Meeting of Unitholders]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=478599]]></link>
+<pubDate>Wed, 28 May 2025 07:22:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=478599]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Artis Real Estate Investment Trust]]></category>
+<pink:symbol>ARESF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Additional Listing]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=478570]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Centaurus Metals Ltd. (CTTZF: OTCQX International) | 05-26-25 Chair's Address to Shareholders & MD's Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=478349]]></link>
-<pubDate>Mon, 26 May 2025 02:19:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=478349]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Centaurus Metals Ltd.]]></category>
-<pink:symbol>CTTZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Change of Directors Interests Notice - Turcinov]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478346]]></link>
-<pubDate>Sun, 25 May 2025 20:12:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=478346]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brainchip Holdings Ltd.]]></category>
-<pink:symbol>BCHPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Emera Inc. (EMA: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMA&actionDate=1748431688000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMA/company-info">Emera Inc.</a> (<a href="http://www.otcmarkets.com/stock/EMA">EMA</a>: NYSE) - Venue Change - The symbol, EMA, no longer trades on OTC Link.  As of Wed, May 28, 2025, EMA trades on NYSE. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 07:28:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMA&actionDate=1748431688000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Emera Inc.]]></category>
+<pink:symbol>EMA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RBSTF&actionDate=1748415443000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBSTF/company-info">ROBOSENSE TECHNOLOGY CO</a> (<a href="http://www.otcmarkets.com/stock/RBSTF">RBSTF</a>: OTC Link) - Venue Change - The symbol, RBSTF, no longer trades on Grey Market.  As of Wed, May 28, 2025, RBSTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,14 +984,26 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Famous Brands Ltd (FMBRF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FMBRF&actionDate=1748242463000]]></link>
-<description><![CDATA[Mon, May 26, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMBRF/company-info">Famous Brands Ltd</a> (<a href="http://www.otcmarkets.com/stock/FMBRF">FMBRF</a>: OTC Link) - Venue Change - The symbol, FMBRF, no longer trades on Grey Market.  As of Mon, May 26, 2025, FMBRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 26 May 2025 02:54:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FMBRF&actionDate=1748242463000]]></guid>
+<title><![CDATA[Adapti, Inc. (BRZL: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRZL&actionDate=1748431519000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Adapti, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZL</a>: Pink Current) - Symbol Change - The symbol, BRZL, is no longer a valid symbol for Adapti, Inc..  As of Wed, May 28, 2025, the new trading symbol is BRZLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 07:25:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRZL&actionDate=1748431519000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Famous Brands Ltd]]></category>
-<pink:symbol>FMBRF</pink:symbol>
+<category><![CDATA[Adapti, Inc.]]></category>
+<pink:symbol>BRZLD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HI-VIEW RES INC. (HVWRF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HVWRF&actionDate=1748431484000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HVWRD/company-info">HI-VIEW RES INC.</a> (<a href="http://www.otcmarkets.com/stock/HVWRD">HVWRF</a>: Pink Current) - Symbol Change - The symbol, HVWRF, is no longer a valid symbol for HI-VIEW RES INC..  As of Wed, May 28, 2025, the new trading symbol is HVWRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 07:24:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HVWRF&actionDate=1748431484000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HI-VIEW RES INC.]]></category>
+<pink:symbol>HVWRD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1080,18 +1104,6 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[TRUBAR INC. (SBBCF: OTCQX International) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBBCF&actionDate=1748322017000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRBRF/company-info">TRUBAR INC.</a> (<a href="http://www.otcmarkets.com/stock/TRBRF">SBBCF</a>: OTCQX International) - Symbol Change - The symbol, SBBCF, is no longer a valid symbol for TRUBAR INC..  As of Tue, May 27, 2025, the new trading symbol is TRBRF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SBBCF&actionDate=1748322017000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TRUBAR INC.]]></category>
-<pink:symbol>TRBRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Scepter Holdings, Inc. (BRZLD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BRZLD&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Scepter Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZLD</a>: Pink Current) - Company Name Change - Scepter Holdings, Inc. has changed its name to Adapti, Inc.. The change goes into effect as of Wed, May 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1148,6 +1160,30 @@ OTC RSS mirror fetched: Wed May 28 11:18:40 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Errawarra Res Ltd]]></category>
 <pink:symbol>ERWWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HI-VIEW RES INC. (HVWRF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HVWRF&actionDate=1748404800000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HVWRD/company-info">HI-VIEW RES INC.</a> (<a href="http://www.otcmarkets.com/stock/HVWRD">HVWRF</a>: Pink Current) - Splits - Effective Wed, May 28, 2025, HVWRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, HVWRF is no longer valid. The new trading symbol is HVWRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HVWRF&actionDate=1748404800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HI-VIEW RES INC.]]></category>
+<pink:symbol>HVWRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Adapti, Inc. (BRZL: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRZL&actionDate=1748404800000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Adapti, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZL</a>: Pink Current) - Splits - Effective Wed, May 28, 2025, BRZL: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 4000 split. Due to the split, BRZL is no longer valid. The new trading symbol is BRZLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRZL&actionDate=1748404800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Adapti, Inc.]]></category>
+<pink:symbol>BRZLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
