@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 16:49:28 UTC 2025
+OTC RSS mirror fetched: Wed May 28 17:19:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 28 16:49:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 12:46:38 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 13:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Result of Oversubscribed Retail Offer]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478674]]></link>
+<pubDate>Wed, 28 May 2025 13:01:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478674]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ilika PLC.]]></category>
+<pink:symbol>ILIKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478676]]></link>
+<pubDate>Wed, 28 May 2025 12:56:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478676]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Citizens Bancshares Corp South Carolina (CITZ: Pink Current) | The Citizens Bank Enters into a Purchase and Assumption Agreement to Acquire the Laurinburg, NC Branch of First Capital Bank]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CITZ/news?id=478673]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed May 28 16:49:28 UTC 2025
 <pink:symbol>WGTFF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Royal Road Minerals Limited (RRDMF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RRDMF/news?id=478421]]></link>
-<pubDate>Tue, 27 May 2025 07:00:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RRDMF/news?id=478421]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Royal Road Minerals Limited]]></category>
-<pink:symbol>RRDMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Plc – Director Declaration]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478410]]></link>
-<pubDate>Tue, 27 May 2025 05:56:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=478410]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
