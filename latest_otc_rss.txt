@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 19:51:39 UTC 2025
+OTC RSS mirror fetched: Wed May 28 20:23:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed May 28 19:51:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 15:46:39 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 16:06:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Katahdin Bankshares Corp. (KTHN: OTCQX U.S.) | Katahdin Bankshares Corp. Announces Quarterly Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KTHN/news?id=478667]]></link>
+<pubDate>Wed, 28 May 2025 16:05:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KTHN/news?id=478667]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Katahdin Bankshares Corp.]]></category>
+<pink:symbol>KTHN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Bexil Corporation Announces FINRA Action on Reverse and Forward Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=478689]]></link>
+<pubDate>Wed, 28 May 2025 16:03:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=478689]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bexil Corp.]]></category>
+<pink:symbol>BXLC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Minco Silver Corp. (MISVF: OTCQX International) | Minco Silver Corporation Receives Final Loan Payment from Longxin Mining Co.,Ltd.]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MISVF/news?id=478687]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Wed May 28 19:51:39 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Ananda Pharma plc]]></category>
 <pink:symbol>ANANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Group Eleven Resources Corp. (GRLVF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GRLVF/news?id=478417]]></link>
-<pubDate>Tue, 27 May 2025 07:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GRLVF/news?id=478417]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Group Eleven Resources Corp.]]></category>
-<pink:symbol>GRLVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Futian Holdings Limited (FUTIF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – May 27]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FUTIF/news?id=478416]]></link>
-<pubDate>Tue, 27 May 2025 07:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FUTIF/news?id=478416]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Futian Holdings Limited]]></category>
-<pink:symbol>FUTIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
