@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
+OTC RSS mirror fetched: Wed May 28 15:54:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 11:26:39 EDT</lastBuildDate>
+<lastBuildDate>Wed, 28 May 2025 11:46:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[1st Summit Bancorp Johnstown, Inc. (FSMK: Pink Current) | 2025 2nd Quarter Dividend Announcement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FSMK/news?id=478671]]></link>
+<pubDate>Wed, 28 May 2025 11:37:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FSMK/news?id=478671]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1st Summit Bancorp Johnstown, Inc.]]></category>
+<pink:symbol>FSMK</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[BULLET BLOCKCHAIN INC. (BULT: Pink Limited) | Bullet Blockchain Team to attend Bitcoin 2025 Conference in Las Vegas]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BULT/news?id=478663]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478322]]></link>
-<pubDate>Tue, 27 May 2025 02:00:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478322]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -984,6 +984,18 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Iowa Renewable Energy LLC (IOWAL: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IOWAL&actionDate=1748447063000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IWRBU/company-info">Iowa Renewable Energy LLC</a> (<a href="http://www.otcmarkets.com/stock/IWRBU">IOWAL</a>: Grey Market) - Symbol Change - The symbol, IOWAL, is no longer a valid symbol for Iowa Renewable Energy LLC.  As of Wed, May 28, 2025, the new trading symbol is IWRBU. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 11:44:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IOWAL&actionDate=1748447063000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Iowa Renewable Energy LLC]]></category>
+<pink:symbol>IWRBU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Adapti, Inc. (BRZL: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRZL&actionDate=1748431519000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Adapti, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZL</a>: Pink Current) - Symbol Change - The symbol, BRZL, is no longer a valid symbol for Adapti, Inc..  As of Wed, May 28, 2025, the new trading symbol is BRZLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1088,18 +1100,6 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Targa Exploration Corp.]]></category>
 <pink:symbol>TRGED</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SURFACE METALS INC. (ACLHD: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ACLHD&actionDate=1748322022000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SURMF/company-info">SURFACE METALS INC.</a> (<a href="http://www.otcmarkets.com/stock/SURMF">ACLHD</a>: OTCQB) - Symbol Change - The symbol, ACLHD, is no longer a valid symbol for SURFACE METALS INC..  As of Tue, May 27, 2025, the new trading symbol is SURMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ACLHD&actionDate=1748322022000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SURFACE METALS INC.]]></category>
-<pink:symbol>SURMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
@@ -1224,6 +1224,18 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Iowa Renewable Energy LLC (IWRBU: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IWRBU&actionDate=1748447063000]]></link>
+<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IWRBU/company-info">Iowa Renewable Energy LLC</a> (<a href="http://www.otcmarkets.com/stock/IWRBU">IWRBU</a>: Grey Market) - Reactivated Symbol -  The symbol, IWRBU, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 28 May 2025 11:44:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IWRBU&actionDate=1748447063000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Iowa Renewable Energy LLC]]></category>
+<pink:symbol>IWRBU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Awakn Life Sciences Corp. (AWKNF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AWKNF&actionDate=1748408459000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - Awakn Life Sciences Corp. (AWKNF: OTC Link) - Deleted Symbol - As of Wed, May 28, 2025, AWKNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1330,18 +1342,6 @@ OTC RSS mirror fetched: Wed May 28 15:43:11 UTC 2025
 <pink:symbol>AGDCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Genesis Holding Inc (PDPG: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PDPG&actionDate=1748322028000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - Genesis Holding Inc (PDPG: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, PDPG is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PDPG&actionDate=1748322028000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Genesis Holding Inc]]></category>
-<pink:symbol>PDPG</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[BELGRAVIA HARTFORD CAP INC. (BLGVF: Pink Current) | Halted Security]]></title>
