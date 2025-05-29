@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 18:30:21 UTC 2025
+OTC RSS mirror fetched: Thu May 29 18:51:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Thu May 29 18:30:21 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 14:26:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 14:46:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ladybug Resource Group, Inc. (LBRG: Pink Current) | Ladybug Resource Group's Thee Mine Inc. to Host KIDFITSTRONG Fitness Challenge]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LBRG/news?id=478853]]></link>
+<pubDate>Thu, 29 May 2025 14:44:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LBRG/news?id=478853]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ladybug Resource Group, Inc.]]></category>
+<pink:symbol>LBRG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[1399 INTERNET TECHNOLOGY APPLICATION GROUP INC. (YSGG: Pink Current) | Correction: 1399 Internet Technology Application Group Inc Applies For Name And Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YSGG/news?id=478852]]></link>
+<pubDate>Thu, 29 May 2025 14:44:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YSGG/news?id=478852]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1399 INTERNET TECHNOLOGY APPLICATION GROUP INC.]]></category>
+<pink:symbol>YSGG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[1399 INTERNET TECHNOLOGY APPLICATION GROUP INC. (YSGG: Pink Current) | 1399 Internet Technology Application Group Inc Applies For Name And Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YSGG/news?id=478851]]></link>
+<pubDate>Thu, 29 May 2025 14:42:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YSGG/news?id=478851]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[1399 INTERNET TECHNOLOGY APPLICATION GROUP INC.]]></category>
+<pink:symbol>YSGG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Autris (AUTR: Pink Current) | Autris - Company continues to increase shareholdings]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AUTR/news?id=478843]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Thu May 29 18:30:21 UTC 2025
 <pink:symbol>CITZ</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kuber Resources Corporation (KUBR: OTCQB) | Kuber Resources Corp (OTC: KUBR) Announces CFO Transition]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KUBR/news?id=478672]]></link>
-<pubDate>Wed, 28 May 2025 12:40:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KUBR/news?id=478672]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kuber Resources Corporation]]></category>
-<pink:symbol>KUBR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[1st Summit Bancorp Johnstown, Inc. (FSMK: Pink Current) | 2025 2nd Quarter Dividend Announcement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FSMK/news?id=478671]]></link>
-<pubDate>Wed, 28 May 2025 11:37:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FSMK/news?id=478671]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[1st Summit Bancorp Johnstown, Inc.]]></category>
-<pink:symbol>FSMK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BULLET BLOCKCHAIN INC. (BULT: Pink Limited) | Bullet Blockchain Team to attend Bitcoin 2025 Conference in Las Vegas]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BULT/news?id=478663]]></link>
-<pubDate>Wed, 28 May 2025 10:56:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BULT/news?id=478663]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BULLET BLOCKCHAIN INC.]]></category>
-<pink:symbol>BULT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
