@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 22:20:06 UTC 2025
+OTC RSS mirror fetched: Thu May 29 22:43:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 22:20:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 18:06:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 18:36:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Nova Minerals Ltd. (NVAAF: Pink Current) | Estelle 15,000m Exploration and Project Advancement Plan]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=478885]]></link>
+<pubDate>Thu, 29 May 2025 18:32:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=478885]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nova Minerals Ltd.]]></category>
+<pink:symbol>NVAAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | NOTICE OF ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON JUNE 30, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478868]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 29 22:20:06 UTC 2025
 <pink:symbol>MISVF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | CEO TOMAS BRENNAN COMMENCES OPEN MARKET PURCHASES OF SHARES]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=478684]]></link>
-<pubDate>Wed, 28 May 2025 14:20:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=478684]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cirmaker Technology Corp.]]></category>
-<pink:symbol>CRKT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
