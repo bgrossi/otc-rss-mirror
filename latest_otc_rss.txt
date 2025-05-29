@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
+OTC RSS mirror fetched: Thu May 29 04:27:13 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 28 May 2025 23:36:38 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 00:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[AMAERO LTD. (AMROF: OTCQB) | Investor Briefing Recording]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AMROF/news?id=478717]]></link>
+<pubDate>Wed, 28 May 2025 23:43:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMROF/news?id=478717]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AMAERO LTD.]]></category>
+<pink:symbol>AMROF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Notice of Annual General Meeting/Proxy Form]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=478716]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[DNO ASA (DTNOY: Pink Limited) | DTNOY - Books will close today, May 27, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTNOY/news?id=478471]]></link>
-<pubDate>Tue, 27 May 2025 08:20:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTNOY/news?id=478471]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DNO ASA]]></category>
-<pink:symbol>DTNOY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1116,54 +1116,6 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Simply Better Brands Corp. (TRBRF: OTCQX International) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TRBRF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRBRF/company-info">Simply Better Brands Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRBRF">TRBRF</a>: OTCQX International) - Company Name Change - Simply Better Brands Corp. has changed its name to TRUBAR INC.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TRBRF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Simply Better Brands Corp.]]></category>
-<pink:symbol>TRBRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Performance Drink Group Inc. (PDPGD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PDPGD&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PDPGD/company-info">Performance Drink Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/PDPGD">PDPGD</a>: Pink Current) - Company Name Change - Performance Drink Group Inc. has changed its name to Genesis Holding Inc. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PDPGD&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Performance Drink Group Inc.]]></category>
-<pink:symbol>PDPGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Odyssey Group Intl Inc. (ODYY: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ODYY&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ODYY/company-info">Odyssey Group Intl Inc.</a> (<a href="http://www.otcmarkets.com/stock/ODYY">ODYY</a>: OTCQB) - Company Name Change - Odyssey Group Intl Inc. has changed its name to Odyssey Health Inc.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ODYY&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Odyssey Group Intl Inc.]]></category>
-<pink:symbol>ODYY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Errawarra Res Ltd (ERWWF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ERWWF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ERWWF/company-info">Errawarra Res Ltd</a> (<a href="http://www.otcmarkets.com/stock/ERWWF">ERWWF</a>: Pink Current) - Company Name Change - Errawarra Res Ltd has changed its name to WEST COAST SILVER LTD.. The change goes into effect as of Tue, May 27, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ERWWF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Errawarra Res Ltd]]></category>
-<pink:symbol>ERWWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[HI-VIEW RES INC. (HVWRF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HVWRF&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HVWRD/company-info">HI-VIEW RES INC.</a> (<a href="http://www.otcmarkets.com/stock/HVWRD">HVWRF</a>: Pink Current) - Splits - Effective Wed, May 28, 2025, HVWRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, HVWRF is no longer valid. The new trading symbol is HVWRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1184,42 +1136,6 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Adapti, Inc.]]></category>
 <pink:symbol>BRZLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Targa Exploration Corp. (TRGEF: OTCQB) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TRGEF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRGED/company-info">Targa Exploration Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRGED">TRGEF</a>: OTCQB) - Splits - Effective Tue, May 27, 2025, TRGEF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, TRGEF is no longer valid. The new trading symbol is TRGED. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TRGEF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Targa Exploration Corp.]]></category>
-<pink:symbol>TRGED</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sinolink Worldwide Holdings Ltd. (SNLKF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SNLKF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNLKD/company-info">Sinolink Worldwide Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SNLKD">SNLKF</a>: Pink Current) - Splits - Effective Tue, May 27, 2025, SNLKF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, SNLKF is no longer valid. The new trading symbol is SNLKD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=SNLKF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sinolink Worldwide Holdings Ltd.]]></category>
-<pink:symbol>SNLKD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Genesis Holding Inc (PDPG: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PDPG&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PDPGD/company-info">Genesis Holding Inc</a> (<a href="http://www.otcmarkets.com/stock/PDPGD">PDPG</a>: Pink Current) - Splits - Effective Tue, May 27, 2025, PDPG: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, PDPG is no longer valid. The new trading symbol is PDPGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PDPG&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Genesis Holding Inc]]></category>
-<pink:symbol>PDPGD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1356,30 +1272,6 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGAFF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGAFF/company-info">Taiga Building Products Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGAFF">TGAFF</a>: Pink Current) - Halted Security -  Effective Tue, May 27, 2025, TGAFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGAFF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Taiga Building Products Ltd.]]></category>
-<pink:symbol>TGAFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DEFINITY FINL CORP. (DFYFF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DFYFF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DFYFF/company-info">DEFINITY FINL CORP.</a> (<a href="http://www.otcmarkets.com/stock/DFYFF">DFYFF</a>: Pink Current) - Halted Security -  Effective Tue, May 27, 2025, DFYFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DFYFF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DEFINITY FINL CORP.]]></category>
-<pink:symbol>DFYFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RBSTF&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBSTF/company-info">ROBOSENSE TECHNOLOGY CO</a> (<a href="http://www.otcmarkets.com/stock/RBSTF">RBSTF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, May 28, 2025, RBSTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1450,54 +1342,6 @@ OTC RSS mirror fetched: Thu May 29 03:53:49 UTC 2025
 <pink:symbol>CDBMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vast Renewables Limited (VSTWF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTWF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTWF/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTWF">VSTWF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 27, 2025, VSTWF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTWF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vast Renewables Limited (VSTTF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTTF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTTF/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTTF">VSTTF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, May 27, 2025, VSTTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VSTTF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tsuruha Holdings, Inc. (TSUSF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSUSF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSUSF/company-info">Tsuruha Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSUSF">TSUSF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, TSUSF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSUSF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tsuruha Holdings, Inc.]]></category>
-<pink:symbol>TSUSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AKEWL (MGCUF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MGCUF&actionDate=1748318400000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGCUF/company-info">AKEWL</a> (<a href="http://www.otcmarkets.com/stock/MGCUF">MGCUF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, May 27, 2025, MGCUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MGCUF&actionDate=1748318400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AKEWL]]></category>
-<pink:symbol>MGCUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Ex-Dividend]]></title>
