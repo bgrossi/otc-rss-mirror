@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
+OTC RSS mirror fetched: Thu May 29 05:43:48 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 01:06:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 01:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Response to ASX Query]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478722]]></link>
+<pubDate>Thu, 29 May 2025 01:15:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478722]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
+<pink:symbol>EULIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Update to Tanbreez Scoping Study to Include Addendum to MRE]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478721]]></link>
+<pubDate>Thu, 29 May 2025 01:15:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478721]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
+<pink:symbol>EULIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Mineral Resource Estimate Additional to 45MT Tanbreez]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478720]]></link>
+<pubDate>Thu, 29 May 2025 01:14:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478720]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
+<pink:symbol>EULIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | New Gold Zones intercepted at Ternera]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=478719]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Sanford Ltd. (SARDY: Pink Current) | SARDY - Books will close today, May 27, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SARDY/news?id=478475]]></link>
-<pubDate>Tue, 27 May 2025 08:23:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SARDY/news?id=478475]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sanford Ltd.]]></category>
-<pink:symbol>SARDY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Safran SA (SAFRY: Pink Limited) | SAFRY - Books will close today, May 27, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SAFRY/news?id=478474]]></link>
-<pubDate>Tue, 27 May 2025 08:22:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SAFRY/news?id=478474]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Safran SA]]></category>
-<pink:symbol>SAFRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[JBS S.A. (JBSAY: OTCQX International) | JBSAY - Books will close today, May 27, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JBSAY/news?id=478473]]></link>
-<pubDate>Tue, 27 May 2025 08:21:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JBSAY/news?id=478473]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JBS S.A.]]></category>
-<pink:symbol>JBSAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1104,6 +1104,18 @@ OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Anglo American Platinum Ltd. (ANGPY: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ANGPY&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ANGPY/company-info">Anglo American Platinum Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ANGPY">ANGPY</a>: Pink Current) - Company Name Change - Anglo American Platinum Ltd. has changed its name to VALTERRA PLATINUM LTD. The change goes into effect as of Thu, May 29, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=ANGPY&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anglo American Platinum Ltd.]]></category>
+<pink:symbol>ANGPY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Scepter Holdings, Inc. (BRZLD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BRZLD&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Scepter Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZLD</a>: Pink Current) - Company Name Change - Scepter Holdings, Inc. has changed its name to Adapti, Inc.. The change goes into effect as of Wed, May 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1114,6 +1126,54 @@ OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
 <pink:symbol>BRZLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DAITO PHARMACEUTICAL CO LTD, (DAITF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DAITF/company-info">DAITO PHARMACEUTICAL CO LTD,</a> (<a href="http://www.otcmarkets.com/stock/DAITF">DAITF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, DAITF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DAITO PHARMACEUTICAL CO LTD,]]></category>
+<pink:symbol>DAITF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NIPPON PROLOGIS REIT INC. (NPONF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NPONF/company-info">NIPPON PROLOGIS REIT INC.</a> (<a href="http://www.otcmarkets.com/stock/NPONF">NPONF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, NPONF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NIPPON PROLOGIS REIT INC.]]></category>
+<pink:symbol>NPONF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Activia Properties Inc (ATVXF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATVXF/company-info">Activia Properties Inc</a> (<a href="http://www.otcmarkets.com/stock/ATVXF">ATVXF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, ATVXF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Activia Properties Inc]]></category>
+<pink:symbol>ATVXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YACPF/company-info">Yamatane Corp.</a> (<a href="http://www.otcmarkets.com/stock/YACPF">YACPF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, YACPF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Yamatane Corp.]]></category>
+<pink:symbol>YACPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[HI-VIEW RES INC. (HVWRF: Pink Current) | Splits]]></title>
