@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 19:52:41 UTC 2025
+OTC RSS mirror fetched: Thu May 29 20:24:06 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 19:52:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 15:46:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 16:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Mails Definitive Proxy Statement; Details Strength of Board Slate]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478858]]></link>
+<pubDate>Thu, 29 May 2025 16:05:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478858]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Pioneer Bankshares, Inc. (PNBI: Pink Current) | Pioneer Bankshares Inc. Declares 2nd Quarter Dividend for 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PNBI/news?id=478857]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 29 19:52:41 UTC 2025
 <pink:symbol>JTBK</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Result of Oversubscribed Retail Offer]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478674]]></link>
-<pubDate>Wed, 28 May 2025 13:01:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=478674]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ilika PLC.]]></category>
-<pink:symbol>ILIKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
