@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
+OTC RSS mirror fetched: Thu May 29 05:21:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 00:36:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 01:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | New Gold Zones intercepted at Ternera]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=478719]]></link>
+<pubDate>Thu, 29 May 2025 01:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=478719]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[AMAERO LTD. (AMROF: OTCQB) | Investor Briefing Recording]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AMROF/news?id=478717]]></link>
@@ -134,13 +146,13 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Bexil Corporation Announces FINRA Action on Reverse and Forward Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=478689]]></link>
+<title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces FINRA Action on Reverse and Forward Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=478689]]></link>
 <pubDate>Wed, 28 May 2025 16:03:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLC/news?id=478689]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=478689]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLC</pink:symbol>
+<pink:symbol>BXLCD</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Galp Energia, SA (GLPEY: Pink Limited) | GLPEY - Books will close at the close of business today, May 27, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GLPEY/news?id=478472]]></link>
-<pubDate>Tue, 27 May 2025 08:21:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLPEY/news?id=478472]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Galp Energia, SA]]></category>
-<pink:symbol>GLPEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SYLA Technologies Co. (SYTTY: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SYTTY&actionDate=1748494840000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYTTY/company-info">SYLA Technologies Co.</a> (<a href="http://www.otcmarkets.com/stock/SYTTY">SYTTY</a>: OTC Link) - Venue Change - The symbol, SYTTY, no longer trades on Nasdaq.  As of Thu, May 29, 2025, SYTTY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SYTTY&actionDate=1748494840000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SYLA Technologies Co.]]></category>
+<pink:symbol>SYTTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Helix Exploration Plc (HHEXF: OTCQB) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HHEXF&actionDate=1748494834000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHEXF/company-info">Helix Exploration Plc</a> (<a href="http://www.otcmarkets.com/stock/HHEXF">HHEXF</a>: OTC Link) - Venue Change - The symbol, HHEXF, no longer trades on Grey Market.  As of Thu, May 29, 2025, HHEXF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HHEXF&actionDate=1748494834000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Helix Exploration Plc]]></category>
+<pink:symbol>HHEXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[RIVERSIDE RES INC CDA (RVSDF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=RVSDF&actionDate=1748434333000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RVSDF/company-info">RIVERSIDE RES INC CDA</a> (<a href="http://www.otcmarkets.com/stock/RVSDF">RVSDF</a>: OTC Link) - Venue Change - The symbol, RVSDF, no longer trades on Grey Market.  As of Wed, May 28, 2025, RVSDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -960,26 +984,62 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vast Renewables Limited (VSTEW: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTEW&actionDate=1748322048000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTEW/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTEW">VSTEW</a>: OTC Link) - Venue Change - The symbol, VSTEW, no longer trades on Nasdaq.  As of Tue, May 27, 2025, VSTEW trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTEW&actionDate=1748322048000]]></guid>
+<title><![CDATA[SYLA Technologies Co. (SYT: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SYT&actionDate=1748494840000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYTTY/company-info">SYLA Technologies Co.</a> (<a href="http://www.otcmarkets.com/stock/SYTTY">SYT</a>: Pink Current) - Symbol Change - The symbol, SYT, is no longer a valid symbol for SYLA Technologies Co..  As of Thu, May 29, 2025, the new trading symbol is SYTTY. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SYT&actionDate=1748494840000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTEW</pink:symbol>
+<category><![CDATA[SYLA Technologies Co.]]></category>
+<pink:symbol>SYTTY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vast Renewables Limited (VSTE: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTE&actionDate=1748322048000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTE/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTE">VSTE</a>: OTC Link) - Venue Change - The symbol, VSTE, no longer trades on Nasdaq.  As of Tue, May 27, 2025, VSTE trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=VSTE&actionDate=1748322048000]]></guid>
+<title><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD. (BADFF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BADFF&actionDate=1748494833000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDGIF/company-info">BADGER INFRASTRUCTURE SOLUTIONS LTD.</a> (<a href="http://www.otcmarkets.com/stock/BDGIF">BADFF</a>: Pink Current) - Symbol Change - The symbol, BADFF, is no longer a valid symbol for BADGER INFRASTRUCTURE SOLUTIONS LTD..  As of Thu, May 29, 2025, the new trading symbol is BDGIF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BADFF&actionDate=1748494833000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTE</pink:symbol>
+<category><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD.]]></category>
+<pink:symbol>BDGIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ALPHA ONE INC. (AOAOD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AOAOD&actionDate=1748494812000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AOAO/company-info">ALPHA ONE INC.</a> (<a href="http://www.otcmarkets.com/stock/AOAO">AOAOD</a>: Pink Current) - Symbol Change - The symbol, AOAOD, is no longer a valid symbol for ALPHA ONE INC..  As of Thu, May 29, 2025, the new trading symbol is AOAO. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AOAOD&actionDate=1748494812000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ALPHA ONE INC.]]></category>
+<pink:symbol>AOAO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Atos Origin SA (AEXYD: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXYD&actionDate=1748494809000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXAY/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXAY">AEXYD</a>: Pink Limited) - Symbol Change - The symbol, AEXYD, is no longer a valid symbol for Atos Origin SA.  As of Thu, May 29, 2025, the new trading symbol is AEXAY. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXYD&actionDate=1748494809000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Atos Origin SA]]></category>
+<pink:symbol>AEXAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Capita PLC (CTAGD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGD&actionDate=1748494806000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGF/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGF">CTAGD</a>: Pink Current) - Symbol Change - The symbol, CTAGD, is no longer a valid symbol for Capita PLC.  As of Thu, May 29, 2025, the new trading symbol is CTAGF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGD&actionDate=1748494806000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capita PLC]]></category>
+<pink:symbol>CTAGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1044,66 +1104,6 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Vast Renewables Limited (VSTE: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VSTE&actionDate=1748408430000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTTF/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTTF">VSTE</a>: Pink Current) - Symbol Change - The symbol, VSTE, is no longer a valid symbol for Vast Renewables Limited.  As of Wed, May 28, 2025, the new trading symbol is VSTTF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 01:00:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VSTE&actionDate=1748408430000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vast Renewables Limited (VSTEW: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VSTEW&actionDate=1748408426000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSTWF/company-info">Vast Renewables Limited</a> (<a href="http://www.otcmarkets.com/stock/VSTWF">VSTEW</a>: Pink Current) - Symbol Change - The symbol, VSTEW, is no longer a valid symbol for Vast Renewables Limited.  As of Wed, May 28, 2025, the new trading symbol is VSTWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 01:00:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=VSTEW&actionDate=1748408426000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vast Renewables Limited]]></category>
-<pink:symbol>VSTWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sinolink Worldwide Holdings Ltd. (SNLKF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SNLKF&actionDate=1748343628000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNLKD/company-info">Sinolink Worldwide Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SNLKD">SNLKF</a>: Pink Current) - Symbol Change - The symbol, SNLKF, is no longer a valid symbol for Sinolink Worldwide Holdings Ltd..  As of Tue, May 27, 2025, the new trading symbol is SNLKD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 07:00:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SNLKF&actionDate=1748343628000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sinolink Worldwide Holdings Ltd.]]></category>
-<pink:symbol>SNLKD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Genesis Holding Inc (PDPG: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PDPG&actionDate=1748343594000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PDPGD/company-info">Genesis Holding Inc</a> (<a href="http://www.otcmarkets.com/stock/PDPGD">PDPG</a>: Pink Current) - Symbol Change - The symbol, PDPG, is no longer a valid symbol for Genesis Holding Inc.  As of Tue, May 27, 2025, the new trading symbol is PDPGD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 06:59:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PDPG&actionDate=1748343594000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Genesis Holding Inc]]></category>
-<pink:symbol>PDPGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Targa Exploration Corp. (TRGEF: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRGEF&actionDate=1748343538000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRGED/company-info">Targa Exploration Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRGED">TRGEF</a>: OTCQB) - Symbol Change - The symbol, TRGEF, is no longer a valid symbol for Targa Exploration Corp..  As of Tue, May 27, 2025, the new trading symbol is TRGED. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 06:58:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TRGEF&actionDate=1748343538000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Targa Exploration Corp.]]></category>
-<pink:symbol>TRGED</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Scepter Holdings, Inc. (BRZLD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BRZLD&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Scepter Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZLD</a>: Pink Current) - Company Name Change - Scepter Holdings, Inc. has changed its name to Adapti, Inc.. The change goes into effect as of Wed, May 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1138,6 +1138,42 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:symbol>BRZLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[VOLT GROUP LTD (VLTGF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VLTGF&actionDate=1748494827000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - VOLT GROUP LTD (VLTGF: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, VLTGF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VLTGF&actionDate=1748494827000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VOLT GROUP LTD]]></category>
+<pink:symbol>VLTGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - Bexil Corp. (BXLC: Pink Current) - Deleted Symbol - As of Thu, May 29, 2025, BXLC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bexil Corp.]]></category>
+<pink:symbol>BXLC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BIGTINCAN HLDGS LTD. (BTGHF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BTGHF&actionDate=1748494818000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - BIGTINCAN HLDGS LTD. (BTGHF: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, BTGHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 01:00:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BTGHF&actionDate=1748494818000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BIGTINCAN HLDGS LTD.]]></category>
+<pink:symbol>BTGHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Caisse Regionale Du Credit Agricole Mutuale Sud Rhone Alpes (CEREF: Grey Market) | Reactivated Symbol]]></title>
@@ -1222,42 +1258,6 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:symbol>RVSDF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sinolink Worldwide Holdings Ltd. (SNLKF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNLKF&actionDate=1748322041000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - Sinolink Worldwide Holdings Ltd. (SNLKF: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, SNLKF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SNLKF&actionDate=1748322041000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sinolink Worldwide Holdings Ltd.]]></category>
-<pink:symbol>SNLKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[STAVELY MINERALS LTD. (STVMF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=STVMF&actionDate=1748322040000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - STAVELY MINERALS LTD. (STVMF: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, STVMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=STVMF&actionDate=1748322040000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[STAVELY MINERALS LTD.]]></category>
-<pink:symbol>STVMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ISHARES IV PLC (CHNYF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CHNYF&actionDate=1748322040000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - ISHARES IV PLC (CHNYF: OTC Link) - Deleted Symbol - As of Tue, May 27, 2025, CHNYF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 01:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CHNYF&actionDate=1748322040000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ISHARES IV PLC]]></category>
-<pink:symbol>CHNYF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[BELGRAVIA HARTFORD CAP INC. (BLGVF: Pink Current) | Halted Security]]></title>
@@ -1584,6 +1584,30 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Horizon Copper Corp. (HNCUF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HNCUF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HNCUF/company-info">Horizon Copper Corp.</a> (<a href="http://www.otcmarkets.com/stock/HNCUF">HNCUF</a>: OTCQB) - Tier Change - The symbol, HNCUF, no longer is classified as OTCQX International.  As of Thu, May 29, 2025, HNCUF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HNCUF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Horizon Copper Corp.]]></category>
+<pink:symbol>HNCUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Helix Exploration Plc (HHEXF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEXF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHEXF/company-info">Helix Exploration Plc</a> (<a href="http://www.otcmarkets.com/stock/HHEXF">HHEXF</a>: OTCQB) - Tier Change - The symbol, HHEXF, no longer is classified as Grey Market.  As of Thu, May 29, 2025, HHEXF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEXF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Helix Exploration Plc]]></category>
+<pink:symbol>HHEXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ZA Group Inc. (ZAAG: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAAG/company-info">ZA Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZAAG">ZAAG</a>: Pink Current) - Tier Change - The symbol, ZAAG, no longer is classified as Pink Limited.  As of Wed, May 28, 2025, ZAAG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1680,26 +1704,14 @@ OTC RSS mirror fetched: Thu May 29 04:48:29 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Magna Mining Inc. (MGMNF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGMNF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGMNF/company-info">Magna Mining Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGMNF">MGMNF</a>: OTCQX International) - Tier Change - The symbol, MGMNF, no longer is classified as OTCQB.  As of Wed, May 28, 2025, MGMNF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MGMNF&actionDate=1748404800000]]></guid>
+<title><![CDATA[Elektros Inc. (ELEK: Pink Current) | Caveat Emptor Status Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=ELEK&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELEK/company-info">Elektros Inc.</a> (<a href="http://www.otcmarkets.com/stock/ELEK">ELEK</a>: Pink Current) - Caveat Emptor Status Change - The symbol, ELEK, has been added to the Caveat Emptor classification.  You may find a complete list of Caveat Emptor status changes at <a href="http://www.otcmarkets.com/market-activity/caveat-emptor-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=ELEK&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Magna Mining Inc.]]></category>
-<pink:symbol>MGMNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Medical Care Technologies Inc. (MDCE: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MDCE&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MDCE/company-info">Medical Care Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/MDCE">MDCE</a>: Pink Current) - Tier Change - The symbol, MDCE, no longer is classified as Pink Limited.  As of Wed, May 28, 2025, MDCE resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MDCE&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Medical Care Technologies Inc.]]></category>
-<pink:symbol>MDCE</pink:symbol>
+<category><![CDATA[Elektros Inc.]]></category>
+<pink:symbol>ELEK</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
