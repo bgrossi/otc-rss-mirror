@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 13:46:15 UTC 2025
+OTC RSS mirror fetched: Thu May 29 14:20:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Thu May 29 13:46:15 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 09:26:38 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 10:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Eureka Homestead Bancorp Inc. (ERKH: Pink Current) | 2025 Annual Meeting of Stockholders of Eureka Homestead Bancorp]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ERKH/news?id=478829]]></link>
+<pubDate>Thu, 29 May 2025 09:58:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ERKH/news?id=478829]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Eureka Homestead Bancorp Inc.]]></category>
+<pink:symbol>ERKH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Entrex Carbon Market,Inc. (NTRX: Pink Current) | Entrex Achieves Key Regulatory Milestone with Removal of OTC “Shell Warning”]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NTRX/news?id=478737]]></link>
+<pubDate>Thu, 29 May 2025 09:50:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NTRX/news?id=478737]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Entrex Carbon Market,Inc.]]></category>
+<pink:symbol>NTRX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | Advancing the Antimony Canyon Project, USA]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=478827]]></link>
+<pubDate>Thu, 29 May 2025 09:33:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=478827]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trigg Minerals Ltd]]></category>
+<pink:symbol>TMGLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Launches Uplist Ventures to Accelerate Public-Ready Startups]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=478727]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Thu May 29 13:46:15 UTC 2025
 <pink:symbol>KRNTY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[KION GROUP AG (KIGRY: Pink Current) | KIGRY - Books will close today, May 28, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KIGRY/news?id=478631]]></link>
-<pubDate>Wed, 28 May 2025 08:20:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KIGRY/news?id=478631]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KION GROUP AG]]></category>
-<pink:symbol>KIGRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jardine Cycle & Carriage Limited (JCYGY: Pink Current) | JCYGY - Books will close today, May 28, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JCYGY/news?id=478630]]></link>
-<pubDate>Wed, 28 May 2025 08:20:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JCYGY/news?id=478630]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jardine Cycle & Carriage Limited]]></category>
-<pink:symbol>JCYGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Galp Energia, SA (GLPEY: Pink Limited) | GLPEY - Books will close today, May 28, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GLPEY/news?id=478629]]></link>
-<pubDate>Wed, 28 May 2025 08:19:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLPEY/news?id=478629]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Galp Energia, SA]]></category>
-<pink:symbol>GLPEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1608,6 +1608,18 @@ OTC RSS mirror fetched: Thu May 29 13:46:15 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Faircourt Gold Income Corp. (FRCGF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284978]]></link>
+<description><![CDATA[Thu, May 29, 2025 09:49 - <a href="http://www.otcmarkets.com/stock/FRCGF/company-info">Faircourt Gold Income Corp.</a> (<a href="http://www.otcmarkets.com/stock/FRCGF">FRCGF</a>: Pink Current) - Scheduled Ex-Dividend - Faircourt Gold Income Corp. has announced a dividend ex-date for (FRCGF: Pink Current). Faircourt Gold Income Corp. is scheduled to disburse a Cash Dividend dividend of $0.024 on Fri, May 30, 2025 to shareholders of FRCGF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 09:49:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284978]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Faircourt Gold Income Corp.]]></category>
+<pink:symbol>FRCGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284885]]></link>
 <description><![CDATA[Wed, May 28, 2025 05:45 - <a href="http://www.otcmarkets.com/stock/ELFIF/company-info">E L Financial Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ELFIF">ELFIF</a>: Pink Current) - Scheduled Ex-Dividend - E L Financial Ltd. has announced a dividend ex-date for (ELFIF: Pink Current). E L Financial Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 100 shares on Mon, Jun 02, 2025 to shareholders of ELFIF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1714,18 +1726,6 @@ OTC RSS mirror fetched: Thu May 29 13:46:15 UTC 2025
 <pink:symbol>PSGTY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[W.T.B. Financial Corp. (WTBFB: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284976]]></link>
-<description><![CDATA[Wed, May 28, 2025 11:17 - <a href="http://www.otcmarkets.com/stock/WTBFB/company-info">W.T.B. Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/WTBFB">WTBFB</a>: Pink Current) - Scheduled Ex-Dividend - W.T.B. Financial Corp. has announced a dividend ex-date for (WTBFB: Pink Current). W.T.B. Financial Corp. is scheduled to disburse a Cash Dividend dividend of $1.85 on Fri, Jun 06, 2025 to shareholders of WTBFB. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 11:17:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=284976]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[W.T.B. Financial Corp.]]></category>
-<pink:symbol>WTBFB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[UMC, Inc. (UMCN: Pink Current) | Tier Change]]></title>
