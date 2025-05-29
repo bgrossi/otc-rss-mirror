@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 14:44:07 UTC 2025
+OTC RSS mirror fetched: Thu May 29 14:55:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 14:44:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 10:26:38 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 10:46:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[EdgeMode Inc. (EDGM: Pink Current) | EdgeMode Inc. Announces Strategic Acquisition of Synthesis Analytics Production Ltd., to Meet Growing Demand for AI and High-Performance Computing Data Center Market]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EDGM/news?id=478833]]></link>
+<pubDate>Thu, 29 May 2025 10:44:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EDGM/news?id=478833]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EdgeMode Inc.]]></category>
+<pink:symbol>EDGM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Eureka Homestead Bancorp Inc. (ERKH: Pink Current) | 2025 Annual Meeting of Stockholders of Eureka Homestead Bancorp]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ERKH/news?id=478829]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 29 14:44:07 UTC 2025
 <pink:symbol>LGRDY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Krones AG (KRNTY: Pink Current) | KRNTY - Books will close today, May 28, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KRNTY/news?id=478632]]></link>
-<pubDate>Wed, 28 May 2025 08:21:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRNTY/news?id=478632]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Krones AG]]></category>
-<pink:symbol>KRNTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
