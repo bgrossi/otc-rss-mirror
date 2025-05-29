@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
+OTC RSS mirror fetched: Thu May 29 07:24:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 02:36:38 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 03:07:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[KARNELL GROUP AB (KRLLF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=KRLLF&actionDate=1748501604000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KRLLF/company-info">KARNELL GROUP AB</a> (<a href="http://www.otcmarkets.com/stock/KRLLF">KRLLF</a>: OTC Link) - Venue Change - The symbol, KRLLF, no longer trades on Grey Market.  As of Thu, May 29, 2025, KRLLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 02:53:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=KRLLF&actionDate=1748501604000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KARNELL GROUP AB]]></category>
+<pink:symbol>KRLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD (CTATF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CTATF&actionDate=1748501604000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTATF/company-info">CONTEMPORARY AMPEREX TECHNOLOGY CO LTD</a> (<a href="http://www.otcmarkets.com/stock/CTATF">CTATF</a>: OTC Link) - Venue Change - The symbol, CTATF, no longer trades on Grey Market.  As of Thu, May 29, 2025, CTATF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 02:53:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CTATF&actionDate=1748501604000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD]]></category>
+<pink:symbol>CTATF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SYLA Technologies Co. (SYTTY: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SYTTY&actionDate=1748494840000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYTTY/company-info">SYLA Technologies Co.</a> (<a href="http://www.otcmarkets.com/stock/SYTTY">SYTTY</a>: OTC Link) - Venue Change - The symbol, SYTTY, no longer trades on Nasdaq.  As of Thu, May 29, 2025, SYTTY trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -956,30 +980,6 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[The Smarter Web Company PLC]]></category>
 <pink:symbol>TSWCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Great Wall Pan Asia Hldgs Ltd. (GRWWF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRWWF&actionDate=1748345521000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRWWF/company-info">Great Wall Pan Asia Hldgs Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRWWF">GRWWF</a>: OTC Link) - Venue Change - The symbol, GRWWF, no longer trades on Grey Market.  As of Tue, May 27, 2025, GRWWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 07:32:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRWWF&actionDate=1748345521000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Great Wall Pan Asia Hldgs Ltd.]]></category>
-<pink:symbol>GRWWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLD HART COPPER CORP. (GHCCF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GHCCF&actionDate=1748345492000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GHCCF/company-info">GOLD HART COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/GHCCF">GHCCF</a>: OTC Link) - Venue Change - The symbol, GHCCF, no longer trades on Grey Market.  As of Tue, May 27, 2025, GHCCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 07:31:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GHCCF&actionDate=1748345492000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLD HART COPPER CORP.]]></category>
-<pink:symbol>GHCCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1332,6 +1332,66 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SYLA Technologies Co. (SYTTY: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SYTTY&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYTTY/company-info">SYLA Technologies Co.</a> (<a href="http://www.otcmarkets.com/stock/SYTTY">SYTTY</a>: Pink Current) - Piggyback Qualified -  Effective Thu, May 29, 2025, SYTTY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SYTTY&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SYLA Technologies Co.]]></category>
+<pink:symbol>SYTTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[KARNELL GROUP AB (KRLLF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KRLLF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KRLLF/company-info">KARNELL GROUP AB</a> (<a href="http://www.otcmarkets.com/stock/KRLLF">KRLLF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 29, 2025, KRLLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KRLLF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KARNELL GROUP AB]]></category>
+<pink:symbol>KRLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Helix Exploration Plc (HHEXF: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HHEXF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHEXF/company-info">Helix Exploration Plc</a> (<a href="http://www.otcmarkets.com/stock/HHEXF">HHEXF</a>: OTCQB) - Piggyback Qualified -  Effective Thu, May 29, 2025, HHEXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HHEXF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Helix Exploration Plc]]></category>
+<pink:symbol>HHEXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD (CTATF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CTATF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTATF/company-info">CONTEMPORARY AMPEREX TECHNOLOGY CO LTD</a> (<a href="http://www.otcmarkets.com/stock/CTATF">CTATF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 29, 2025, CTATF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CTATF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD]]></category>
+<pink:symbol>CTATF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[COSCO CAP INC. (CSTCF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CSTCF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CSTCF/company-info">COSCO CAP INC.</a> (<a href="http://www.otcmarkets.com/stock/CSTCF">CSTCF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 29, 2025, CSTCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CSTCF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[COSCO CAP INC.]]></category>
+<pink:symbol>CSTCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RBSTF&actionDate=1748404800000]]></link>
 <description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBSTF/company-info">ROBOSENSE TECHNOLOGY CO</a> (<a href="http://www.otcmarkets.com/stock/RBSTF">RBSTF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, May 28, 2025, RBSTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1390,18 +1450,6 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <pink:symbol>DUPBF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cordoba Minerals Corp. (CDBMF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CDBMF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDBMF/company-info">Cordoba Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/CDBMF">CDBMF</a>: OTCQB) - Piggyback Qualified -  Effective Wed, May 28, 2025, CDBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CDBMF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cordoba Minerals Corp.]]></category>
-<pink:symbol>CDBMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Ex-Dividend]]></title>
@@ -1644,6 +1692,66 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[UMC, Inc. (UMCN: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMCN&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMCN/company-info">UMC, Inc.</a> (<a href="http://www.otcmarkets.com/stock/UMCN">UMCN</a>: Pink Current) - Tier Change - The symbol, UMCN, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, UMCN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMCN&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UMC, Inc.]]></category>
+<pink:symbol>UMCN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SEATECH VENTURES CORP. (SEAV: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SEAV&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SEAV/company-info">SEATECH VENTURES CORP.</a> (<a href="http://www.otcmarkets.com/stock/SEAV">SEAV</a>: Pink Current) - Tier Change - The symbol, SEAV, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, SEAV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SEAV&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SEATECH VENTURES CORP.]]></category>
+<pink:symbol>SEAV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sack Lunch Productions, Inc. (SAKL: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAKL&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SAKL/company-info">Sack Lunch Productions, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SAKL">SAKL</a>: Pink Current) - Tier Change - The symbol, SAKL, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, SAKL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAKL&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sack Lunch Productions, Inc.]]></category>
+<pink:symbol>SAKL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Prom Resources, Inc. (PRMO: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRMO&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMO/company-info">Prom Resources, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRMO">PRMO</a>: Pink Current) - Tier Change - The symbol, PRMO, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, PRMO resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PRMO&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Prom Resources, Inc.]]></category>
+<pink:symbol>PRMO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[KARNELL GROUP AB (KRLLF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KRLLF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KRLLF/company-info">KARNELL GROUP AB</a> (<a href="http://www.otcmarkets.com/stock/KRLLF">KRLLF</a>: Pink Limited) - Tier Change - The symbol, KRLLF, no longer is classified as Grey Market.  As of Thu, May 29, 2025, KRLLF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KRLLF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KARNELL GROUP AB]]></category>
+<pink:symbol>KRLLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Horizon Copper Corp. (HNCUF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HNCUF&actionDate=1748491200000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HNCUF/company-info">Horizon Copper Corp.</a> (<a href="http://www.otcmarkets.com/stock/HNCUF">HNCUF</a>: OTCQB) - Tier Change - The symbol, HNCUF, no longer is classified as OTCQX International.  As of Thu, May 29, 2025, HNCUF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1668,100 +1776,40 @@ OTC RSS mirror fetched: Thu May 29 06:56:33 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ZA Group Inc. (ZAAG: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZAAG/company-info">ZA Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZAAG">ZAAG</a>: Pink Current) - Tier Change - The symbol, ZAAG, no longer is classified as Pink Limited.  As of Wed, May 28, 2025, ZAAG resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZAAG&actionDate=1748404800000]]></guid>
+<title><![CDATA[Charlestowne Premium Beverages Inc. (FPWM: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FPWM&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FPWM/company-info">Charlestowne Premium Beverages Inc.</a> (<a href="http://www.otcmarkets.com/stock/FPWM">FPWM</a>: Pink Current) - Tier Change - The symbol, FPWM, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, FPWM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FPWM&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ZA Group Inc.]]></category>
-<pink:symbol>ZAAG</pink:symbol>
+<category><![CDATA[Charlestowne Premium Beverages Inc.]]></category>
+<pink:symbol>FPWM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Star Copper Corp. (STCUF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STCUF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STCUF/company-info">Star Copper Corp.</a> (<a href="http://www.otcmarkets.com/stock/STCUF">STCUF</a>: OTCQB) - Tier Change - The symbol, STCUF, no longer is classified as Pink Current.  As of Wed, May 28, 2025, STCUF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=STCUF&actionDate=1748404800000]]></guid>
+<title><![CDATA[Formation Minerals, Inc. (FOMI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FOMI&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FOMI/company-info">Formation Minerals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FOMI">FOMI</a>: Pink Current) - Tier Change - The symbol, FOMI, no longer is classified as Expert Market.  As of Thu, May 29, 2025, FOMI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FOMI&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Star Copper Corp.]]></category>
-<pink:symbol>STCUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RIVERSIDE RES INC CDA (RVSDF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RVSDF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RVSDF/company-info">RIVERSIDE RES INC CDA</a> (<a href="http://www.otcmarkets.com/stock/RVSDF">RVSDF</a>: Pink Current) - Tier Change - The symbol, RVSDF, no longer is classified as Grey Market.  As of Wed, May 28, 2025, RVSDF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RVSDF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RIVERSIDE RES INC CDA]]></category>
-<pink:symbol>RVSDF</pink:symbol>
+<category><![CDATA[Formation Minerals, Inc.]]></category>
+<pink:symbol>FOMI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBSTF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBSTF/company-info">ROBOSENSE TECHNOLOGY CO</a> (<a href="http://www.otcmarkets.com/stock/RBSTF">RBSTF</a>: Pink Current) - Tier Change - The symbol, RBSTF, no longer is classified as Grey Market.  As of Wed, May 28, 2025, RBSTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RBSTF&actionDate=1748404800000]]></guid>
+<title><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD (CTATF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CTATF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTATF/company-info">CONTEMPORARY AMPEREX TECHNOLOGY CO LTD</a> (<a href="http://www.otcmarkets.com/stock/CTATF">CTATF</a>: Pink Limited) - Tier Change - The symbol, CTATF, no longer is classified as Grey Market.  As of Thu, May 29, 2025, CTATF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CTATF&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROBOSENSE TECHNOLOGY CO]]></category>
-<pink:symbol>RBSTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Powerdyne International, Inc. (PWDY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PWDY&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PWDY/company-info">Powerdyne International, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PWDY">PWDY</a>: Pink Current) - Tier Change - The symbol, PWDY, no longer is classified as Pink Limited.  As of Wed, May 28, 2025, PWDY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PWDY&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Powerdyne International, Inc.]]></category>
-<pink:symbol>PWDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Tower Bersama Infrastructure TBK (PTFRF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTFRF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTFRF/company-info">PT Tower Bersama Infrastructure TBK</a> (<a href="http://www.otcmarkets.com/stock/PTFRF">PTFRF</a>: Pink Limited) - Tier Change - The symbol, PTFRF, no longer is classified as Expert Market.  As of Wed, May 28, 2025, PTFRF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTFRF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Tower Bersama Infrastructure TBK]]></category>
-<pink:symbol>PTFRF</pink:symbol>
+<category><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD]]></category>
+<pink:symbol>CTATF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Pepkor Holdings Ltd. (PPKRF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPKRF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPKRF/company-info">Pepkor Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPKRF">PPKRF</a>: Pink Current) - Tier Change - The symbol, PPKRF, no longer is classified as Pink Limited.  As of Wed, May 28, 2025, PPKRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPKRF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pepkor Holdings Ltd.]]></category>
-<pink:symbol>PPKRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[P2P Group Ltd. (PPBGF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPBGF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPBGF/company-info">P2P Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPBGF">PPBGF</a>: OTCQB) - Tier Change - The symbol, PPBGF, no longer is classified as Pink Current.  As of Wed, May 28, 2025, PPBGF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPBGF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[P2P Group Ltd.]]></category>
-<pink:symbol>PPBGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Elektros Inc. (ELEK: Pink Current) | Caveat Emptor Status Change]]></title>
