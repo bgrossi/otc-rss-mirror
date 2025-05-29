@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 05:54:51 UTC 2025
+OTC RSS mirror fetched: Thu May 29 06:31:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 05:54:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 01:36:38 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 02:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478680]]></link>
+<pubDate>Thu, 29 May 2025 02:00:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478680]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Response to ASX Query]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=478722]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 29 05:54:51 UTC 2025
 <pink:symbol>PHSE</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | AAC Clyde Space secures an increase in overdraft bank facility of SEK 20 M to support continued operations]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478408]]></link>
-<pubDate>Tue, 27 May 2025 08:30:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=478408]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AAC CLYDE SPACE AB]]></category>
-<pink:symbol>ACCMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1212,16 +1212,16 @@ OTC RSS mirror fetched: Thu May 29 05:54:51 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Deleted Symbol]]></title>
+<title><![CDATA[Bexil Corp. (BXLC: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - Bexil Corp. (BXLC: Pink Current) - Deleted Symbol - As of Thu, May 29, 2025, BXLC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 29, 2025 12:00 - Bexil Corp. (BXLC: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, BXLC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 01:00:21 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bexil Corp.]]></category>
 <pink:symbol>BXLC</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[BIGTINCAN HLDGS LTD. (BTGHF: OTC Link) | Deleted Symbol]]></title>
