@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 23:19:37 UTC 2025
+OTC RSS mirror fetched: Thu May 29 23:40:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu May 29 23:19:37 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 19:06:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 19:36:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | DAN25006 at Rae Delivers Further High-Grade Results With 75m @ 2% Cu & 6g/t Ag]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=478893]]></link>
+<pubDate>Thu, 29 May 2025 19:32:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=478893]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Nova Minerals Ltd. (NVAAF: Pink Current) | Estelle 15,000m Exploration and Project Advancement Plan]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=478885]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu May 29 23:19:37 UTC 2025
 <pink:symbol>BXLCD</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Minco Silver Corp. (MISVF: OTCQX International) | Minco Silver Corporation Receives Final Loan Payment from Longxin Mining Co.,Ltd.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MISVF/news?id=478687]]></link>
-<pubDate>Wed, 28 May 2025 15:34:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MISVF/news?id=478687]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minco Silver Corp.]]></category>
-<pink:symbol>MISVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
