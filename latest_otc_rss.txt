@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu May 29 15:22:41 UTC 2025
+OTC RSS mirror fetched: Thu May 29 15:42:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu May 29 15:22:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 11:06:39 EDT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 11:26:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[EdgeMode Inc. (EDGM: Pink Current) | EdgeMode Inc. Announces Strategic Acquisition of Synthesis Analytics Production Ltd., to Meet Growing Demand for AI and High-Performance Computing Data Center Market]]></title>
@@ -1236,16 +1236,16 @@ OTC RSS mirror fetched: Thu May 29 15:22:41 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SYLA Technologies Co. (SYTTY: Pink Current) | Deleted Symbol]]></title>
+<title><![CDATA[SYLA Technologies Co. (SYTTY: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYTTY&actionDate=1748530073000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - SYLA Technologies Co. (SYTTY: Pink Current) - Deleted Symbol - As of Thu, May 29, 2025, SYTTY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 29, 2025 12:00 - SYLA Technologies Co. (SYTTY: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, SYTTY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 10:47:53 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYTTY&actionDate=1748530073000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[SYLA Technologies Co.]]></category>
 <pink:symbol>SYTTY</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[MS International Plc. (MSILF: Grey Market) | Reactivated Symbol]]></title>
