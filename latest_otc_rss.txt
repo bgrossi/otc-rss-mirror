@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
+OTC RSS mirror fetched: Fri May 30 11:19:14 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 06:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 07:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Invinity Energy Sys Plc. (IESVF: OTCQX International) | 2024 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=478900]]></link>
+<pubDate>Fri, 30 May 2025 07:00:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=478900]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Invinity Energy Sys Plc.]]></category>
+<pink:symbol>IESVF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Elections for Second Interim Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=478910]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[AMAERO LTD. (AMROF: OTCQB) | Investor Briefing Recording]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AMROF/news?id=478717]]></link>
-<pubDate>Wed, 28 May 2025 23:43:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMROF/news?id=478717]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AMAERO LTD.]]></category>
-<pink:symbol>AMROF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -984,6 +984,30 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Murchison Minerals Ltd. (MURMF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MURMF&actionDate=1748603205000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MURMD/company-info">Murchison Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MURMD">MURMF</a>: Pink Current) - Symbol Change - The symbol, MURMF, is no longer a valid symbol for Murchison Minerals Ltd..  As of Fri, May 30, 2025, the new trading symbol is MURMD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 07:06:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MURMF&actionDate=1748603205000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Murchison Minerals Ltd.]]></category>
+<pink:symbol>MURMD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Africa Energy Corp. (HPMCF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HPMCF&actionDate=1748602866000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HPMCD/company-info">Africa Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/HPMCD">HPMCF</a>: Pink Current) - Symbol Change - The symbol, HPMCF, is no longer a valid symbol for Africa Energy Corp..  As of Fri, May 30, 2025, the new trading symbol is HPMCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 07:01:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HPMCF&actionDate=1748602866000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Africa Energy Corp.]]></category>
+<pink:symbol>HPMCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Capita PLC (CTAYD: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAYD&actionDate=1748581212000]]></link>
 <description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGY/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGY">CTAYD</a>: Pink Current) - Symbol Change - The symbol, CTAYD, is no longer a valid symbol for Capita PLC.  As of Fri, May 30, 2025, the new trading symbol is CTAGY. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1080,30 +1104,6 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Atos Origin SA (AEXYD: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXYD&actionDate=1748494809000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AEXAY/company-info">Atos Origin SA</a> (<a href="http://www.otcmarkets.com/stock/AEXAY">AEXYD</a>: Pink Limited) - Symbol Change - The symbol, AEXYD, is no longer a valid symbol for Atos Origin SA.  As of Thu, May 29, 2025, the new trading symbol is AEXAY. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 01:00:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AEXYD&actionDate=1748494809000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atos Origin SA]]></category>
-<pink:symbol>AEXAY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Capita PLC (CTAGD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGD&actionDate=1748494806000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGF/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGF">CTAGD</a>: Pink Current) - Symbol Change - The symbol, CTAGD, is no longer a valid symbol for Capita PLC.  As of Thu, May 29, 2025, the new trading symbol is CTAGF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 01:00:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAGD&actionDate=1748494806000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Capita PLC]]></category>
-<pink:symbol>CTAGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[SDCL ENERGY EFFICIENCY INCOME TR PLC (SDCLF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=SDCLF&actionDate=1748577600000]]></link>
 <description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SDCLF/company-info">SDCL ENERGY EFFICIENCY INCOME TR PLC</a> (<a href="http://www.otcmarkets.com/stock/SDCLF">SDCLF</a>: Pink Limited) - Company Name Change - SDCL ENERGY EFFICIENCY INCOME TR PLC has changed its name to SDCL Efficiency Income Trust plc. The change goes into effect as of Fri, May 30, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1140,6 +1140,30 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Murchison Minerals Ltd. (MURMF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MURMF&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MURMD/company-info">Murchison Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MURMD">MURMF</a>: Pink Current) - Splits - Effective Fri, May 30, 2025, MURMF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, MURMF is no longer valid. The new trading symbol is MURMD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MURMF&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Murchison Minerals Ltd.]]></category>
+<pink:symbol>MURMD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Africa Energy Corp. (HPMCF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HPMCF&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HPMCD/company-info">Africa Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/HPMCD">HPMCF</a>: Pink Current) - Splits - Effective Fri, May 30, 2025, HPMCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, HPMCF is no longer valid. The new trading symbol is HPMCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HPMCF&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Africa Energy Corp.]]></category>
+<pink:symbol>HPMCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[VOLT GROUP LTD (VLTGF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=VLTGF&actionDate=1748491200000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VLTGD/company-info">VOLT GROUP LTD</a> (<a href="http://www.otcmarkets.com/stock/VLTGD">VLTGF</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, VLTGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 100 split. Due to the split, VLTGF is no longer valid. The new trading symbol is VLTGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1154,7 +1178,7 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <item>
 <title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a rev split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a fwd split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1166,7 +1190,7 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <item>
 <title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a fwd split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a rev split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
@@ -1184,18 +1208,6 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Yamatane Corp.]]></category>
 <pink:symbol>YACPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DAITO PHARMACEUTICAL CO LTD, (DAITF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DAITF/company-info">DAITO PHARMACEUTICAL CO LTD,</a> (<a href="http://www.otcmarkets.com/stock/DAITF">DAITF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, DAITF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DAITO PHARMACEUTICAL CO LTD,]]></category>
-<pink:symbol>DAITF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
@@ -1220,6 +1232,18 @@ OTC RSS mirror fetched: Fri May 30 10:56:11 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Activia Properties Inc]]></category>
 <pink:symbol>ATVXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[DAITO PHARMACEUTICAL CO LTD, (DAITF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DAITF/company-info">DAITO PHARMACEUTICAL CO LTD,</a> (<a href="http://www.otcmarkets.com/stock/DAITF">DAITF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, DAITF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DAITF&actionDate=1748491200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DAITO PHARMACEUTICAL CO LTD,]]></category>
+<pink:symbol>DAITF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
