@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
+OTC RSS mirror fetched: Fri May 30 04:27:24 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 29 May 2025 23:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 00:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | DAN25006 at Rae Delivers Further High-Grade Results With 75m @ 2% Cu & 6g/t Ag]]></title>
@@ -972,18 +972,6 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[The Smarter Web Company PLC (TSWCF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSWCF&actionDate=1748345583000]]></link>
-<description><![CDATA[Tue, May 27, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTC Link) - Venue Change - The symbol, TSWCF, no longer trades on Grey Market.  As of Tue, May 27, 2025, TSWCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 27 May 2025 07:33:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TSWCF&actionDate=1748345583000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Smarter Web Company PLC]]></category>
-<pink:symbol>TSWCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BXLC&actionDate=1748521148000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Symbol Change - The symbol, BXLC, is no longer a valid symbol for Bexil Corp..  As of Thu, May 29, 2025, the new trading symbol is BXLCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1116,18 +1104,6 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Scepter Holdings, Inc. (BRZLD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BRZLD&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Scepter Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZLD</a>: Pink Current) - Company Name Change - Scepter Holdings, Inc. has changed its name to Adapti, Inc.. The change goes into effect as of Wed, May 28, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BRZLD&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Scepter Holdings, Inc.]]></category>
-<pink:symbol>BRZLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[VOLT GROUP LTD (VLTGF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=VLTGF&actionDate=1748491200000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VLTGD/company-info">VOLT GROUP LTD</a> (<a href="http://www.otcmarkets.com/stock/VLTGD">VLTGF</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, VLTGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 100 split. Due to the split, VLTGF is no longer valid. The new trading symbol is VLTGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1136,18 +1112,6 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[VOLT GROUP LTD]]></category>
 <pink:symbol>VLTGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a fwd split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLCD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1164,26 +1128,26 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Activia Properties Inc (ATVXF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATVXF/company-info">Activia Properties Inc</a> (<a href="http://www.otcmarkets.com/stock/ATVXF">ATVXF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, ATVXF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Splits - Effective Thu, May 29, 2025, BXLC: Pink Current engaged in a fwd split. As a result of the split, 1:1000 R/S immediately followed by 1000:1 F/S. Due to the split, BXLC is no longer valid. The new trading symbol is BXLCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BXLC&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Activia Properties Inc]]></category>
-<pink:symbol>ATVXF</pink:symbol>
+<category><![CDATA[Bexil Corp.]]></category>
+<pink:symbol>BXLCD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NIPPON PROLOGIS REIT INC. (NPONF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NPONF/company-info">NIPPON PROLOGIS REIT INC.</a> (<a href="http://www.otcmarkets.com/stock/NPONF">NPONF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, NPONF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YACPF/company-info">Yamatane Corp.</a> (<a href="http://www.otcmarkets.com/stock/YACPF">YACPF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, YACPF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NIPPON PROLOGIS REIT INC.]]></category>
-<pink:symbol>NPONF</pink:symbol>
+<category><![CDATA[Yamatane Corp.]]></category>
+<pink:symbol>YACPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
@@ -1200,40 +1164,28 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Yamatane Corp. (YACPF: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YACPF/company-info">Yamatane Corp.</a> (<a href="http://www.otcmarkets.com/stock/YACPF">YACPF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, YACPF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<title><![CDATA[NIPPON PROLOGIS REIT INC. (NPONF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NPONF/company-info">NIPPON PROLOGIS REIT INC.</a> (<a href="http://www.otcmarkets.com/stock/NPONF">NPONF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, NPONF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=YACPF&actionDate=1748491200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NPONF&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Yamatane Corp.]]></category>
-<pink:symbol>YACPF</pink:symbol>
+<category><![CDATA[NIPPON PROLOGIS REIT INC.]]></category>
+<pink:symbol>NPONF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[HI-VIEW RES INC. (HVWRF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HVWRF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HVWRD/company-info">HI-VIEW RES INC.</a> (<a href="http://www.otcmarkets.com/stock/HVWRD">HVWRF</a>: Pink Current) - Splits - Effective Wed, May 28, 2025, HVWRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, HVWRF is no longer valid. The new trading symbol is HVWRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HVWRF&actionDate=1748404800000]]></guid>
+<title><![CDATA[Activia Properties Inc (ATVXF: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></link>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATVXF/company-info">Activia Properties Inc</a> (<a href="http://www.otcmarkets.com/stock/ATVXF">ATVXF</a>: Pink Limited) - Splits - Effective Thu, May 29, 2025, ATVXF: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ATVXF&actionDate=1748491200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HI-VIEW RES INC.]]></category>
-<pink:symbol>HVWRD</pink:symbol>
+<category><![CDATA[Activia Properties Inc]]></category>
+<pink:symbol>ATVXF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adapti, Inc. (BRZL: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRZL&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Adapti, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZL</a>: Pink Current) - Splits - Effective Wed, May 28, 2025, BRZL: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 4000 split. Due to the split, BRZL is no longer valid. The new trading symbol is BRZLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRZL&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adapti, Inc.]]></category>
-<pink:symbol>BRZLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SYLA Technologies Co. (SYTTY: OTC Link) | Deleted Symbol]]></title>
@@ -1356,18 +1308,6 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[BELGRAVIA HARTFORD CAP INC. (BLGVF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BLGVF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BLGVF/company-info">BELGRAVIA HARTFORD CAP INC.</a> (<a href="http://www.otcmarkets.com/stock/BLGVF">BLGVF</a>: Pink Current) - Halted Security -  Effective Wed, May 28, 2025, BLGVF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BLGVF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BELGRAVIA HARTFORD CAP INC.]]></category>
-<pink:symbol>BLGVF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[KARNELL GROUP AB (KRLLF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KRLLF&actionDate=1748491200000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KRLLF/company-info">KARNELL GROUP AB</a> (<a href="http://www.otcmarkets.com/stock/KRLLF">KRLLF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, May 29, 2025, KRLLF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1414,78 +1354,6 @@ OTC RSS mirror fetched: Fri May 30 03:50:56 UTC 2025
 <pink:symbol>CSTCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ROBOSENSE TECHNOLOGY CO (RBSTF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RBSTF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RBSTF/company-info">ROBOSENSE TECHNOLOGY CO</a> (<a href="http://www.otcmarkets.com/stock/RBSTF">RBSTF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, May 28, 2025, RBSTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RBSTF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ROBOSENSE TECHNOLOGY CO]]></category>
-<pink:symbol>RBSTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QVC Group Inc. (QVCGB: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QVCGB&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QVCGB/company-info">QVC Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/QVCGB">QVCGB</a>: OTCQB) - Piggyback Qualified -  Effective Wed, May 28, 2025, QVCGB is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QVCGB&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QVC Group Inc.]]></category>
-<pink:symbol>QVCGB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Tower Bersama Infrastructure TBK (PTFRF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTFRF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTFRF/company-info">PT Tower Bersama Infrastructure TBK</a> (<a href="http://www.otcmarkets.com/stock/PTFRF">PTFRF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 28, 2025, PTFRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTFRF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Tower Bersama Infrastructure TBK]]></category>
-<pink:symbol>PTFRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Gold Finder Resources Ltd. (GLDFF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLDFF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLDFF/company-info">Gold Finder Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GLDFF">GLDFF</a>: OTCQB) - Piggyback Qualified -  Effective Wed, May 28, 2025, GLDFF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GLDFF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gold Finder Resources Ltd.]]></category>
-<pink:symbol>GLDFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Duopharma Biotech Berhad (DUPBF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DUPBF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DUPBF/company-info">Duopharma Biotech Berhad</a> (<a href="http://www.otcmarkets.com/stock/DUPBF">DUPBF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, May 28, 2025, DUPBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=DUPBF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Duopharma Biotech Berhad]]></category>
-<pink:symbol>DUPBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cordoba Minerals Corp. (CDBMF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CDBMF&actionDate=1748404800000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CDBMF/company-info">Cordoba Minerals Corp.</a> (<a href="http://www.otcmarkets.com/stock/CDBMF">CDBMF</a>: OTCQB) - Piggyback Qualified -  Effective Wed, May 28, 2025, CDBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CDBMF&actionDate=1748404800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cordoba Minerals Corp.]]></category>
-<pink:symbol>CDBMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Bank Hapoalim B.M. (BKHYY: Pink Limited) | Ex-Dividend]]></title>
