@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 20:54:29 UTC 2025
+OTC RSS mirror fetched: Fri May 30 21:18:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 20:54:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 16:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 17:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Community Investors Bancorp, Inc. (CIBN: OTCQX U.S.) | Community Investors Bancorp, Inc. Declares Quarterly Cash Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CIBN/news?id=479000]]></link>
+<pubDate>Fri, 30 May 2025 16:46:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CIBN/news?id=479000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Community Investors Bancorp, Inc.]]></category>
+<pink:symbol>CIBN</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Calls on Sham Gad to Put Up or Shut Up]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478988]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 30 20:54:29 UTC 2025
 <pink:symbol>PTNDY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ProSiebenSat.1 Media SE (PBSFY: Pink Current) | PBSFY - Books will close today, May 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PBSFY/news?id=478797]]></link>
-<pubDate>Thu, 29 May 2025 08:30:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PBSFY/news?id=478797]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ProSiebenSat.1 Media SE]]></category>
-<pink:symbol>PBSFY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
