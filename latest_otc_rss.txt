@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 13:46:30 UTC 2025
+OTC RSS mirror fetched: Fri May 30 14:21:14 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 13:46:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 09:26:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 10:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information regarding the dividend for July 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=478960]]></link>
+<pubDate>Fri, 30 May 2025 09:34:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=478960]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Repsol S.A.]]></category>
+<pink:symbol>REPYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Eco-Growth Strategies Inc. (ECGS: Pink Current) | Eco-Growth Strategies Engages TraDigital Marketing]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ECGS/news?id=478894]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Fri May 30 13:46:30 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[BIC SA]]></category>
 <pink:symbol>BICEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ackermans & Van Haaren Sa (AVHNY: Pink Limited) | AVHNY - Books will close today, May 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AVHNY/news?id=478789]]></link>
-<pubDate>Thu, 29 May 2025 08:26:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVHNY/news?id=478789]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ackermans & Van Haaren Sa]]></category>
-<pink:symbol>AVHNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
