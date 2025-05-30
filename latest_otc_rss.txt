@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 13:20:02 UTC 2025
+OTC RSS mirror fetched: Fri May 30 13:46:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 30 13:20:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 09:06:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 09:26:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Eco-Growth Strategies Inc. (ECGS: Pink Current) | Eco-Growth Strategies Engages TraDigital Marketing]]></title>
@@ -1248,16 +1248,28 @@ OTC RSS mirror fetched: Fri May 30 13:20:02 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTCQB) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZCARW&actionDate=1748610423000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: OTCQB) - Reactivated Symbol -  The symbol, ZCARW, has been reactivated and now trades on OTCQB. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 09:07:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZCARW&actionDate=1748610423000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
+<pink:symbol>ZCARW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: OTCQB) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZCARW&actionDate=1748606486000]]></link>
-<description><![CDATA[Fri, May 30, 2025 12:00 - Zoomcar Holdings, Inc. (ZCARW: OTC Link) - Deleted Symbol - As of Fri, May 30, 2025, ZCARW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Fri, May 30, 2025 12:00 - Zoomcar Holdings, Inc. (ZCARW: OTCQB) - Deleted Symbol - As of Fri, May 30, 2025, ZCARW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 30 May 2025 08:01:26 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ZCARW&actionDate=1748606486000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Zoomcar Holdings, Inc.]]></category>
 <pink:symbol>ZCARW</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[HOOSIERS HLDGS CO LTD. (HHCLF: OTC Link) | Deleted Symbol]]></title>
@@ -1352,18 +1364,6 @@ OTC RSS mirror fetched: Fri May 30 13:20:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[VOLT GROUP LTD]]></category>
 <pink:symbol>VLTGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bexil Corp. (BXLC: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - Bexil Corp. (BXLC: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, BXLC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 01:00:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BXLC&actionDate=1748494821000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
