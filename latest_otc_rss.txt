@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 06:30:47 UTC 2025
+OTC RSS mirror fetched: Fri May 30 06:56:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 06:30:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 02:06:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 02:36:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Yellow Cake Plc (YLLXF: OTCQX International) | TR-1: Standard form for notification of major holdings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/YLLXF/news?id=478899]]></link>
+<pubDate>Fri, 30 May 2025 02:33:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/YLLXF/news?id=478899]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Yellow Cake Plc]]></category>
+<pink:symbol>YLLXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478849]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 30 06:30:47 UTC 2025
 <pink:symbol>PFBX</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Commercial International Bank Ltd. (CIBEY: OTCQX International) | Changes to the Board of Directors]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CIBEY/news?id=478656]]></link>
-<pubDate>Wed, 28 May 2025 17:30:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CIBEY/news?id=478656]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Commercial International Bank Ltd.]]></category>
-<pink:symbol>CIBEY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
