@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 05:54:49 UTC 2025
+OTC RSS mirror fetched: Fri May 30 06:30:47 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri May 30 05:54:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 01:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 02:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478849]]></link>
+<pubDate>Fri, 30 May 2025 02:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478849]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Reminder - Expiry of Listed Options (JLLO)]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=478897]]></link>
+<pubDate>Fri, 30 May 2025 01:50:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=478897]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | DAN25006 at Rae Delivers Further High-Grade Results With 75m @ 2% Cu & 6g/t Ag]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=478893]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Fri May 30 05:54:49 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Katahdin Bankshares Corp. (KTHN: OTCQX U.S.) | Katahdin Bankshares Corp. Announces Quarterly Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KTHN/news?id=478667]]></link>
-<pubDate>Wed, 28 May 2025 16:05:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KTHN/news?id=478667]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Katahdin Bankshares Corp.]]></category>
-<pink:symbol>KTHN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces FINRA Action on Reverse and Forward Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=478689]]></link>
-<pubDate>Wed, 28 May 2025 16:03:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=478689]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLCD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -1044,16 +1044,16 @@ OTC RSS mirror fetched: Fri May 30 05:54:49 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD. (BADFF: Pink Current) | Symbol Change]]></title>
+<title><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD. (BADFF: OTCQX International) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BADFF&actionDate=1748494833000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDGIF/company-info">BADGER INFRASTRUCTURE SOLUTIONS LTD.</a> (<a href="http://www.otcmarkets.com/stock/BDGIF">BADFF</a>: Pink Current) - Symbol Change - The symbol, BADFF, is no longer a valid symbol for BADGER INFRASTRUCTURE SOLUTIONS LTD..  As of Thu, May 29, 2025, the new trading symbol is BDGIF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDGIF/company-info">BADGER INFRASTRUCTURE SOLUTIONS LTD.</a> (<a href="http://www.otcmarkets.com/stock/BDGIF">BADFF</a>: OTCQX International) - Symbol Change - The symbol, BADFF, is no longer a valid symbol for BADGER INFRASTRUCTURE SOLUTIONS LTD..  As of Thu, May 29, 2025, the new trading symbol is BDGIF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Thu, 29 May 2025 01:00:33 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BADFF&actionDate=1748494833000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD.]]></category>
 <pink:symbol>BDGIF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ALPHA ONE INC. (AOAOD: Pink Current) | Symbol Change]]></title>
