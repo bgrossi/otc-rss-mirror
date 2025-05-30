@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
+OTC RSS mirror fetched: Fri May 30 16:48:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 12:26:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 12:46:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478979]]></link>
+<pubDate>Fri, 30 May 2025 12:41:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478979]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Serabi Gold Plc (SRBIF: OTCQX International) | Notice of Annual General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=478978]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Intertek Group Plc (IKTSY: Pink Current) | IKTSY - Books will close today, May 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IKTSY/news?id=478793]]></link>
-<pubDate>Thu, 29 May 2025 08:28:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IKTSY/news?id=478793]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Intertek Group Plc]]></category>
-<pink:symbol>IKTSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[UMB Financial Corp. (UMBXV: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UMBXV&actionDate=1748622854000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMBXV/company-info">UMB Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/UMBXV">UMBXV</a>: OTC Link) - Venue Change - The symbol, UMBXV, no longer trades on Grey Market.  As of Fri, May 30, 2025, UMBXV trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 12:34:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UMBXV&actionDate=1748622854000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UMB Financial Corp.]]></category>
+<pink:symbol>UMBXV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Azul S.A. (AZULQ: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AZULQ&actionDate=1748617400000]]></link>
 <description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AZULQ/company-info">Azul S.A.</a> (<a href="http://www.otcmarkets.com/stock/AZULQ">AZULQ</a>: OTC Link) - Venue Change - The symbol, AZULQ, no longer trades on NYSE.  As of Fri, May 30, 2025, AZULQ trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -970,18 +982,6 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 <pink:symbol>RVSDF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Emera Inc. (EMA: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMA&actionDate=1748431688000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMA/company-info">Emera Inc.</a> (<a href="http://www.otcmarkets.com/stock/EMA">EMA</a>: NYSE) - Venue Change - The symbol, EMA, no longer trades on OTC Link.  As of Wed, May 28, 2025, EMA trades on NYSE. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 07:28:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=EMA&actionDate=1748431688000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Emera Inc.]]></category>
-<pink:symbol>EMA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Optiscan Image Ltd. (OSIMF: Grey Market) | Symbol Change]]></title>
@@ -1728,6 +1728,18 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[UMB Financial Corp. (UMBXV: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMBXV&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMBXV/company-info">UMB Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/UMBXV">UMBXV</a>: Pink Current) - Tier Change - The symbol, UMBXV, no longer is classified as Grey Market.  As of Fri, May 30, 2025, UMBXV resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMBXV&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UMB Financial Corp.]]></category>
+<pink:symbol>UMBXV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Torque Lifestyle Brands Inc. (TQLB: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TQLB&actionDate=1748577600000]]></link>
 <description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TQLB/company-info">Torque Lifestyle Brands Inc.</a> (<a href="http://www.otcmarkets.com/stock/TQLB">TQLB</a>: Pink Current) - Tier Change - The symbol, TQLB, no longer is classified as Pink Limited.  As of Fri, May 30, 2025, TQLB resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1820,18 +1832,6 @@ OTC RSS mirror fetched: Fri May 30 16:27:20 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[LIVECHAIN INC.]]></category>
 <pink:symbol>LICH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Integral Acquisition Corporation 1 (INTEW: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INTEW&actionDate=1748577600000]]></link>
-<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INTEW/company-info">Integral Acquisition Corporation 1</a> (<a href="http://www.otcmarkets.com/stock/INTEW">INTEW</a>: Pink Current) - Tier Change - The symbol, INTEW, no longer is classified as Expert Market.  As of Fri, May 30, 2025, INTEW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INTEW&actionDate=1748577600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Integral Acquisition Corporation 1]]></category>
-<pink:symbol>INTEW</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
