@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 19:37:57 UTC 2025
+OTC RSS mirror fetched: Fri May 30 19:51:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri May 30 19:37:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 15:26:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 15:46:40 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[International Endeavors Corp (IDVV: Pink Current) | IDVV files Form 10 Registration Statement with SEC]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=478982]]></link>
+<pubDate>Fri, 30 May 2025 15:30:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=478982]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Endeavors Corp]]></category>
+<pink:symbol>IDVV</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478979]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri May 30 19:37:57 UTC 2025
 <pink:symbol>MAKSY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Leg Immobilien SE (LGMMY: Pink Limited) | LGMMY - Books will close today, May 29, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LGMMY/news?id=478795]]></link>
-<pubDate>Thu, 29 May 2025 08:29:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LGMMY/news?id=478795]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Leg Immobilien SE]]></category>
-<pink:symbol>LGMMY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
