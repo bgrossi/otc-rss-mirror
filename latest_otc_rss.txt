@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
+OTC RSS mirror fetched: Fri May 30 05:20:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 00:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 01:06:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | DAN25006 at Rae Delivers Further High-Grade Results With 75m @ 2% Cu & 6g/t Ag]]></title>
@@ -972,6 +972,30 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Capita PLC (CTAYD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAYD&actionDate=1748581212000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTAGY/company-info">Capita PLC</a> (<a href="http://www.otcmarkets.com/stock/CTAGY">CTAYD</a>: Pink Current) - Symbol Change - The symbol, CTAYD, is no longer a valid symbol for Capita PLC.  As of Fri, May 30, 2025, the new trading symbol is CTAGY. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CTAYD&actionDate=1748581212000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capita PLC]]></category>
+<pink:symbol>CTAGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Parks! America, Inc. (PRKAD: OTCQX U.S.) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKAD&actionDate=1748581208000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRKA/company-info">Parks! America, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PRKA">PRKAD</a>: OTCQX U.S.) - Symbol Change - The symbol, PRKAD, is no longer a valid symbol for Parks! America, Inc..  As of Fri, May 30, 2025, the new trading symbol is PRKA. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRKAD&actionDate=1748581208000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Bexil Corp. (BXLC: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BXLC&actionDate=1748521148000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BXLCD/company-info">Bexil Corp.</a> (<a href="http://www.otcmarkets.com/stock/BXLCD">BXLC</a>: Pink Current) - Symbol Change - The symbol, BXLC, is no longer a valid symbol for Bexil Corp..  As of Thu, May 29, 2025, the new trading symbol is BXLCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1064,30 +1088,6 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Capita PLC]]></category>
 <pink:symbol>CTAGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Iowa Renewable Energy LLC (IOWAL: Grey Market) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IOWAL&actionDate=1748447063000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IWRBU/company-info">Iowa Renewable Energy LLC</a> (<a href="http://www.otcmarkets.com/stock/IWRBU">IOWAL</a>: Grey Market) - Symbol Change - The symbol, IOWAL, is no longer a valid symbol for Iowa Renewable Energy LLC.  As of Wed, May 28, 2025, the new trading symbol is IWRBU. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 11:44:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=IOWAL&actionDate=1748447063000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iowa Renewable Energy LLC]]></category>
-<pink:symbol>IWRBU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adapti, Inc. (BRZL: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRZL&actionDate=1748431519000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRZLD/company-info">Adapti, Inc.</a> (<a href="http://www.otcmarkets.com/stock/BRZLD">BRZL</a>: Pink Current) - Symbol Change - The symbol, BRZL, is no longer a valid symbol for Adapti, Inc..  As of Wed, May 28, 2025, the new trading symbol is BRZLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 07:25:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRZL&actionDate=1748431519000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adapti, Inc.]]></category>
-<pink:symbol>BRZLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1188,6 +1188,66 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[HOOSIERS HLDGS CO LTD. (HHCLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HHCLF&actionDate=1748581242000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - HOOSIERS HLDGS CO LTD. (HHCLF: OTC Link) - Deleted Symbol - As of Fri, May 30, 2025, HHCLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HHCLF&actionDate=1748581242000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOOSIERS HLDGS CO LTD.]]></category>
+<pink:symbol>HHCLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SHINYEI KAISHA (SHKAF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHKAF&actionDate=1748581239000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - SHINYEI KAISHA (SHKAF: OTC Link) - Deleted Symbol - As of Fri, May 30, 2025, SHKAF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHKAF&actionDate=1748581239000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SHINYEI KAISHA]]></category>
+<pink:symbol>SHKAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[WILK TECHNOLOGIES LTD. (WLKTF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WLKTF&actionDate=1748581236000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - WILK TECHNOLOGIES LTD. (WLKTF: Grey Market) - Deleted Symbol - As of Fri, May 30, 2025, WLKTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WLKTF&actionDate=1748581236000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WILK TECHNOLOGIES LTD.]]></category>
+<pink:symbol>WLKTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Murchison Minerals Ltd. (MURMF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MURMF&actionDate=1748581231000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - Murchison Minerals Ltd. (MURMF: OTC Link) - Deleted Symbol - As of Fri, May 30, 2025, MURMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MURMF&actionDate=1748581231000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Murchison Minerals Ltd.]]></category>
+<pink:symbol>MURMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Africa Energy Corp. (HPMCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HPMCF&actionDate=1748581218000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - Africa Energy Corp. (HPMCF: OTC Link) - Deleted Symbol - As of Fri, May 30, 2025, HPMCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 01:00:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HPMCF&actionDate=1748581218000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Africa Energy Corp.]]></category>
+<pink:symbol>HPMCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SYLA Technologies Co. (SYTTY: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYTTY&actionDate=1748530073000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - SYLA Technologies Co. (SYTTY: OTC Link) - Deleted Symbol - As of Thu, May 29, 2025, SYTTY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1244,66 +1304,6 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[BIGTINCAN HLDGS LTD.]]></category>
 <pink:symbol>BTGHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD RHONE ALPES CRCAM SUD RHONE (CEREF: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CEREF&actionDate=1748454392000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CEREF/company-info">CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD RHONE ALPES CRCAM SUD RHONE</a> (<a href="http://www.otcmarkets.com/stock/CEREF">CEREF</a>: Grey Market) - Reactivated Symbol -  The symbol, CEREF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 13:46:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CEREF&actionDate=1748454392000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD RHONE ALPES CRCAM SUD RHONE]]></category>
-<pink:symbol>CEREF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Iowa Renewable Energy LLC (IWRBU: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IWRBU&actionDate=1748447063000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IWRBU/company-info">Iowa Renewable Energy LLC</a> (<a href="http://www.otcmarkets.com/stock/IWRBU">IWRBU</a>: Grey Market) - Reactivated Symbol -  The symbol, IWRBU, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 11:44:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IWRBU&actionDate=1748447063000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iowa Renewable Energy LLC]]></category>
-<pink:symbol>IWRBU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Awakn Life Sciences Corp. (AWKNF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AWKNF&actionDate=1748408459000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - Awakn Life Sciences Corp. (AWKNF: OTC Link) - Deleted Symbol - As of Wed, May 28, 2025, AWKNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 01:00:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AWKNF&actionDate=1748408459000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Awakn Life Sciences Corp.]]></category>
-<pink:symbol>AWKNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adapti, Inc. (BRZL: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRZL&actionDate=1748408451000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - Adapti, Inc. (BRZL: OTC Link) - Deleted Symbol - As of Wed, May 28, 2025, BRZL is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 01:00:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRZL&actionDate=1748408451000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adapti, Inc.]]></category>
-<pink:symbol>BRZL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HI-VIEW RES INC. (HVWRF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HVWRF&actionDate=1748408439000]]></link>
-<description><![CDATA[Wed, May 28, 2025 12:00 - HI-VIEW RES INC. (HVWRF: OTC Link) - Deleted Symbol - As of Wed, May 28, 2025, HVWRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 28 May 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HVWRF&actionDate=1748408439000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HI-VIEW RES INC.]]></category>
-<pink:symbol>HVWRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
@@ -1596,6 +1596,42 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Iconic Minerals Ltd (ICMFF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICMFF&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICMFF/company-info">Iconic Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/ICMFF">ICMFF</a>: OTCQB) - Tier Change - The symbol, ICMFF, no longer is classified as Pink Current.  As of Fri, May 30, 2025, ICMFF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICMFF&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Iconic Minerals Ltd]]></category>
+<pink:symbol>ICMFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD. (BDGIF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BDGIF&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BDGIF/company-info">BADGER INFRASTRUCTURE SOLUTIONS LTD.</a> (<a href="http://www.otcmarkets.com/stock/BDGIF">BDGIF</a>: Pink Current) - Tier Change - The symbol, BDGIF, no longer is classified as Pink Current.  As of Fri, May 30, 2025, BDGIF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=BDGIF&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BADGER INFRASTRUCTURE SOLUTIONS LTD.]]></category>
+<pink:symbol>BDGIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Artemis Gold Inc. (ARGTF: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ARGTF&actionDate=1748577600000]]></link>
+<description><![CDATA[Fri, May 30, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ARGTF/company-info">Artemis Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/ARGTF">ARGTF</a>: OTCQX International) - Tier Change - The symbol, ARGTF, no longer is classified as Pink Current.  As of Fri, May 30, 2025, ARGTF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 30 May 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ARGTF&actionDate=1748577600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Artemis Gold Inc.]]></category>
+<pink:symbol>ARGTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[UMC, Inc. (UMCN: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UMCN&actionDate=1748491200000]]></link>
 <description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMCN/company-info">UMC, Inc.</a> (<a href="http://www.otcmarkets.com/stock/UMCN">UMCN</a>: Pink Current) - Tier Change - The symbol, UMCN, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, UMCN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1678,42 +1714,6 @@ OTC RSS mirror fetched: Fri May 30 04:47:53 UTC 2025
 <pink:symbol>HHEXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Charlestowne Premium Beverages Inc. (FPWM: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FPWM&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FPWM/company-info">Charlestowne Premium Beverages Inc.</a> (<a href="http://www.otcmarkets.com/stock/FPWM">FPWM</a>: Pink Current) - Tier Change - The symbol, FPWM, no longer is classified as Pink Limited.  As of Thu, May 29, 2025, FPWM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FPWM&actionDate=1748491200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Charlestowne Premium Beverages Inc.]]></category>
-<pink:symbol>FPWM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Formation Minerals, Inc. (FOMI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FOMI&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FOMI/company-info">Formation Minerals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FOMI">FOMI</a>: Pink Current) - Tier Change - The symbol, FOMI, no longer is classified as Expert Market.  As of Thu, May 29, 2025, FOMI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FOMI&actionDate=1748491200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Formation Minerals, Inc.]]></category>
-<pink:symbol>FOMI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD (CTATF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CTATF&actionDate=1748491200000]]></link>
-<description><![CDATA[Thu, May 29, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CTATF/company-info">CONTEMPORARY AMPEREX TECHNOLOGY CO LTD</a> (<a href="http://www.otcmarkets.com/stock/CTATF">CTATF</a>: Pink Limited) - Tier Change - The symbol, CTATF, no longer is classified as Grey Market.  As of Thu, May 29, 2025, CTATF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 29 May 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CTATF&actionDate=1748491200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CONTEMPORARY AMPEREX TECHNOLOGY CO LTD]]></category>
-<pink:symbol>CTATF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Elektros Inc. (ELEK: Pink Current) | Caveat Emptor Status Change]]></title>
