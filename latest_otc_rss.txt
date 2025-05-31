@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat May 31 03:03:06 UTC 2025
+OTC RSS mirror fetched: Sat May 31 03:48:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,157 +11,37 @@ OTC RSS mirror fetched: Sat May 31 03:03:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 30 May 2025 22:36:39 EDT</lastBuildDate>
+<lastBuildDate>Fri, 30 May 2025 23:36:40 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
-<title><![CDATA[Sabio Holdings Inc. (SABOF: OTCQB) | Sabio Announces Normal Course Issuer Bid]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480610]]></link>
-<pubDate>Fri, 30 May 2025 22:35:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480610]]></guid>
+<title><![CDATA[SATELLOS BIOSCIENCE INC. (MSCLF: OTCQB) | Satellos to Present at the CureDuchenne FUTURES National Conference]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MSCLF/news?id=480702]]></link>
+<pubDate>Fri, 30 May 2025 23:33:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MSCLF/news?id=480702]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sabio Holdings Inc.]]></category>
-<pink:symbol>SABOF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CASCADIA MINERALS LTD (CAMNF: OTCQB) | Cascadia Commences First Drill Test of 1,065 g/t Gold Outcrop at Amp Zone Catch Copper-Gold Property, Yukon]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CAMNF/news?id=480609]]></link>
-<pubDate>Fri, 30 May 2025 22:35:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CAMNF/news?id=480609]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CASCADIA MINERALS LTD]]></category>
-<pink:symbol>CAMNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[VIOR INC. (VIORF: OTCQB) | VIOR ANNOUNCES AN EXPLORATION AGREEMENT WITH LONG POINT FIRST NATION]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VIORF/news?id=480608]]></link>
-<pubDate>Fri, 30 May 2025 22:35:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VIORF/news?id=480608]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VIOR INC.]]></category>
-<pink:symbol>VIORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Avant Technologies Inc. (AVAI: OTCQB) | Avant Technologies and Ainnova in Talks to Obtain Innovative Technology in Preventative Health Reporting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480607]]></link>
-<pubDate>Fri, 30 May 2025 22:35:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480607]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Avant Technologies Inc.]]></category>
-<pink:symbol>AVAI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Avant Technologies Inc. (AVAI: OTCQB) | From Retina Scans to Cancer Trials, AI Is Taking Over the Exam Room]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480606]]></link>
-<pubDate>Fri, 30 May 2025 22:35:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480606]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Avant Technologies Inc.]]></category>
-<pink:symbol>AVAI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Freeman Gold Corp. (FMANF: OTCQB) | FREEMAN GOLD COMMENCES FEASIBILITY LEVEL GEOTECHNICAL WORK PROGRAM AT THE LEMHI GOLD PROJECT]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FMANF/news?id=480605]]></link>
-<pubDate>Fri, 30 May 2025 22:34:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMANF/news?id=480605]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Freeman Gold Corp.]]></category>
-<pink:symbol>FMANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[GR SILVER MNG LTD. (GRSLF: OTCQB) | GR Silver Mining Announces Resumption of Plomosas Silver Project Field Work]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GRSLF/news?id=480604]]></link>
-<pubDate>Fri, 30 May 2025 22:34:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GRSLF/news?id=480604]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GR SILVER MNG LTD.]]></category>
-<pink:symbol>GRSLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Freeman Gold Corp. (FMANF: OTCQB) | Moody's Downgrade Triggers Yet Another Gold Rally--Are Miners the Next to Pop?]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FMANF/news?id=480603]]></link>
-<pubDate>Fri, 30 May 2025 22:34:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMANF/news?id=480603]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Freeman Gold Corp.]]></category>
-<pink:symbol>FMANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[RUA GOLD INC. (NZAUF: OTCQB) | Moody's Downgrade Triggers Yet Another Gold Rally--Are Miners the Next to Pop?]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480602]]></link>
-<pubDate>Fri, 30 May 2025 22:34:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480602]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RUA GOLD INC.]]></category>
-<pink:symbol>NZAUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Liberty Broadband Corporation (LBRDB: OTCQB) | Liberty Broadband Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480601]]></link>
-<pubDate>Fri, 30 May 2025 22:34:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480601]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Liberty Broadband Corporation]]></category>
-<pink:symbol>LBRDB</pink:symbol>
+<category><![CDATA[SATELLOS BIOSCIENCE INC.]]></category>
+<pink:symbol>MSCLF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[BUSI]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Liberty Broadband Corporation (LBRDB: OTCQB) | Liberty Broadband Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480600]]></link>
-<pubDate>Fri, 30 May 2025 22:34:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480600]]></guid>
+<title><![CDATA[Nestle S.A. (NSRGY: Pink Current) | Functional Beverages Surge as Millennials and Gen Z Rethink What Refreshment Means]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NSRGY/news?id=480701]]></link>
+<pubDate>Fri, 30 May 2025 23:32:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NSRGY/news?id=480701]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Liberty Broadband Corporation]]></category>
-<pink:symbol>LBRDB</pink:symbol>
+<category><![CDATA[Nestle S.A.]]></category>
+<pink:symbol>NSRGY</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Liberty Broadband Corporation (LBRDB: OTCQB) | Liberty Broadband Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480599]]></link>
-<pubDate>Fri, 30 May 2025 22:34:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LBRDB/news?id=480599]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Liberty Broadband Corporation]]></category>
-<pink:symbol>LBRDB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Announces Latest Drill Results for La Verde, Doubling Porphyry Discovery Footprint]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=480598]]></link>
-<pubDate>Fri, 30 May 2025 22:34:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=480598]]></guid>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Hot Chili Files NI 43-101 Technical Report for the Costa Fuego Copper-Gold Project in Chile]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=480700]]></link>
+<pubDate>Fri, 30 May 2025 23:30:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=480700]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Hot Chili Ltd.]]></category>
 <pink:symbol>HHLKF</pink:symbol>
@@ -170,298 +50,46 @@ OTC RSS mirror fetched: Sat May 31 03:03:06 UTC 2025
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[NORTHSTAR CLEAN TECHNOLOGIES INC. (ROOOF: OTCQB) | Northstar Announces Final Draw of $617,698 from BDC Project Loan Facility]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ROOOF/news?id=480597]]></link>
-<pubDate>Fri, 30 May 2025 22:33:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ROOOF/news?id=480597]]></guid>
+<title><![CDATA[Greenway Greenhouse Cannabis Corporation (GWAYF: OTCQB) | Greenway Provides Cultivation and Market Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GWAYF/news?id=480699]]></link>
+<pubDate>Fri, 30 May 2025 23:26:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GWAYF/news?id=480699]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORTHSTAR CLEAN TECHNOLOGIES INC.]]></category>
-<pink:symbol>ROOOF</pink:symbol>
+<category><![CDATA[Greenway Greenhouse Cannabis Corporation]]></category>
+<pink:symbol>GWAYF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[ELEMENTAL ALTUS ROYALTIES CORP. (ELEMF: OTCQX International) | ELEMENTAL ALTUS ROYALTIES ANNOUNCES RECORD QUARTERLY REVENUE, EBITDA AND OPERATING CASH FLOW]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ELEMF/news?id=480596]]></link>
-<pubDate>Fri, 30 May 2025 22:33:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ELEMF/news?id=480596]]></guid>
+<title><![CDATA[Cumulus Media Inc. (CMLS: OTCQB) | Cumulus Media Reports Operating Results for the First Quarter 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CMLS/news?id=480698]]></link>
+<pubDate>Fri, 30 May 2025 23:24:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CMLS/news?id=480698]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ELEMENTAL ALTUS ROYALTIES CORP.]]></category>
-<pink:symbol>ELEMF</pink:symbol>
+<category><![CDATA[Cumulus Media Inc.]]></category>
+<pink:symbol>CMLS</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Microbix Biosystems Inc. (MBXBF: OTCQX International) | Microbix Presenting at the 2025 Bloom Burton Conference]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MBXBF/news?id=480697]]></link>
+<pubDate>Fri, 30 May 2025 23:23:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MBXBF/news?id=480697]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Microbix Biosystems Inc.]]></category>
+<pink:symbol>MBXBF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
+<pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Pan Global Resource, Inc. (PGZFF: OTCQB) | /R E P E A T -- PAN GLOBAL INTERSECTS 1.08 G/T GOLD OVER 46 METERS FROM NEAR SURFACE IN FIRST DRILLHOLE AT C&Aacute;RMENES PROJECT, SPAIN/]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGZFF/news?id=480595]]></link>
-<pubDate>Fri, 30 May 2025 22:33:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGZFF/news?id=480595]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pan Global Resource, Inc.]]></category>
-<pink:symbol>PGZFF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FIRST NORDIC METALS CORP. (FNMCF: OTCQB) | First Nordic Metals Concludes Florida Roadshow Highlighted by Investor Forum at Mar-a-Lago and Florida Investment Club Events]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FNMCF/news?id=480594]]></link>
-<pubDate>Fri, 30 May 2025 22:32:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNMCF/news?id=480594]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FIRST NORDIC METALS CORP.]]></category>
-<pink:symbol>FNMCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sabio Holdings Inc. (SABOF: OTCQB) | Sabio Announces Distribution Deal with Anoki for Creator Television&reg;]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480593]]></link>
-<pubDate>Fri, 30 May 2025 22:32:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480593]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sabio Holdings Inc.]]></category>
-<pink:symbol>SABOF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FPX Nickel Corp. (FPOCF: OTCQB) | FPX Nickel Provides Update on Affiliate Company CO2 Lock Corp.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FPOCF/news?id=480592]]></link>
-<pubDate>Fri, 30 May 2025 22:32:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FPOCF/news?id=480592]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FPX Nickel Corp.]]></category>
-<pink:symbol>FPOCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NASB Financial, Inc. (NASB: OTCQX U.S.) | NASB Financial, Inc. Announces Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NASB/news?id=480591]]></link>
-<pubDate>Fri, 30 May 2025 22:32:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NASB/news?id=480591]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NASB Financial, Inc.]]></category>
-<pink:symbol>NASB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Rokmaster Resources Corp. (RKMSF: OTCQB) | Rokmaster Signs Definitive Agreement on the Hanson Property]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RKMSF/news?id=480590]]></link>
-<pubDate>Fri, 30 May 2025 22:32:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RKMSF/news?id=480590]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Rokmaster Resources Corp.]]></category>
-<pink:symbol>RKMSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Minerva S.A. (MRVSY: Pink Current) | MINERVA FOODS FILES EBITDA OF R$ 962.5 MILLION IN THE FIRST QUARTER OF 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MRVSY/news?id=480589]]></link>
-<pubDate>Fri, 30 May 2025 22:32:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRVSY/news?id=480589]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Minerva S.A.]]></category>
-<pink:symbol>MRVSY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NGEx Minerals Ltd. (NGXXF: OTCQX International) | NGEx Releases 2024 Sustainability Summary]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NGXXF/news?id=480588]]></link>
-<pubDate>Fri, 30 May 2025 22:32:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NGXXF/news?id=480588]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NGEx Minerals Ltd.]]></category>
-<pink:symbol>NGXXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Arizona Metals Corp. (AZMCF: OTCQX International) | Arizona Metals Strengthens Board with New Director Nominee; Announces Director Retirements and Provides Corporate Update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AZMCF/news?id=480587]]></link>
-<pubDate>Fri, 30 May 2025 22:31:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AZMCF/news?id=480587]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Arizona Metals Corp.]]></category>
-<pink:symbol>AZMCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lundin Gold Inc. (LUGDF: OTCQX International) | LUNDIN GOLD REPORTS STRONG EXPLORATION RESULTS ACROSS PORTFOLIO OF TARGETS AND EXPANDS 2025 DRILLING PROGRAM TO 108,000 METRES]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480586]]></link>
-<pubDate>Fri, 30 May 2025 22:31:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480586]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lundin Gold Inc.]]></category>
-<pink:symbol>LUGDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Filament Health Corp. (FLHLF: Pink Limited) | FILAMENT HEALTH ANNOUNCES VOLUNTARY DELISTING FROM CBOE CANADA]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FLHLF/news?id=480585]]></link>
-<pubDate>Fri, 30 May 2025 22:29:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FLHLF/news?id=480585]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Filament Health Corp.]]></category>
-<pink:symbol>FLHLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Oceanagold Corp. (OCANF: OTCQX International) | OceanaGold Reports First Quarter 2025 Operating &amp; Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OCANF/news?id=480584]]></link>
-<pubDate>Fri, 30 May 2025 22:29:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCANF/news?id=480584]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Oceanagold Corp.]]></category>
-<pink:symbol>OCANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[RESAAS Services, Inc. (RSASF: OTCQB) | REMAX Harnesses Unmatched Global Footprint, Launches AI-Powered Referral Platform with RESAAS to Strengthen Agent Network and Drive Brokerage Profitability]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RSASF/news?id=480583]]></link>
-<pubDate>Fri, 30 May 2025 22:27:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RSASF/news?id=480583]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RESAAS Services, Inc.]]></category>
-<pink:symbol>RSASF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pan Global Resource, Inc. (PGZFF: OTCQB) | PAN GLOBAL INTERSECTS 1.08 G/T GOLD OVER 46 METERS FROM NEAR SURFACE IN FIRST DRILLHOLE AT C&Aacute;RMENES PROJECT, SPAIN]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGZFF/news?id=480582]]></link>
-<pubDate>Fri, 30 May 2025 22:26:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGZFF/news?id=480582]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pan Global Resource, Inc.]]></category>
-<pink:symbol>PGZFF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Zivo Bioscience, Inc. (ZIVO: OTCQB) | University of Delaware Study Identifies Optimal Formulation of ZIVO&rsquo;s Active Ingredients for Further Testing to Mitigate Avian Influenza in Poultry]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ZIVO/news?id=480581]]></link>
-<pubDate>Fri, 30 May 2025 22:26:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZIVO/news?id=480581]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zivo Bioscience, Inc.]]></category>
-<pink:symbol>ZIVO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Air Canada (ACDVF: OTCQX International) | Ciao, Napoli! Air Canada Inaugurates Flights to the Gateway of the Amalfi Coast]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ACDVF/news?id=480580]]></link>
-<pubDate>Fri, 30 May 2025 22:23:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACDVF/news?id=480580]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Air Canada]]></category>
-<pink:symbol>ACDVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Marpai, Inc. (MRAI: OTCQX U.S.) | MARPAI TO HOST WEBCAST ON MAY 15, 2025 TO DISCUSS FIRST QUARTER 2025 FINANCIAL RESULTS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480579]]></link>
-<pubDate>Fri, 30 May 2025 22:22:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480579]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Marpai, Inc.]]></category>
-<pink:symbol>MRAI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cyberlux Corp. (CYBL: Pink Current) | Cyberlux Unveils New Heavy Lift Group 1 Rotary Wing UAS for U.S. Special Operations Community]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CYBL/news?id=480578]]></link>
-<pubDate>Fri, 30 May 2025 22:22:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYBL/news?id=480578]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cyberlux Corp.]]></category>
-<pink:symbol>CYBL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Boardwalktech Software Corporation (BWLKF: OTCQB) | BOARDWALKTECH ANNOUNCES NEW NON-BROKERED LIFE OFFERING AND CLOSES PRIOR OFFERING]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BWLKF/news?id=480577]]></link>
-<pubDate>Fri, 30 May 2025 22:21:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BWLKF/news?id=480577]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Boardwalktech Software Corporation]]></category>
-<pink:symbol>BWLKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ARGENTA SILVER CORP (AGAGF: OTCQB) | ARGENTA ANNOUNCES GRANT OF STOCK OPTIONS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AGAGF/news?id=480576]]></link>
-<pubDate>Fri, 30 May 2025 22:21:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AGAGF/news?id=480576]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ARGENTA SILVER CORP]]></category>
-<pink:symbol>AGAGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Vizsla Copper Corp. (VCUFF: OTCQB) | VIZSLA COPPER CLOSES FIRST TRANCHE OF NON-BROKERED PRIVATE PLACEMENT FOR GROSS PROCEEDS OF C$3.8 MILLION]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VCUFF/news?id=480575]]></link>
-<pubDate>Fri, 30 May 2025 22:21:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VCUFF/news?id=480575]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vizsla Copper Corp.]]></category>
-<pink:symbol>VCUFF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[LAKE VICTORIA GOLD LTD. (LVGLF: OTCQB) | While Majors Ride Momentum, Smaller Gold Stocks Are Building Something Bigger]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480574]]></link>
-<pubDate>Fri, 30 May 2025 22:20:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480574]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LAKE VICTORIA GOLD LTD.]]></category>
-<pink:symbol>LVGLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Avant Technologies Inc. (AVAI: OTCQB) | New Healthcare AI Models Could Reshape Everything From Burnout to Diagnostics]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480573]]></link>
-<pubDate>Fri, 30 May 2025 22:20:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480573]]></guid>
+<title><![CDATA[Avant Technologies Inc. (AVAI: OTCQB) | AI Could Add $461 Billion to Global Healthcare--And These New Platforms Are Leading the Charge]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480696]]></link>
+<pubDate>Fri, 30 May 2025 23:23:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480696]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Avant Technologies Inc.]]></category>
 <pink:symbol>AVAI</pink:symbol>
@@ -470,22 +98,406 @@ OTC RSS mirror fetched: Sat May 31 03:03:06 UTC 2025
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[OMAI GOLD MINES CORP. (OMGGF: OTCQB) | Gold's Return to $3,400 Spurs Sector Gains Amid $4,000 Forecasts]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OMGGF/news?id=480572]]></link>
-<pubDate>Fri, 30 May 2025 22:19:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OMGGF/news?id=480572]]></guid>
+<title><![CDATA[BioStem Technologies, Inc. (BSEM: Pink Current) | BioStem to Showcase its Leading BioREtain&reg; Technology at the Symposium for Advanced Wound Care (SAWC) Spring Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BSEM/news?id=480695]]></link>
+<pubDate>Fri, 30 May 2025 23:23:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSEM/news?id=480695]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OMAI GOLD MINES CORP.]]></category>
-<pink:symbol>OMGGF</pink:symbol>
+<category><![CDATA[BioStem Technologies, Inc.]]></category>
+<pink:symbol>BSEM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Palatin Presents Promising Preclinical Data on Melanocortin Agonists for Retinopathy at ARVO 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480694]]></link>
+<pubDate>Fri, 30 May 2025 23:23:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480694]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Medipharm Labs Corporation (MEDIF: OTCQB) | MediPharm Labs Sets Date to Report First Quarter 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480693]]></link>
+<pubDate>Fri, 30 May 2025 23:22:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480693]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Medipharm Labs Corporation]]></category>
+<pink:symbol>MEDIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[LAKE VICTORIA GOLD LTD. (LVGLF: OTCQB) | Gold's Return to $3,400 Spurs Sector Gains Amid $4,000 Forecasts]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480571]]></link>
-<pubDate>Fri, 30 May 2025 22:19:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480571]]></guid>
+<title><![CDATA[Sucro Ltd. (SUGRF: OTCQB) | Sucro Announces First Quarter 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SUGRF/news?id=480692]]></link>
+<pubDate>Fri, 30 May 2025 23:22:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SUGRF/news?id=480692]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sucro Ltd.]]></category>
+<pink:symbol>SUGRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Acuren Corp. (TICAW: OTCQB) | Acuren Corporation Confirms Date for First Quarter 2025 Earnings Release]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TICAW/news?id=480691]]></link>
+<pubDate>Fri, 30 May 2025 23:21:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TICAW/news?id=480691]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Acuren Corp.]]></category>
+<pink:symbol>TICAW</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[4Front Ventures Corp. (FFNTF: Pink Limited) | All 4Front Subsidiaries File for Court-Appointed Receiver]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FFNTF/news?id=480690]]></link>
+<pubDate>Fri, 30 May 2025 23:21:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FFNTF/news?id=480690]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[4Front Ventures Corp.]]></category>
+<pink:symbol>FFNTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Perimeter Medical Imaging AI, Inc. (PYNKF: OTCQX International) | Perimeter Partners with Intermountain Health to Study the Potential Clinical, Social and Economic Benefits of Using OCT and AI to Reduce Cancer Reoperations]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PYNKF/news?id=480689]]></link>
+<pubDate>Fri, 30 May 2025 23:21:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYNKF/news?id=480689]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Perimeter Medical Imaging AI, Inc.]]></category>
+<pink:symbol>PYNKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Curaleaf Hldgs Inc. (CURLF: OTCQX International) | Curaleaf Strengthens Florida Presence with Punta Gorda Dispensary Opening]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CURLF/news?id=480688]]></link>
+<pubDate>Fri, 30 May 2025 23:21:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CURLF/news?id=480688]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Curaleaf Hldgs Inc.]]></category>
+<pink:symbol>CURLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Cyberlux Corp. (CYBL: Pink Current) | Cyberlux and TrellisWare Partner to Deliver Cutting-Edge FPV Anti-Jam Capability on New UAS Platform]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CYBL/news?id=480687]]></link>
+<pubDate>Fri, 30 May 2025 23:20:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYBL/news?id=480687]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cyberlux Corp.]]></category>
+<pink:symbol>CYBL</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bio-Path Holdings, Inc. (BPTH: OTCQB) | Bio-Path Holdings Achieves Third Pre-Clinical Milestone Confirming Potential of BP1001-A as Treatment for Obesity in Type 2 Diabetes Patients]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BPTH/news?id=480686]]></link>
+<pubDate>Fri, 30 May 2025 23:20:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BPTH/news?id=480686]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bio-Path Holdings, Inc.]]></category>
+<pink:symbol>BPTH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Getchell Gold Corporation (GGLDF: OTCQB) | Getchell Gold Corp. Announces $3 Million Financing and Debenture Conversion Option]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GGLDF/news?id=480685]]></link>
+<pubDate>Fri, 30 May 2025 23:19:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GGLDF/news?id=480685]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Getchell Gold Corporation]]></category>
+<pink:symbol>GGLDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[CSL Ltd. (CSLLY: OTCQX International) | England's NICE recommends FILSPARI&reg; (sparsentan) as a treatment option for IgA nephropathy]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CSLLY/news?id=480684]]></link>
+<pubDate>Fri, 30 May 2025 23:19:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CSLLY/news?id=480684]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CSL Ltd.]]></category>
+<pink:symbol>CSLLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Azucar Minerals Ltd. (AXDDF: OTCQB) | Azucar Announces the Option of Three Projects in Nevada, USA from Almadex Minerals]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AXDDF/news?id=480683]]></link>
+<pubDate>Fri, 30 May 2025 23:18:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AXDDF/news?id=480683]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Azucar Minerals Ltd.]]></category>
+<pink:symbol>AXDDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[REALBOTIX CORP (XBOTF: OTCQB) | Realbotix to Showcase Humanoid Robots at Bitcoin 2025 Conference]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/XBOTF/news?id=480682]]></link>
+<pubDate>Fri, 30 May 2025 23:17:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/XBOTF/news?id=480682]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[REALBOTIX CORP]]></category>
+<pink:symbol>XBOTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Intouch Insight Ltd. (INXSF: OTCQX International) | INTOUCH INSIGHT ANNOUNCES Q1 2025 FINANCIAL RESULTS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/INXSF/news?id=480681]]></link>
+<pubDate>Fri, 30 May 2025 23:17:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/INXSF/news?id=480681]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Intouch Insight Ltd.]]></category>
+<pink:symbol>INXSF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Palatin Technologies Announces Closing of Reduced Public Offering]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480680]]></link>
+<pubDate>Fri, 30 May 2025 23:16:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480680]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lundin Gold Inc. (LUGDF: OTCQX International) | LUNDIN GOLD REPORTS FIRST QUARTER 2025 RESULTS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480679]]></link>
+<pubDate>Fri, 30 May 2025 23:16:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480679]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lundin Gold Inc.]]></category>
+<pink:symbol>LUGDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lundin Gold Inc. (LUGDF: OTCQX International) | LUNDIN GOLD ADDS NEW VARIABLE COMPONENT TO ITS DIVIDEND POLICY AND ANNOUNCES A SPECIAL DIVIDEND]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480678]]></link>
+<pubDate>Fri, 30 May 2025 23:16:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LUGDF/news?id=480678]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lundin Gold Inc.]]></category>
+<pink:symbol>LUGDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[C21 Investments Inc. (CXXIF: OTCQX International) | C21 Investments Announces Q4 Earnings Date and Provides Operational Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CXXIF/news?id=480677]]></link>
+<pubDate>Fri, 30 May 2025 23:15:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CXXIF/news?id=480677]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[C21 Investments Inc.]]></category>
+<pink:symbol>CXXIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Foran Mining Corporation (FMCXF: OTCQX International) | McIlvenna Bay Project Wildfire Response - Temporary Withdrawal of Non-Essential Site Personnel]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FMCXF/news?id=480676]]></link>
+<pubDate>Fri, 30 May 2025 23:14:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMCXF/news?id=480676]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Foran Mining Corporation]]></category>
+<pink:symbol>FMCXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Earthworks Industries Inc. (EAATF: OTCQB) | EARTHWORKS TO CLOSE FIRST TRANCHE OF PRIVATE PLACEMENT]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EAATF/news?id=480675]]></link>
+<pubDate>Fri, 30 May 2025 23:14:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EAATF/news?id=480675]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Earthworks Industries Inc.]]></category>
+<pink:symbol>EAATF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Critical One Energy Inc. (MMTLF: OTCQB) | Critical One Secures Valuable Historical Data for Howells Lake Antimony and Gold Discovery Area]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MMTLF/news?id=480674]]></link>
+<pubDate>Fri, 30 May 2025 23:14:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MMTLF/news?id=480674]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Critical One Energy Inc.]]></category>
+<pink:symbol>MMTLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Orezone Gold Corp. (ORZCF: OTCQX International) | Orezone Provides Update on RCF Block Trade to Australian Funds]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ORZCF/news?id=480673]]></link>
+<pubDate>Fri, 30 May 2025 23:13:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ORZCF/news?id=480673]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orezone Gold Corp.]]></category>
+<pink:symbol>ORZCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[4Front Ventures Corp. (FFNTF: Pink Limited) | Ontario Securities Commission Issues Failure-to-File Cease Trade Order Against 4Front]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FFNTF/news?id=480672]]></link>
+<pubDate>Fri, 30 May 2025 23:13:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FFNTF/news?id=480672]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[4Front Ventures Corp.]]></category>
+<pink:symbol>FFNTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Prologis, Inc. (PLDGP: OTCQB) | Prologis Declares Quarterly Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PLDGP/news?id=480671]]></link>
+<pubDate>Fri, 30 May 2025 23:12:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PLDGP/news?id=480671]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Prologis, Inc.]]></category>
+<pink:symbol>PLDGP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Prologis, Inc. (PLDGP: OTCQB) | Sarah Slusser Elected to Prologis Board of Directors]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PLDGP/news?id=480670]]></link>
+<pubDate>Fri, 30 May 2025 23:12:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PLDGP/news?id=480670]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Prologis, Inc.]]></category>
+<pink:symbol>PLDGP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Air Canada (ACDVF: OTCQX International) | Air Canada Reports First Quarter 2025 Financial Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACDVF/news?id=480669]]></link>
+<pubDate>Fri, 30 May 2025 23:11:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACDVF/news?id=480669]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Air Canada]]></category>
+<pink:symbol>ACDVF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[FIRST NORDIC METALS CORP. (FNMCF: OTCQB) | First Nordic Strengthens Board and Provides AGM Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FNMCF/news?id=480668]]></link>
+<pubDate>Fri, 30 May 2025 23:10:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNMCF/news?id=480668]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FIRST NORDIC METALS CORP.]]></category>
+<pink:symbol>FNMCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Perimeter Medical Imaging AI, Inc. (PYNKF: OTCQX International) | Perimeter Medical Imaging AI to Report First Quarter 2025 Financial Results and Host Conference Call on May 13, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PYNKF/news?id=480667]]></link>
+<pubDate>Fri, 30 May 2025 23:10:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYNKF/news?id=480667]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Perimeter Medical Imaging AI, Inc.]]></category>
+<pink:symbol>PYNKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Palatin Presents Breakthrough Symptom Resolution Data from Phase 3 PL9643 MELODY-1 Clinical Trial in Dry Eye Disease at ARVO 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480666]]></link>
+<pubDate>Fri, 30 May 2025 23:10:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480666]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[FalconStor Software, Inc. (FALC: Pink Current) | FalconStor Software Announces First Quarter of 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FALC/news?id=480665]]></link>
+<pubDate>Fri, 30 May 2025 23:10:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FALC/news?id=480665]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FalconStor Software, Inc.]]></category>
+<pink:symbol>FALC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[GoGold Resources, Inc. (GLGDF: OTCQX International) | As Majors Hit Their Stride, Contrarian Capital Eyes Gold's Next Wave]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GLGDF/news?id=480664]]></link>
+<pubDate>Fri, 30 May 2025 23:10:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLGDF/news?id=480664]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GoGold Resources, Inc.]]></category>
+<pink:symbol>GLGDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Orezone Gold Corp. (ORZCF: OTCQX International) | As Majors Hit Their Stride, Contrarian Capital Eyes Gold's Next Wave]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ORZCF/news?id=480663]]></link>
+<pubDate>Fri, 30 May 2025 23:10:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ORZCF/news?id=480663]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orezone Gold Corp.]]></category>
+<pink:symbol>ORZCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[LAKE VICTORIA GOLD LTD. (LVGLF: OTCQB) | As Majors Hit Their Stride, Contrarian Capital Eyes Gold's Next Wave]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480662]]></link>
+<pubDate>Fri, 30 May 2025 23:10:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480662]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[LAKE VICTORIA GOLD LTD.]]></category>
 <pink:symbol>LVGLF</pink:symbol>
@@ -494,123 +506,111 @@ OTC RSS mirror fetched: Sat May 31 03:03:06 UTC 2025
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Revival Gold Inc. (RVLGF: OTCQX International) | Mining Insiders Are Moving Capital into Overlooked Gold Regions]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RVLGF/news?id=480570]]></link>
-<pubDate>Fri, 30 May 2025 22:18:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RVLGF/news?id=480570]]></guid>
+<title><![CDATA[Super Copper Corp. (CUPPF: OTCQB) | Super Copper Announces Strategic Investment from Apeiron Investment Group]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CUPPF/news?id=480661]]></link>
+<pubDate>Fri, 30 May 2025 23:08:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CUPPF/news?id=480661]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Revival Gold Inc.]]></category>
-<pink:symbol>RVLGF</pink:symbol>
+<category><![CDATA[Super Copper Corp.]]></category>
+<pink:symbol>CUPPF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Almonty Industries Inc. (ALMTF: OTCQX International) | Almonty Enters into Binding Offtake Agreement to Supply Tungsten Oxide Solely for U.S. Defense Applications]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ALMTF/news?id=480660]]></link>
+<pubDate>Fri, 30 May 2025 23:07:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALMTF/news?id=480660]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Almonty Industries Inc.]]></category>
+<pink:symbol>ALMTF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BTQ Technologies Corp. (BTQQF: OTCQX International) | BTQ Technologies Signs MOU with Quandela to Advance Quantum Proof-of-Work Protocols]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BTQQF/news?id=480659]]></link>
+<pubDate>Fri, 30 May 2025 23:07:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BTQQF/news?id=480659]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BTQ Technologies Corp.]]></category>
+<pink:symbol>BTQQF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[RUA GOLD INC. (NZAUF: OTCQB) | Mining Insiders Are Moving Capital into Overlooked Gold Regions]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480569]]></link>
-<pubDate>Fri, 30 May 2025 22:18:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480569]]></guid>
+<title><![CDATA[Decibel Cannabis Co Inc. (DBCCF: OTCQB) | Decibel Announces First Quarter Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DBCCF/news?id=480658]]></link>
+<pubDate>Fri, 30 May 2025 23:06:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DBCCF/news?id=480658]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RUA GOLD INC.]]></category>
-<pink:symbol>NZAUF</pink:symbol>
+<category><![CDATA[Decibel Cannabis Co Inc.]]></category>
+<pink:symbol>DBCCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Freddie Mac (FMCC: OTCQB) | Freddie Mac Announces Release Date for First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480568]]></link>
-<pubDate>Fri, 30 May 2025 22:17:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480568]]></guid>
+<title><![CDATA[Metallis Resources, Inc. (MTLFF: OTCQB) | METALLIS ANNOUNCES $1,350,000 NON-BROKERED PRIVATE PLACEMENT]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTLFF/news?id=480657]]></link>
+<pubDate>Fri, 30 May 2025 23:06:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTLFF/news?id=480657]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Freddie Mac]]></category>
-<pink:symbol>FMCC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nicola Mining Inc. (HUSIF: OTCQB) | IBN Initiates Coverage of Nicola Mining Inc.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HUSIF/news?id=480567]]></link>
-<pubDate>Fri, 30 May 2025 22:17:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HUSIF/news?id=480567]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nicola Mining Inc.]]></category>
-<pink:symbol>HUSIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[QVC Group Inc. (QVCGB: OTCQB) | QVC Group Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480566]]></link>
-<pubDate>Fri, 30 May 2025 22:15:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480566]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QVC Group Inc.]]></category>
-<pink:symbol>QVCGB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[QVC Group Inc. (QVCGB: OTCQB) | QVC Group Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480565]]></link>
-<pubDate>Fri, 30 May 2025 22:15:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480565]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QVC Group Inc.]]></category>
-<pink:symbol>QVCGB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[QVC Group Inc. (QVCGB: OTCQB) | QVC Group Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480564]]></link>
-<pubDate>Fri, 30 May 2025 22:15:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QVCGB/news?id=480564]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QVC Group Inc.]]></category>
-<pink:symbol>QVCGB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[The INX Digital Company, Inc. (INXDF: OTCQB) | The INX Digital Company Reports Q1 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/INXDF/news?id=480563]]></link>
-<pubDate>Fri, 30 May 2025 22:15:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/INXDF/news?id=480563]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The INX Digital Company, Inc.]]></category>
-<pink:symbol>INXDF</pink:symbol>
+<category><![CDATA[Metallis Resources, Inc.]]></category>
+<pink:symbol>MTLFF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Fannie Mae (FNMA: OTCQB) | Fannie Mae Publishes April 2025 National Housing Survey Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FNMA/news?id=480562]]></link>
-<pubDate>Fri, 30 May 2025 22:13:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNMA/news?id=480562]]></guid>
+<title><![CDATA[Kootenay Silver, Inc. (KOOYF: OTCQX International) | Kootenay Silver Provides Update on Upcoming Mineral Resource Estimate]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480656]]></link>
+<pubDate>Fri, 30 May 2025 23:05:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480656]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Fannie Mae]]></category>
-<pink:symbol>FNMA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nanalysis Scientific Corp. (NSCIF: OTCQX International) | Nanalysis Announces First Quarter 2025 Conference Call]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NSCIF/news?id=480561]]></link>
-<pubDate>Fri, 30 May 2025 22:12:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NSCIF/news?id=480561]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nanalysis Scientific Corp.]]></category>
-<pink:symbol>NSCIF</pink:symbol>
+<category><![CDATA[Kootenay Silver, Inc.]]></category>
+<pink:symbol>KOOYF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Kootenay Silver, Inc. (KOOYF: OTCQX International) | Kootenay Silver Provides Update on Upcoming Mineral Resource Estimate]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480655]]></link>
+<pubDate>Fri, 30 May 2025 23:05:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480655]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kootenay Silver, Inc.]]></category>
+<pink:symbol>KOOYF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Kootenay Silver, Inc. (KOOYF: OTCQX International) | Kootenay Silver Provides Update on Upcoming Mineral Resource Estimate]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480654]]></link>
+<pubDate>Fri, 30 May 2025 23:05:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KOOYF/news?id=480654]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kootenay Silver, Inc.]]></category>
+<pink:symbol>KOOYF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Blue Sky Uranium Corp. (BKUCF: OTCQB) | Blue Sky Uranium Schedules Start of Drill Program for Ivana Uranium-Vanadium Project]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BKUCF/news?id=480653]]></link>
+<pubDate>Fri, 30 May 2025 23:04:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BKUCF/news?id=480653]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blue Sky Uranium Corp.]]></category>
+<pink:symbol>BKUCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
