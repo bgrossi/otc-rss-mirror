@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat May 31 05:19:59 UTC 2025
+OTC RSS mirror fetched: Sat May 31 05:41:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,457 +11,25 @@ OTC RSS mirror fetched: Sat May 31 05:19:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 31 May 2025 01:06:40 EDT</lastBuildDate>
+<lastBuildDate>Sat, 31 May 2025 01:36:39 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
-<title><![CDATA[Cizzle Brands Corporation (CZZLF: OTCQB) | Cizzle Brands Announces Launch of CWENCH Hydration&trade; at Golf Town]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CZZLF/news?id=480785]]></link>
-<pubDate>Sat, 31 May 2025 01:05:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CZZLF/news?id=480785]]></guid>
+<title><![CDATA[Zefiro Methane Corp. (ZEFIF: OTCQB) | Zefiro Methane Corp. Subsidiary Secures Additional Plugging Contracts from State Government of Ohio]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ZEFIF/news?id=480837]]></link>
+<pubDate>Sat, 31 May 2025 01:35:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ZEFIF/news?id=480837]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cizzle Brands Corporation]]></category>
-<pink:symbol>CZZLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[GAMCO Investors, Inc. (GAMI: OTCQX U.S.) | Gabelli Announces Partnership with Keeley&rsquo;s Asset and Wealth Management Services ]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GAMI/news?id=480784]]></link>
-<pubDate>Sat, 31 May 2025 01:04:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GAMI/news?id=480784]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GAMCO Investors, Inc.]]></category>
-<pink:symbol>GAMI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Teton Advisors Inc. (TETAA: OTCQX U.S.) | Gabelli Announces Partnership with Keeley&rsquo;s Asset and Wealth Management Services ]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TETAA/news?id=480783]]></link>
-<pubDate>Sat, 31 May 2025 01:04:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TETAA/news?id=480783]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Teton Advisors Inc.]]></category>
-<pink:symbol>TETAA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pyxus International, Inc. (PYYX: Pink Current) | Pyxus Upsizes Asset-Based Lending Facility with PNC Bank]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PYYX/news?id=480782]]></link>
-<pubDate>Sat, 31 May 2025 01:03:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYYX/news?id=480782]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pyxus International, Inc.]]></category>
-<pink:symbol>PYYX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Calibre Mining Corp. (CXBMF: OTCQX International) | Calibre Securityholders Approve Business Combination with Equinox Gold]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CXBMF/news?id=480781]]></link>
-<pubDate>Sat, 31 May 2025 01:03:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CXBMF/news?id=480781]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Calibre Mining Corp.]]></category>
-<pink:symbol>CXBMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Velo3D, Inc. (VLDX: OTCQX U.S.) | Velo3D Announces First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VLDX/news?id=480780]]></link>
-<pubDate>Sat, 31 May 2025 01:01:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VLDX/news?id=480780]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Velo3D, Inc.]]></category>
-<pink:symbol>VLDX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Well Health Technologies Corp. (WHTCF: OTCQX International) | WELL Health Reports Record Patient Visits and Total Care Interactions in Q1 2025 and Provides Date for Earnings Event]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WHTCF/news?id=480779]]></link>
-<pubDate>Sat, 31 May 2025 01:01:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WHTCF/news?id=480779]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Well Health Technologies Corp.]]></category>
-<pink:symbol>WHTCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Unit Corp. (UNTC: OTCQX U.S.) | Unit Corporation Reports First Quarter Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/UNTC/news?id=480778]]></link>
-<pubDate>Sat, 31 May 2025 00:59:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UNTC/news?id=480778]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Unit Corp.]]></category>
-<pink:symbol>UNTC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Arizona Sonoran Copper Company Inc. (ASCUF: OTCQX International) | Arizona Sonoran Updates on PFS Workstreams at the Cactus Project]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ASCUF/news?id=480777]]></link>
-<pubDate>Sat, 31 May 2025 00:57:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASCUF/news?id=480777]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Arizona Sonoran Copper Company Inc.]]></category>
-<pink:symbol>ASCUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lumina Gold Corp (LMGDF: OTCQB) | How a Modest Portfolio Shift Could Drive a $6,000 Gold Supercycle--and Lift Miners With It]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LMGDF/news?id=480776]]></link>
-<pubDate>Sat, 31 May 2025 00:56:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LMGDF/news?id=480776]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lumina Gold Corp]]></category>
-<pink:symbol>LMGDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Montage Gold Corp. (MAUTF: OTCQX International) | How a Modest Portfolio Shift Could Drive a $6,000 Gold Supercycle--and Lift Miners With It]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MAUTF/news?id=480775]]></link>
-<pubDate>Sat, 31 May 2025 00:56:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MAUTF/news?id=480775]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Montage Gold Corp.]]></category>
-<pink:symbol>MAUTF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[RUA GOLD INC. (NZAUF: OTCQB) | How a Modest Portfolio Shift Could Drive a $6,000 Gold Supercycle--and Lift Miners With It]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480774]]></link>
-<pubDate>Sat, 31 May 2025 00:56:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NZAUF/news?id=480774]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RUA GOLD INC.]]></category>
-<pink:symbol>NZAUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[WEST RED LAKE GOLD MINES LTD. (WRLGF: OTCQB) | How a Modest Portfolio Shift Could Drive a $6,000 Gold Supercycle--and Lift Miners With It]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=480773]]></link>
-<pubDate>Sat, 31 May 2025 00:56:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WRLGF/news?id=480773]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WEST RED LAKE GOLD MINES LTD.]]></category>
-<pink:symbol>WRLGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[HealWELL AI Inc. (HWAIF: OTCQX International) | Behind the FDA's AI Push: A Growing Class of Public Healthcare Innovators]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HWAIF/news?id=480772]]></link>
-<pubDate>Sat, 31 May 2025 00:56:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HWAIF/news?id=480772]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HealWELL AI Inc.]]></category>
-<pink:symbol>HWAIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Avant Technologies Inc. (AVAI: OTCQB) | Behind the FDA's AI Push: A Growing Class of Public Healthcare Innovators]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480771]]></link>
-<pubDate>Sat, 31 May 2025 00:56:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AVAI/news?id=480771]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Avant Technologies Inc.]]></category>
-<pink:symbol>AVAI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Coinshares International Limited (CNSRF: OTCQX International) | CoinShares Announces Q1 2025 Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNSRF/news?id=480770]]></link>
-<pubDate>Sat, 31 May 2025 00:55:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNSRF/news?id=480770]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coinshares International Limited]]></category>
-<pink:symbol>CNSRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Leatt Corp. (LEAT: OTCQB) | Leatt Announces Date of First Quarter 2025 Results Conference Call and Webcast]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LEAT/news?id=480769]]></link>
-<pubDate>Sat, 31 May 2025 00:53:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEAT/news?id=480769]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Leatt Corp.]]></category>
-<pink:symbol>LEAT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Marpai, Inc. (MRAI: OTCQX U.S.) | MARPAI HIRES DALLAS SCRIP AS CHIEF OPERATING OFFICER]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480768]]></link>
-<pubDate>Sat, 31 May 2025 00:52:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480768]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Marpai, Inc.]]></category>
-<pink:symbol>MRAI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ultrack Systems, Inc. (MJLB: Pink Current) | Ultrack Systems Inc. (OTC: MJLB) Signs MOU to Acquire Better Pets, a Leading Health-Focused Pet Product Brand]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MJLB/news?id=480767]]></link>
-<pubDate>Sat, 31 May 2025 00:51:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MJLB/news?id=480767]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ultrack Systems, Inc.]]></category>
-<pink:symbol>MJLB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cresco Labs Inc. (CRLBF: OTCQX International) | Cresco Labs Announces Rescheduling of First Quarter 2025 Earnings Release and Conference Call]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRLBF/news?id=480766]]></link>
-<pubDate>Sat, 31 May 2025 00:50:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRLBF/news?id=480766]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cresco Labs Inc.]]></category>
-<pink:symbol>CRLBF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[BUSI]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Senzime AB (SNZZF: OTCQX International) | Senzime Launches Medical Affairs Division and Education Platform to Drive Transformation in Anesthesia Monitoring]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SNZZF/news?id=480765]]></link>
-<pubDate>Sat, 31 May 2025 00:49:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNZZF/news?id=480765]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Senzime AB]]></category>
-<pink:symbol>SNZZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Asia Properties, Inc. (ASPZ: Pink Current) | HyOrc Corporation Unveils Modular Hydrogen Power for a Failing Grid]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ASPZ/news?id=480764]]></link>
-<pubDate>Sat, 31 May 2025 00:48:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASPZ/news?id=480764]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Asia Properties, Inc.]]></category>
-<pink:symbol>ASPZ</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cunningham Natural Resources Corp. (CNRC: Pink Current) | CNRC REPORTS Q1 2025 FINANCIALS PERIOD ENDING MARCH 31, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNRC/news?id=480763]]></link>
-<pubDate>Sat, 31 May 2025 00:48:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNRC/news?id=480763]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cunningham Natural Resources Corp.]]></category>
-<pink:symbol>CNRC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Foresight Financial Group Inc. (FGFH: OTCQX U.S.) | Foresight Financial Group Finalizes Legal Consolidation, Unifies Community Banks as Foresight Bank]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FGFH/news?id=480762]]></link>
-<pubDate>Sat, 31 May 2025 00:48:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FGFH/news?id=480762]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Foresight Financial Group Inc.]]></category>
-<pink:symbol>FGFH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[SCOPE TECHNOLOGIES CORP. (SCPCF: OTCQB) | Scope Technologies Corp. Joins Forces with World Cyber Health to Advance Global Quantum Security Standards]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SCPCF/news?id=480761]]></link>
-<pubDate>Sat, 31 May 2025 00:47:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SCPCF/news?id=480761]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SCOPE TECHNOLOGIES CORP.]]></category>
-<pink:symbol>SCPCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BEYOND OIL LTD. (BEOLF: OTCQB) | Beyond Oil Receives an Additional C$4.5 Million Through Warrant Exercises; Provides an Update on RBI Supplier Approval &amp; US Team Expansion]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BEOLF/news?id=480760]]></link>
-<pubDate>Sat, 31 May 2025 00:47:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEOLF/news?id=480760]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BEYOND OIL LTD.]]></category>
-<pink:symbol>BEOLF</pink:symbol>
+<category><![CDATA[Zefiro Methane Corp.]]></category>
+<pink:symbol>ZEFIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Endo, Inc. (NDOI: OTCQX U.S.) | Mallinckrodt and Endo Announce Significant Progress in Proposed Merger]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NDOI/news?id=480759]]></link>
-<pubDate>Sat, 31 May 2025 00:46:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NDOI/news?id=480759]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Endo, Inc.]]></category>
-<pink:symbol>NDOI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jones Soda Co. (JSDA: OTCQB) | Jones Soda Teams with Crayola on Multi-Pack Featuring Returning Crayon Colors]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSDA/news?id=480758]]></link>
-<pubDate>Sat, 31 May 2025 00:45:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSDA/news?id=480758]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jones Soda Co.]]></category>
-<pink:symbol>JSDA</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Freddie Mac (FMCC: OTCQB) | Mortgage Rates Continue to Decline]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480757]]></link>
-<pubDate>Sat, 31 May 2025 00:44:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480757]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Freddie Mac]]></category>
-<pink:symbol>FMCC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sabio Holdings Inc. (SABOF: OTCQB) | Sabio Celebrates Asian American, Native Hawaiian and Pacific Islander (AANHPI) Heritage Month with Creator Television&reg;]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480756]]></link>
-<pubDate>Sat, 31 May 2025 00:44:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480756]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sabio Holdings Inc.]]></category>
-<pink:symbol>SABOF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Quarterhill Inc. (QTRHF: OTCQX International) | Quarterhill Announces Full System Acceptance and Completion of Major Toll System Projects for CTRMA]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QTRHF/news?id=480755]]></link>
-<pubDate>Sat, 31 May 2025 00:42:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QTRHF/news?id=480755]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Quarterhill Inc.]]></category>
-<pink:symbol>QTRHF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Alkaline Water Company Inc. (The) (WTER: Pink Current) | The Alkaline Water Company Announces Return to Southern California Market Through Partnership with Santa Monica Distributors Corp]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WTER/news?id=480754]]></link>
-<pubDate>Sat, 31 May 2025 00:41:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WTER/news?id=480754]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Alkaline Water Company Inc. (The)]]></category>
-<pink:symbol>WTER</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TransGlobal Assets, Inc. (TMSH: Pink Current) | TransGlobal Assets Inc. Acquires Controlling Stake in Incued to Pioneer AI-Powered Private Market Intelligence]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=480753]]></link>
-<pubDate>Sat, 31 May 2025 00:40:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=480753]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TransGlobal Assets, Inc.]]></category>
-<pink:symbol>TMSH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Security Federal Corp. (SFDL: Pink Current) | Security Federal Corporation Announces Increase in First Quarter Earnings]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SFDL/news?id=480752]]></link>
-<pubDate>Sat, 31 May 2025 00:39:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SFDL/news?id=480752]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Security Federal Corp.]]></category>
-<pink:symbol>SFDL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AppLife Digital Solutions, Inc. (ALDS: OTCQB) | APPlife Digital Solutions, Inc. Announces Definitive Agreement to Acquire Sugar Auto Parts, Inc.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ALDS/news?id=480751]]></link>
-<pubDate>Sat, 31 May 2025 00:38:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALDS/news?id=480751]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AppLife Digital Solutions, Inc.]]></category>
-<pink:symbol>ALDS</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Willow Biosciences Inc. (CANSF: OTCQB) | WILLOW BIOSCIENCES REPORTS FIRST QUARTER 2025 FINANCIAL RESULTS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CANSF/news?id=480750]]></link>
-<pubDate>Sat, 31 May 2025 00:38:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CANSF/news?id=480750]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Willow Biosciences Inc.]]></category>
-<pink:symbol>CANSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Acorn Energy, Inc. (ACFN: OTCQB) | Acorn, Provider of Backup Power Generator Monitoring and Control Solutions, Hosts Q1 Earnings Call Thur. May 8th at 11am ET]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ACFN/news?id=480749]]></link>
-<pubDate>Sat, 31 May 2025 00:38:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACFN/news?id=480749]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Acorn Energy, Inc.]]></category>
-<pink:symbol>ACFN</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[G Mining Ventures Corp. (GMINF: OTCQX International) | G Mining Ventures Announces Restatement of its 2024 Financial Statements Following Non-Cash Foreign Exchange Accounting Adjustments]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480748]]></link>
-<pubDate>Sat, 31 May 2025 00:38:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480748]]></guid>
+<title><![CDATA[G Mining Ventures Corp. (GMINF: OTCQX International) | G Mining Ventures Reports First Quarter 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480836]]></link>
+<pubDate>Sat, 31 May 2025 01:34:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480836]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[G Mining Ventures Corp.]]></category>
 <pink:symbol>GMINF</pink:symbol>
@@ -470,58 +38,538 @@ OTC RSS mirror fetched: Sat May 31 05:19:59 UTC 2025
 <pink:source><![CDATA[PRNS]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Quarterhill Inc. (QTRHF: OTCQX International) | Quarterhill Announces Results from its Annual and Special Meeting of Shareholders]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/QTRHF/news?id=480747]]></link>
-<pubDate>Sat, 31 May 2025 00:37:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QTRHF/news?id=480747]]></guid>
+<title><![CDATA[Vislink Technologies, Inc. (VISL: OTCQB) | Vislink Reports Fourth Quarter and Full Year 2024 Financial and Operational Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VISL/news?id=480835]]></link>
+<pubDate>Sat, 31 May 2025 01:33:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VISL/news?id=480835]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Quarterhill Inc.]]></category>
-<pink:symbol>QTRHF</pink:symbol>
+<category><![CDATA[Vislink Technologies, Inc.]]></category>
+<pink:symbol>VISL</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[PATRIOT BATTERY METALS INC (PMETF: OTCQX International) | Significant Mineral Resource Upgrade at Shaakichiuwaanaan Lithium Project to Underpin Impending Feasibility Study]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PMETF/news?id=480746]]></link>
-<pubDate>Sat, 31 May 2025 00:36:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PMETF/news?id=480746]]></guid>
+<title><![CDATA[TurnOnGreen, Inc (TOGI: Pink Current) | TurnOnGreen, Inc. Reports Strong Electric Vehicle Charging Network Growth in 2024]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TOGI/news?id=480834]]></link>
+<pubDate>Sat, 31 May 2025 01:33:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOGI/news?id=480834]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PATRIOT BATTERY METALS INC]]></category>
-<pink:symbol>PMETF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[WESTBRIDGE RENEWABLE ENERGY CORP. (WEGYF: OTCQX International) | Westbridge Renewable reports Strong Financial Results for 2024 and Strategic Update on its Project Pipeline]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WEGYF/news?id=480745]]></link>
-<pubDate>Sat, 31 May 2025 00:36:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WEGYF/news?id=480745]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[WESTBRIDGE RENEWABLE ENERGY CORP.]]></category>
-<pink:symbol>WEGYF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Dinewise, Inc. (DWIS: Pink Current) | Superstar Platforms, Inc Files Registration Statement with the Securities and Exchange Commission]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DWIS/news?id=480744]]></link>
-<pubDate>Sat, 31 May 2025 00:36:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DWIS/news?id=480744]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dinewise, Inc.]]></category>
-<pink:symbol>DWIS</pink:symbol>
+<category><![CDATA[TurnOnGreen, Inc]]></category>
+<pink:symbol>TOGI</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Freddie Mac (FMCC: OTCQB) | Freddie Mac Announces First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480743]]></link>
-<pubDate>Sat, 31 May 2025 00:34:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480743]]></guid>
+<title><![CDATA[Fortune Minerals Limited (FTMDF: OTCQB) | Fortune Minerals Reports Successful NICO Project Bismuth Test Work Results for the Planned Alberta Refinery]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FTMDF/news?id=480833]]></link>
+<pubDate>Sat, 31 May 2025 01:33:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FTMDF/news?id=480833]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fortune Minerals Limited]]></category>
+<pink:symbol>FTMDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Saga Metals Corp. (SAGMF: OTCQB) |  SAGA Metals Announces Non-Brokered Private Placement and Provides Corporate Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SAGMF/news?id=480832]]></link>
+<pubDate>Sat, 31 May 2025 01:30:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SAGMF/news?id=480832]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Saga Metals Corp.]]></category>
+<pink:symbol>SAGMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Parks! America, Inc. (PRKA: OTCQX U.S.) | OTC Markets Group Welcomes Parks! America, Inc. to OTCQX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PRKA/news?id=480831]]></link>
+<pubDate>Sat, 31 May 2025 01:30:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PRKA/news?id=480831]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Parks! America, Inc.]]></category>
+<pink:symbol>PRKA</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[OTC Markets Group Inc. (OTCM: OTCQX U.S.) | OTC Markets Group Welcomes Parks! America, Inc. to OTCQX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=480830]]></link>
+<pubDate>Sat, 31 May 2025 01:30:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=480830]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OTC Markets Group Inc.]]></category>
+<pink:symbol>OTCM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bunker Hill Mining Corp. (BHLL: OTCQB) | Bunker Hill Announces Amendments to Outstanding RSUs]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BHLL/news?id=480829]]></link>
+<pubDate>Sat, 31 May 2025 01:30:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BHLL/news?id=480829]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bunker Hill Mining Corp.]]></category>
+<pink:symbol>BHLL</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Sun Summit Minerals Corp (SMREF: OTCQB) | Sun Summit Minerals to Present at the Metals &amp; Mining Virtual Investor Conference May 6th]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SMREF/news?id=480828]]></link>
+<pubDate>Sat, 31 May 2025 01:29:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMREF/news?id=480828]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sun Summit Minerals Corp]]></category>
+<pink:symbol>SMREF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Newcore Gold Ltd. (NCAUF: OTCQX International) | Newcore Gold to Present at the Metals &amp; Mining Virtual Investor Conference May 7, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NCAUF/news?id=480827]]></link>
+<pubDate>Sat, 31 May 2025 01:29:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NCAUF/news?id=480827]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Newcore Gold Ltd.]]></category>
+<pink:symbol>NCAUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Marpai, Inc. (MRAI: OTCQX U.S.) | MARPAI REPORTS FIRST QUARTER 2025 FINANCIAL RESULTS]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480826]]></link>
+<pubDate>Sat, 31 May 2025 01:29:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRAI/news?id=480826]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Marpai, Inc.]]></category>
+<pink:symbol>MRAI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[First National Bank Alaska (FBAK: OTCQX U.S.) | First National Bank Alaska Declares Dividend for Second Quarter 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBAK/news?id=480825]]></link>
+<pubDate>Sat, 31 May 2025 01:27:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBAK/news?id=480825]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First National Bank Alaska]]></category>
+<pink:symbol>FBAK</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[OTC Markets Group Inc. (OTCM: OTCQX U.S.) | OTC Markets Group Welcomes Steel Partners Holdings L.P. to OTCQX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=480824]]></link>
+<pubDate>Sat, 31 May 2025 01:26:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=480824]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OTC Markets Group Inc.]]></category>
+<pink:symbol>OTCM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Steel Partners Holdings LP (SPLP: OTCQX U.S.) | OTC Markets Group Welcomes Steel Partners Holdings L.P. to OTCQX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SPLP/news?id=480823]]></link>
+<pubDate>Sat, 31 May 2025 01:26:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPLP/news?id=480823]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Steel Partners Holdings LP]]></category>
+<pink:symbol>SPLP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Steel Partners Holdings LP (SPLP: OTCQX U.S.) | OTC Markets Group Welcomes Steel Partners Holdings L.P. to OTCQX]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SPLP/news?id=480822]]></link>
+<pubDate>Sat, 31 May 2025 01:26:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SPLP/news?id=480822]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Steel Partners Holdings LP]]></category>
+<pink:symbol>SPLP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Cornerstone Bancorp Inc. (CNBP: Pink Current) | Cornerstone Bancorp, Inc Quarterly Report - March 31, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CNBP/news?id=480821]]></link>
+<pubDate>Sat, 31 May 2025 01:25:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNBP/news?id=480821]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cornerstone Bancorp Inc.]]></category>
+<pink:symbol>CNBP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[SS Innovations International, Inc. (SSII: null) | SS Innovations Announces Chief Financial Officer Transition]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SSII/news?id=480820]]></link>
+<pubDate>Sat, 31 May 2025 01:25:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SSII/news?id=480820]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SS Innovations International, Inc.]]></category>
+<pink:symbol>SSII</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ECA Marcellus Trust I (ECTM: Pink Current) | ECA Marcellus Trust I Announces Quarterly Distribution]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECTM/news?id=480819]]></link>
+<pubDate>Sat, 31 May 2025 01:24:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECTM/news?id=480819]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECA Marcellus Trust I]]></category>
+<pink:symbol>ECTM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | Aya Gold &amp; Silver Provides Notice of First Quarter 2025 Results and Conference Call]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=480818]]></link>
+<pubDate>Sat, 31 May 2025 01:21:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=480818]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aya Gold & Silver Inc.]]></category>
+<pink:symbol>AYASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Kontrol Technologies Corp. (KNRLF: OTCQB) | Kontrol Technologies Launches BuildX AI Platform and Announces Loan Agreement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KNRLF/news?id=480817]]></link>
+<pubDate>Sat, 31 May 2025 01:20:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KNRLF/news?id=480817]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kontrol Technologies Corp.]]></category>
+<pink:symbol>KNRLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[BUSI]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Elah Holdings Inc. (ELLH: Pink Current) | Elah Holdings, Inc. Announces Release of First Quarter 2025 Report to Stockholders]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ELLH/news?id=480816]]></link>
+<pubDate>Sat, 31 May 2025 01:19:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ELLH/news?id=480816]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Elah Holdings Inc.]]></category>
+<pink:symbol>ELLH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ENDEAVOUR Mining PLC. (EDVMF: OTCQX International) | Endeavour Announces Total voting rights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EDVMF/news?id=480815]]></link>
+<pubDate>Sat, 31 May 2025 01:18:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EDVMF/news?id=480815]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ENDEAVOUR Mining PLC.]]></category>
+<pink:symbol>EDVMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Medipharm Labs Corporation (MEDIF: OTCQB) | Apollo Technology Capital Corporation Poses Questions That MediPharm Shareholders Should Ask on Management's Conference Call with Shareholders]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480814]]></link>
+<pubDate>Sat, 31 May 2025 01:18:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480814]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Medipharm Labs Corporation]]></category>
+<pink:symbol>MEDIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Leatt Corp. (LEAT: OTCQB) | Leatt Corp Announces Results for the First Quarter 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LEAT/news?id=480813]]></link>
+<pubDate>Sat, 31 May 2025 01:16:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEAT/news?id=480813]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Leatt Corp.]]></category>
+<pink:symbol>LEAT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Concord Acquisition Corp II (CNDAW: OTCQB) | EVENTS.COM NAMED GLOBAL PARTNER OF WARNER BROS. DISCOVERY SPORTS' EVENTS DIVISION]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CNDAW/news?id=480812]]></link>
+<pubDate>Sat, 31 May 2025 01:16:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNDAW/news?id=480812]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Concord Acquisition Corp II]]></category>
+<pink:symbol>CNDAW</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Trulieve Cannabis Corporation (TCNNF: OTCQX International) | Trulieve-Branded Dispensary to Open in Lorain, Ohio]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TCNNF/news?id=480811]]></link>
+<pubDate>Sat, 31 May 2025 01:15:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TCNNF/news?id=480811]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trulieve Cannabis Corporation]]></category>
+<pink:symbol>TCNNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[United Bancorporation of Alabama, Inc. (UBAB: OTCQX U.S.) | United Bancorporation of Alabama, Inc. Announces Renewal of Stock Repurchase Program]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/UBAB/news?id=480810]]></link>
+<pubDate>Sat, 31 May 2025 01:15:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UBAB/news?id=480810]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[United Bancorporation of Alabama, Inc.]]></category>
+<pink:symbol>UBAB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Bombardier Inc. (BDRBF: OTCQX International) | Bombardier Announces the Election of its Board of Directors]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BDRBF/news?id=480809]]></link>
+<pubDate>Sat, 31 May 2025 01:14:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDRBF/news?id=480809]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bombardier Inc.]]></category>
+<pink:symbol>BDRBF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Medipharm Labs Corporation (MEDIF: OTCQB) | MediPharm Labs Announces Strong Q1 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480808]]></link>
+<pubDate>Sat, 31 May 2025 01:14:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MEDIF/news?id=480808]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Medipharm Labs Corporation]]></category>
+<pink:symbol>MEDIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Innovative Food Holdings, Inc. (IVFH: OTCQB) | Innovative Food Holdings, Inc. Announces Change in Independent Registered Public Accounting Firm]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IVFH/news?id=480807]]></link>
+<pubDate>Sat, 31 May 2025 01:14:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IVFH/news?id=480807]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Innovative Food Holdings, Inc.]]></category>
+<pink:symbol>IVFH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: Pink Current) | Palatin Reports Fiscal Year 2025 Third Quarter Results and Business Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480806]]></link>
+<pubDate>Sat, 31 May 2025 01:14:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=480806]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Charlotte's Web Holdings Inc. (CWBHF: OTCQX International) | Charlotte's Web Reports Year-Over-Year Growth For Q1 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CWBHF/news?id=480805]]></link>
+<pubDate>Sat, 31 May 2025 01:13:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CWBHF/news?id=480805]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Charlotte's Web Holdings Inc.]]></category>
+<pink:symbol>CWBHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Blue Sky Uranium Corp. (BKUCF: OTCQB) | Blue Sky Uranium Expands Drill Plan to Advance the Ivana Uranium-Vanadium Project]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BKUCF/news?id=480804]]></link>
+<pubDate>Sat, 31 May 2025 01:12:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BKUCF/news?id=480804]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blue Sky Uranium Corp.]]></category>
+<pink:symbol>BKUCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Golden Arrow Resource Corp. (GARWF: OTCQB) | Golden Arrow Reports Gold and Copper at New Exploration Targets and Expands Concessions at San Pietro Copper-Gold Project, Chile]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GARWF/news?id=480803]]></link>
+<pubDate>Sat, 31 May 2025 01:12:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GARWF/news?id=480803]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Golden Arrow Resource Corp.]]></category>
+<pink:symbol>GARWF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Generative AI Solutions Corp. (AICOF: OTCQB) | Generative AI Solutions Corp. Provides Corporate Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AICOF/news?id=480802]]></link>
+<pubDate>Sat, 31 May 2025 01:12:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AICOF/news?id=480802]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Generative AI Solutions Corp.]]></category>
+<pink:symbol>AICOF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[First Mining Gold Corp. (FFMGF: OTCQX International) | First Mining Announces 2025 First Quarter Financial Results and Operating Highlights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FFMGF/news?id=480801]]></link>
+<pubDate>Sat, 31 May 2025 01:12:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FFMGF/news?id=480801]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Mining Gold Corp.]]></category>
+<pink:symbol>FFMGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Boardwalktech Software Corporation (BWLKF: OTCQB) | Boardwalktech Appoints Miles Ravitz of IBM to Advisory Board]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BWLKF/news?id=480800]]></link>
+<pubDate>Sat, 31 May 2025 01:12:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BWLKF/news?id=480800]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Boardwalktech Software Corporation]]></category>
+<pink:symbol>BWLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Sabio Holdings Inc. (SABOF: OTCQB) | Sabio's Creator Television&reg; Named 2025 StreamTV Award Finalist]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480799]]></link>
+<pubDate>Sat, 31 May 2025 01:12:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SABOF/news?id=480799]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sabio Holdings Inc.]]></category>
+<pink:symbol>SABOF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BEYOND OIL LTD. (BEOLF: OTCQB) | Correction: Beyond Oil Receives an Additional C$4.5 Million Through Warrant Exercises; Provides an Update on RBI Supplier Approval &amp; US Team Expansion]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BEOLF/news?id=480798]]></link>
+<pubDate>Sat, 31 May 2025 01:10:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BEOLF/news?id=480798]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BEYOND OIL LTD.]]></category>
+<pink:symbol>BEOLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[K92 Mining Inc (KNTNF: OTCQX International) | With Forecasts Hitting $4,000 to $6,000, Gold Mining Sector Sees Renewed Investor Focus]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KNTNF/news?id=480797]]></link>
+<pubDate>Sat, 31 May 2025 01:09:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KNTNF/news?id=480797]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[K92 Mining Inc]]></category>
+<pink:symbol>KNTNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[G Mining Ventures Corp. (GMINF: OTCQX International) | With Forecasts Hitting $4,000 to $6,000, Gold Mining Sector Sees Renewed Investor Focus]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480796]]></link>
+<pubDate>Sat, 31 May 2025 01:09:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMINF/news?id=480796]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[G Mining Ventures Corp.]]></category>
+<pink:symbol>GMINF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[LUCA MINING CORP. (LUCMF: OTCQX International) | With Forecasts Hitting $4,000 to $6,000, Gold Mining Sector Sees Renewed Investor Focus]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LUCMF/news?id=480795]]></link>
+<pubDate>Sat, 31 May 2025 01:09:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LUCMF/news?id=480795]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LUCA MINING CORP.]]></category>
+<pink:symbol>LUCMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[LAKE VICTORIA GOLD LTD. (LVGLF: OTCQB) | With Forecasts Hitting $4,000 to $6,000, Gold Mining Sector Sees Renewed Investor Focus]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480794]]></link>
+<pubDate>Sat, 31 May 2025 01:09:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LVGLF/news?id=480794]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LAKE VICTORIA GOLD LTD.]]></category>
+<pink:symbol>LVGLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[VOLATUS AEROSPACE INC. (TAKOF: OTCQX International) | Volatus Announces Closing of Fully Subscribed LIFE Offering of $3,000,000]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TAKOF/news?id=480793]]></link>
+<pubDate>Sat, 31 May 2025 01:09:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TAKOF/news?id=480793]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VOLATUS AEROSPACE INC.]]></category>
+<pink:symbol>TAKOF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[GLOBE]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Wishpond Technologies Ltd. (WPNDF: OTCQX International) | Wishpond Announces Date for First Quarter 2025 Financial Results Video Conference Call]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WPNDF/news?id=480792]]></link>
+<pubDate>Sat, 31 May 2025 01:09:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WPNDF/news?id=480792]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Wishpond Technologies Ltd.]]></category>
+<pink:symbol>WPNDF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[PRNS]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Freddie Mac (FMCC: OTCQB) | Freddie Mac Issues Monthly Volume Summary for March 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480791]]></link>
+<pubDate>Sat, 31 May 2025 01:09:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FMCC/news?id=480791]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Freddie Mac]]></category>
 <pink:symbol>FMCC</pink:symbol>
@@ -530,88 +578,40 @@ OTC RSS mirror fetched: Sat May 31 05:19:59 UTC 2025
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[HealthLynked Corp. (HLYK: OTCQB) | HealthLynked Expands Patient Access with Enhanced Booking Options and Provider Reviews]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HLYK/news?id=480742]]></link>
-<pubDate>Sat, 31 May 2025 00:32:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HLYK/news?id=480742]]></guid>
+<title><![CDATA[THE CANNABIST COMPANY HOLDINGS INC. (CBSTF: OTCQB) | The Cannabist Company Reports First Quarter 2025 Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CBSTF/news?id=480790]]></link>
+<pubDate>Sat, 31 May 2025 01:09:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CBSTF/news?id=480790]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HealthLynked Corp.]]></category>
-<pink:symbol>HLYK</pink:symbol>
+<category><![CDATA[THE CANNABIST COMPANY HOLDINGS INC.]]></category>
+<pink:symbol>CBSTF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ascend Wellness Holdings, Inc. (AAWH: OTCQX U.S.) | AWH ANNOUNCES FIRST QUARTER 2025 FINANCIAL RESULTS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AAWH/news?id=480741]]></link>
-<pubDate>Sat, 31 May 2025 00:30:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AAWH/news?id=480741]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ascend Wellness Holdings, Inc.]]></category>
-<pink:symbol>AAWH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Well Health Technologies Corp. (WHTCF: OTCQX International) | WELLSTAR Technologies Launches Nexus AI: A Transformative AI Platform for Canadian Healthcare Providers]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WHTCF/news?id=480740]]></link>
-<pubDate>Sat, 31 May 2025 00:30:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WHTCF/news?id=480740]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Well Health Technologies Corp.]]></category>
-<pink:symbol>WHTCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[BUSI]]></pink:source>
 </item>
 <item>
-<title><![CDATA[80 MILE PLC (BLLYF: Pink Current) | 80 Mile: Proposed Transaction for Development of Jameson Concession]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=480739]]></link>
-<pubDate>Sat, 31 May 2025 00:28:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=480739]]></guid>
+<title><![CDATA[Black Diamond Group Ltd (BDIMF: OTCQX International) | Black Diamond Reports Robust First Quarter 2025 Results and Declares Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BDIMF/news?id=480789]]></link>
+<pubDate>Sat, 31 May 2025 01:08:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDIMF/news?id=480789]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[80 MILE PLC]]></category>
-<pink:symbol>BLLYF</pink:symbol>
+<category><![CDATA[Black Diamond Group Ltd]]></category>
+<pink:symbol>BDIMF</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Plato Gold Corp (NIOVF: OTCQB) | Plato Gold Announces Preparations for First Ever Drill Program at Lolita Project, Santa Cruz, Argentina]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NIOVF/news?id=480738]]></link>
-<pubDate>Sat, 31 May 2025 00:27:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NIOVF/news?id=480738]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Plato Gold Corp]]></category>
-<pink:symbol>NIOVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[UC Asset LP (UCASU: OTCQB) | UC Asset Filed for Public Offering of 8% Dividend Preferred Units]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/UCASU/news?id=480737]]></link>
-<pubDate>Sat, 31 May 2025 00:27:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UCASU/news?id=480737]]></guid>
+<title><![CDATA[Quaint Oak Bancorp, Inc. (QNTO: OTCQB) | Quaint Oak Bancorp, Inc. Announces First Quarter Earnings]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/QNTO/news?id=480788]]></link>
+<pubDate>Sat, 31 May 2025 01:07:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/QNTO/news?id=480788]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UC Asset LP]]></category>
-<pink:symbol>UCASU</pink:symbol>
+<category><![CDATA[Quaint Oak Bancorp, Inc.]]></category>
+<pink:symbol>QNTO</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bank of Botetourt (Buchanan, VA) (BORT: Pink Current) | Bank of Botetourt Celebrates Grand Opening of Melrose Plaza Office in Northwest Roanoke]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BORT/news?id=480735]]></link>
-<pubDate>Sat, 31 May 2025 00:26:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BORT/news?id=480735]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bank of Botetourt (Buchanan, VA)]]></category>
-<pink:symbol>BORT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[PRNS]]></pink:source>
+<pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
