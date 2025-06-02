@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 23:20:35 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 23:42:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  2 23:20:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 19:06:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 19:36:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[American Rare Earths Ltd. (AMRRY: OTCQX International) | ASX Announcement - Change in Substantial Holding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=481617]]></link>
+<pubDate>Mon, 02 Jun 2025 19:27:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AMRRY/news?id=481617]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[American Rare Earths Ltd.]]></category>
+<pink:symbol>AMRRY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[CW Petroleum Corp (CWPE: OTCQB) | CW Petroleum Corp (OTCQB: CWPE) Shareholder Update 6/2/2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CWPE/news?id=481612]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Mon Jun  2 23:20:35 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=481454]]></link>
 <pubDate>Sun, 01 Jun 2025 02:04:33 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=481454]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kidoz Inc.]]></category>
-<pink:symbol>KDOZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kidoz Inc. (KDOZF: Pink Current) | Kidoz Inc. : 2024 Record Adjusted EBITDA of USD $1,134,503 (CAD $1,554,963) and Revenue of USD $14,004,527 (CAD $19,194,773)]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=481453]]></link>
-<pubDate>Sun, 01 Jun 2025 02:03:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=481453]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kidoz Inc.]]></category>
 <pink:symbol>KDOZF</pink:symbol>
