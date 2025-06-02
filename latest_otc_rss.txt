@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 05:47:19 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 06:33:04 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun  2 05:47:19 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 01:36:38 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 02:06:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478984]]></link>
+<pubDate>Mon, 02 Jun 2025 02:00:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478984]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Orexo AB (ORXOY: OTCQX International) | Orexo to present clinical data for OX640 at the EAACI Congress]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=481470]]></link>
+<pubDate>Mon, 02 Jun 2025 01:57:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=481470]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orexo AB]]></category>
+<pink:symbol>ORXOY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Com-Guard.com, Inc. (CGUD: Pink Current) | Com-Guard.com, Inc. (CGUD.pk) appoints Mr. Antonio Ponte as Strategic Advisor.]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CGUD/news?id=481467]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon Jun  2 05:47:19 UTC 2025
 <pink:symbol>MBXBF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[G2 Goldfields Inc. (GUYGF: OTCQX International) | G2 Drills 76m @ 1.5 g/t Au and 3m @ 12.5 g/t Au&nbsp;in Scout Drilling at Peters Mine, Guyana]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GUYGF/news?id=481414]]></link>
-<pubDate>Sat, 31 May 2025 10:00:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GUYGF/news?id=481414]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[G2 Goldfields Inc.]]></category>
-<pink:symbol>GUYGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[FLUENT CORP (CNTMF: OTCQB) | FLUENT Debuts &quot;New York Minute&quot; &ndash; A Bold, Exclusive Flavor for MOODS Vaporizers]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNTMF/news?id=481413]]></link>
-<pubDate>Sat, 31 May 2025 09:56:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNTMF/news?id=481413]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FLUENT CORP]]></category>
-<pink:symbol>CNTMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
