@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 17:19:20 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 17:42:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  2 17:19:20 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 13:06:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 13:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -1102,6 +1102,18 @@ OTC RSS mirror fetched: Mon Jun  2 17:19:20 UTC 2025
 <pink:symbol>ELFIF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Gaming Innovation Group Inc. (GIGI: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GIGI&actionDate=1748885194000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GIGI/company-info">Gaming Innovation Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/GIGI">GIGI</a>: Grey Market) - Reactivated Symbol -  The symbol, GIGI, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 13:26:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GIGI&actionDate=1748885194000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Gaming Innovation Group Inc.]]></category>
+<pink:symbol>GIGI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Anglo American plc (AAUKF: OTC Link) | Deleted Symbol]]></title>
