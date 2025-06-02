@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 19:38:08 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 19:51:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  2 19:38:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 15:26:36 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 15:46:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -1186,6 +1186,18 @@ OTC RSS mirror fetched: Mon Jun  2 19:38:08 UTC 2025
 <pink:symbol>MOGMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Arizona Sonoran Copper Company Inc. (ASCUF: OTCQX International) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ASCUF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ASCUF/company-info">Arizona Sonoran Copper Company Inc.</a> (<a href="http://www.otcmarkets.com/stock/ASCUF">ASCUF</a>: OTCQX International) - Halted Security -  Effective Mon, Jun 02, 2025, ASCUF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ASCUF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Arizona Sonoran Copper Company Inc.]]></category>
+<pink:symbol>ASCUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Piggyback Qualified]]></title>
