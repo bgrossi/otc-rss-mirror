@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 15:55:15 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 16:28:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  2 15:55:15 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 11:46:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 12:26:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Logipix International Corp. (LPIX: Pink Current) | Logipix International Signs GC&E Systems Group  for Channel Representation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LPIX/news?id=481586]]></link>
+<pubDate>Mon, 02 Jun 2025 11:46:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LPIX/news?id=481586]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Logipix International Corp.]]></category>
+<pink:symbol>LPIX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Buscar Company (CGLD: Pink Current) | Buscar Company Acquires 70% Stake in Armorgenix, Bolstering Portfolio with Pharmaceutical Innovation and Positioning for Growth in the U.S. Antiviral and Detoxification Markets]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CGLD/news?id=481583]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon Jun  2 15:55:15 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Imperial Brands PLC]]></category>
 <pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Serabi Gold Plc (SRBIF: OTCQX International) | Notice of Annual General Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=478978]]></link>
-<pubDate>Fri, 30 May 2025 11:09:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=478978]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Serabi Gold Plc]]></category>
-<pink:symbol>SRBIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
