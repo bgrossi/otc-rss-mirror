@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 13:22:57 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 13:48:37 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Mon Jun  2 13:22:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 09:06:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 09:46:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Directors / PDMRs Shareholding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=481575]]></link>
+<pubDate>Mon, 02 Jun 2025 09:45:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=481575]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[J Sainsbury plc]]></category>
+<pink:symbol>JSAIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Megola, Inc. (MGON: Pink Current) | Notice Of material Event]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MGON/news?id=481460]]></link>
+<pubDate>Mon, 02 Jun 2025 09:30:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MGON/news?id=481460]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Megola, Inc.]]></category>
+<pink:symbol>MGON</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Megola, Inc. (MGON: Pink Current) | Breakthrough Chemistry, Inc. ( Formerly Megola Inc.) Announces reduction of Authorized Shares and 1:30 Reverse Stock Split]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MGON/news?id=481461]]></link>
+<pubDate>Mon, 02 Jun 2025 09:30:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MGON/news?id=481461]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Megola, Inc.]]></category>
+<pink:symbol>MGON</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[CASTILE RES LTD. (CLRSF: OTCQB) | IOCG Mineralisation Detected at Pathfinder 38]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CLRSF/news?id=481558]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Mon Jun  2 13:22:57 UTC 2025
 <pink:symbol>JFBC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Favo Capital, Inc. (FAVO: Pink Current) | FAVO Capital Announces Participation in the D. Boral Capital Inaugural Global Conference]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FAVO/news?id=481442]]></link>
-<pubDate>Sat, 31 May 2025 10:37:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FAVO/news?id=481442]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Favo Capital, Inc.]]></category>
-<pink:symbol>FAVO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Chino Commercial Bancorp (CCBC: Pink Current) | Chino Commercial Bank Receives Super Premier Performing Recognition]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CCBC/news?id=481441]]></link>
-<pubDate>Sat, 31 May 2025 10:34:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CCBC/news?id=481441]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Chino Commercial Bancorp]]></category>
-<pink:symbol>CCBC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[BlockQuarry Corp. (BLQC: Pink Current) | BlockQuarry Announces Development of Proprietary U.S.-Made Bitcoin Miners]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BLQC/news?id=481440]]></link>
-<pubDate>Sat, 31 May 2025 10:34:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLQC/news?id=481440]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BlockQuarry Corp.]]></category>
-<pink:symbol>BLQC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
