@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 07:26:54 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 07:42:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  2 07:26:54 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 03:07:30 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 03:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice of Additional Purchase of Bitcoin]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=481476]]></link>
+<pubDate>Mon, 02 Jun 2025 03:21:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=481476]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=478984]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon Jun  2 07:26:54 UTC 2025
 <pink:symbol>AONC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Microbix Biosystems Inc. (MBXBF: OTCQX International) | Microbix &amp; Aurevia Introduce Novel EQA Scheme]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MBXBF/news?id=481415]]></link>
-<pubDate>Sat, 31 May 2025 10:01:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MBXBF/news?id=481415]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Microbix Biosystems Inc.]]></category>
-<pink:symbol>MBXBF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
