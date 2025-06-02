@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 07:26:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 02:36:38 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 03:07:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITRKF&actionDate=1748847205000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: OTC Link) - Venue Change - The symbol, ITRKF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, ITRKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 02:53:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITRKF&actionDate=1748847205000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTRACOM S A HLDGS]]></category>
+<pink:symbol>ITRKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITHDF&actionDate=1748847203000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: OTC Link) - Venue Change - The symbol, ITHDF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, ITHDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 02:53:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITHDF&actionDate=1748847203000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
+<pink:symbol>ITHDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LGMK&actionDate=1748840452000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGMK/company-info">LogicMark, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGMK">LGMK</a>: OTC Link) - Venue Change - The symbol, LGMK, no longer trades on Nasdaq.  As of Mon, Jun 02, 2025, LGMK trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -982,6 +1006,90 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 <pink:symbol>AUXXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LGMK&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGMK/company-info">LogicMark, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGMK">LGMK</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, LGMK is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LGMK&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LogicMark, Inc.]]></category>
+<pink:symbol>LGMK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITRKF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITRKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITRKF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTRACOM S A HLDGS]]></category>
+<pink:symbol>ITRKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHVF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHVF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHVF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHVF">ITHVF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITHVF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHVF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
+<pink:symbol>ITHVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHDF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITHDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHDF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
+<pink:symbol>ITHDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Grupo Nutresa SA (GCHOY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCHOY&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GCHOY/company-info">Grupo Nutresa SA</a> (<a href="http://www.otcmarkets.com/stock/GCHOY">GCHOY</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, GCHOY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCHOY&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Grupo Nutresa SA]]></category>
+<pink:symbol>GCHOY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CHINA NUCLEAR ENERGY TECHNOLOGY CORP LTD. (CNCEF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CNCEF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CNCEF/company-info">CHINA NUCLEAR ENERGY TECHNOLOGY CORP LTD.</a> (<a href="http://www.otcmarkets.com/stock/CNCEF">CNCEF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, CNCEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CNCEF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CHINA NUCLEAR ENERGY TECHNOLOGY CORP LTD.]]></category>
+<pink:symbol>CNCEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CANARE ELECTRIC CO LTD (CANRF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CANRF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CANRF/company-info">CANARE ELECTRIC CO LTD</a> (<a href="http://www.otcmarkets.com/stock/CANRF">CANRF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, CANRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CANRF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CANARE ELECTRIC CO LTD]]></category>
+<pink:symbol>CANRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Ex-Dividend]]></title>
@@ -1236,6 +1344,18 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Porvair PLC (PVARF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVARF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PVARF/company-info">Porvair PLC</a> (<a href="http://www.otcmarkets.com/stock/PVARF">PVARF</a>: Pink Limited) - Tier Change - The symbol, PVARF, no longer is classified as Pink Current.  As of Mon, Jun 02, 2025, PVARF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PVARF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Porvair PLC]]></category>
+<pink:symbol>PVARF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PCS Edventures!.com, Inc. (PCSV: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCSV&actionDate=1748836800000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PCSV/company-info">PCS Edventures!.com, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PCSV">PCSV</a>: OTCQB) - Tier Change - The symbol, PCSV, no longer is classified as Pink Current.  As of Mon, Jun 02, 2025, PCSV resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1260,6 +1380,66 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Logipix International Corp. (LPIX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LPIX&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LPIX/company-info">Logipix International Corp.</a> (<a href="http://www.otcmarkets.com/stock/LPIX">LPIX</a>: Pink Current) - Tier Change - The symbol, LPIX, no longer is classified as Pink Limited.  As of Mon, Jun 02, 2025, LPIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LPIX&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Logipix International Corp.]]></category>
+<pink:symbol>LPIX</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITRKF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: Pink Limited) - Tier Change - The symbol, ITRKF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, ITRKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITRKF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTRACOM S A HLDGS]]></category>
+<pink:symbol>ITRKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHVF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHVF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHVF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHVF">ITHVF</a>: Pink Limited) - Tier Change - The symbol, ITHVF, no longer is classified as Expert Market.  As of Mon, Jun 02, 2025, ITHVF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHVF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
+<pink:symbol>ITHVF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHDF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: Pink Limited) - Tier Change - The symbol, ITHDF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, ITHDF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHDF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
+<pink:symbol>ITHDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Amplia Therapeutics Ltd. (INNMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INNMF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INNMF/company-info">Amplia Therapeutics Ltd.</a> (<a href="http://www.otcmarkets.com/stock/INNMF">INNMF</a>: Pink Current) - Tier Change - The symbol, INNMF, no longer is classified as Pink Limited.  As of Mon, Jun 02, 2025, INNMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INNMF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Amplia Therapeutics Ltd.]]></category>
+<pink:symbol>INNMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Hugoton Royalty Trust (HGTXU: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HGTXU&actionDate=1748836800000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HGTXU/company-info">Hugoton Royalty Trust</a> (<a href="http://www.otcmarkets.com/stock/HGTXU">HGTXU</a>: Pink Limited) - Tier Change - The symbol, HGTXU, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, HGTXU resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1270,30 +1450,6 @@ OTC RSS mirror fetched: Mon Jun  2 06:57:52 UTC 2025
 <pink:symbol>HGTXU</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GENIX PHARMACEUTICALS CORP. (GENPF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GENPF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GENPF/company-info">GENIX PHARMACEUTICALS CORP.</a> (<a href="http://www.otcmarkets.com/stock/GENPF">GENPF</a>: Pink Current) - Tier Change - The symbol, GENPF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, GENPF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GENPF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GENIX PHARMACEUTICALS CORP.]]></category>
-<pink:symbol>GENPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dynacert Inc (DYFSF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DYFSF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DYFSF/company-info">Dynacert Inc</a> (<a href="http://www.otcmarkets.com/stock/DYFSF">DYFSF</a>: OTCQB) - Tier Change - The symbol, DYFSF, no longer is classified as Pink Current.  As of Mon, Jun 02, 2025, DYFSF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DYFSF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dynacert Inc]]></category>
-<pink:symbol>DYFSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
