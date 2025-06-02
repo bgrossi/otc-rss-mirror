@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 04:59:22 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 05:29:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  2 04:59:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 00:36:38 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 01:06:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Com-Guard.com, Inc. (CGUD: Pink Current) | Com-Guard.com, Inc. (CGUD.pk) appoints Mr. Antonio Ponte as Strategic Advisor.]]></title>
@@ -864,6 +864,90 @@ OTC RSS mirror fetched: Mon Jun  2 04:59:22 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LGMK&actionDate=1748840452000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGMK/company-info">LogicMark, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGMK">LGMK</a>: OTC Link) - Venue Change - The symbol, LGMK, no longer trades on Nasdaq.  As of Mon, Jun 02, 2025, LGMK trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LGMK&actionDate=1748840452000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LogicMark, Inc.]]></category>
+<pink:symbol>LGMK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Hartford Creative Group Inc. (HFUSD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HFUSD&actionDate=1748840434000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HFUS/company-info">Hartford Creative Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/HFUS">HFUSD</a>: Pink Current) - Symbol Change - The symbol, HFUSD, is no longer a valid symbol for Hartford Creative Group Inc..  As of Mon, Jun 02, 2025, the new trading symbol is HFUS. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=HFUSD&actionDate=1748840434000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hartford Creative Group Inc.]]></category>
+<pink:symbol>HFUS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Altair International Corp. (ATAO: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Altair International Corp.</a> (<a href="http://www.otcmarkets.com/stock/PREM">ATAO</a>: Pink Current) - Symbol Change - The symbol, ATAO, is no longer a valid symbol for Altair International Corp..  As of Mon, Jun 02, 2025, the new trading symbol is PREM. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Altair International Corp.]]></category>
+<pink:symbol>PREM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Anglo American plc (AAUKF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUKF&actionDate=1748840450000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - Anglo American plc (AAUKF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, AAUKF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUKF&actionDate=1748840450000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anglo American plc]]></category>
+<pink:symbol>AAUKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[QCX Gold Corp. (QCXGF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=QCXGF&actionDate=1748840437000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - QCX Gold Corp. (QCXGF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, QCXGF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=QCXGF&actionDate=1748840437000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[QCX Gold Corp.]]></category>
+<pink:symbol>QCXGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Anglo American plc (NGLOY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NGLOY&actionDate=1748840421000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - Anglo American plc (NGLOY: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, NGLOY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NGLOY&actionDate=1748840421000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anglo American plc]]></category>
+<pink:symbol>NGLOY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Allegiant Gold Ltd. (AUXXF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AUXXF&actionDate=1748840412000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - Allegiant Gold Ltd. (AUXXF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, AUXXF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 01:00:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AUXXF&actionDate=1748840412000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Allegiant Gold Ltd.]]></category>
+<pink:symbol>AUXXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=169973]]></link>
 <description><![CDATA[Fri, May 30, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/ELFIF/company-info">E L Financial Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ELFIF">ELFIF</a>: Pink Current) - Ex-Dividend -  As of Mon, Jun 02, 2025, E L Financial Ltd. traded ex-dividend. E L Financial Ltd. will disburse a Stock Dividend/Split dividend of 100 shares to shareholders of ELFIF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1186,78 @@ OTC RSS mirror fetched: Mon Jun  2 04:59:22 UTC 2025
 <pink:symbol>SBHMY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tru Precious Metals Corp. (TRUIF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRUIF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRUIF/company-info">Tru Precious Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRUIF">TRUIF</a>: Pink Current) - Tier Change - The symbol, TRUIF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, TRUIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRUIF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tru Precious Metals Corp.]]></category>
+<pink:symbol>TRUIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PCS Edventures!.com, Inc. (PCSV: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCSV&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PCSV/company-info">PCS Edventures!.com, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PCSV">PCSV</a>: OTCQB) - Tier Change - The symbol, PCSV, no longer is classified as Pink Current.  As of Mon, Jun 02, 2025, PCSV resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PCSV&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PCS Edventures!.com, Inc.]]></category>
+<pink:symbol>PCSV</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[New Energy Metals Corp. (NRGYF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRGYF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRGYF/company-info">New Energy Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/NRGYF">NRGYF</a>: Pink Current) - Tier Change - The symbol, NRGYF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, NRGYF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRGYF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[New Energy Metals Corp.]]></category>
+<pink:symbol>NRGYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Hugoton Royalty Trust (HGTXU: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HGTXU&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HGTXU/company-info">Hugoton Royalty Trust</a> (<a href="http://www.otcmarkets.com/stock/HGTXU">HGTXU</a>: Pink Limited) - Tier Change - The symbol, HGTXU, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, HGTXU resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HGTXU&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hugoton Royalty Trust]]></category>
+<pink:symbol>HGTXU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GENIX PHARMACEUTICALS CORP. (GENPF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GENPF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GENPF/company-info">GENIX PHARMACEUTICALS CORP.</a> (<a href="http://www.otcmarkets.com/stock/GENPF">GENPF</a>: Pink Current) - Tier Change - The symbol, GENPF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, GENPF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GENPF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GENIX PHARMACEUTICALS CORP.]]></category>
+<pink:symbol>GENPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Dynacert Inc (DYFSF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DYFSF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DYFSF/company-info">Dynacert Inc</a> (<a href="http://www.otcmarkets.com/stock/DYFSF">DYFSF</a>: OTCQB) - Tier Change - The symbol, DYFSF, no longer is classified as Pink Current.  As of Mon, Jun 02, 2025, DYFSF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DYFSF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Dynacert Inc]]></category>
+<pink:symbol>DYFSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
