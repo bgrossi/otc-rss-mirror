@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 11:39:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 07:06:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 07:36:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Plc - Total Voting Rights]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=481518]]></link>
+<pubDate>Mon, 02 Jun 2025 07:30:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=481518]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=481515]]></link>
+<pubDate>Mon, 02 Jun 2025 07:18:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=481515]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ananda Pharma plc (ANANF: OTCQB) | MRX1 Achieves 2 Years of Stability Data]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=478956]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
-<title><![CDATA[VOIP PAL.com, Inc. (VPLM: OTCQB) | VoIP-Pal Affirms Court Acceptance of Second Amended Complaint and Service upon Defendants in Federal Antitrust and RICO Lawsuit]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VPLM/news?id=481432]]></link>
-<pubDate>Sat, 31 May 2025 10:18:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VPLM/news?id=481432]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VOIP PAL.com, Inc.]]></category>
-<pink:symbol>VPLM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AMERICAN TUNGSTEN CORP. (DEMRF: OTCQB) | American Tungsten Corp. To Host Management Update Webinar]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DEMRF/news?id=481431]]></link>
-<pubDate>Sat, 31 May 2025 10:17:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DEMRF/news?id=481431]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AMERICAN TUNGSTEN CORP.]]></category>
-<pink:symbol>DEMRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -862,6 +862,42 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Optiscan Image Ltd. (OILAF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=OILAF&actionDate=1748864062000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OILAF/company-info">Optiscan Image Ltd.</a> (<a href="http://www.otcmarkets.com/stock/OILAF">OILAF</a>: OTC Link) - Venue Change - The symbol, OILAF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, OILAF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 07:34:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=OILAF&actionDate=1748864062000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Optiscan Image Ltd.]]></category>
+<pink:symbol>OILAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MITHRIL SILVER & GOLD LTD (MTIRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MTIRF&actionDate=1748864036000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MTIRF/company-info">MITHRIL SILVER & GOLD LTD</a> (<a href="http://www.otcmarkets.com/stock/MTIRF">MTIRF</a>: OTC Link) - Venue Change - The symbol, MTIRF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, MTIRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 07:33:56 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MTIRF&actionDate=1748864036000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MITHRIL SILVER & GOLD LTD]]></category>
+<pink:symbol>MTIRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HANG SANG SIU PO INTL HLDG CO LTD (HSSPF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HSSPF&actionDate=1748863988000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HSSPF/company-info">HANG SANG SIU PO INTL HLDG CO LTD</a> (<a href="http://www.otcmarkets.com/stock/HSSPF">HSSPF</a>: OTC Link) - Venue Change - The symbol, HSSPF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, HSSPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 07:33:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HSSPF&actionDate=1748863988000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HANG SANG SIU PO INTL HLDG CO LTD]]></category>
+<pink:symbol>HSSPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Venue Change]]></title>
@@ -1464,6 +1500,18 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Optiscan Image Ltd. (OILAF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OILAF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OILAF/company-info">Optiscan Image Ltd.</a> (<a href="http://www.otcmarkets.com/stock/OILAF">OILAF</a>: Pink Current) - Tier Change - The symbol, OILAF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, OILAF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OILAF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Optiscan Image Ltd.]]></category>
+<pink:symbol>OILAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[New Energy Metals Corp. (NRGYF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRGYF&actionDate=1748836800000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRGYF/company-info">New Energy Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/NRGYF">NRGYF</a>: Pink Current) - Tier Change - The symbol, NRGYF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, NRGYF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1472,6 +1520,18 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[New Energy Metals Corp.]]></category>
 <pink:symbol>NRGYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MITHRIL SILVER & GOLD LTD (MTIRF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTIRF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MTIRF/company-info">MITHRIL SILVER & GOLD LTD</a> (<a href="http://www.otcmarkets.com/stock/MTIRF">MTIRF</a>: Pink Current) - Tier Change - The symbol, MTIRF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, MTIRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTIRF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MITHRIL SILVER & GOLD LTD]]></category>
+<pink:symbol>MTIRF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1520,30 +1580,6 @@ OTC RSS mirror fetched: Mon Jun  2 11:18:49 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
 <pink:symbol>ITHDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Amplia Therapeutics Ltd. (INNMF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INNMF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INNMF/company-info">Amplia Therapeutics Ltd.</a> (<a href="http://www.otcmarkets.com/stock/INNMF">INNMF</a>: Pink Current) - Tier Change - The symbol, INNMF, no longer is classified as Pink Limited.  As of Mon, Jun 02, 2025, INNMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INNMF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Amplia Therapeutics Ltd.]]></category>
-<pink:symbol>INNMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Hugoton Royalty Trust (HGTXU: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HGTXU&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HGTXU/company-info">Hugoton Royalty Trust</a> (<a href="http://www.otcmarkets.com/stock/HGTXU">HGTXU</a>: Pink Limited) - Tier Change - The symbol, HGTXU, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, HGTXU resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HGTXU&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Hugoton Royalty Trust]]></category>
-<pink:symbol>HGTXU</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
