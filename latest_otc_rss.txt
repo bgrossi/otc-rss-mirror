@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 14:46:23 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 15:24:16 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  2 14:46:23 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 10:26:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 11:06:37 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kongsberg Gruppen ASA (KBGGY: Pink Limited) | KBGGY - Books will close at the close of business today, June 2, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KBGGY/news?id=481582]]></link>
+<pubDate>Mon, 02 Jun 2025 11:01:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KBGGY/news?id=481582]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kongsberg Gruppen ASA]]></category>
+<pink:symbol>KBGGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Total Voting Rights]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=481581]]></link>
@@ -530,88 +542,76 @@ OTC RSS mirror fetched: Mon Jun  2 14:46:23 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Private Bancorp of America, Inc. (PBAM: OTCQX U.S.) | CalPrivate Bank Announces New Chief Credit Officer]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PBAM/news?id=481451]]></link>
-<pubDate>Sat, 31 May 2025 10:49:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PBAM/news?id=481451]]></guid>
+<title><![CDATA[Community Investors Bancorp, Inc. (CIBN: OTCQX U.S.) | Community Investors Bancorp, Inc. Declares Quarterly Cash Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CIBN/news?id=479000]]></link>
+<pubDate>Fri, 30 May 2025 16:46:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CIBN/news?id=479000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Private Bancorp of America, Inc.]]></category>
-<pink:symbol>PBAM</pink:symbol>
+<category><![CDATA[Community Investors Bancorp, Inc.]]></category>
+<pink:symbol>CIBN</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
+<pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Flagship Communities Real Estate Investment Trust (MHCUF: OTCQX International) | Flagship Communities Real Estate Investment Trust Announces First Quarter 2025 Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MHCUF/news?id=481450]]></link>
-<pubDate>Sat, 31 May 2025 10:47:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MHCUF/news?id=481450]]></guid>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Calls on Sham Gad to Put Up or Shut Up]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478988]]></link>
+<pubDate>Fri, 30 May 2025 16:05:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=478988]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Flagship Communities Real Estate Investment Trust]]></category>
-<pink:symbol>MHCUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Talisker Resources Ltd. (TSKFF: OTCQX International) | Talisker Announces Listing of Warrants on TSX]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSKFF/news?id=481449]]></link>
-<pubDate>Sat, 31 May 2025 10:47:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSKFF/news?id=481449]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Talisker Resources Ltd.]]></category>
-<pink:symbol>TSKFF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Glass House Brands Inc. (GLASF: OTCQX International) | Glass House Brands Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GLASF/news?id=481448]]></link>
-<pubDate>Sat, 31 May 2025 10:46:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLASF/news?id=481448]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Glass House Brands Inc.]]></category>
-<pink:symbol>GLASF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Glass House Brands Inc. (GLASF: OTCQX International) | Glass House Brands Reports First Quarter 2025 Financial Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GLASF/news?id=481447]]></link>
-<pubDate>Sat, 31 May 2025 10:46:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GLASF/news?id=481447]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Glass House Brands Inc.]]></category>
-<pink:symbol>GLASF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Reeds, Inc. (REED: OTCQX U.S.) | Reed&rsquo;s Reports First Quarter 2025 Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/REED/news?id=481446]]></link>
-<pubDate>Sat, 31 May 2025 10:46:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REED/news?id=481446]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Reeds, Inc.]]></category>
-<pink:symbol>REED</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Global Clean Energy, Inc. (GCEI: Pink Current) | Global Clean Energy, Inc. Launches Cogeneration Division and Enters Strategic Agreement with Axiom Energy and SolydEra]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GCEI/news?id=481445]]></link>
-<pubDate>Sat, 31 May 2025 10:45:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GCEI/news?id=481445]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Global Clean Energy, Inc.]]></category>
-<pink:symbol>GCEI</pink:symbol>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[International Endeavors Corp (IDVV: Pink Current) | IDVV files Form 10 Registration Statement with SEC]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=478982]]></link>
+<pubDate>Fri, 30 May 2025 15:30:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IDVV/news?id=478982]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Endeavors Corp]]></category>
+<pink:symbol>IDVV</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478979]]></link>
+<pubDate>Fri, 30 May 2025 12:41:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=478979]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Serabi Gold Plc (SRBIF: OTCQX International) | Notice of Annual General Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=478978]]></link>
+<pubDate>Fri, 30 May 2025 11:09:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=478978]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Serabi Gold Plc]]></category>
+<pink:symbol>SRBIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Kish Bancorp, Inc. (KISB: OTCQX U.S.) | Kish Bancorp Q1 2025 Investor Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KISB/news?id=478964]]></link>
+<pubDate>Fri, 30 May 2025 10:14:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KISB/news?id=478964]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kish Bancorp, Inc.]]></category>
+<pink:symbol>KISB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
@@ -1380,6 +1380,18 @@ OTC RSS mirror fetched: Mon Jun  2 14:46:23 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 10:56 - <a href="http://www.otcmarkets.com/stock/TGAFF/company-info">Taiga Building Products Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGAFF">TGAFF</a>: Pink Current) - Scheduled Ex-Dividend - Taiga Building Products Ltd. has announced a dividend ex-date for (TGAFF: Pink Current). Taiga Building Products Ltd. is scheduled to disburse a Cash Dividend dividend of $1.6675 on Tue, Jun 24, 2025 to shareholders of TGAFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 10:56:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Taiga Building Products Ltd.]]></category>
+<pink:symbol>TGAFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Community Investors Bancorp, Inc. (CIBN: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285196]]></link>
 <description><![CDATA[Fri, May 30, 2025 04:39 - <a href="http://www.otcmarkets.com/stock/CIBN/company-info">Community Investors Bancorp, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CIBN">CIBN</a>: OTCQX U.S.) - Scheduled Ex-Dividend - Community Investors Bancorp, Inc. has announced a dividend ex-date for (CIBN: OTCQX U.S.). Community Investors Bancorp, Inc. is scheduled to disburse a Cash Dividend dividend of $0.1 on Mon, Jun 09, 2025 to shareholders of CIBN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1390,18 +1402,6 @@ OTC RSS mirror fetched: Mon Jun  2 14:46:23 UTC 2025
 <pink:symbol>CIBN</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></link>
-<description><![CDATA[Fri, May 30, 2025 04:12 - <a href="http://www.otcmarkets.com/stock/TGAFF/company-info">Taiga Building Products Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGAFF">TGAFF</a>: Pink Current) - Scheduled Ex-Dividend - Taiga Building Products Ltd. has announced a dividend ex-date for (TGAFF: Pink Current). Taiga Building Products Ltd. is scheduled to disburse a Cash Dividend dividend of $1.6675 on Tue, Jun 24, 2025 to shareholders of TGAFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 30 May 2025 16:12:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Taiga Building Products Ltd.]]></category>
-<pink:symbol>TGAFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Dayton & Michigan Railroad Co. (DMRRP: OTC Link) | Scheduled Ex-Dividend]]></title>
