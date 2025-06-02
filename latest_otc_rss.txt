@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun Jun  1 23:51:35 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 01:52:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Sun Jun  1 23:51:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 01 Jun 2025 19:36:38 EDT</lastBuildDate>
+<lastBuildDate>Sun, 01 Jun 2025 21:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Investor Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=481466]]></link>
+<pubDate>Sun, 01 Jun 2025 21:14:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=481466]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Horizon Oil Ltd. (HZNFF: OTCQB) | Initial Director's Interest Notice]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HZNFF/news?id=481464]]></link>
+<pubDate>Sun, 01 Jun 2025 19:37:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HZNFF/news?id=481464]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Horizon Oil Ltd.]]></category>
+<pink:symbol>HZNFF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Horizon Oil Ltd. (HZNFF: OTCQB) | Appoints Ms Catherine Costello to the Board]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/HZNFF/news?id=481463]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Sun Jun  1 23:51:35 UTC 2025
 <pink:symbol>FAVO</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CytoDyn Inc. (CYDY: OTCQB) | CytoDyn Announces Data Suggesting Novel Mechanism of Action of Leronlimab for the Treatment of Solid Tumors]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CYDY/news?id=481411]]></link>
-<pubDate>Sat, 31 May 2025 09:51:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYDY/news?id=481411]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CytoDyn Inc.]]></category>
-<pink:symbol>CYDY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[GLOBE]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ONAR Holding Corporation (ONAR: OTCQB) | IBN Initiates Coverage of Onar Holding Corporation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ONAR/news?id=481410]]></link>
-<pubDate>Sat, 31 May 2025 09:47:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ONAR/news?id=481410]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ONAR Holding Corporation]]></category>
-<pink:symbol>ONAR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[GLOBE]]></pink:source>
 </item>
 <item>
