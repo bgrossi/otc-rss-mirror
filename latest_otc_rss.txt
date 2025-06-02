@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  2 05:29:49 UTC 2025
+OTC RSS mirror fetched: Mon Jun  2 05:47:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  2 05:29:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 01:06:37 EDT</lastBuildDate>
+<lastBuildDate>Mon, 02 Jun 2025 01:36:38 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Com-Guard.com, Inc. (CGUD: Pink Current) | Com-Guard.com, Inc. (CGUD.pk) appoints Mr. Antonio Ponte as Strategic Advisor.]]></title>
@@ -888,14 +888,50 @@ OTC RSS mirror fetched: Mon Jun  2 05:29:49 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Altair International Corp. (ATAO: Pink Current) | Symbol Change]]></title>
+<title><![CDATA[Premier Air Charter Holdings Inc. (ATAO: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Altair International Corp.</a> (<a href="http://www.otcmarkets.com/stock/PREM">ATAO</a>: Pink Current) - Symbol Change - The symbol, ATAO, is no longer a valid symbol for Altair International Corp..  As of Mon, Jun 02, 2025, the new trading symbol is PREM. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Premier Air Charter Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/PREM">ATAO</a>: Pink Current) - Symbol Change - The symbol, ATAO, is no longer a valid symbol for Premier Air Charter Holdings Inc..  As of Mon, Jun 02, 2025, the new trading symbol is PREM. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 02 Jun 2025 01:00:31 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Premier Air Charter Holdings Inc.]]></category>
+<pink:symbol>PREM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Altair International Corp. (PREM: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PREM&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Altair International Corp.</a> (<a href="http://www.otcmarkets.com/stock/PREM">PREM</a>: Pink Current) - Company Name Change - Altair International Corp. has changed its name to Premier Air Charter Holdings Inc.. The change goes into effect as of Mon, Jun 02, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PREM&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Altair International Corp.]]></category>
 <pink:symbol>PREM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ELFIF&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELFIF/company-info">E L Financial Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ELFIF">ELFIF</a>: Pink Current) - Splits - Effective Mon, Jun 02, 2025, ELFIF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 100 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ELFIF&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[E L Financial Ltd.]]></category>
+<pink:symbol>ELFIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Peoples, Ltd. (PPLL: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PPLL&actionDate=1748836800000]]></link>
+<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPLL/company-info">Peoples, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPLL">PPLL</a>: Pink Current) - Splits - Effective Mon, Jun 02, 2025, PPLL: Pink Current engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PPLL&actionDate=1748836800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Peoples, Ltd.]]></category>
+<pink:symbol>PPLL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
