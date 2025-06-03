@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 11:51:25 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 12:45:34 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 11:51:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 07:36:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 08:26:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TC Bancshares, Inc. (TCBC: OTCQX U.S.) | TC Bancshares, Inc. Announces Adoption of Repurchase Plan]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TCBC/news?id=481677]]></link>
+<pubDate>Tue, 03 Jun 2025 08:00:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TCBC/news?id=481677]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TC Bancshares, Inc.]]></category>
+<pink:symbol>TCBC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Completes Strategic Acquisition of Irish Property Holding Company]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=481603]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun  3 11:51:25 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Horizon Copper Corp.]]></category>
 <pink:symbol>HNCUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Star Copper Corp. (STCUF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 2]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STCUF/news?id=478976]]></link>
-<pubDate>Mon, 02 Jun 2025 07:00:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STCUF/news?id=478976]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Star Copper Corp.]]></category>
-<pink:symbol>STCUF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
