@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 10:47:25 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 10:47:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 06:36:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 07:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Ananda Pharma plc (ANANF: OTCQB) | Publication of Ananda’s Phase 1 study on clinicaltrials.gov]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=481479]]></link>
+<pubDate>Tue, 03 Jun 2025 07:00:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=481479]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ananda Pharma plc]]></category>
+<pink:symbol>ANANF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Issue of Shares - Option Exercise]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=481637]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue Jun  3 10:47:25 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[OTC Markets Group Inc. (OTCM: OTCQX U.S.) | OTC Markets Group Welcomes New OTCQB Companies – June 2]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=478966]]></link>
-<pubDate>Mon, 02 Jun 2025 07:00:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OTCM/news?id=478966]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTC Markets Group Inc.]]></category>
-<pink:symbol>OTCM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -960,6 +960,18 @@ OTC RSS mirror fetched: Tue Jun  3 10:47:25 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ONCOSIL MED LTD. (OCMLF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OCMLF&actionDate=1748947504000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OCMLD/company-info">ONCOSIL MED LTD.</a> (<a href="http://www.otcmarkets.com/stock/OCMLD">OCMLF</a>: Pink Current) - Symbol Change - The symbol, OCMLF, is no longer a valid symbol for ONCOSIL MED LTD..  As of Tue, Jun 03, 2025, the new trading symbol is OCMLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 06:45:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OCMLF&actionDate=1748947504000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ONCOSIL MED LTD.]]></category>
+<pink:symbol>OCMLD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[China Liberal Education Holdings Limited (CLEU: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CLEU&actionDate=1748926858000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLEUF/company-info">China Liberal Education Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CLEUF">CLEU</a>: Pink Limited) - Symbol Change - The symbol, CLEU, is no longer a valid symbol for China Liberal Education Holdings Limited.  As of Tue, Jun 03, 2025, the new trading symbol is CLEUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1088,6 +1100,18 @@ OTC RSS mirror fetched: Tue Jun  3 10:47:25 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Altair International Corp.]]></category>
 <pink:symbol>PREM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ONCOSIL MED LTD. (OCMLF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=OCMLF&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OCMLD/company-info">ONCOSIL MED LTD.</a> (<a href="http://www.otcmarkets.com/stock/OCMLD">OCMLF</a>: Pink Current) - Splits - Effective Tue, Jun 03, 2025, OCMLF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 400 split. Due to the split, OCMLF is no longer valid. The new trading symbol is OCMLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=OCMLF&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ONCOSIL MED LTD.]]></category>
+<pink:symbol>OCMLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
