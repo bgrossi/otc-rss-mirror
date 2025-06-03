@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 05:22:09 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 00:36:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 01:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS Investor Presentation at EAGE Conference]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=481616]]></link>
+<pubDate>Tue, 03 Jun 2025 01:00:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=481616]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TGS ASA]]></category>
+<pink:symbol>TGSGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notice of General Meeting/Proxy Form]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=481630]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Orexo AB (ORXOY: OTCQX International) | Orexo to present clinical data for OX640 at the EAACI Congress]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=481470]]></link>
-<pubDate>Mon, 02 Jun 2025 01:57:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=481470]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Orexo AB]]></category>
-<pink:symbol>ORXOY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | Quarterly Report]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713]]></link>
 <description><![CDATA[Mon, Dec 30, 2024 06:08 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their Quarterly Report concerning Financial Statements Q3. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=419713</a>.]]></description>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[China Liberal Education Holdings Limited (CLEUF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CLEUF&actionDate=1748926858000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLEUF/company-info">China Liberal Education Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CLEUF">CLEUF</a>: OTC Link) - Venue Change - The symbol, CLEUF, no longer trades on Nasdaq.  As of Tue, Jun 03, 2025, CLEUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CLEUF&actionDate=1748926858000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[China Liberal Education Holdings Limited]]></category>
+<pink:symbol>CLEUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Minim Inc. (MINM: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MINM&actionDate=1748868763000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MINM/company-info">Minim Inc.</a> (<a href="http://www.otcmarkets.com/stock/MINM">MINM</a>: Nasdaq) - Venue Change - The symbol, MINM, no longer trades on OTC Link.  As of Mon, Jun 02, 2025, MINM trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -944,6 +956,42 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[LogicMark, Inc.]]></category>
 <pink:symbol>LGMK</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[China Liberal Education Holdings Limited (CLEU: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CLEU&actionDate=1748926858000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLEUF/company-info">China Liberal Education Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CLEUF">CLEU</a>: Pink Limited) - Symbol Change - The symbol, CLEU, is no longer a valid symbol for China Liberal Education Holdings Limited.  As of Tue, Jun 03, 2025, the new trading symbol is CLEUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CLEU&actionDate=1748926858000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[China Liberal Education Holdings Limited]]></category>
+<pink:symbol>CLEUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRD&actionDate=1748926848000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRF/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRF">MXTRD</a>: Pink Current) - Symbol Change - The symbol, MXTRD, is no longer a valid symbol for Montero Mining & Exploration, Ltd..  As of Tue, Jun 03, 2025, the new trading symbol is MXTRF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRD&actionDate=1748926848000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
+<pink:symbol>MXTRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Tasman Resources NL (TASED: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASED&actionDate=1748926846000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TASEF/company-info">Tasman Resources NL</a> (<a href="http://www.otcmarkets.com/stock/TASEF">TASED</a>: Pink Current) - Symbol Change - The symbol, TASED, is no longer a valid symbol for Tasman Resources NL.  As of Tue, Jun 03, 2025, the new trading symbol is TASEF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TASED&actionDate=1748926846000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tasman Resources NL]]></category>
+<pink:symbol>TASEF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1104,62 +1152,122 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Gaming Innovation Group Inc. (GIGI: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GIGI&actionDate=1748885194000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GIGI/company-info">Gaming Innovation Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/GIGI">GIGI</a>: Grey Market) - Reactivated Symbol -  The symbol, GIGI, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 13:26:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=GIGI&actionDate=1748885194000]]></guid>
+<title><![CDATA[APOLLO MINERALS LTD. (APOMF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=APOMF&actionDate=1748926850000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - APOLLO MINERALS LTD. (APOMF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, APOMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=APOMF&actionDate=1748926850000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gaming Innovation Group Inc.]]></category>
-<pink:symbol>GIGI</pink:symbol>
+<category><![CDATA[APOLLO MINERALS LTD.]]></category>
+<pink:symbol>APOMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bangkok Dusit Medical Services Public Co., Ltd. (BDMSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BDMSF&actionDate=1748926850000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - Bangkok Dusit Medical Services Public Co., Ltd. (BDMSF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BDMSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BDMSF&actionDate=1748926850000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bangkok Dusit Medical Services Public Co., Ltd.]]></category>
+<pink:symbol>BDMSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bangkok Chain Hospital Public Co., Ltd. (BKKFF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKKFF&actionDate=1748926850000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - Bangkok Chain Hospital Public Co., Ltd. (BKKFF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BKKFF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BKKFF&actionDate=1748926850000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bangkok Chain Hospital Public Co., Ltd.]]></category>
+<pink:symbol>BKKFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Banpu Public Co., Ltd. (BPCLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BPCLF&actionDate=1748926850000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - Banpu Public Co., Ltd. (BPCLF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BPCLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BPCLF&actionDate=1748926850000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Banpu Public Co., Ltd.]]></category>
+<pink:symbol>BPCLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Bumrungrad Hospital Public Co., Ltd. (BUHHF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BUHHF&actionDate=1748926849000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - Bumrungrad Hospital Public Co., Ltd. (BUHHF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BUHHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BUHHF&actionDate=1748926849000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bumrungrad Hospital Public Co., Ltd.]]></category>
+<pink:symbol>BUHHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[OTIS GALLERY LLC. (OGDAS: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OGDAS&actionDate=1748926849000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - OTIS GALLERY LLC. (OGDAS: Grey Market) - Deleted Symbol - As of Tue, Jun 03, 2025, OGDAS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OGDAS&actionDate=1748926849000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[OTIS GALLERY LLC.]]></category>
+<pink:symbol>OGDAS</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Anglo American plc (AAUKF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUKF&actionDate=1748840450000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - Anglo American plc (AAUKF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, AAUKF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AAUKF&actionDate=1748840450000]]></guid>
+<title><![CDATA[OTIS GALLERY LLC. (OTGBS: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGBS&actionDate=1748926848000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - OTIS GALLERY LLC. (OTGBS: Grey Market) - Deleted Symbol - As of Tue, Jun 03, 2025, OTGBS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGBS&actionDate=1748926848000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anglo American plc]]></category>
-<pink:symbol>AAUKF</pink:symbol>
+<category><![CDATA[OTIS GALLERY LLC.]]></category>
+<pink:symbol>OTGBS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PTT Public Company Ltd. (PTTPF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTTPF&actionDate=1748926848000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - PTT Public Company Ltd. (PTTPF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, PTTPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTTPF&actionDate=1748926848000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PTT Public Company Ltd.]]></category>
+<pink:symbol>PTTPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[QCX Gold Corp. (QCXGF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=QCXGF&actionDate=1748840437000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - QCX Gold Corp. (QCXGF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, QCXGF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=QCXGF&actionDate=1748840437000]]></guid>
+<title><![CDATA[ONCOSIL MED LTD. (OCMLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OCMLF&actionDate=1748926843000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - ONCOSIL MED LTD. (OCMLF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, OCMLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OCMLF&actionDate=1748926843000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QCX Gold Corp.]]></category>
-<pink:symbol>QCXGF</pink:symbol>
+<category><![CDATA[ONCOSIL MED LTD.]]></category>
+<pink:symbol>OCMLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Anglo American plc (NGLOY: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NGLOY&actionDate=1748840421000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - Anglo American plc (NGLOY: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, NGLOY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NGLOY&actionDate=1748840421000]]></guid>
+<title><![CDATA[Kongsberg Gruppen ASA (NSKFF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSKFF&actionDate=1748926840000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - Kongsberg Gruppen ASA (NSKFF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, NSKFF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSKFF&actionDate=1748926840000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anglo American plc]]></category>
-<pink:symbol>NGLOY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Allegiant Gold Ltd. (AUXXF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AUXXF&actionDate=1748840412000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - Allegiant Gold Ltd. (AUXXF: OTC Link) - Deleted Symbol - As of Mon, Jun 02, 2025, AUXXF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AUXXF&actionDate=1748840412000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Allegiant Gold Ltd.]]></category>
-<pink:symbol>AUXXF</pink:symbol>
+<category><![CDATA[Kongsberg Gruppen ASA]]></category>
+<pink:symbol>NSKFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
@@ -1524,6 +1632,54 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Orgenesis, Inc. (ORGS: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ORGS&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ORGS/company-info">Orgenesis, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ORGS">ORGS</a>: Pink Limited) - Tier Change - The symbol, ORGS, no longer is classified as OTCQX U.S..  As of Tue, Jun 03, 2025, ORGS resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ORGS&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orgenesis, Inc.]]></category>
+<pink:symbol>ORGS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Maquia Capital Acquisition Corporation (MAQC: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MAQC&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MAQC/company-info">Maquia Capital Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/MAQC">MAQC</a>: Pink Limited) - Tier Change - The symbol, MAQC, no longer is classified as OTCQX U.S..  As of Tue, Jun 03, 2025, MAQC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MAQC&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Maquia Capital Acquisition Corporation]]></category>
+<pink:symbol>MAQC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Flow Beverage Corp. (FLWBF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FLWBF&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FLWBF/company-info">Flow Beverage Corp.</a> (<a href="http://www.otcmarkets.com/stock/FLWBF">FLWBF</a>: Pink Current) - Tier Change - The symbol, FLWBF, no longer is classified as OTCQX International.  As of Tue, Jun 03, 2025, FLWBF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FLWBF&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Flow Beverage Corp.]]></category>
+<pink:symbol>FLWBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Direct Selling Acquisition Corp. (DSAQ: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DSAQ&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DSAQ/company-info">Direct Selling Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/DSAQ">DSAQ</a>: Pink Limited) - Tier Change - The symbol, DSAQ, no longer is classified as OTCQX U.S..  As of Tue, Jun 03, 2025, DSAQ resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DSAQ&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Direct Selling Acquisition Corp.]]></category>
+<pink:symbol>DSAQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tru Precious Metals Corp. (TRUIF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRUIF&actionDate=1748836800000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRUIF/company-info">Tru Precious Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/TRUIF">TRUIF</a>: Pink Current) - Tier Change - The symbol, TRUIF, no longer is classified as OTCQB.  As of Mon, Jun 02, 2025, TRUIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1596,52 +1752,16 @@ OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Logipix International Corp. (LPIX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LPIX&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LPIX/company-info">Logipix International Corp.</a> (<a href="http://www.otcmarkets.com/stock/LPIX">LPIX</a>: Pink Current) - Tier Change - The symbol, LPIX, no longer is classified as Pink Limited.  As of Mon, Jun 02, 2025, LPIX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LPIX&actionDate=1748836800000]]></guid>
+<title><![CDATA[ProText Mobility, Inc. (TXTM: Pink Current) | Caveat Emptor Status Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=TXTM&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TXTM/company-info">ProText Mobility, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TXTM">TXTM</a>: Pink Current) - Caveat Emptor Status Change - The symbol, TXTM, has been removed from the Caveat Emptor classification.  You may find a complete list of Caveat Emptor status changes at <a href="http://www.otcmarkets.com/market-activity/caveat-emptor-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=12&symbol=TXTM&actionDate=1748923200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Logipix International Corp.]]></category>
-<pink:symbol>LPIX</pink:symbol>
+<category><![CDATA[ProText Mobility, Inc.]]></category>
+<pink:symbol>TXTM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITRKF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: Pink Limited) - Tier Change - The symbol, ITRKF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, ITRKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITRKF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTRACOM S A HLDGS]]></category>
-<pink:symbol>ITRKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHVF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHVF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHVF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHVF">ITHVF</a>: Pink Limited) - Tier Change - The symbol, ITHVF, no longer is classified as Expert Market.  As of Mon, Jun 02, 2025, ITHVF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHVF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
-<pink:symbol>ITHVF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHDF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: Pink Limited) - Tier Change - The symbol, ITHDF, no longer is classified as Grey Market.  As of Mon, Jun 02, 2025, ITHDF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITHDF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
-<pink:symbol>ITHDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
