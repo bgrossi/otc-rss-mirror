@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 13:55:08 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 14:22:18 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue Jun  3 13:55:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 09:46:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 10:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[VGTel, Inc. (VGTL: Pink Current) | VGTel, Inc. (OTC:VGTL) Proceeds with Astronomy Pilot Program at Apache Elementary School in Arizona]]></title>
@@ -167,6 +167,18 @@ OTC RSS mirror fetched: Tue Jun  3 13:55:08 UTC 2025
 <pink:symbol>LLKKF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea cancels repurchased shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=481722]]></link>
+<pubDate>Tue, 03 Jun 2025 02:15:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=481722]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun  3 13:55:08 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Ananda Pharma plc]]></category>
 <pink:symbol>ANANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[P2P Group Ltd. (PPBGF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 2]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PPBGF/news?id=478974]]></link>
-<pubDate>Mon, 02 Jun 2025 07:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PPBGF/news?id=478974]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[P2P Group Ltd.]]></category>
-<pink:symbol>PPBGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
