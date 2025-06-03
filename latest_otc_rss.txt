@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 11:39:43 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 07:06:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 07:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Completes Strategic Acquisition of Irish Property Holding Company]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=481603]]></link>
+<pubDate>Tue, 03 Jun 2025 07:30:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=481603]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cirmaker Technology Corp.]]></category>
+<pink:symbol>CRKT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Ananda Pharma plc (ANANF: OTCQB) | Publication of Ananda’s Phase 1 study on clinicaltrials.gov]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=481479]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Iconic Minerals Ltd (ICMFF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 2]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ICMFF/news?id=478973]]></link>
-<pubDate>Mon, 02 Jun 2025 07:00:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ICMFF/news?id=478973]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Iconic Minerals Ltd]]></category>
-<pink:symbol>ICMFF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -862,6 +862,30 @@ OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Melco International Development Limited (MDVRF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MDVRF&actionDate=1748949138000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MDVRF/company-info">Melco International Development Limited</a> (<a href="http://www.otcmarkets.com/stock/MDVRF">MDVRF</a>: OTC Link) - Venue Change - The symbol, MDVRF, no longer trades on Grey Market.  As of Tue, Jun 03, 2025, MDVRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 07:12:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MDVRF&actionDate=1748949138000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Melco International Development Limited]]></category>
+<pink:symbol>MDVRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CORCEL EXPL INC (CRLEF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRLEF&actionDate=1748949105000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRLEF/company-info">CORCEL EXPL INC</a> (<a href="http://www.otcmarkets.com/stock/CRLEF">CRLEF</a>: OTC Link) - Venue Change - The symbol, CRLEF, no longer trades on Grey Market.  As of Tue, Jun 03, 2025, CRLEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 07:11:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRLEF&actionDate=1748949105000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CORCEL EXPL INC]]></category>
+<pink:symbol>CRLEF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[China Liberal Education Holdings Limited (CLEUF: Pink Limited) | Venue Change]]></title>
@@ -1800,6 +1824,18 @@ OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Melco International Development Limited (MDVRF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MDVRF&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MDVRF/company-info">Melco International Development Limited</a> (<a href="http://www.otcmarkets.com/stock/MDVRF">MDVRF</a>: Pink Current) - Tier Change - The symbol, MDVRF, no longer is classified as Grey Market.  As of Tue, Jun 03, 2025, MDVRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MDVRF&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Melco International Development Limited]]></category>
+<pink:symbol>MDVRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Maquia Capital Acquisition Corporation (MAQC: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MAQC&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MAQC/company-info">Maquia Capital Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/MAQC">MAQC</a>: Pink Limited) - Tier Change - The symbol, MAQC, no longer is classified as OTCQX U.S..  As of Tue, Jun 03, 2025, MAQC resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1822,18 +1858,6 @@ OTC RSS mirror fetched: Tue Jun  3 11:18:40 UTC 2025
 <pink:symbol>FSGCY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Flow Beverage Corp. (FLWBF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FLWBF&actionDate=1748923200000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FLWBF/company-info">Flow Beverage Corp.</a> (<a href="http://www.otcmarkets.com/stock/FLWBF">FLWBF</a>: Pink Current) - Tier Change - The symbol, FLWBF, no longer is classified as OTCQX International.  As of Tue, Jun 03, 2025, FLWBF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FLWBF&actionDate=1748923200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Flow Beverage Corp.]]></category>
-<pink:symbol>FLWBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ProText Mobility, Inc. (TXTM: Pink Current) | Caveat Emptor Status Change]]></title>
