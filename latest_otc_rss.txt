@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 04:34:47 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 04:55:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 04:34:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 00:06:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 00:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notice of General Meeting/Proxy Form]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=481630]]></link>
+<pubDate>Tue, 03 Jun 2025 00:32:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=481630]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Culpeo Minerals Limited]]></category>
+<pink:symbol>CPORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[THOR ENERGY PLC. (THORF: Pink Current) | HY-Range Hydrogen/Helium Geochemical Survey Completed]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/THORF/news?id=481627]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue Jun  3 04:34:47 UTC 2025
 <pink:symbol>ORXOY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Com-Guard.com, Inc. (CGUD: Pink Current) | Com-Guard.com, Inc. (CGUD.pk) appoints Mr. Antonio Ponte as Strategic Advisor.]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CGUD/news?id=481467]]></link>
-<pubDate>Sun, 01 Jun 2025 22:37:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGUD/news?id=481467]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Com-Guard.com, Inc.]]></category>
-<pink:symbol>CGUD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
