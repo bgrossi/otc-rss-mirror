@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 03:59:09 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 04:34:47 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun  3 03:59:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 02 Jun 2025 23:36:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 00:06:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[THOR ENERGY PLC. (THORF: Pink Current) | HY-Range Hydrogen/Helium Geochemical Survey Completed]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/THORF/news?id=481627]]></link>
+<pubDate>Mon, 02 Jun 2025 23:59:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/THORF/news?id=481627]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[THOR ENERGY PLC.]]></category>
+<pink:symbol>THORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Deep Yellow Ltd. (DYLLF: OTCQX International) | Issue of Securities]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DYLLF/news?id=481626]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue Jun  3 03:59:09 UTC 2025
 <pink:symbol>CGUD</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Investor Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=481466]]></link>
-<pubDate>Sun, 01 Jun 2025 21:14:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=481466]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Jindalee Lithium Ltd.]]></category>
-<pink:symbol>JNDAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
