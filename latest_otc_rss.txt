@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 13:34:32 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 13:55:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue Jun  3 13:34:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 09:26:35 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 09:46:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[VGTel, Inc. (VGTL: Pink Current) | VGTel, Inc. (OTC:VGTL) Proceeds with Astronomy Pilot Program at Apache Elementary School in Arizona]]></title>
@@ -1620,6 +1620,30 @@ OTC RSS mirror fetched: Tue Jun  3 13:34:32 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Kingboard Holdings Ltd. (KBDCY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285210]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 09:27 - <a href="http://www.otcmarkets.com/stock/KBDCY/company-info">Kingboard Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KBDCY">KBDCY</a>: Pink Current) - Scheduled Ex-Dividend - Kingboard Holdings Ltd. has announced a dividend ex-date for (KBDCY: Pink Current). Kingboard Holdings Ltd. is scheduled to disburse a Cash Dividend dividend of $0.56791 on Thu, Jun 12, 2025 to shareholders of KBDCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 09:27:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285210]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kingboard Holdings Ltd.]]></category>
+<pink:symbol>KBDCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kingboard Holdings Ltd. (KBDCY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285384]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 09:27 - <a href="http://www.otcmarkets.com/stock/KBDCY/company-info">Kingboard Holdings Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KBDCY">KBDCY</a>: Pink Current) - Scheduled Ex-Dividend - Kingboard Holdings Ltd. has announced a dividend ex-date for (KBDCY: Pink Current). Kingboard Holdings Ltd. is scheduled to disburse a Cash Dividend dividend of $0.56791 on Thu, Jun 12, 2025 to shareholders of KBDCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 09:27:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285384]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kingboard Holdings Ltd.]]></category>
+<pink:symbol>KBDCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Link Parks, Inc. (PSBYP: OTC Link) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285376]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 03:47 - <a href="http://www.otcmarkets.com/stock/PSBYP/company-info">Link Parks, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PSBYP">PSBYP</a>: OTC Link) - Scheduled Ex-Dividend - Link Parks, Inc. has announced a dividend ex-date for (PSBYP: OTC Link). Link Parks, Inc. is scheduled to disburse a Cash Dividend dividend of $0.325 on Fri, Jun 13, 2025 to shareholders of PSBYP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1712,30 +1736,6 @@ OTC RSS mirror fetched: Tue Jun  3 13:34:32 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[D&L Industries, Inc.]]></category>
 <pink:symbol>DLNDY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 10:56 - <a href="http://www.otcmarkets.com/stock/TGAFF/company-info">Taiga Building Products Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGAFF">TGAFF</a>: Pink Current) - Scheduled Ex-Dividend - Taiga Building Products Ltd. has announced a dividend ex-date for (TGAFF: Pink Current). Taiga Building Products Ltd. is scheduled to disburse a Cash Dividend dividend of $1.6675 on Tue, Jun 24, 2025 to shareholders of TGAFF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 10:56:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285218]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Taiga Building Products Ltd.]]></category>
-<pink:symbol>TGAFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NATIONAL BK GREECE S A (NBGRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285373]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 09:26 - <a href="http://www.otcmarkets.com/stock/NBGRY/company-info">NATIONAL BK GREECE S A</a> (<a href="http://www.otcmarkets.com/stock/NBGRY">NBGRY</a>: Pink Limited) - Scheduled Ex-Dividend - NATIONAL BK GREECE S A has announced a dividend ex-date for (NBGRY: Pink Limited). NATIONAL BK GREECE S A is scheduled to disburse a Cash Dividend dividend of $0.41191 on Thu, Jun 12, 2025 to shareholders of NBGRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 09:26:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285373]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NATIONAL BK GREECE S A]]></category>
-<pink:symbol>NBGRY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
