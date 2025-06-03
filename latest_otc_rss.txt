@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun  3 05:22:09 UTC 2025
+OTC RSS mirror fetched: Tue Jun  3 05:44:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue Jun  3 05:22:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 01:06:36 EDT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jun 2025 01:36:36 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS Investor Presentation at EAGE Conference]]></title>
@@ -1068,6 +1068,18 @@ OTC RSS mirror fetched: Tue Jun  3 05:22:09 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[STREAM MEDIA CORP. (STEAF: Pink Limited) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=STEAF&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STEAF/company-info">STREAM MEDIA CORP.</a> (<a href="http://www.otcmarkets.com/stock/STEAF">STEAF</a>: Pink Limited) - Company Name Change - STREAM MEDIA CORP. has changed its name to SM ENTMT JAPAN CO LTD. The change goes into effect as of Tue, Jun 03, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=STEAF&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[STREAM MEDIA CORP.]]></category>
+<pink:symbol>STEAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Altair International Corp. (PREM: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PREM&actionDate=1748836800000]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Altair International Corp.</a> (<a href="http://www.otcmarkets.com/stock/PREM">PREM</a>: Pink Current) - Company Name Change - Altair International Corp. has changed its name to Premier Air Charter Holdings Inc.. The change goes into effect as of Mon, Jun 02, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1078,6 +1090,18 @@ OTC RSS mirror fetched: Tue Jun  3 05:22:09 UTC 2025
 <pink:symbol>PREM</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Almirall SA (ALMRY: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ALMRY&actionDate=1748923200000]]></link>
+<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ALMRY/company-info">Almirall SA</a> (<a href="http://www.otcmarkets.com/stock/ALMRY">ALMRY</a>: Pink Limited) - Splits - Effective Tue, Jun 03, 2025, ALMRY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 1.01851 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ALMRY&actionDate=1748923200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Almirall SA]]></category>
+<pink:symbol>ALMRY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[QCX Gold Corp. (QCXGF: Pink Current) | Splits]]></title>
