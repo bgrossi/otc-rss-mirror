@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun  4 05:23:07 UTC 2025
+OTC RSS mirror fetched: Wed Jun  4 05:43:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun  4 05:23:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 04 Jun 2025 01:06:35 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 01:36:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Suspension from Quotation]]></title>
@@ -1104,6 +1104,18 @@ OTC RSS mirror fetched: Wed Jun  4 05:23:07 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Core Assets Corp. (CCOOD: OTCQB) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CCOOD&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">Core Assets Corp.</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOD</a>: OTCQB) - Company Name Change - Core Assets Corp. has changed its name to CORE SILVER CORP. The change goes into effect as of Wed, Jun 04, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CCOOD&actionDate=1749009600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Core Assets Corp.]]></category>
+<pink:symbol>CCOOD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[STREAM MEDIA CORP. (STEAF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=STEAF&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STEAF/company-info">STREAM MEDIA CORP.</a> (<a href="http://www.otcmarkets.com/stock/STEAF">STEAF</a>: Pink Limited) - Company Name Change - STREAM MEDIA CORP. has changed its name to SM ENTMT JAPAN CO LTD. The change goes into effect as of Tue, Jun 03, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1212,13 +1224,13 @@ OTC RSS mirror fetched: Wed Jun  4 05:23:07 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Core Assets Corp. (CCOOF: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[CORE SILVER CORP (CCOOF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CCOOF&actionDate=1749013214000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - Core Assets Corp. (CCOOF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, CCOOF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - CORE SILVER CORP (CCOOF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, CCOOF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 04 Jun 2025 01:00:14 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CCOOF&actionDate=1749013214000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Core Assets Corp.]]></category>
+<category><![CDATA[CORE SILVER CORP]]></category>
 <pink:symbol>CCOOF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
