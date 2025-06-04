@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
+OTC RSS mirror fetched: Wed Jun  4 05:23:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 04 Jun 2025 00:36:34 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 01:06:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Suspension from Quotation]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ContextLogic Inc. (LOGC: OTCQB) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LOGC&actionDate=1749013252000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOGC/company-info">ContextLogic Inc.</a> (<a href="http://www.otcmarkets.com/stock/LOGC">LOGC</a>: OTC Link) - Venue Change - The symbol, LOGC, no longer trades on Nasdaq.  As of Wed, Jun 04, 2025, LOGC trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LOGC&actionDate=1749013252000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ContextLogic Inc.]]></category>
+<pink:symbol>LOGC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Melco International Development Limited (MDVRF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MDVRF&actionDate=1748949138000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MDVRF/company-info">Melco International Development Limited</a> (<a href="http://www.otcmarkets.com/stock/MDVRF">MDVRF</a>: OTC Link) - Venue Change - The symbol, MDVRF, no longer trades on Grey Market.  As of Tue, Jun 03, 2025, MDVRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,14 +984,14 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LGMK&actionDate=1748840452000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGMK/company-info">LogicMark, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGMK">LGMK</a>: OTC Link) - Venue Change - The symbol, LGMK, no longer trades on Nasdaq.  As of Mon, Jun 02, 2025, LGMK trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LGMK&actionDate=1748840452000]]></guid>
+<title><![CDATA[GreenTech Innovations, Inc. (LAABD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LAABD&actionDate=1749013244000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GTIC/company-info">GreenTech Innovations, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GTIC">LAABD</a>: Pink Current) - Symbol Change - The symbol, LAABD, is no longer a valid symbol for GreenTech Innovations, Inc..  As of Wed, Jun 04, 2025, the new trading symbol is GTIC. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LAABD&actionDate=1749013244000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LogicMark, Inc.]]></category>
-<pink:symbol>LGMK</pink:symbol>
+<category><![CDATA[GreenTech Innovations, Inc.]]></category>
+<pink:symbol>GTIC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1092,18 +1104,6 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Premier Air Charter Holdings Inc. (ATAO: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Premier Air Charter Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/PREM">ATAO</a>: Pink Current) - Symbol Change - The symbol, ATAO, is no longer a valid symbol for Premier Air Charter Holdings Inc..  As of Mon, Jun 02, 2025, the new trading symbol is PREM. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 01:00:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ATAO&actionDate=1748840431000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Premier Air Charter Holdings Inc.]]></category>
-<pink:symbol>PREM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[STREAM MEDIA CORP. (STEAF: Pink Limited) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=STEAF&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STEAF/company-info">STREAM MEDIA CORP.</a> (<a href="http://www.otcmarkets.com/stock/STEAF">STEAF</a>: Pink Limited) - Company Name Change - STREAM MEDIA CORP. has changed its name to SM ENTMT JAPAN CO LTD. The change goes into effect as of Tue, Jun 03, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1140,6 +1140,90 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Cyclone Metals Ltd. (CMULF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMULF&actionDate=1749013242000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - Cyclone Metals Ltd. (CMULF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, CMULF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMULF&actionDate=1749013242000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cyclone Metals Ltd.]]></category>
+<pink:symbol>CMULF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[RSE ARCHIVE LLC. (RCVGS: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RCVGS&actionDate=1749013236000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - RSE ARCHIVE LLC. (RCVGS: Grey Market) - Deleted Symbol - As of Wed, Jun 04, 2025, RCVGS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RCVGS&actionDate=1749013236000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RSE ARCHIVE LLC.]]></category>
+<pink:symbol>RCVGS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[UNQ HLDGS LTD. (UNQHF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UNQHF&actionDate=1749013234000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - UNQ HLDGS LTD. (UNQHF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, UNQHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UNQHF&actionDate=1749013234000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UNQ HLDGS LTD.]]></category>
+<pink:symbol>UNQHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[WING TAI PROPERTIES LTD (WTPLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WTPLF&actionDate=1749013232000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - WING TAI PROPERTIES LTD (WTPLF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, WTPLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=WTPLF&actionDate=1749013232000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[WING TAI PROPERTIES LTD]]></category>
+<pink:symbol>WTPLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TRILINC Global Impact Fund LLC. (TRIC: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TRIC&actionDate=1749013230000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - TRILINC Global Impact Fund LLC. (TRIC: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, TRIC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TRIC&actionDate=1749013230000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRILINC Global Impact Fund LLC.]]></category>
+<pink:symbol>TRIC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[REX RES CORP (RXRSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RXRSF&actionDate=1749013224000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - REX RES CORP (RXRSF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, RXRSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RXRSF&actionDate=1749013224000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[REX RES CORP]]></category>
+<pink:symbol>RXRSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Core Assets Corp. (CCOOF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CCOOF&actionDate=1749013214000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - Core Assets Corp. (CCOOF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, CCOOF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 01:00:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CCOOF&actionDate=1749013214000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Core Assets Corp.]]></category>
+<pink:symbol>CCOOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[APOLLO MINERALS LTD. (APOMF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=APOMF&actionDate=1748926850000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - APOLLO MINERALS LTD. (APOMF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, APOMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1172,90 +1256,6 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Bangkok Chain Hospital Public Co., Ltd.]]></category>
 <pink:symbol>BKKFF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Banpu Public Co., Ltd. (BPCLF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BPCLF&actionDate=1748926850000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - Banpu Public Co., Ltd. (BPCLF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BPCLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BPCLF&actionDate=1748926850000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Banpu Public Co., Ltd.]]></category>
-<pink:symbol>BPCLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Bumrungrad Hospital Public Co., Ltd. (BUHHF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BUHHF&actionDate=1748926849000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - Bumrungrad Hospital Public Co., Ltd. (BUHHF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, BUHHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BUHHF&actionDate=1748926849000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bumrungrad Hospital Public Co., Ltd.]]></category>
-<pink:symbol>BUHHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OGDAS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OGDAS&actionDate=1748926849000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - OTIS GALLERY LLC. (OGDAS: Grey Market) - Deleted Symbol - As of Tue, Jun 03, 2025, OGDAS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OGDAS&actionDate=1748926849000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OGDAS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OTGBS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGBS&actionDate=1748926848000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - OTIS GALLERY LLC. (OTGBS: Grey Market) - Deleted Symbol - As of Tue, Jun 03, 2025, OTGBS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTGBS&actionDate=1748926848000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OTGBS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PTT Public Company Ltd. (PTTPF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTTPF&actionDate=1748926848000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - PTT Public Company Ltd. (PTTPF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, PTTPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PTTPF&actionDate=1748926848000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PTT Public Company Ltd.]]></category>
-<pink:symbol>PTTPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ONCOSIL MED LTD. (OCMLF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OCMLF&actionDate=1748926843000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - ONCOSIL MED LTD. (OCMLF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, OCMLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OCMLF&actionDate=1748926843000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ONCOSIL MED LTD.]]></category>
-<pink:symbol>OCMLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kongsberg Gruppen ASA (NSKFF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSKFF&actionDate=1748926840000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - Kongsberg Gruppen ASA (NSKFF: OTC Link) - Deleted Symbol - As of Tue, Jun 03, 2025, NSKFF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSKFF&actionDate=1748926840000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kongsberg Gruppen ASA]]></category>
-<pink:symbol>NSKFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
@@ -1572,6 +1572,18 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Worlds, Inc. (WDDD: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WDDD&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WDDD/company-info">Worlds, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WDDD">WDDD</a>: Pink Limited) - Tier Change - The symbol, WDDD, no longer is classified as OTCQB.  As of Wed, Jun 04, 2025, WDDD resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WDDD&actionDate=1749009600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Worlds, Inc.]]></category>
+<pink:symbol>WDDD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SigmaBroadband Co. (SGRB: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGRB&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGRB/company-info">SigmaBroadband Co.</a> (<a href="http://www.otcmarkets.com/stock/SGRB">SGRB</a>: Pink Current) - Tier Change - The symbol, SGRB, no longer is classified as Pink Limited.  As of Tue, Jun 03, 2025, SGRB resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1676,18 +1688,6 @@ OTC RSS mirror fetched: Wed Jun  4 04:55:45 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Maquia Capital Acquisition Corporation]]></category>
 <pink:symbol>MAQC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[First Gen Corp (FSGCY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FSGCY&actionDate=1748923200000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FSGCY/company-info">First Gen Corp</a> (<a href="http://www.otcmarkets.com/stock/FSGCY">FSGCY</a>: Pink Limited) - Tier Change - The symbol, FSGCY, no longer is classified as Expert Market.  As of Tue, Jun 03, 2025, FSGCY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FSGCY&actionDate=1748923200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[First Gen Corp]]></category>
-<pink:symbol>FSGCY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
