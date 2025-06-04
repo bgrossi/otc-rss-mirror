@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
+OTC RSS mirror fetched: Wed Jun  4 04:35:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 03 Jun 2025 23:36:34 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 00:06:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Suspension from Quotation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481799]]></link>
+<pubDate>Wed, 04 Jun 2025 00:00:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481799]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Challenger Gold Limited]]></category>
+<pink:symbol>CLLEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Notice of General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=481800]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Kingsoft Corporation Limited (KGFTY: Pink Current) | KGFTY - Books will close at the close of business today, June 2, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KGFTY/news?id=481543]]></link>
-<pubDate>Mon, 02 Jun 2025 08:21:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KGFTY/news?id=481543]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kingsoft Corporation Limited]]></category>
-<pink:symbol>KGFTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -766,10 +766,10 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -777,10 +777,10 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 </item>
 <item>
 <title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></link>
-<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called Future Facing Commodities Conference. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704</a>.]]></description>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></link>
+<description><![CDATA[Sun, Apr 27, 2025 - <a href="http://www.otcmarkets.com/stock/WCMLF/company-info">White Cliff Minerals Ltd</a> (<a href="http://www.otcmarkets.com/stock/WCMLF">WCMLF</a>: OTCQB) released a Company Video called The  Assay TV - Troy Whittaker. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703">http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703</a>.]]></description>
 <pubDate>Sun, 27 Apr 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207704]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/video-and-presentations?cmdId=2207703]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <pink:symbol>WCMLF</pink:symbol>
 <pink:type>video</pink:type>
@@ -1116,18 +1116,6 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Altair International Corp. (PREM: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PREM&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PREM/company-info">Altair International Corp.</a> (<a href="http://www.otcmarkets.com/stock/PREM">PREM</a>: Pink Current) - Company Name Change - Altair International Corp. has changed its name to Premier Air Charter Holdings Inc.. The change goes into effect as of Mon, Jun 02, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PREM&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Altair International Corp.]]></category>
-<pink:symbol>PREM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[ONCOSIL MED LTD. (OCMLF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=OCMLF&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OCMLD/company-info">ONCOSIL MED LTD.</a> (<a href="http://www.otcmarkets.com/stock/OCMLD">OCMLF</a>: Pink Current) - Splits - Effective Tue, Jun 03, 2025, OCMLF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 400 split. Due to the split, OCMLF is no longer valid. The new trading symbol is OCMLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1150,78 +1138,6 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 <pink:symbol>ALMRY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QCX Gold Corp. (QCXGF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=QCXGF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QCXGD/company-info">QCX Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/QCXGD">QCXGF</a>: Pink Current) - Splits - Effective Mon, Jun 02, 2025, QCXGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, QCXGF is no longer valid. The new trading symbol is QCXGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=QCXGF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QCX Gold Corp.]]></category>
-<pink:symbol>QCXGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Anglo American plc (NGLOY: OTCQX International) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NGLOY&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGLOD/company-info">Anglo American plc</a> (<a href="http://www.otcmarkets.com/stock/NGLOD">NGLOY</a>: OTCQX International) - Splits - Effective Mon, Jun 02, 2025, NGLOY: OTCQX International engaged in a rev split. As a result of the split, shs decreased by 0.880733 for 1 split. Due to the split, NGLOY is no longer valid. The new trading symbol is NGLOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NGLOY&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anglo American plc]]></category>
-<pink:symbol>NGLOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Allegiant Gold Ltd. (AUXXF: OTCQB) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AUXXF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AUXXD/company-info">Allegiant Gold Ltd.</a> (<a href="http://www.otcmarkets.com/stock/AUXXD">AUXXF</a>: OTCQB) - Splits - Effective Mon, Jun 02, 2025, AUXXF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 2 split. Due to the split, AUXXF is no longer valid. The new trading symbol is AUXXD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AUXXF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Allegiant Gold Ltd.]]></category>
-<pink:symbol>AUXXD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Anglo American plc (AAUKF: OTCQX International) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AAUKF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AAUKD/company-info">Anglo American plc</a> (<a href="http://www.otcmarkets.com/stock/AAUKD">AAUKF</a>: OTCQX International) - Splits - Effective Mon, Jun 02, 2025, AAUKF: OTCQX International engaged in a rev split. As a result of the split, shs decreased by 96 for 109 split. Due to the split, AAUKF is no longer valid. The new trading symbol is AAUKD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AAUKF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anglo American plc]]></category>
-<pink:symbol>AAUKD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Peoples, Ltd. (PPLL: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PPLL&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPLL/company-info">Peoples, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/PPLL">PPLL</a>: Pink Current) - Splits - Effective Mon, Jun 02, 2025, PPLL: Pink Current engaged in a fwd split. As a result of the split, shs increased by 2 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PPLL&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Peoples, Ltd.]]></category>
-<pink:symbol>PPLL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[E L Financial Ltd. (ELFIF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ELFIF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ELFIF/company-info">E L Financial Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ELFIF">ELFIF</a>: Pink Current) - Splits - Effective Mon, Jun 02, 2025, ELFIF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 100 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=ELFIF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[E L Financial Ltd.]]></category>
-<pink:symbol>ELFIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[APOLLO MINERALS LTD. (APOMF: OTC Link) | Deleted Symbol]]></title>
@@ -1356,42 +1272,6 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Richards Packaging Income Fund (RPKIF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RPKIF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RPKIF/company-info">Richards Packaging Income Fund</a> (<a href="http://www.otcmarkets.com/stock/RPKIF">RPKIF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 02, 2025, RPKIF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RPKIF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Richards Packaging Income Fund]]></category>
-<pink:symbol>RPKIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MOGOTES METALS INC (MOGMF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MOGMF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MOGMF/company-info">MOGOTES METALS INC</a> (<a href="http://www.otcmarkets.com/stock/MOGMF">MOGMF</a>: OTCQB) - Halted Security -  Effective Mon, Jun 02, 2025, MOGMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MOGMF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MOGOTES METALS INC]]></category>
-<pink:symbol>MOGMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Arizona Sonoran Copper Company Inc. (ASCUF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ASCUF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ASCUF/company-info">Arizona Sonoran Copper Company Inc.</a> (<a href="http://www.otcmarkets.com/stock/ASCUF">ASCUF</a>: OTCQX International) - Halted Security -  Effective Mon, Jun 02, 2025, ASCUF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ASCUF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Arizona Sonoran Copper Company Inc.]]></category>
-<pink:symbol>ASCUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PT Krakatau Steel Persero TBK (PKRKY: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PKRKY&actionDate=1748923200000]]></link>
 <description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PKRKY/company-info">PT Krakatau Steel Persero TBK</a> (<a href="http://www.otcmarkets.com/stock/PKRKY">PKRKY</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 03, 2025, PKRKY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1448,66 +1328,6 @@ OTC RSS mirror fetched: Wed Jun  4 03:59:16 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[China Liberal Education Holdings Limited]]></category>
 <pink:symbol>CLEUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LogicMark, Inc. (LGMK: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LGMK&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LGMK/company-info">LogicMark, Inc.</a> (<a href="http://www.otcmarkets.com/stock/LGMK">LGMK</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, LGMK is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LGMK&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LogicMark, Inc.]]></category>
-<pink:symbol>LGMK</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITRKF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITRKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITRKF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTRACOM S A HLDGS]]></category>
-<pink:symbol>ITRKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHVF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHVF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHVF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHVF">ITHVF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITHVF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHVF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
-<pink:symbol>ITHVF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHDF&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, ITHDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITHDF&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
-<pink:symbol>ITHDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Grupo Nutresa SA (GCHOY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCHOY&actionDate=1748836800000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GCHOY/company-info">Grupo Nutresa SA</a> (<a href="http://www.otcmarkets.com/stock/GCHOY">GCHOY</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 02, 2025, GCHOY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GCHOY&actionDate=1748836800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Grupo Nutresa SA]]></category>
-<pink:symbol>GCHOY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
