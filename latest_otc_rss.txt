@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun  4 22:19:01 UTC 2025
+OTC RSS mirror fetched: Wed Jun  4 22:39:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Wed Jun  4 22:19:01 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 04 Jun 2025 18:06:34 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 18:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[GTI ENERGY LTD (GTRIF: Pink Current) | Scoping Study Demonstrates Low Cost ISR Uranium Potential]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=481944]]></link>
+<pubDate>Wed, 04 Jun 2025 18:35:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=481944]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GTI ENERGY LTD]]></category>
+<pink:symbol>GTRIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Notification regarding unquoted securities - TOK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481942]]></link>
+<pubDate>Wed, 04 Jun 2025 18:32:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481942]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tolu Minerals Limited]]></category>
+<pink:symbol>TOLUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | 105mtrs @ 2.25% Cu from 27.43m at Danvers]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=481941]]></link>
+<pubDate>Wed, 04 Jun 2025 18:30:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=481941]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[White Cliff Minerals Ltd]]></category>
+<pink:symbol>WCMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Application for quotation of securities - TOK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481940]]></link>
+<pubDate>Wed, 04 Jun 2025 18:30:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481940]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tolu Minerals Limited]]></category>
+<pink:symbol>TOLUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ESG Inc. (ESGH: Pink Current) | ESG Inc. (OTC Markets: ESGH) Files Application to Uplist to Nasdaq Capital Market]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ESGH/news?id=481927]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Wed Jun  4 22:19:01 UTC 2025
 <pink:symbol>NRDBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=481587]]></link>
-<pubDate>Tue, 03 Jun 2025 02:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=481587]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Renalytix plc (RNLXY: OTCQB) | Growing collaboration with New York Kidney & Hypertension Medicine]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=481604]]></link>
-<pubDate>Tue, 03 Jun 2025 02:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=481604]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renalytix plc]]></category>
-<pink:symbol>RNLXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS Investor Presentation at EAGE Conference]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=481616]]></link>
-<pubDate>Tue, 03 Jun 2025 01:00:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=481616]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TGS ASA]]></category>
-<pink:symbol>TGSGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Culpeo Minerals Limited (CPORF: OTCQB) | Notice of General Meeting/Proxy Form]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=481630]]></link>
-<pubDate>Tue, 03 Jun 2025 00:32:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CPORF/news?id=481630]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Culpeo Minerals Limited]]></category>
-<pink:symbol>CPORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
