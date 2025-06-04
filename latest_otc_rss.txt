@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
+OTC RSS mirror fetched: Wed Jun  4 11:40:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 04 Jun 2025 07:06:34 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 07:36:34 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Change in substantial holding]]></title>
@@ -864,6 +864,30 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Xtrackers II (XUSTF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XUSTF&actionDate=1749035744000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XUSTF/company-info">Xtrackers II</a> (<a href="http://www.otcmarkets.com/stock/XUSTF">XUSTF</a>: OTC Link) - Venue Change - The symbol, XUSTF, no longer trades on Grey Market.  As of Wed, Jun 04, 2025, XUSTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 07:15:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XUSTF&actionDate=1749035744000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Xtrackers II]]></category>
+<pink:symbol>XUSTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Silver Mountain Resources Inc. (AGMWF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AGMWF&actionDate=1749035720000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGMWF/company-info">Silver Mountain Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/AGMWF">AGMWF</a>: OTC Link) - Venue Change - The symbol, AGMWF, no longer trades on Grey Market.  As of Wed, Jun 04, 2025, AGMWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 07:15:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AGMWF&actionDate=1749035720000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Silver Mountain Resources Inc.]]></category>
+<pink:symbol>AGMWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ContextLogic Inc. (LOGC: OTCQB) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LOGC&actionDate=1749013252000]]></link>
 <description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOGC/company-info">ContextLogic Inc.</a> (<a href="http://www.otcmarkets.com/stock/LOGC">LOGC</a>: OTC Link) - Venue Change - The symbol, LOGC, no longer trades on Nasdaq.  As of Wed, Jun 04, 2025, LOGC trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -960,28 +984,28 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[INTRACOM S A HLDGS (ITRKF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITRKF&actionDate=1748847205000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITRKF/company-info">INTRACOM S A HLDGS</a> (<a href="http://www.otcmarkets.com/stock/ITRKF">ITRKF</a>: OTC Link) - Venue Change - The symbol, ITRKF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, ITRKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 02:53:25 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITRKF&actionDate=1748847205000]]></guid>
+<title><![CDATA[REX RES CORP (RXRSF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RXRSF&actionDate=1749035625000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RXRSD/company-info">REX RES CORP</a> (<a href="http://www.otcmarkets.com/stock/RXRSD">RXRSF</a>: Pink Current) - Symbol Change - The symbol, RXRSF, is no longer a valid symbol for REX RES CORP.  As of Wed, Jun 04, 2025, the new trading symbol is RXRSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 07:13:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RXRSF&actionDate=1749035625000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTRACOM S A HLDGS]]></category>
-<pink:symbol>ITRKF</pink:symbol>
+<category><![CDATA[REX RES CORP]]></category>
+<pink:symbol>RXRSD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Italian-Thai Development Public Co., Ltd. (ITHDF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITHDF&actionDate=1748847203000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITHDF/company-info">Italian-Thai Development Public Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ITHDF">ITHDF</a>: OTC Link) - Venue Change - The symbol, ITHDF, no longer trades on Grey Market.  As of Mon, Jun 02, 2025, ITHDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 02:53:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITHDF&actionDate=1748847203000]]></guid>
+<title><![CDATA[CORE SILVER CORP (CCOOF: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CCOOF&actionDate=1749035498000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">CORE SILVER CORP</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOF</a>: OTCQB) - Symbol Change - The symbol, CCOOF, is no longer a valid symbol for CORE SILVER CORP.  As of Wed, Jun 04, 2025, the new trading symbol is CCOOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 07:11:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CCOOF&actionDate=1749035498000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Italian-Thai Development Public Co., Ltd.]]></category>
-<pink:symbol>ITHDF</pink:symbol>
+<category><![CDATA[CORE SILVER CORP]]></category>
+<pink:symbol>CCOOD</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[GreenTech Innovations, Inc. (LAABD: Pink Current) | Symbol Change]]></title>
@@ -1080,30 +1104,6 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Anglo American plc (NGLOY: OTCQX International) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NGLOY&actionDate=1748860766000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NGLOD/company-info">Anglo American plc</a> (<a href="http://www.otcmarkets.com/stock/NGLOD">NGLOY</a>: OTCQX International) - Symbol Change - The symbol, NGLOY, is no longer a valid symbol for Anglo American plc.  As of Mon, Jun 02, 2025, the new trading symbol is NGLOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 06:39:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NGLOY&actionDate=1748860766000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anglo American plc]]></category>
-<pink:symbol>NGLOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[QCX Gold Corp. (QCXGF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=QCXGF&actionDate=1748860699000]]></link>
-<description><![CDATA[Mon, Jun 02, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QCXGD/company-info">QCX Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/QCXGD">QCXGF</a>: Pink Current) - Symbol Change - The symbol, QCXGF, is no longer a valid symbol for QCX Gold Corp..  As of Mon, Jun 02, 2025, the new trading symbol is QCXGD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 02 Jun 2025 06:38:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=QCXGF&actionDate=1748860699000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[QCX Gold Corp.]]></category>
-<pink:symbol>QCXGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Core Assets Corp. (CCOOD: OTCQB) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CCOOD&actionDate=1749009600000]]></link>
 <description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">Core Assets Corp.</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOD</a>: OTCQB) - Company Name Change - Core Assets Corp. has changed its name to CORE SILVER CORP. The change goes into effect as of Wed, Jun 04, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1126,6 +1126,30 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:symbol>STEAF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[REX RES CORP (RXRSF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=RXRSF&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RXRSD/company-info">REX RES CORP</a> (<a href="http://www.otcmarkets.com/stock/RXRSD">RXRSF</a>: Pink Current) - Splits - Effective Wed, Jun 04, 2025, RXRSF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 3 split. Due to the split, RXRSF is no longer valid. The new trading symbol is RXRSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=RXRSF&actionDate=1749009600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[REX RES CORP]]></category>
+<pink:symbol>RXRSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[CORE SILVER CORP (CCOOF: OTCQB) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CCOOF&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">CORE SILVER CORP</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOF</a>: OTCQB) - Splits - Effective Wed, Jun 04, 2025, CCOOF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, CCOOF is no longer valid. The new trading symbol is CCOOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CCOOF&actionDate=1749009600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CORE SILVER CORP]]></category>
+<pink:symbol>CCOOD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ONCOSIL MED LTD. (OCMLF: Pink Current) | Splits]]></title>
@@ -1668,6 +1692,18 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Xtrackers II (XUSTF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XUSTF&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XUSTF/company-info">Xtrackers II</a> (<a href="http://www.otcmarkets.com/stock/XUSTF">XUSTF</a>: Pink Current) - Tier Change - The symbol, XUSTF, no longer is classified as Grey Market.  As of Wed, Jun 04, 2025, XUSTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XUSTF&actionDate=1749009600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Xtrackers II]]></category>
+<pink:symbol>XUSTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Worlds, Inc. (WDDD: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WDDD&actionDate=1749009600000]]></link>
 <description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WDDD/company-info">Worlds, Inc.</a> (<a href="http://www.otcmarkets.com/stock/WDDD">WDDD</a>: Pink Limited) - Tier Change - The symbol, WDDD, no longer is classified as OTCQB.  As of Wed, Jun 04, 2025, WDDD resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1764,28 +1800,16 @@ OTC RSS mirror fetched: Wed Jun  4 11:18:42 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SigmaBroadband Co. (SGRB: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGRB&actionDate=1748923200000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SGRB/company-info">SigmaBroadband Co.</a> (<a href="http://www.otcmarkets.com/stock/SGRB">SGRB</a>: Pink Current) - Tier Change - The symbol, SGRB, no longer is classified as Pink Limited.  As of Tue, Jun 03, 2025, SGRB resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SGRB&actionDate=1748923200000]]></guid>
+<title><![CDATA[Silver Mountain Resources Inc. (AGMWF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AGMWF&actionDate=1749009600000]]></link>
+<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGMWF/company-info">Silver Mountain Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/AGMWF">AGMWF</a>: Pink Current) - Tier Change - The symbol, AGMWF, no longer is classified as Grey Market.  As of Wed, Jun 04, 2025, AGMWF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AGMWF&actionDate=1749009600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SigmaBroadband Co.]]></category>
-<pink:symbol>SGRB</pink:symbol>
+<category><![CDATA[Silver Mountain Resources Inc.]]></category>
+<pink:symbol>AGMWF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC (ROYMY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ROYMY&actionDate=1748923200000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ROYMY/company-info">INTERNATIONAL DISTRIBUTION SVCS PLC</a> (<a href="http://www.otcmarkets.com/stock/ROYMY">ROYMY</a>: Pink Limited) - Tier Change - The symbol, ROYMY, no longer is classified as Pink Current.  As of Tue, Jun 03, 2025, ROYMY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ROYMY&actionDate=1748923200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTERNATIONAL DISTRIBUTION SVCS PLC]]></category>
-<pink:symbol>ROYMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ProText Mobility, Inc. (TXTM: Pink Current) | Caveat Emptor Status Change]]></title>
