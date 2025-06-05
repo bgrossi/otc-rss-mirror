@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 06:34:14 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 06:57:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun  5 06:34:14 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 02:06:33 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 02:36:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -482,6 +482,18 @@ OTC RSS mirror fetched: Thu Jun  5 06:34:14 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp flagging notification: Norges Bank's shareholding crosses threshold of five percent]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=481979]]></link>
+<pubDate>Wed, 04 Jun 2025 00:30:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=481979]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
 <title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Suspension from Quotation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481799]]></link>
 <pubDate>Wed, 04 Jun 2025 00:00:21 EDT</pubDate>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun  5 06:34:14 UTC 2025
 <pink:symbol>GBXXY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Clariant AG (CLZNY: Pink Limited) | CLZNY - Books will close at the close of business today, June 3, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLZNY/news?id=481701]]></link>
-<pubDate>Tue, 03 Jun 2025 08:36:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLZNY/news?id=481701]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Clariant AG]]></category>
-<pink:symbol>CLZNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
