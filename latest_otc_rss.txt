@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 14:21:46 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 14:44:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun  5 14:21:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 10:06:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 10:26:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[MOON EQUITY HLDGS CORP. (MONI: Pink Current) | IndeXr to Launch Private Browser]]></title>
@@ -1596,6 +1596,30 @@ OTC RSS mirror fetched: Thu Jun  5 14:21:46 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SCOUT24 SE (SCCTY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285510]]></link>
+<description><![CDATA[Thu, Jun 05, 2025 10:07 - <a href="http://www.otcmarkets.com/stock/SCCTY/company-info">SCOUT24 SE</a> (<a href="http://www.otcmarkets.com/stock/SCCTY">SCCTY</a>: Pink Current) - Scheduled Ex-Dividend - SCOUT24 SE has announced a dividend ex-date for (SCCTY: Pink Current). SCOUT24 SE is scheduled to disburse a Cash Dividend dividend of $0.47451 on Mon, Jun 09, 2025 to shareholders of SCCTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 05 Jun 2025 10:07:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285510]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCOUT24 SE]]></category>
+<pink:symbol>SCCTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCOUT24 SE (SCCTY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=281634]]></link>
+<description><![CDATA[Thu, Jun 05, 2025 10:06 - <a href="http://www.otcmarkets.com/stock/SCCTY/company-info">SCOUT24 SE</a> (<a href="http://www.otcmarkets.com/stock/SCCTY">SCCTY</a>: Pink Current) - Scheduled Ex-Dividend - SCOUT24 SE has announced a dividend ex-date for (SCCTY: Pink Current). SCOUT24 SE is scheduled to disburse a Cash Dividend dividend of $0.47451 on Mon, Jun 09, 2025 to shareholders of SCCTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 05 Jun 2025 10:06:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=281634]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCOUT24 SE]]></category>
+<pink:symbol>SCCTY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Findev Inc. (TNSGF: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285488]]></link>
 <description><![CDATA[Wed, Jun 04, 2025 04:25 - <a href="http://www.otcmarkets.com/stock/TNSGF/company-info">Findev Inc.</a> (<a href="http://www.otcmarkets.com/stock/TNSGF">TNSGF</a>: Pink Current) - Scheduled Ex-Dividend - Findev Inc. has announced a dividend ex-date for (TNSGF: Pink Current). Findev Inc. is scheduled to disburse a Cash Dividend dividend of $0.0075 on Thu, Sep 25, 2025 to shareholders of TNSGF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1688,30 +1712,6 @@ OTC RSS mirror fetched: Thu Jun  5 14:21:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kongsberg Gruppen ASA]]></category>
 <pink:symbol>KBGGY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[JD Sports Fashion PLC (JDSPY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285429]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 05:03 - <a href="http://www.otcmarkets.com/stock/JDSPY/company-info">JD Sports Fashion PLC</a> (<a href="http://www.otcmarkets.com/stock/JDSPY">JDSPY</a>: Pink Current) - Scheduled Ex-Dividend - JD Sports Fashion PLC has announced a dividend ex-date for (JDSPY: Pink Current). JD Sports Fashion PLC is scheduled to disburse a Cash Dividend dividend of $0.0077 on Fri, Jun 13, 2025 to shareholders of JDSPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 17:03:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285429]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JD Sports Fashion PLC]]></category>
-<pink:symbol>JDSPY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sonova Holding AG (SONVY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285444]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 04:55 - <a href="http://www.otcmarkets.com/stock/SONVY/company-info">Sonova Holding AG</a> (<a href="http://www.otcmarkets.com/stock/SONVY">SONVY</a>: Pink Limited) - Scheduled Ex-Dividend - Sonova Holding AG has announced a dividend ex-date for (SONVY: Pink Limited). Sonova Holding AG is scheduled to disburse a Cash Dividend dividend of $0.62434 on Mon, Jun 16, 2025 to shareholders of SONVY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 16:55:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285444]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sonova Holding AG]]></category>
-<pink:symbol>SONVY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
