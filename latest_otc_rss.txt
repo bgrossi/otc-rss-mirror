@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 19:51:44 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 20:19:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun  5 19:51:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 15:46:31 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 16:06:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kazakhtelecom (KZHXY: null) | KZHXY - Books will close today, June 5, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KZHXY/news?id=482085]]></link>
+<pubDate>Thu, 05 Jun 2025 16:04:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KZHXY/news?id=482085]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kazakhtelecom]]></category>
+<pink:symbol>KZHXY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ASM International N.V. (ASMIY: OTCQX International) | ASM share buyback update May 19 – 23, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=481980]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Thu Jun  5 19:51:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Digitalx Ltd.]]></category>
 <pink:symbol>DGGXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Reinstatement to Quotation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481807]]></link>
-<pubDate>Wed, 04 Jun 2025 02:37:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481807]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Challenger Gold Limited]]></category>
-<pink:symbol>CLLEF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
