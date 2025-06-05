@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 17:37:19 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 18:58:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu Jun  5 17:37:19 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 13:26:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 14:46:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ASM International N.V. (ASMIY: OTCQX International) | ASM share buyback update May 19 – 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=481980]]></link>
+<pubDate>Thu, 05 Jun 2025 14:00:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=481980]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASM International N.V.]]></category>
+<pink:symbol>ASMIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ASM International N.V. (ASMIY: OTCQX International) | ASM share buyback update May 26 - 30, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=481981]]></link>
+<pubDate>Thu, 05 Jun 2025 14:00:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=481981]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASM International N.V.]]></category>
+<pink:symbol>ASMIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[White Pearl Technology Group AB (WPTGF: OTCQX International) | WPTG: Business Update – Revenue for H1:2025 Expected to Grow Between 33-40%]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WPTGF/news?id=482078]]></link>
@@ -582,30 +606,6 @@ OTC RSS mirror fetched: Thu Jun  5 17:37:19 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481807]]></link>
 <pubDate>Wed, 04 Jun 2025 02:37:59 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481807]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Challenger Gold Limited]]></category>
-<pink:symbol>CLLEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Pre-Feasibility Study Summary Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481806]]></link>
-<pubDate>Wed, 04 Jun 2025 02:37:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481806]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Challenger Gold Limited]]></category>
-<pink:symbol>CLLEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Challenger Gold Limited (CLLEF: OTCQB) | Completion of Hualilan Toll Milling Pre-Feasibility Study]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481805]]></link>
-<pubDate>Wed, 04 Jun 2025 02:36:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLEF/news?id=481805]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Challenger Gold Limited]]></category>
 <pink:symbol>CLLEF</pink:symbol>
