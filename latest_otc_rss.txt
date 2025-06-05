@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 20:19:39 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 20:37:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun  5 20:19:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 16:06:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 16:36:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Playtech PLC  (PYTCY: Pink Current) | PYTCY - Books will close today, June 5, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PYTCY/news?id=482090]]></link>
+<pubDate>Thu, 05 Jun 2025 16:33:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYTCY/news?id=482090]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Playtech PLC ]]></category>
+<pink:symbol>PYTCY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Kazakhtelecom (KZHXY: null) | KZHXY - Books will close today, June 5, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KZHXY/news?id=482085]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun  5 20:19:39 UTC 2025
 <pink:symbol>EDESY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Change in substantial holding]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DGGXF/news?id=481814]]></link>
-<pubDate>Wed, 04 Jun 2025 04:45:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DGGXF/news?id=481814]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digitalx Ltd.]]></category>
-<pink:symbol>DGGXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
