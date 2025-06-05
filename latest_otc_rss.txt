@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 01:48:16 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 03:16:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Thu Jun  5 01:48:16 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 04 Jun 2025 21:36:33 EDT</lastBuildDate>
+<lastBuildDate>Wed, 04 Jun 2025 23:06:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Expiry of Listed Options]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=481974]]></link>
+<pubDate>Wed, 04 Jun 2025 22:53:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=481974]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TESORO GOLD LTD]]></category>
+<pink:symbol>TSORF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Centaurus Metals Ltd. (CTTZF: OTCQX International) | 06-05-25 Boi Novo Drilling Continues to Intersect High-Grade Copper]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=481973]]></link>
+<pubDate>Wed, 04 Jun 2025 22:34:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=481973]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Centaurus Metals Ltd.]]></category>
+<pink:symbol>CTTZF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Final Director's Interest Notice - D Marshall]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481972]]></link>
+<pubDate>Wed, 04 Jun 2025 22:28:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481972]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | First Sales Established from Bruins Well]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=481968]]></link>
+<pubDate>Wed, 04 Jun 2025 22:18:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=481968]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookside Energy Ltd.]]></category>
+<pink:symbol>RDFEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Elevate Uranium Ltd. (ELVUF: OTCQX International) | Large, anomalous envelope delineated at Namib IV]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ELVUF/news?id=481967]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Thu Jun  5 01:48:16 UTC 2025
 <pink:symbol>TRNLY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TC Bancshares, Inc. (TCBC: OTCQX U.S.) | TC Bancshares, Inc. Announces Adoption of Repurchase Plan]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TCBC/news?id=481677]]></link>
-<pubDate>Tue, 03 Jun 2025 08:00:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TCBC/news?id=481677]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TC Bancshares, Inc.]]></category>
-<pink:symbol>TCBC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cirmaker Technology Corp. (CRKT: Pink Current) | Cirmaker Technology Completes Strategic Acquisition of Irish Property Holding Company]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=481603]]></link>
-<pubDate>Tue, 03 Jun 2025 07:30:14 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CRKT/news?id=481603]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cirmaker Technology Corp.]]></category>
-<pink:symbol>CRKT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ananda Pharma plc (ANANF: OTCQB) | Publication of Ananda’s Phase 1 study on clinicaltrials.gov]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=481479]]></link>
-<pubDate>Tue, 03 Jun 2025 07:00:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANANF/news?id=481479]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ananda Pharma plc]]></category>
-<pink:symbol>ANANF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Issue of Shares - Option Exercise]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=481637]]></link>
-<pubDate>Tue, 03 Jun 2025 03:43:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=481637]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MTM CRITICAL METALS LTD.]]></category>
-<pink:symbol>MTMCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
