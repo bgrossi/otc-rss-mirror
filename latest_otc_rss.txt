@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun  5 11:51:26 UTC 2025
+OTC RSS mirror fetched: Thu Jun  5 12:44:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun  5 11:51:26 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 07:36:32 EDT</lastBuildDate>
+<lastBuildDate>Thu, 05 Jun 2025 08:26:32 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[bebe stores, inc. (BDST: Pink Limited) | bebe stores, inc. Appoints New Chief Financial Officer]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BDST/news?id=481966]]></link>
+<pubDate>Thu, 05 Jun 2025 08:15:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDST/news?id=481966]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[bebe stores, inc.]]></category>
+<pink:symbol>BDST</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Invinity Energy Sys Plc. (IESVF: OTCQX International) | Appointment of Non-Executive Director]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=481985]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu Jun  5 11:51:26 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize appoints Lynne Bruning-van Gessel as Brand President of Etos]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=481724]]></link>
-<pubDate>Tue, 03 Jun 2025 10:10:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=481724]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
-<pink:symbol>ADRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Thu Jun  5 11:51:26 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BitMine Immersion Technologies Inc. (BMNR: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BMNR&actionDate=1749125407000]]></link>
+<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BMNR/company-info">BitMine Immersion Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/BMNR">BMNR</a>: NYSE MKT) - Venue Change - The symbol, BMNR, no longer trades on OTC Link.  As of Thu, Jun 05, 2025, BMNR trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 05 Jun 2025 08:10:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BMNR&actionDate=1749125407000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BitMine Immersion Technologies Inc.]]></category>
+<pink:symbol>BMNR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[First Busey Corporation (BUSEP: null) | Venue Change]]></title>
