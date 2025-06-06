@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 07:51:24 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 08:28:30 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri Jun  6 07:51:24 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 03:36:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 04:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Share Registry address]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482115]]></link>
+<pubDate>Fri, 06 Jun 2025 03:47:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482115]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482114]]></link>
+<pubDate>Fri, 06 Jun 2025 03:46:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482114]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482113]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Fri Jun  6 07:51:24 UTC 2025
 <pink:symbol>GEOUF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Enzolytics Inc. (ENZC: Pink Current) | ENZOLYTICS REFUTES CLAIMS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ENZC/news?id=481885]]></link>
-<pubDate>Wed, 04 Jun 2025 09:37:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ENZC/news?id=481885]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Enzolytics Inc.]]></category>
-<pink:symbol>ENZC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Holding(s) in Company]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=481881]]></link>
-<pubDate>Wed, 04 Jun 2025 09:16:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=481881]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ilika PLC.]]></category>
-<pink:symbol>ILIKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
