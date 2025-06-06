@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 15:42:06 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 15:53:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 15:42:06 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 11:26:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 11:46:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Triad Business Bank (TBBC: Pink Current) | 2025 Annual Meeting of Shareholders-Voting Results]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TBBC/news?id=482185]]></link>
+<pubDate>Fri, 06 Jun 2025 11:29:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TBBC/news?id=482185]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Triad Business Bank]]></category>
+<pink:symbol>TBBC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Damon Launches Damon I/O, The Digital Backbone Transforming Personal Mobility To Safe, Smart AI Connected Experiences]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482170]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri Jun  6 15:42:06 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Centaurus Metals Ltd. (CTTZF: OTCQX International) | 06-05-25 Boi Novo Drilling Continues to Intersect High-Grade Copper]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=481973]]></link>
-<pubDate>Wed, 04 Jun 2025 22:34:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CTTZF/news?id=481973]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Centaurus Metals Ltd.]]></category>
-<pink:symbol>CTTZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1174,6 +1174,18 @@ OTC RSS mirror fetched: Fri Jun  6 15:42:06 UTC 2025
 <pink:symbol>RCVGS</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Taiga Building Products Ltd. (TGAFF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGAFF&actionDate=1749182400000]]></link>
+<description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TGAFF/company-info">Taiga Building Products Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TGAFF">TGAFF</a>: Pink Current) - Halted Security -  Effective Fri, Jun 06, 2025, TGAFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 06 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TGAFF&actionDate=1749182400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Taiga Building Products Ltd.]]></category>
+<pink:symbol>TGAFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[High Liner Foods Inc. (HLNFF: Pink Current) | Halted Security]]></title>
