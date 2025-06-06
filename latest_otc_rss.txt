@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 16:28:08 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 16:52:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 16:28:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 12:26:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 12:46:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482188]]></link>
+<pubDate>Fri, 06 Jun 2025 12:30:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482188]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Triad Business Bank (TBBC: Pink Current) | 2025 Annual Meeting of Shareholders-Voting Results]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TBBC/news?id=482185]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri Jun  6 16:28:08 UTC 2025
 <pink:symbol>SILXY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Expiry of Listed Options]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=481974]]></link>
-<pubDate>Wed, 04 Jun 2025 22:53:53 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=481974]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TESORO GOLD LTD]]></category>
-<pink:symbol>TSORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
