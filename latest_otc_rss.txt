@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 04:34:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 05 Jun 2025 23:36:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 00:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Boss Energy Ltd (BQSSF: OTCQX International) | Ceasing to be a substantial holder]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BQSSF/news?id=482107]]></link>
+<pubDate>Thu, 05 Jun 2025 23:48:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BQSSF/news?id=482107]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Boss Energy Ltd]]></category>
+<pink:symbol>BQSSF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Results of General Meeting]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482105]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[PT Kalba Farma TBK (PTKFY: Pink Limited) | PTKFY - Books will close at the close of business today, June 4, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PTKFY/news?id=481860]]></link>
-<pubDate>Wed, 04 Jun 2025 08:30:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTKFY/news?id=481860]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Kalba Farma TBK]]></category>
-<pink:symbol>PTKFY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -936,42 +936,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Melco International Development Limited (MDVRF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MDVRF&actionDate=1748949138000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MDVRF/company-info">Melco International Development Limited</a> (<a href="http://www.otcmarkets.com/stock/MDVRF">MDVRF</a>: OTC Link) - Venue Change - The symbol, MDVRF, no longer trades on Grey Market.  As of Tue, Jun 03, 2025, MDVRF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 07:12:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MDVRF&actionDate=1748949138000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Melco International Development Limited]]></category>
-<pink:symbol>MDVRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CORCEL EXPL INC (CRLEF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRLEF&actionDate=1748949105000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRLEF/company-info">CORCEL EXPL INC</a> (<a href="http://www.otcmarkets.com/stock/CRLEF">CRLEF</a>: OTC Link) - Venue Change - The symbol, CRLEF, no longer trades on Grey Market.  As of Tue, Jun 03, 2025, CRLEF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 07:11:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CRLEF&actionDate=1748949105000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CORCEL EXPL INC]]></category>
-<pink:symbol>CRLEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[China Liberal Education Holdings Limited (CLEUF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CLEUF&actionDate=1748926858000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLEUF/company-info">China Liberal Education Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CLEUF">CLEUF</a>: OTC Link) - Venue Change - The symbol, CLEUF, no longer trades on Nasdaq.  As of Tue, Jun 03, 2025, CLEUF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CLEUF&actionDate=1748926858000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[China Liberal Education Holdings Limited]]></category>
-<pink:symbol>CLEUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[The Marquie Group, Inc. (TMGI: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TMGI&actionDate=1749121582000]]></link>
 <description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMGID/company-info">The Marquie Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMGID">TMGI</a>: Pink Current) - Symbol Change - The symbol, TMGI, is no longer a valid symbol for The Marquie Group, Inc..  As of Thu, Jun 05, 2025, the new trading symbol is TMGID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1032,78 +996,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Mycronic AB (MICLF: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MICLF&actionDate=1748953431000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MICLD/company-info">Mycronic AB</a> (<a href="http://www.otcmarkets.com/stock/MICLD">MICLF</a>: Pink Limited) - Symbol Change - The symbol, MICLF, is no longer a valid symbol for Mycronic AB.  As of Tue, Jun 03, 2025, the new trading symbol is MICLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 08:23:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MICLF&actionDate=1748953431000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mycronic AB]]></category>
-<pink:symbol>MICLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kongsberg Gruppen ASA (NSKFF: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NSKFF&actionDate=1748953395000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSKFD/company-info">Kongsberg Gruppen ASA</a> (<a href="http://www.otcmarkets.com/stock/NSKFD">NSKFF</a>: Pink Limited) - Symbol Change - The symbol, NSKFF, is no longer a valid symbol for Kongsberg Gruppen ASA.  As of Tue, Jun 03, 2025, the new trading symbol is NSKFD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 08:23:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NSKFF&actionDate=1748953395000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kongsberg Gruppen ASA]]></category>
-<pink:symbol>NSKFD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ONCOSIL MED LTD. (OCMLF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OCMLF&actionDate=1748947504000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OCMLD/company-info">ONCOSIL MED LTD.</a> (<a href="http://www.otcmarkets.com/stock/OCMLD">OCMLF</a>: Pink Current) - Symbol Change - The symbol, OCMLF, is no longer a valid symbol for ONCOSIL MED LTD..  As of Tue, Jun 03, 2025, the new trading symbol is OCMLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 06:45:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OCMLF&actionDate=1748947504000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ONCOSIL MED LTD.]]></category>
-<pink:symbol>OCMLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[China Liberal Education Holdings Limited (CLEU: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CLEU&actionDate=1748926858000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLEUF/company-info">China Liberal Education Holdings Limited</a> (<a href="http://www.otcmarkets.com/stock/CLEUF">CLEU</a>: Pink Limited) - Symbol Change - The symbol, CLEU, is no longer a valid symbol for China Liberal Education Holdings Limited.  As of Tue, Jun 03, 2025, the new trading symbol is CLEUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CLEU&actionDate=1748926858000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[China Liberal Education Holdings Limited]]></category>
-<pink:symbol>CLEUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Montero Mining & Exploration, Ltd. (MXTRD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRD&actionDate=1748926848000]]></link>
-<description><![CDATA[Tue, Jun 03, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MXTRF/company-info">Montero Mining & Exploration, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MXTRF">MXTRD</a>: Pink Current) - Symbol Change - The symbol, MXTRD, is no longer a valid symbol for Montero Mining & Exploration, Ltd..  As of Tue, Jun 03, 2025, the new trading symbol is MXTRF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 03 Jun 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MXTRD&actionDate=1748926848000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Montero Mining & Exploration, Ltd.]]></category>
-<pink:symbol>MXTRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Core Assets Corp. (CCOOD: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CCOOD&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">Core Assets Corp.</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOD</a>: OTCQB) - Company Name Change - Core Assets Corp. has changed its name to CORE SILVER CORP. The change goes into effect as of Wed, Jun 04, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CCOOD&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Core Assets Corp.]]></category>
-<pink:symbol>CCOOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[The Marquie Group, Inc. (TMGI: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TMGI&actionDate=1749096000000]]></link>
 <description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMGID/company-info">The Marquie Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMGID">TMGI</a>: Pink Current) - Splits - Effective Thu, Jun 05, 2025, TMGI: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, TMGI is no longer valid. The new trading symbol is TMGID. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1126,30 +1018,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:symbol>STMGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[REX RES CORP (RXRSF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=RXRSF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RXRSD/company-info">REX RES CORP</a> (<a href="http://www.otcmarkets.com/stock/RXRSD">RXRSF</a>: Pink Current) - Splits - Effective Wed, Jun 04, 2025, RXRSF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 3 split. Due to the split, RXRSF is no longer valid. The new trading symbol is RXRSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=RXRSF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[REX RES CORP]]></category>
-<pink:symbol>RXRSD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CORE SILVER CORP (CCOOF: OTCQB) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CCOOF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">CORE SILVER CORP</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOF</a>: OTCQB) - Splits - Effective Wed, Jun 04, 2025, CCOOF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, CCOOF is no longer valid. The new trading symbol is CCOOD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CCOOF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CORE SILVER CORP]]></category>
-<pink:symbol>CCOOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Golden Grain Energy, LLC (GGEDU: Grey Market) | Reactivated Symbol]]></title>
@@ -1296,66 +1164,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VIZSLA ROYALTIES CORP. (VROYF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=VROYF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VROYF/company-info">VIZSLA ROYALTIES CORP.</a> (<a href="http://www.otcmarkets.com/stock/VROYF">VROYF</a>: OTCQB) - Halted Security -  Effective Wed, Jun 04, 2025, VROYF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=VROYF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VIZSLA ROYALTIES CORP.]]></category>
-<pink:symbol>VROYF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[EDM RES INC. (SWNLF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SWNLF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SWNLF/company-info">EDM RES INC.</a> (<a href="http://www.otcmarkets.com/stock/SWNLF">SWNLF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 04, 2025, SWNLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SWNLF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EDM RES INC.]]></category>
-<pink:symbol>SWNLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Power Metallic Mines Inc. (PNPNF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PNPNF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PNPNF/company-info">Power Metallic Mines Inc.</a> (<a href="http://www.otcmarkets.com/stock/PNPNF">PNPNF</a>: OTCQB) - Halted Security -  Effective Wed, Jun 04, 2025, PNPNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PNPNF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Power Metallic Mines Inc.]]></category>
-<pink:symbol>PNPNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[FireFly Metals Ltd. (MNXMF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MNXMF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MNXMF/company-info">FireFly Metals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MNXMF">MNXMF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 04, 2025, MNXMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MNXMF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FireFly Metals Ltd.]]></category>
-<pink:symbol>MNXMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[EDGEMONT GOLD CORP (EDGTF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EDGTF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EDGTF/company-info">EDGEMONT GOLD CORP</a> (<a href="http://www.otcmarkets.com/stock/EDGTF">EDGTF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 04, 2025, EDGTF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=EDGTF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EDGEMONT GOLD CORP]]></category>
-<pink:symbol>EDGTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Straits Trading Company Ltd. (The) (STTSY: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STTSY&actionDate=1749096000000]]></link>
 <description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STTSY/company-info">Straits Trading Company Ltd. (The)</a> (<a href="http://www.otcmarkets.com/stock/STTSY">STTSY</a>: Pink Current) - Piggyback Qualified -  Effective Thu, Jun 05, 2025, STTSY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1390,90 +1198,6 @@ OTC RSS mirror fetched: Fri Jun  6 03:58:28 UTC 2025
 <pink:symbol>EGPLF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kongsberg Gruppen ASA (NSKFD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NSKFD&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSKFD/company-info">Kongsberg Gruppen ASA</a> (<a href="http://www.otcmarkets.com/stock/NSKFD">NSKFD</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, NSKFD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NSKFD&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kongsberg Gruppen ASA]]></category>
-<pink:symbol>NSKFD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Mycronic AB (MICLD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MICLD&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MICLD/company-info">Mycronic AB</a> (<a href="http://www.otcmarkets.com/stock/MICLD">MICLD</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, MICLD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MICLD&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mycronic AB]]></category>
-<pink:symbol>MICLD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD. (MCBMF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCBMF/company-info">MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.</a> (<a href="http://www.otcmarkets.com/stock/MCBMF">MCBMF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, MCBMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MCBMF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MERHAV-CERAMIC & BUILDING MATERIALS CENTER LTD.]]></category>
-<pink:symbol>MCBMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ContextLogic Inc. (LOGC: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LOGC&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOGC/company-info">ContextLogic Inc.</a> (<a href="http://www.otcmarkets.com/stock/LOGC">LOGC</a>: OTCQB) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, LOGC is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LOGC&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ContextLogic Inc.]]></category>
-<pink:symbol>LOGC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GMexico Transportes SAB de CV (GMXTF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GMXTF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GMXTF/company-info">GMexico Transportes SAB de CV</a> (<a href="http://www.otcmarkets.com/stock/GMXTF">GMXTF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, GMXTF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GMXTF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GMexico Transportes SAB de CV]]></category>
-<pink:symbol>GMXTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CORCEL EXPL INC (CRLEF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CRLEF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRLEF/company-info">CORCEL EXPL INC</a> (<a href="http://www.otcmarkets.com/stock/CRLEF">CRLEF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, CRLEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CRLEF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CORCEL EXPL INC]]></category>
-<pink:symbol>CRLEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CENTRAL CHINA NEW LIFE LTD. (CCHNF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CCHNF&actionDate=1749009600000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCHNF/company-info">CENTRAL CHINA NEW LIFE LTD.</a> (<a href="http://www.otcmarkets.com/stock/CCHNF">CCHNF</a>: Pink Current) - Piggyback Qualified -  Effective Wed, Jun 04, 2025, CCHNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CCHNF&actionDate=1749009600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CENTRAL CHINA NEW LIFE LTD.]]></category>
-<pink:symbol>CCHNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[W.T.B. Financial Corp. (WTBFB: Pink Current) | Ex-Dividend]]></title>
