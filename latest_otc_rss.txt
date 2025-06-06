@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 19:51:41 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 20:24:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun  6 19:51:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 15:46:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 16:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[First Graphene Limited (FGPHF: OTCQB) | New deal to deliver graphene enhanced safety boots to mining industry]]></title>
@@ -1068,6 +1068,18 @@ OTC RSS mirror fetched: Fri Jun  6 19:51:41 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Syzygy AG (SYZYF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYZYF&actionDate=1749239738000]]></link>
+<description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYZYF/company-info">Syzygy AG</a> (<a href="http://www.otcmarkets.com/stock/SYZYF">SYZYF</a>: Grey Market) - Reactivated Symbol -  The symbol, SYZYF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 06 Jun 2025 15:55:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SYZYF&actionDate=1749239738000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Syzygy AG]]></category>
+<pink:symbol>SYZYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Cap XX Ltd. (CPXLF: Grey Market) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CPXLF&actionDate=1749237006000]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CPXLF/company-info">Cap XX Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CPXLF">CPXLF</a>: Grey Market) - Reactivated Symbol -  The symbol, CPXLF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1172,18 +1184,6 @@ OTC RSS mirror fetched: Fri Jun  6 19:51:41 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[The Marquie Group, Inc.]]></category>
 <pink:symbol>TMGI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cyclone Metals Ltd. (CMULF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMULF&actionDate=1749013242000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - Cyclone Metals Ltd. (CMULF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, CMULF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 01:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMULF&actionDate=1749013242000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cyclone Metals Ltd.]]></category>
-<pink:symbol>CMULF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
