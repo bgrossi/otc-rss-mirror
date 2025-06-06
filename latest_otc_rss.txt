@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 10:46:52 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Fri Jun  6 10:46:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 06:36:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 07:06:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | LONG-TERM INCENTIVE PLANS : DEALINGS IN SECURITIES BY DIRECTORS AND THE COMPANY SECRETARY]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=482126]]></link>
+<pubDate>Fri, 06 Jun 2025 06:51:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=482126]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Datatec Ltd. S.A.]]></category>
+<pink:symbol>DTTLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Serabi Gold Plc (SRBIF: OTCQX International) | Vesting and settlement of 2022 Conditional Share Awards and Notification of transactions by persons discharging managerial responsibilities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=482124]]></link>
+<pubDate>Fri, 06 Jun 2025 06:47:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SRBIF/news?id=482124]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Serabi Gold Plc]]></category>
+<pink:symbol>SRBIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[EXAIL TECHNOLOGIES (EXALF: OTCQX International) | Total number of voting rights and shares comprising the share capital as of 4 June 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXALF/news?id=482123]]></link>
+<pubDate>Fri, 06 Jun 2025 06:46:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXALF/news?id=482123]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EXAIL TECHNOLOGIES]]></category>
+<pink:symbol>EXALF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Annual Financial Report]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482122]]></link>
+<pubDate>Fri, 06 Jun 2025 06:41:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482122]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Change in Substantial Holding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=482108]]></link>
@@ -566,54 +614,6 @@ OTC RSS mirror fetched: Fri Jun  6 10:46:52 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[NANO MAGIC INC. (NMGX: Pink Current) | Update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NMGX/news?id=481906]]></link>
-<pubDate>Wed, 04 Jun 2025 15:07:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NMGX/news?id=481906]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NANO MAGIC INC.]]></category>
-<pink:symbol>NMGX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=481899]]></link>
-<pubDate>Wed, 04 Jun 2025 12:59:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=481899]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Enzolytics Inc. (ENZC: Pink Current) | Enzolytics announces New Ceo and 500 to 1 Reverse Split]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ENZC/news?id=481898]]></link>
-<pubDate>Wed, 04 Jun 2025 12:56:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ENZC/news?id=481898]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Enzolytics Inc.]]></category>
-<pink:symbol>ENZC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | DISTRIBUTION OF CIRCULAR TO SHAREHOLDERS]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=481896]]></link>
-<pubDate>Wed, 04 Jun 2025 12:21:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=481896]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Datatec Ltd. S.A.]]></category>
-<pink:symbol>DTTLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1044,6 +1044,18 @@ OTC RSS mirror fetched: Fri Jun  6 10:46:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Melco International Development Limited (MDVRF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MDVRF&actionDate=1749207790000]]></link>
+<description><![CDATA[Fri, Jun 06, 2025 12:00 - Melco International Development Limited (MDVRF: OTC Link) - Deleted Symbol - As of Fri, Jun 06, 2025, MDVRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 06 Jun 2025 07:03:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MDVRF&actionDate=1749207790000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Melco International Development Limited]]></category>
+<pink:symbol>MDVRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Hennessy Capital Investment Corp. VI (HCVIU: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HCVIU&actionDate=1749186046000]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 12:00 - Hennessy Capital Investment Corp. VI (HCVIU: OTC Link) - Deleted Symbol - As of Fri, Jun 06, 2025, HCVIU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1150,18 +1162,6 @@ OTC RSS mirror fetched: Fri Jun  6 10:46:52 UTC 2025
 <pink:symbol>RCVGS</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UNQ HLDGS LTD. (UNQHF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UNQHF&actionDate=1749013234000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - UNQ HLDGS LTD. (UNQHF: OTC Link) - Deleted Symbol - As of Wed, Jun 04, 2025, UNQHF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 01:00:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=UNQHF&actionDate=1749013234000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UNQ HLDGS LTD.]]></category>
-<pink:symbol>UNQHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Crown Point Energy Inc. (CWVLF: Pink Current) | Halted Security]]></title>
