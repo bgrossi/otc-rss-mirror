@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 12:43:02 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 13:20:24 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Fri Jun  6 12:43:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 08:26:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 09:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Subsidiary SI Systems Introduces Next-Generation Mobile-Matic™ Robots Ushering a Revolution in Autonomous Warehouse Automation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482152]]></link>
+<pubDate>Fri, 06 Jun 2025 08:57:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482152]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[PT Kalba Farma TBK (PTKFY: Pink Limited) | PTKFY - Books will close today, June 6, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PTKFY/news?id=482151]]></link>
+<pubDate>Fri, 06 Jun 2025 08:41:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTKFY/news?id=482151]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Kalba Farma TBK]]></category>
+<pink:symbol>PTKFY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BW Offshore (BWOFY: Pink Limited) | BWOFY - Books will close today, June 6, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BWOFY/news?id=482150]]></link>
+<pubDate>Fri, 06 Jun 2025 08:41:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BWOFY/news?id=482150]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BW Offshore]]></category>
+<pink:symbol>BWOFY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ageas SA/NV (AGESY: Pink Limited) | AGESY - Books will close today, June 6, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AGESY/news?id=482149]]></link>
+<pubDate>Fri, 06 Jun 2025 08:40:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AGESY/news?id=482149]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ageas SA/NV]]></category>
+<pink:symbol>AGESY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Director/PDMR Shareholding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482141]]></link>
@@ -561,54 +609,6 @@ OTC RSS mirror fetched: Fri Jun  6 12:43:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GTI ENERGY LTD]]></category>
 <pink:symbol>GTRIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Notification regarding unquoted securities - TOK]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481942]]></link>
-<pubDate>Wed, 04 Jun 2025 18:32:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481942]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tolu Minerals Limited]]></category>
-<pink:symbol>TOLUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[White Cliff Minerals Ltd (WCMLF: OTCQB) | 105mtrs @ 2.25% Cu from 27.43m at Danvers]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=481941]]></link>
-<pubDate>Wed, 04 Jun 2025 18:30:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WCMLF/news?id=481941]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[White Cliff Minerals Ltd]]></category>
-<pink:symbol>WCMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Application for quotation of securities - TOK]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481940]]></link>
-<pubDate>Wed, 04 Jun 2025 18:30:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=481940]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tolu Minerals Limited]]></category>
-<pink:symbol>TOLUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ESG Inc. (ESGH: Pink Current) | ESG Inc. (OTC Markets: ESGH) Files Application to Uplist to Nasdaq Capital Market]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ESGH/news?id=481927]]></link>
-<pubDate>Wed, 04 Jun 2025 17:21:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ESGH/news?id=481927]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ESG Inc.]]></category>
-<pink:symbol>ESGH</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
