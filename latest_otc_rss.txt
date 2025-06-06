@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 08:28:30 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 08:50:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 08:28:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 04:06:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 04:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Appendix 3H - Notification of Cessation of Securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=482116]]></link>
+<pubDate>Fri, 06 Jun 2025 04:28:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=482116]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hot Chili Ltd.]]></category>
+<pink:symbol>HHLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Share Registry address]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482115]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri Jun  6 08:28:30 UTC 2025
 <pink:symbol>PINWF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Golden Energy Offshore Services ASA (GEOUF: OTCQB) | Term Sheet for Refinancing of Fleet]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GEOUF/news?id=481888]]></link>
-<pubDate>Wed, 04 Jun 2025 10:03:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GEOUF/news?id=481888]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Golden Energy Offshore Services ASA]]></category>
-<pink:symbol>GEOUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
