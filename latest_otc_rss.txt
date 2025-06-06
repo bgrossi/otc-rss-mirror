@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 13:20:24 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 13:48:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Fri Jun  6 13:20:24 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 09:06:30 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 09:46:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Metaplanet 2025-2027 Bitcoin Plan Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482169]]></link>
+<pubDate>Fri, 06 Jun 2025 09:45:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482169]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Damon Completes First Major Milestone in HyperSport Race Program with Engines Engineering]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482168]]></link>
+<pubDate>Fri, 06 Jun 2025 09:45:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482168]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Damon Inc.]]></category>
+<pink:symbol>DMNIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Issuance of the 20th to 22nd Series of Stock Acquisition Rights with Adjustment and Suspension Clauses via Third-Party Allotment, and Execution of Stock Acquisition Rights Purchase Agreement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482166]]></link>
+<pubDate>Fri, 06 Jun 2025 09:43:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482166]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding the Formulation of the “555 Million Plan: Targeting 210,000 Bitcoin by 2027”]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482165]]></link>
+<pubDate>Fri, 06 Jun 2025 09:42:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482165]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Forza! Bitcoin Treasury Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482162]]></link>
+<pubDate>Fri, 06 Jun 2025 09:21:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482162]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coinsilium Group Ltd.]]></category>
+<pink:symbol>CINGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Subsidiary SI Systems Introduces Next-Generation Mobile-Matic™ Robots Ushering a Revolution in Autonomous Warehouse Automation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482152]]></link>
@@ -551,66 +611,6 @@ OTC RSS mirror fetched: Fri Jun  6 13:20:24 UTC 2025
 <pink:symbol>LTSRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | First Sales Established from Bruins Well]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=481968]]></link>
-<pubDate>Wed, 04 Jun 2025 22:18:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=481968]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brookside Energy Ltd.]]></category>
-<pink:symbol>RDFEF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Elevate Uranium Ltd. (ELVUF: OTCQX International) | Large, anomalous envelope delineated at Namib IV]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ELVUF/news?id=481967]]></link>
-<pubDate>Wed, 04 Jun 2025 21:10:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ELVUF/news?id=481967]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Elevate Uranium Ltd.]]></category>
-<pink:symbol>ELVUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AXP Energy Ltd. (AUNXF: Pink Current) | GAS-TO-POWER BITCOIN OPERATIONS UPDATE]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AUNXF/news?id=481964]]></link>
-<pubDate>Wed, 04 Jun 2025 20:02:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AUNXF/news?id=481964]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AXP Energy Ltd.]]></category>
-<pink:symbol>AUNXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Environmental and Social Impact Assessment (ESIA) Approved]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481951]]></link>
-<pubDate>Wed, 04 Jun 2025 19:06:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481951]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lotus Resources Ltd]]></category>
-<pink:symbol>LTSRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[GTI ENERGY LTD (GTRIF: Pink Current) | Scoping Study Demonstrates Low Cost ISR Uranium Potential]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=481944]]></link>
-<pubDate>Wed, 04 Jun 2025 18:35:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=481944]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GTI ENERGY LTD]]></category>
-<pink:symbol>GTRIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
