@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 13:48:19 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 14:20:47 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 13:48:19 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 09:46:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 10:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Damon Launches Damon I/O, The Digital Backbone Transforming Personal Mobility To Safe, Smart AI Connected Experiences]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482170]]></link>
+<pubDate>Fri, 06 Jun 2025 09:48:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482170]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Damon Inc.]]></category>
+<pink:symbol>DMNIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Metaplanet 2025-2027 Bitcoin Plan Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=482169]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Fri Jun  6 13:48:19 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Centaurus Metals Ltd.]]></category>
 <pink:symbol>CTTZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Final Director's Interest Notice - D Marshall]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481972]]></link>
-<pubDate>Wed, 04 Jun 2025 22:28:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=481972]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lotus Resources Ltd]]></category>
-<pink:symbol>LTSRF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
