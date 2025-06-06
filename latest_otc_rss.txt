@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
+OTC RSS mirror fetched: Fri Jun  6 11:39:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 07:06:31 EDT</lastBuildDate>
+<lastBuildDate>Fri, 06 Jun 2025 07:36:31 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Director/PDMR Sharedealing]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482132]]></link>
+<pubDate>Fri, 06 Jun 2025 07:18:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482132]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | LONG-TERM INCENTIVE PLANS : DEALINGS IN SECURITIES BY DIRECTORS AND THE COMPANY SECRETARY]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=482126]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Cashmere Valley Bank (CSHX: OTCQX U.S.) | Q1 2025 Investor Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CSHX/news?id=481907]]></link>
-<pubDate>Wed, 04 Jun 2025 15:08:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CSHX/news?id=481907]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cashmere Valley Bank]]></category>
-<pink:symbol>CSHX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 <pink:symbol>VTXXF</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PANGENOMIC HEALTH INC. (PGHIF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PGHIF&actionDate=1749208388000]]></link>
+<description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PGHIF/company-info">PANGENOMIC HEALTH INC.</a> (<a href="http://www.otcmarkets.com/stock/PGHIF">PGHIF</a>: OTC Link) - Venue Change - The symbol, PGHIF, no longer trades on Grey Market.  As of Fri, Jun 06, 2025, PGHIF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 06 Jun 2025 07:13:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PGHIF&actionDate=1749208388000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PANGENOMIC HEALTH INC.]]></category>
+<pink:symbol>PGHIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[DIGIPLUS INTERACTIVE CORP. (DGIPF: Pink Limited) | Venue Change]]></title>
@@ -1620,6 +1632,18 @@ OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PANGENOMIC HEALTH INC. (PGHIF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PGHIF&actionDate=1749182400000]]></link>
+<description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PGHIF/company-info">PANGENOMIC HEALTH INC.</a> (<a href="http://www.otcmarkets.com/stock/PGHIF">PGHIF</a>: Pink Current) - Tier Change - The symbol, PGHIF, no longer is classified as Grey Market.  As of Fri, Jun 06, 2025, PGHIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 06 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PGHIF&actionDate=1749182400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PANGENOMIC HEALTH INC.]]></category>
+<pink:symbol>PGHIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Neo Performance Materials Inc. (NOPMF: OTCQX International) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NOPMF&actionDate=1749182400000]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NOPMF/company-info">Neo Performance Materials Inc.</a> (<a href="http://www.otcmarkets.com/stock/NOPMF">NOPMF</a>: OTCQX International) - Tier Change - The symbol, NOPMF, no longer is classified as Pink Current.  As of Fri, Jun 06, 2025, NOPMF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1652,18 +1676,6 @@ OTC RSS mirror fetched: Fri Jun  6 11:18:40 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Kisses from Italy Inc.]]></category>
 <pink:symbol>KITL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HUMBL Inc. (HMBL: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HMBL&actionDate=1749182400000]]></link>
-<description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HMBL/company-info">HUMBL Inc.</a> (<a href="http://www.otcmarkets.com/stock/HMBL">HMBL</a>: Pink Current) - Tier Change - The symbol, HMBL, no longer is classified as Pink Limited.  As of Fri, Jun 06, 2025, HMBL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 06 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HMBL&actionDate=1749182400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HUMBL Inc.]]></category>
-<pink:symbol>HMBL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
