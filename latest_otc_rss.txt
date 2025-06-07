@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
+OTC RSS mirror fetched: Sat Jun  7 04:26:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 06 Jun 2025 23:36:30 EDT</lastBuildDate>
+<lastBuildDate>Sat, 07 Jun 2025 00:06:30 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[First Graphene Limited (FGPHF: OTCQB) | New deal to deliver graphene enhanced safety boots to mining industry]]></title>
@@ -936,54 +936,6 @@ OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[First Busey Corporation (BUSEP: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BUSEP&actionDate=1749040575000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BUSEP/company-info">First Busey Corporation</a> (<a href="http://www.otcmarkets.com/stock/BUSEP">BUSEP</a>: Nasdaq) - Venue Change - The symbol, BUSEP, no longer trades on OTC Link.  As of Wed, Jun 04, 2025, BUSEP trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 08:36:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BUSEP&actionDate=1749040575000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[First Busey Corporation]]></category>
-<pink:symbol>BUSEP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Xtrackers II (XUSTF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XUSTF&actionDate=1749035744000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XUSTF/company-info">Xtrackers II</a> (<a href="http://www.otcmarkets.com/stock/XUSTF">XUSTF</a>: OTC Link) - Venue Change - The symbol, XUSTF, no longer trades on Grey Market.  As of Wed, Jun 04, 2025, XUSTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 07:15:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XUSTF&actionDate=1749035744000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Xtrackers II]]></category>
-<pink:symbol>XUSTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Silver Mountain Resources Inc. (AGMWF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AGMWF&actionDate=1749035720000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGMWF/company-info">Silver Mountain Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/AGMWF">AGMWF</a>: OTC Link) - Venue Change - The symbol, AGMWF, no longer trades on Grey Market.  As of Wed, Jun 04, 2025, AGMWF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 07:15:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AGMWF&actionDate=1749035720000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Silver Mountain Resources Inc.]]></category>
-<pink:symbol>AGMWF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ContextLogic Inc. (LOGC: OTCQB) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LOGC&actionDate=1749013252000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LOGC/company-info">ContextLogic Inc.</a> (<a href="http://www.otcmarkets.com/stock/LOGC">LOGC</a>: OTC Link) - Venue Change - The symbol, LOGC, no longer trades on Nasdaq.  As of Wed, Jun 04, 2025, LOGC trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 01:00:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LOGC&actionDate=1749013252000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ContextLogic Inc.]]></category>
-<pink:symbol>LOGC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[The Marquie Group, Inc. (TMGI: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TMGI&actionDate=1749121582000]]></link>
 <description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMGID/company-info">The Marquie Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMGID">TMGI</a>: Pink Current) - Symbol Change - The symbol, TMGI, is no longer a valid symbol for The Marquie Group, Inc..  As of Thu, Jun 05, 2025, the new trading symbol is TMGID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1006,66 +958,6 @@ OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
 <pink:symbol>NBLXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[REX RES CORP (RXRSF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RXRSF&actionDate=1749035625000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RXRSD/company-info">REX RES CORP</a> (<a href="http://www.otcmarkets.com/stock/RXRSD">RXRSF</a>: Pink Current) - Symbol Change - The symbol, RXRSF, is no longer a valid symbol for REX RES CORP.  As of Wed, Jun 04, 2025, the new trading symbol is RXRSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 07:13:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=RXRSF&actionDate=1749035625000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[REX RES CORP]]></category>
-<pink:symbol>RXRSD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CORE SILVER CORP (CCOOF: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CCOOF&actionDate=1749035498000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CCOOD/company-info">CORE SILVER CORP</a> (<a href="http://www.otcmarkets.com/stock/CCOOD">CCOOF</a>: OTCQB) - Symbol Change - The symbol, CCOOF, is no longer a valid symbol for CORE SILVER CORP.  As of Wed, Jun 04, 2025, the new trading symbol is CCOOD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 07:11:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CCOOF&actionDate=1749035498000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CORE SILVER CORP]]></category>
-<pink:symbol>CCOOD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GreenTech Innovations, Inc. (LAABD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LAABD&actionDate=1749013244000]]></link>
-<description><![CDATA[Wed, Jun 04, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GTIC/company-info">GreenTech Innovations, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GTIC">LAABD</a>: Pink Current) - Symbol Change - The symbol, LAABD, is no longer a valid symbol for GreenTech Innovations, Inc..  As of Wed, Jun 04, 2025, the new trading symbol is GTIC. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 04 Jun 2025 01:00:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LAABD&actionDate=1749013244000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GreenTech Innovations, Inc.]]></category>
-<pink:symbol>GTIC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[The Marquie Group, Inc. (TMGI: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TMGI&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMGID/company-info">The Marquie Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMGID">TMGI</a>: Pink Current) - Splits - Effective Thu, Jun 05, 2025, TMGI: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, TMGI is no longer valid. The new trading symbol is TMGID. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=TMGI&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Marquie Group, Inc.]]></category>
-<pink:symbol>TMGID</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Stamper Oil & Gas Corp (STMGF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=STMGF&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STMGF/company-info">Stamper Oil & Gas Corp</a> (<a href="http://www.otcmarkets.com/stock/STMGF">STMGF</a>: Pink Current) - Splits - Effective Thu, Jun 05, 2025, STMGF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 3.8 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=STMGF&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Stamper Oil & Gas Corp]]></category>
-<pink:symbol>STMGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Syzygy AG (SYZYF: Grey Market) | Reactivated Symbol]]></title>
@@ -1212,30 +1104,6 @@ OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Crown Point Energy Inc. (CWVLF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CWVLF&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CWVLF/company-info">Crown Point Energy Inc.</a> (<a href="http://www.otcmarkets.com/stock/CWVLF">CWVLF</a>: Pink Current) - Halted Security -  Effective Thu, Jun 05, 2025, CWVLF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CWVLF&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Crown Point Energy Inc.]]></category>
-<pink:symbol>CWVLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BGX - BLACK GOLD EXPLORATION CORP. (BGXCF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BGXCF&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGXCF/company-info">BGX - BLACK GOLD EXPLORATION CORP.</a> (<a href="http://www.otcmarkets.com/stock/BGXCF">BGXCF</a>: OTCQB) - Halted Security -  Effective Thu, Jun 05, 2025, BGXCF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=BGXCF&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BGX - BLACK GOLD EXPLORATION CORP.]]></category>
-<pink:symbol>BGXCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[WESTWING GROUP SE (WTWGF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=WTWGF&actionDate=1749182400000]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WTWGF/company-info">WESTWING GROUP SE</a> (<a href="http://www.otcmarkets.com/stock/WTWGF">WTWGF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 06, 2025, WTWGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1328,30 +1196,6 @@ OTC RSS mirror fetched: Sat Jun  7 03:52:08 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[DIGIPLUS INTERACTIVE CORP.]]></category>
 <pink:symbol>DGIPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Straits Trading Company Ltd. (The) (STTSY: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STTSY&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STTSY/company-info">Straits Trading Company Ltd. (The)</a> (<a href="http://www.otcmarkets.com/stock/STTSY">STTSY</a>: Pink Current) - Piggyback Qualified -  Effective Thu, Jun 05, 2025, STTSY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STTSY&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Straits Trading Company Ltd. (The)]]></category>
-<pink:symbol>STTSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kyoei Sangyo Co Ltd. (KYSYF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KYSYF&actionDate=1749096000000]]></link>
-<description><![CDATA[Thu, Jun 05, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KYSYF/company-info">Kyoei Sangyo Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KYSYF">KYSYF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 05, 2025, KYSYF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 05 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KYSYF&actionDate=1749096000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kyoei Sangyo Co Ltd.]]></category>
-<pink:symbol>KYSYF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
