@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 20:55:36 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 21:21:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  9 20:55:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 16:36:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 17:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Limited) | SmartCard Marketing Systems Inc.(OTC:SMKG) Offers PaaS for National ID Solutions, Enhancing Governance and Data Security for Judicial, Police, and Government Agencies Reporting and Broadcast Notifications]]></title>
@@ -996,6 +996,18 @@ OTC RSS mirror fetched: Mon Jun  9 20:55:36 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PPC Limited (PPCMF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PPCMF&actionDate=1749501506000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Grey Market) - Reactivated Symbol -  The symbol, PPCMF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 16:38:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PPCMF&actionDate=1749501506000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PPC Limited]]></category>
+<pink:symbol>PPCMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Focus Impact BH3 Acquisition Company (BHACW: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACW&actionDate=1749445250000]]></link>
 <description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHACW: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHACW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1100,18 +1112,6 @@ OTC RSS mirror fetched: Mon Jun  9 20:55:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[ CompuGroup Medical SE & Co. KGaA]]></category>
 <pink:symbol>CMPUY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVY: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HAPVY&actionDate=1749445229000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVY: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, HAPVY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HAPVY&actionDate=1749445229000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA]]></category>
-<pink:symbol>HAPVY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
