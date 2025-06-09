@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 07:27:11 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 07:42:37 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  9 07:27:11 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 03:07:29 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 03:36:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[M.O.B.A. Network AB (MOBNF: OTCQX International) | M.O.B.A. Network Expands Direct Sales in the Nordics Through New Partnership with Execute Media]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=482218]]></link>
+<pubDate>Mon, 09 Jun 2025 03:30:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=482218]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[M.O.B.A. Network AB]]></category>
+<pink:symbol>MOBNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482190]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon Jun  9 07:27:11 UTC 2025
 <pink:symbol>NBGRY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[JBS S.A. (JBSAY: OTCQX International) | JBSAY - Books will close today, June 5, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JBSAY/news?id=482047]]></link>
-<pubDate>Thu, 05 Jun 2025 08:52:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JBSAY/news?id=482047]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JBS S.A.]]></category>
-<pink:symbol>JBSAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
