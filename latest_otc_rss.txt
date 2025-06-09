@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 23:22:00 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 23:40:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Mon Jun  9 23:22:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 19:06:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 19:36:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Blue Star Helium Ltd. (BSNLF: Pink Current) | Drilling Complete Transitioning to Commercial Production]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=482323]]></link>
+<pubDate>Mon, 09 Jun 2025 19:17:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=482323]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blue Star Helium Ltd.]]></category>
+<pink:symbol>BSNLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Blue Star Helium Ltd. (BSNLF: Pink Current) | State 9 Flow Test and Gas Analysis Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=482322]]></link>
+<pubDate>Mon, 09 Jun 2025 19:16:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BSNLF/news?id=482322]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Blue Star Helium Ltd.]]></category>
+<pink:symbol>BSNLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[GTI ENERGY LTD (GTRIF: Pink Current) | Drilling Planned to Update & Grow Lo Herma Resource]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=482321]]></link>
+<pubDate>Mon, 09 Jun 2025 19:13:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GTRIF/news?id=482321]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GTI ENERGY LTD]]></category>
+<pink:symbol>GTRIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Estimates Maiden JORC Mineral Resources at Green River Lithium Project]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=482318]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Mon Jun  9 23:22:00 UTC 2025
 <pink:symbol>BWOFY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ageas SA/NV (AGESY: Pink Limited) | AGESY - Books will close today, June 6, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AGESY/news?id=482149]]></link>
-<pubDate>Fri, 06 Jun 2025 08:40:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AGESY/news?id=482149]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ageas SA/NV]]></category>
-<pink:symbol>AGESY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Director/PDMR Shareholding]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482141]]></link>
-<pubDate>Fri, 06 Jun 2025 08:08:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482141]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | A.R.T. Digital Holdings Signs LOI for a New 10+MW BTC Mining Site - Raymondville, TX]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482106]]></link>
-<pubDate>Fri, 06 Jun 2025 07:45:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482106]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Code Green Apparel Corp.]]></category>
-<pink:symbol>CGAC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
