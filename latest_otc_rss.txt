@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 09:45:48 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 10:24:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  9 09:45:48 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 05:36:27 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 06:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Bell Rose Capital Inc. (BELR: Pink Current) | BELR incued update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=482219]]></link>
+<pubDate>Mon, 09 Jun 2025 06:00:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=482219]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Bell Rose Capital Inc.]]></category>
+<pink:symbol>BELR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[M.O.B.A. Network AB (MOBNF: OTCQX International) | M.O.B.A. Network Expands Direct Sales in the Nordics Through New Partnership with Execute Media]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=482218]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon Jun  9 09:45:48 UTC 2025
 <pink:symbol>SMWPY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NATIONAL BK GREECE S A (NBGRY: Pink Limited) | NBGRY - Books will close today, June 5, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NBGRY/news?id=482048]]></link>
-<pubDate>Thu, 05 Jun 2025 08:53:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NBGRY/news?id=482048]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NATIONAL BK GREECE S A]]></category>
-<pink:symbol>NBGRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
