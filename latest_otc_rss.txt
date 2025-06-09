@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 14:46:24 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 15:23:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  9 14:46:24 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 10:26:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 11:06:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[MDM Permian, Inc. (MDMP: Pink Current) | MDM Permian, Inc. Subsidiary Reports Strong Q1 Performance from New Revenue Stream]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MDMP/news?id=482292]]></link>
+<pubDate>Mon, 09 Jun 2025 10:57:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDMP/news?id=482292]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MDM Permian, Inc.]]></category>
+<pink:symbol>MDMP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Pan African Resources PLC (PAFRY: OTCQX International) | TR-1: Notification of change in major shareholdings]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=482285]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon Jun  9 14:46:24 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Experian plc]]></category>
 <pink:symbol>EXPGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Change in Substantial Holding]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=482108]]></link>
-<pubDate>Fri, 06 Jun 2025 06:00:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=482108]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sovereign Metals Ltd.]]></category>
-<pink:symbol>SVMLF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
