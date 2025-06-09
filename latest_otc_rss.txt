@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 17:52:32 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 18:30:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  9 17:52:32 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 13:46:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 14:26:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[E-Buy Home Inc. (EBYH: Pink Current) | Amazon Announces $20 Billion Investment in Cloud Computing and AI Facilities in Pennsylvania; Strainsforpains, Inc. Part of Expansion]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EBYH/news?id=482308]]></link>
+<pubDate>Mon, 09 Jun 2025 14:14:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EBYH/news?id=482308]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[E-Buy Home Inc.]]></category>
+<pink:symbol>EBYH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482299]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon Jun  9 17:52:32 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Serabi Gold Plc]]></category>
 <pink:symbol>SRBIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[EXAIL TECHNOLOGIES (EXALF: OTCQX International) | Total number of voting rights and shares comprising the share capital as of 4 June 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXALF/news?id=482123]]></link>
-<pubDate>Fri, 06 Jun 2025 06:46:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXALF/news?id=482123]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EXAIL TECHNOLOGIES]]></category>
-<pink:symbol>EXALF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
