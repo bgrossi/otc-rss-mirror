@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 05:00:08 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 05:36:15 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  9 05:00:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 00:36:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 01:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Notification of cessation of securities - JLL]]></title>
@@ -864,6 +864,162 @@ OTC RSS mirror fetched: Mon Jun  9 05:00:08 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[MicroStrategy, Inc. (MCSYV: Grey Market) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MCSYV&actionDate=1749445242000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCSYP/company-info">MicroStrategy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MCSYP">MCSYV</a>: Grey Market) - Symbol Change - The symbol, MCSYV, is no longer a valid symbol for MicroStrategy, Inc..  As of Mon, Jun 09, 2025, the new trading symbol is MCSYP. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MCSYV&actionDate=1749445242000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MicroStrategy, Inc.]]></category>
+<pink:symbol>MCSYP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BUFAB AB (BFAAD: Pink Limited) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BFAAD&actionDate=1749445235000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BFAAF/company-info">BUFAB AB</a> (<a href="http://www.otcmarkets.com/stock/BFAAF">BFAAD</a>: Pink Limited) - Symbol Change - The symbol, BFAAD, is no longer a valid symbol for BUFAB AB.  As of Mon, Jun 09, 2025, the new trading symbol is BFAAF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BFAAD&actionDate=1749445235000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BUFAB AB]]></category>
+<pink:symbol>BFAAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zimtu Capital Corp (ZTMUD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZTMUD&actionDate=1749445211000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZTMUF/company-info">Zimtu Capital Corp</a> (<a href="http://www.otcmarkets.com/stock/ZTMUF">ZTMUD</a>: Pink Current) - Symbol Change - The symbol, ZTMUD, is no longer a valid symbol for Zimtu Capital Corp.  As of Mon, Jun 09, 2025, the new trading symbol is ZTMUF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZTMUD&actionDate=1749445211000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zimtu Capital Corp]]></category>
+<pink:symbol>ZTMUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Focus Impact BH3 Acquisition Company (BHACW: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACW&actionDate=1749445250000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHACW: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHACW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACW&actionDate=1749445250000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
+<pink:symbol>BHACW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Focus Impact BH3 Acquisition Company (BHAC: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHAC&actionDate=1749445250000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHAC: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHAC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHAC&actionDate=1749445250000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
+<pink:symbol>BHAC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Focus Impact BH3 Acquisition Company (BHACU: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACU&actionDate=1749445250000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHACU: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHACU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACU&actionDate=1749445250000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
+<pink:symbol>BHACU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Urbi Desarrollos Urbanos SAB de CV (URBDF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=URBDF&actionDate=1749445241000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - Urbi Desarrollos Urbanos SAB de CV (URBDF: Grey Market) - Deleted Symbol - As of Mon, Jun 09, 2025, URBDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=URBDF&actionDate=1749445241000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Urbi Desarrollos Urbanos SAB de CV]]></category>
+<pink:symbol>URBDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[JSP Pharmaceutical Manufacturing PCL (TNRCF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TNRCF&actionDate=1749445241000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - JSP Pharmaceutical Manufacturing PCL (TNRCF: Grey Market) - Deleted Symbol - As of Mon, Jun 09, 2025, TNRCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TNRCF&actionDate=1749445241000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[JSP Pharmaceutical Manufacturing PCL]]></category>
+<pink:symbol>TNRCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[RTCORE INC. (RTME: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RTME&actionDate=1749445241000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - RTCORE INC. (RTME: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, RTME is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RTME&actionDate=1749445241000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[RTCORE INC.]]></category>
+<pink:symbol>RTME</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MK RESTAURANT GROUP PUB CO LTD. (MKRGF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MKRGF&actionDate=1749445240000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - MK RESTAURANT GROUP PUB CO LTD. (MKRGF: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, MKRGF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=MKRGF&actionDate=1749445240000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MK RESTAURANT GROUP PUB CO LTD.]]></category>
+<pink:symbol>MKRGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ACCEL SOLUTIONS GROUP LTD. (ACCLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ACCLF&actionDate=1749445238000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - ACCEL SOLUTIONS GROUP LTD. (ACCLF: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, ACCLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ACCLF&actionDate=1749445238000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ACCEL SOLUTIONS GROUP LTD.]]></category>
+<pink:symbol>ACCLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ CompuGroup Medical SE & Co. KGaA (CMPUY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMPUY&actionDate=1749445232000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 -  CompuGroup Medical SE & Co. KGaA (CMPUY: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, CMPUY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CMPUY&actionDate=1749445232000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ CompuGroup Medical SE & Co. KGaA]]></category>
+<pink:symbol>CMPUY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HAPVY&actionDate=1749445229000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVY: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, HAPVY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 01:00:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=HAPVY&actionDate=1749445229000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA]]></category>
+<pink:symbol>HAPVY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SCOUT24 SE (SCCTY: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=170183]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SCCTY/company-info">SCOUT24 SE</a> (<a href="http://www.otcmarkets.com/stock/SCCTY">SCCTY</a>: Pink Current) - Ex-Dividend -  As of Mon, Jun 09, 2025, SCOUT24 SE traded ex-dividend. SCOUT24 SE will disburse a Cash Dividend dividend of $0.47451 to shareholders of SCCTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1258,30 @@ OTC RSS mirror fetched: Mon Jun  9 05:00:08 UTC 2025
 <pink:symbol>APTL</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Palatin Technologies, Inc. (PTNT: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTNT&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: OTCQB) - Tier Change - The symbol, PTNT, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, PTNT resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTNT&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Palatin Technologies, Inc.]]></category>
+<pink:symbol>PTNT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kidoz Inc. (KDOZF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KDOZF&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KDOZF/company-info">Kidoz Inc.</a> (<a href="http://www.otcmarkets.com/stock/KDOZF">KDOZF</a>: OTCQB) - Tier Change - The symbol, KDOZF, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, KDOZF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KDOZF&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kidoz Inc.]]></category>
+<pink:symbol>KDOZF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
