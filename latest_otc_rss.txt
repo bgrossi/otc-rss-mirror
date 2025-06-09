@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 07:27:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 02:36:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -1032,6 +1032,18 @@ OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Kidoz Inc. (KDOZF: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KDOZF&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KDOZF/company-info">Kidoz Inc.</a> (<a href="http://www.otcmarkets.com/stock/KDOZF">KDOZF</a>: OTCQB) - Piggyback Qualified -  Effective Mon, Jun 09, 2025, KDOZF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KDOZF&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kidoz Inc.]]></category>
+<pink:symbol>KDOZF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SCOUT24 SE (SCCTY: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=170183]]></link>
 <description><![CDATA[Fri, Jun 06, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/SCCTY/company-info">SCOUT24 SE</a> (<a href="http://www.otcmarkets.com/stock/SCCTY">SCCTY</a>: Pink Current) - Ex-Dividend -  As of Mon, Jun 09, 2025, SCOUT24 SE traded ex-dividend. SCOUT24 SE will disburse a Cash Dividend dividend of $0.47451 to shareholders of SCCTY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1272,6 +1284,54 @@ OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Unitronix Corp. (UTRX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UTRX&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UTRX/company-info">Unitronix Corp.</a> (<a href="http://www.otcmarkets.com/stock/UTRX">UTRX</a>: Pink Current) - Tier Change - The symbol, UTRX, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, UTRX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UTRX&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Unitronix Corp.]]></category>
+<pink:symbol>UTRX</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TMM, Inc. (TMMI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMMI&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TMMI/company-info">TMM, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TMMI">TMMI</a>: Pink Current) - Tier Change - The symbol, TMMI, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, TMMI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TMMI&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TMM, Inc.]]></category>
+<pink:symbol>TMMI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Symbio Pharmaceuticals  Ltd (SYMQY: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYMQY&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SYMQY/company-info">Symbio Pharmaceuticals  Ltd</a> (<a href="http://www.otcmarkets.com/stock/SYMQY">SYMQY</a>: Pink Current) - Tier Change - The symbol, SYMQY, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, SYMQY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SYMQY&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Symbio Pharmaceuticals  Ltd]]></category>
+<pink:symbol>SYMQY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Reeltime Rentals, Inc. (RLTR: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RLTR/company-info">Reeltime Rentals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/RLTR">RLTR</a>: Pink Current) - Tier Change - The symbol, RLTR, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, RLTR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RLTR&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Reeltime Rentals, Inc.]]></category>
+<pink:symbol>RLTR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Palatin Technologies, Inc. (PTNT: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTNT&actionDate=1749441600000]]></link>
 <description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: OTCQB) - Tier Change - The symbol, PTNT, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, PTNT resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1284,6 +1344,18 @@ OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[New Frontier Energy, Inc. (NFEI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NFEI&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NFEI/company-info">New Frontier Energy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NFEI">NFEI</a>: Pink Current) - Tier Change - The symbol, NFEI, no longer is classified as Expert Market.  As of Mon, Jun 09, 2025, NFEI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NFEI&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[New Frontier Energy, Inc.]]></category>
+<pink:symbol>NFEI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Kidoz Inc. (KDOZF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KDOZF&actionDate=1749441600000]]></link>
 <description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KDOZF/company-info">Kidoz Inc.</a> (<a href="http://www.otcmarkets.com/stock/KDOZF">KDOZF</a>: OTCQB) - Tier Change - The symbol, KDOZF, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, KDOZF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1294,6 +1366,42 @@ OTC RSS mirror fetched: Mon Jun  9 06:57:57 UTC 2025
 <pink:symbol>KDOZF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[International Land Alliance Inc. (ILAL: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ILAL/company-info">International Land Alliance Inc.</a> (<a href="http://www.otcmarkets.com/stock/ILAL">ILAL</a>: Pink Current) - Tier Change - The symbol, ILAL, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, ILAL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Land Alliance Inc.]]></category>
+<pink:symbol>ILAL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Invent Ventures, Inc. (IDEA: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=IDEA&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IDEA/company-info">Invent Ventures, Inc.</a> (<a href="http://www.otcmarkets.com/stock/IDEA">IDEA</a>: Pink Current) - Tier Change - The symbol, IDEA, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, IDEA resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=IDEA&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Invent Ventures, Inc.]]></category>
+<pink:symbol>IDEA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Hi-Great Group Holding Co. (HIGR: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HIGR&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HIGR/company-info">Hi-Great Group Holding Co.</a> (<a href="http://www.otcmarkets.com/stock/HIGR">HIGR</a>: Pink Current) - Tier Change - The symbol, HIGR, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, HIGR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HIGR&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hi-Great Group Holding Co.]]></category>
+<pink:symbol>HIGR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
