@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 15:55:03 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 16:28:37 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun  9 15:55:03 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 11:46:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 12:26:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482299]]></link>
+<pubDate>Mon, 09 Jun 2025 12:24:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482299]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[MDM Permian, Inc. (MDMP: Pink Current) | MDM Permian, Inc. Subsidiary Reports Strong Q1 Performance from New Revenue Stream]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MDMP/news?id=482292]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon Jun  9 15:55:03 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[EXAIL TECHNOLOGIES]]></category>
 <pink:symbol>EXALF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Annual Financial Report]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482122]]></link>
-<pubDate>Fri, 06 Jun 2025 06:41:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482122]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Experian plc]]></category>
-<pink:symbol>EXPGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
