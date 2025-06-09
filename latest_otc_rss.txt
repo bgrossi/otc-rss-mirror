@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 01:54:38 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 03:23:14 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun  9 01:54:38 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sun, 08 Jun 2025 21:36:27 EDT</lastBuildDate>
+<lastBuildDate>Sun, 08 Jun 2025 23:06:27 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Notification of cessation of securities - JLL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=482207]]></link>
+<pubDate>Sun, 08 Jun 2025 22:15:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=482207]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=482206]]></link>
+<pubDate>Sun, 08 Jun 2025 22:14:39 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=482206]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Jindalee Lithium Ltd.]]></category>
+<pink:symbol>JNDAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[First Graphene Limited (FGPHF: OTCQB) | New deal to deliver graphene enhanced safety boots to mining industry]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FGPHF/news?id=476284]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon Jun  9 01:54:38 UTC 2025
 <pink:symbol>EDESY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[bebe stores, inc. (BDST: Pink Limited) | bebe stores, inc. Appoints New Chief Financial Officer]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BDST/news?id=481966]]></link>
-<pubDate>Thu, 05 Jun 2025 08:15:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BDST/news?id=481966]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[bebe stores, inc.]]></category>
-<pink:symbol>BDST</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Invinity Energy Sys Plc. (IESVF: OTCQX International) | Appointment of Non-Executive Director]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=481985]]></link>
-<pubDate>Thu, 05 Jun 2025 07:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=481985]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Invinity Energy Sys Plc.]]></category>
-<pink:symbol>IESVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
