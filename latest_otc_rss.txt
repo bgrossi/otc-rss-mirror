@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun  9 21:21:33 UTC 2025
+OTC RSS mirror fetched: Mon Jun  9 21:41:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun  9 21:21:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 17:06:26 EDT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 17:36:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Limited) | SmartCard Marketing Systems Inc.(OTC:SMKG) Offers PaaS for National ID Solutions, Enhancing Governance and Data Security for Judicial, Police, and Government Agencies Reporting and Broadcast Notifications]]></title>
@@ -1488,6 +1488,18 @@ OTC RSS mirror fetched: Mon Jun  9 21:21:33 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Rafarma Pharmaceuticals, Inc. (WY) (RAFA: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RAFA&actionDate=1749441600000]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RAFA/company-info">Rafarma Pharmaceuticals, Inc. (WY)</a> (<a href="http://www.otcmarkets.com/stock/RAFA">RAFA</a>: Pink Limited) - Tier Change - The symbol, RAFA, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, RAFA resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RAFA&actionDate=1749441600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Rafarma Pharmaceuticals, Inc. (WY)]]></category>
+<pink:symbol>RAFA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Palatin Technologies, Inc. (PTNT: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTNT&actionDate=1749441600000]]></link>
 <description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTNT/company-info">Palatin Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PTNT">PTNT</a>: OTCQB) - Tier Change - The symbol, PTNT, no longer is classified as Pink Current.  As of Mon, Jun 09, 2025, PTNT resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1546,18 +1558,6 @@ OTC RSS mirror fetched: Mon Jun  9 21:21:33 UTC 2025
 <pink:symbol>KDOZF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[International Land Alliance Inc. (ILAL: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ILAL/company-info">International Land Alliance Inc.</a> (<a href="http://www.otcmarkets.com/stock/ILAL">ILAL</a>: Pink Current) - Tier Change - The symbol, ILAL, no longer is classified as Pink Limited.  As of Mon, Jun 09, 2025, ILAL resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ILAL&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[International Land Alliance Inc.]]></category>
-<pink:symbol>ILAL</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
