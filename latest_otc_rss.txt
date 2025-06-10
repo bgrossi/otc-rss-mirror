@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 16:51:53 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 17:18:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 10 16:51:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 12:46:24 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 13:06:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[MDM Permian, Inc. (MDMP: Pink Current) | MDM Permian, Inc. Appoints Michael Morrow to Board of Advisors to Support Strategic Capital Raise]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MDMP/news?id=482454]]></link>
+<pubDate>Tue, 10 Jun 2025 12:47:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MDMP/news?id=482454]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MDM Permian, Inc.]]></category>
+<pink:symbol>MDMP</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482453]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 10 16:51:53 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[ContextLogic Inc.]]></category>
 <pink:symbol>LOGC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[RIVERSIDE RES INC CDA (RVSDF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RVSDF/news?id=482174]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:37 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RVSDF/news?id=482174]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RIVERSIDE RES INC CDA]]></category>
-<pink:symbol>RVSDF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
