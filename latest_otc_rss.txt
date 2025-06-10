@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 10:46:37 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 11:18:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue Jun 10 10:46:37 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 06:36:25 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 07:06:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Leading Japanese Titanium Producer Validates Kasiya Rutile]]></title>
@@ -960,6 +960,18 @@ OTC RSS mirror fetched: Tue Jun 10 10:46:37 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[GERMANIUM MNG CORP. (EMSKF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EMSKF&actionDate=1749553175000]]></link>
+<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMSKD/company-info">GERMANIUM MNG CORP.</a> (<a href="http://www.otcmarkets.com/stock/EMSKD">EMSKF</a>: Pink Current) - Symbol Change - The symbol, EMSKF, is no longer a valid symbol for GERMANIUM MNG CORP..  As of Tue, Jun 10, 2025, the new trading symbol is EMSKD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 10 Jun 2025 06:59:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EMSKF&actionDate=1749553175000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GERMANIUM MNG CORP.]]></category>
+<pink:symbol>EMSKD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Global Blue Group Holding AG (GB.WS: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=GB.WS&actionDate=1749531659000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBGWF/company-info">Global Blue Group Holding AG</a> (<a href="http://www.otcmarkets.com/stock/GBGWF">GB.WS</a>: Pink Current) - Symbol Change - The symbol, GB.WS, is no longer a valid symbol for Global Blue Group Holding AG.  As of Tue, Jun 10, 2025, the new trading symbol is GBGWF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1068,18 +1080,6 @@ OTC RSS mirror fetched: Tue Jun 10 10:46:37 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[MicroStrategy, Inc. (MCSYV: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MCSYV&actionDate=1749466531000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCSYP/company-info">MicroStrategy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MCSYP">MCSYV</a>: Pink Current) - Symbol Change - The symbol, MCSYV, is no longer a valid symbol for MicroStrategy, Inc..  As of Mon, Jun 09, 2025, the new trading symbol is MCSYP. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:55:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MCSYV&actionDate=1749466531000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MicroStrategy, Inc.]]></category>
-<pink:symbol>MCSYP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[U.S. Neurosurgical Holdings, Inc. (EHSI: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EHSI&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EHSI/company-info">U.S. Neurosurgical Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/EHSI">EHSI</a>: Pink Current) - Company Name Change - U.S. Neurosurgical Holdings, Inc. has changed its name to Elite Health Systems, Inc.. The change goes into effect as of Tue, Jun 10, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1112,6 +1112,18 @@ OTC RSS mirror fetched: Tue Jun 10 10:46:37 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Now Corporation (The)]]></category>
 <pink:symbol>NWPND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GERMANIUM MNG CORP. (EMSKF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EMSKF&actionDate=1749528000000]]></link>
+<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMSKD/company-info">GERMANIUM MNG CORP.</a> (<a href="http://www.otcmarkets.com/stock/EMSKD">EMSKF</a>: Pink Current) - Splits - Effective Tue, Jun 10, 2025, EMSKF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, EMSKF is no longer valid. The new trading symbol is EMSKD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EMSKF&actionDate=1749528000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GERMANIUM MNG CORP.]]></category>
+<pink:symbol>EMSKD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
