@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 14:45:35 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 15:23:34 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue Jun 10 14:45:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 10:26:25 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 11:06:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ACMAT Corp. (ACMT: Pink Current) | ACMAT Corporation Director Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACMT/news?id=482444]]></link>
+<pubDate>Tue, 10 Jun 2025 10:57:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACMT/news?id=482444]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ACMAT Corp.]]></category>
+<pink:symbol>ACMT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | Massive Stibnite Confirmed at Antimony Canyon Project, Utah]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=482442]]></link>
+<pubDate>Tue, 10 Jun 2025 10:29:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=482442]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trigg Minerals Ltd]]></category>
+<pink:symbol>TMGLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Director/PDMR Shareholding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482437]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Tue Jun 10 14:45:35 UTC 2025
 <pink:symbol>OTCM</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CanCambria Energy Corp. (CCEYF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CCEYF/news?id=482184]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CCEYF/news?id=482184]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CanCambria Energy Corp.]]></category>
-<pink:symbol>CCEYF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Galera Therapeutics, Inc. (GRTX: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GRTX/news?id=482179]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GRTX/news?id=482179]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Galera Therapeutics, Inc.]]></category>
-<pink:symbol>GRTX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
