@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 22:54:54 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 23:19:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 10 22:54:54 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 18:36:24 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 19:06:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of Issue of Unquoted Securities]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=482475]]></link>
+<pubDate>Tue, 10 Jun 2025 18:37:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=482475]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brainchip Holdings Ltd.]]></category>
+<pink:symbol>BCHPY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Sets the Record Straight on Governance and Strategy in Comprehensive 2025 Annual Meeting Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482462]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 10 22:54:54 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[BYD Co., Ltd.]]></category>
 <pink:symbol>BYDDY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Impact Fusion International Inc. (IFUS: Pink Current) | IFUS Letter to the Shareholders 6-9-25]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IFUS/news?id=482262]]></link>
-<pubDate>Mon, 09 Jun 2025 08:34:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IFUS/news?id=482262]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Impact Fusion International Inc.]]></category>
-<pink:symbol>IFUS</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
