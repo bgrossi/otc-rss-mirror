@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 16:28:29 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 16:51:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Tue Jun 10 16:28:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 12:26:25 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 12:46:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482453]]></link>
+<pubDate>Tue, 10 Jun 2025 12:45:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482453]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[West Point Gold Corp. (WPGCF: OTCQB) | West Point Gold Completes C$8 Million Financing]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WPGCF/news?id=482452]]></link>
+<pubDate>Tue, 10 Jun 2025 12:44:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WPGCF/news?id=482452]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[West Point Gold Corp.]]></category>
+<pink:symbol>WPGCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[TransGlobal Assets, Inc. (TMSH: Pink Current) | TransGlobal Assets Inc. (OTC:TMSH) Unlocks Strategic Value with Sale of Incued App to Bell Rose Capital Inc. (OTC:BELR)]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=482450]]></link>
+<pubDate>Tue, 10 Jun 2025 12:30:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=482450]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TransGlobal Assets, Inc.]]></category>
+<pink:symbol>TMSH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Datatec Ltd. S.A. (DTTLY: OTCQX International) | DEALINGS IN SECURITIES BY DIRECTOR]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DTTLY/news?id=482448]]></link>
@@ -573,42 +609,6 @@ OTC RSS mirror fetched: Tue Jun 10 16:28:29 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[RIVERSIDE RES INC CDA]]></category>
 <pink:symbol>RVSDF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[PCS Edventures!.com, Inc. (PCSV: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PCSV/news?id=482175]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PCSV/news?id=482175]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PCS Edventures!.com, Inc.]]></category>
-<pink:symbol>PCSV</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Thunder Power Holdings, Inc. (AIEV: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AIEV/news?id=482173]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIEV/news?id=482173]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Thunder Power Holdings, Inc.]]></category>
-<pink:symbol>AIEV</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Marvion Inc. (MVNC: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MVNC/news?id=482176]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MVNC/news?id=482176]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Marvion Inc.]]></category>
-<pink:symbol>MVNC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
