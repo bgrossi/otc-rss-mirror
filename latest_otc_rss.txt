@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 12:45:58 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 13:34:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Tue Jun 10 12:45:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 08:26:25 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 09:26:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Trustco Group Holdings Ltd. (TSCHY: Pink Limited) | Renewal of Cautionary Announcement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=482429]]></link>
+<pubDate>Tue, 10 Jun 2025 09:08:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSCHY/news?id=482429]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Trustco Group Holdings Ltd.]]></category>
+<pink:symbol>TSCHY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ECGI Holdings Inc. (ECGI: Pink Current) | ECGI Holdings Invests in AI-Powered Fantasy Sports Startup Payday Fantasy]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=482423]]></link>
+<pubDate>Tue, 10 Jun 2025 09:02:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ECGI/news?id=482423]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ECGI Holdings Inc.]]></category>
+<pink:symbol>ECGI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[D IETEREN GROUP NV (SIETY: null) | SIETY - Books will close today, June 10, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SIETY/news?id=482421]]></link>
+<pubDate>Tue, 10 Jun 2025 08:47:20 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SIETY/news?id=482421]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[D IETEREN GROUP NV]]></category>
+<pink:symbol>SIETY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[BYD Co., Ltd. (BYDDY: Pink Current) | BYDDY - Books will close at the close of business today, June 10, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BYDDY/news?id=482420]]></link>
+<pubDate>Tue, 10 Jun 2025 08:46:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BYDDY/news?id=482420]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BYD Co., Ltd.]]></category>
+<pink:symbol>BYDDY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Hot Chili Ltd. (HHLKF: OTCQX International) | Huasco Water Corporate Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=482417]]></link>
+<pubDate>Tue, 10 Jun 2025 08:35:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HHLKF/news?id=482417]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Hot Chili Ltd.]]></category>
+<pink:symbol>HHLKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Correction: Ahold Delhaize share buyback update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=482383]]></link>
@@ -551,66 +611,6 @@ OTC RSS mirror fetched: Tue Jun 10 12:45:58 UTC 2025
 <pink:symbol>LUXFF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Eagle Plains Resources Ltd. (EGPLF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EGPLF/news?id=482180]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EGPLF/news?id=482180]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Eagle Plains Resources Ltd.]]></category>
-<pink:symbol>EGPLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Dynacert Inc (DYFSF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 9]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DYFSF/news?id=482181]]></link>
-<pubDate>Mon, 09 Jun 2025 07:00:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DYFSF/news?id=482181]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dynacert Inc]]></category>
-<pink:symbol>DYFSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bell Rose Capital Inc. (BELR: Pink Current) | BELR incued update]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=482219]]></link>
-<pubDate>Mon, 09 Jun 2025 06:00:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BELR/news?id=482219]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bell Rose Capital Inc.]]></category>
-<pink:symbol>BELR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[M.O.B.A. Network AB (MOBNF: OTCQX International) | M.O.B.A. Network Expands Direct Sales in the Nordics Through New Partnership with Execute Media]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=482218]]></link>
-<pubDate>Mon, 09 Jun 2025 03:30:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MOBNF/news?id=482218]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[M.O.B.A. Network AB]]></category>
-<pink:symbol>MOBNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482190]]></link>
-<pubDate>Mon, 09 Jun 2025 02:00:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482190]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
