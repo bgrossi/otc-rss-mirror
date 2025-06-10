@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 10 04:01:29 UTC 2025
+OTC RSS mirror fetched: Tue Jun 10 04:42:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Tue Jun 10 04:01:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 09 Jun 2025 23:36:26 EDT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 00:36:25 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Dogecoin Cash Inc. (CBDS: OTCQB) | Dogecoin Cash Inc. (OTCQB: CBDS) Announces Symbol Change to DOGP, Planting Its Flag in the Memeosphere]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CBDS/news?id=482337]]></link>
+<pubDate>Mon, 09 Jun 2025 23:55:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CBDS/news?id=482337]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Dogecoin Cash Inc.]]></category>
+<pink:symbol>CBDS</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Change of Auditor]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=482336]]></link>
+<pubDate>Mon, 09 Jun 2025 23:38:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=482336]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
+<pink:symbol>EULIF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | LOI - A.R.T. Digital - ePIC Blockchain - Force Physics]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482335]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Tue Jun 10 04:01:29 UTC 2025
 <pink:symbol>IMBBY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Triad Business Bank (TBBC: Pink Current) | 2025 Annual Meeting of Shareholders-Voting Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TBBC/news?id=482185]]></link>
-<pubDate>Fri, 06 Jun 2025 11:29:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TBBC/news?id=482185]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Triad Business Bank]]></category>
-<pink:symbol>TBBC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Damon Inc. (DMNIF: Pink Current) | Damon Launches Damon I/O, The Digital Backbone Transforming Personal Mobility To Safe, Smart AI Connected Experiences]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482170]]></link>
-<pubDate>Fri, 06 Jun 2025 09:48:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DMNIF/news?id=482170]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Damon Inc.]]></category>
-<pink:symbol>DMNIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1344,18 +1344,6 @@ OTC RSS mirror fetched: Tue Jun 10 04:01:29 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[BYD Co., Ltd. (BYDDF: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285707]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 02:23 - <a href="http://www.otcmarkets.com/stock/BYDDF/company-info">BYD Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BYDDF">BYDDF</a>: Pink Current) - Scheduled Ex-Dividend - BYD Co., Ltd. has announced a dividend ex-date for (BYDDF: Pink Current). BYD Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Tue, Jun 10, 2025 to shareholders of BYDDF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 14:23:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285707]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BYD Co., Ltd.]]></category>
-<pink:symbol>BYDDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Absecon Bancorp (ASCN: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285718]]></link>
 <description><![CDATA[Mon, Jun 09, 2025 12:29 - <a href="http://www.otcmarkets.com/stock/ASCN/company-info">Absecon Bancorp</a> (<a href="http://www.otcmarkets.com/stock/ASCN">ASCN</a>: Pink Current) - Scheduled Ex-Dividend - Absecon Bancorp has announced a dividend ex-date for (ASCN: Pink Current). Absecon Bancorp is scheduled to disburse a Cash Dividend dividend of $0.9 on Fri, Jun 20, 2025 to shareholders of ASCN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1438,6 +1426,18 @@ OTC RSS mirror fetched: Tue Jun 10 04:01:29 UTC 2025
 <pink:symbol>ZSHGY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[METLEN ENERGY & METALS S A (MYTHY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285729]]></link>
+<description><![CDATA[Mon, Jun 09, 2025 09:47 - <a href="http://www.otcmarkets.com/stock/MYTHY/company-info">METLEN ENERGY & METALS S A</a> (<a href="http://www.otcmarkets.com/stock/MYTHY">MYTHY</a>: Pink Limited) - Scheduled Ex-Dividend - METLEN ENERGY & METALS S A has announced a dividend ex-date for (MYTHY: Pink Limited). METLEN ENERGY & METALS S A is scheduled to disburse a Cash Dividend dividend of $1.55578 on Fri, Jun 27, 2025 to shareholders of MYTHY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 09 Jun 2025 09:47:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285729]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[METLEN ENERGY & METALS S A]]></category>
+<pink:symbol>MYTHY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Unitronix Corp. (UTRX: Pink Current) | Tier Change]]></title>
