@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 17:42:29 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 17:53:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 17:42:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 13:26:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 13:46:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Forza! Bitcoin Treasury Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482595]]></link>
+<pubDate>Wed, 11 Jun 2025 13:33:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482595]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coinsilium Group Ltd.]]></category>
+<pink:symbol>CINGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Exercise of Options]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482594]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 11 17:42:29 UTC 2025
 <pink:symbol>ELVUF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DATELINE RESOURCES LTD. (DTREF: OTCQB) | U.S. Government Support for Colosseum Rare Earths]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTREF/news?id=482331]]></link>
-<pubDate>Mon, 09 Jun 2025 20:22:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTREF/news?id=482331]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DATELINE RESOURCES LTD.]]></category>
-<pink:symbol>DTREF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
