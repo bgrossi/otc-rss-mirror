@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 05:29:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 00:36:24 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 01:06:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Treasury Information - May 2025]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CBRA&actionDate=1749618053000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CBRA/company-info">Caring Brands, Inc</a> (<a href="http://www.otcmarkets.com/stock/CBRA">CBRA</a>: OTC Link) - Venue Change - The symbol, CBRA, no longer trades on Grey Market.  As of Wed, Jun 11, 2025, CBRA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 01:00:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CBRA&actionDate=1749618053000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Caring Brands, Inc]]></category>
+<pink:symbol>CBRA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ITALGAS SPA (IGARF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=IGARF&actionDate=1749538465000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IGARF/company-info">ITALGAS SPA</a> (<a href="http://www.otcmarkets.com/stock/IGARF">IGARF</a>: OTC Link) - Venue Change - The symbol, IGARF, no longer trades on Grey Market.  As of Tue, Jun 10, 2025, IGARF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -958,6 +970,18 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:symbol>AAUC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[UMB Financial Corp. (UMBXV: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=UMBXV&actionDate=1749618035000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMBXL/company-info">UMB Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/UMBXL">UMBXV</a>: Pink Current) - Symbol Change - The symbol, UMBXV, is no longer a valid symbol for UMB Financial Corp..  As of Wed, Jun 11, 2025, the new trading symbol is UMBXL. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 01:00:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=UMBXV&actionDate=1749618035000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UMB Financial Corp.]]></category>
+<pink:symbol>UMBXL</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Medaro Mining Corp. (MEDAD: Pink Current) | Symbol Change]]></title>
@@ -1068,18 +1092,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Green Rain Energy Holdings Inc. (NWPN: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NWPN&actionDate=1749468257000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NWPND/company-info">Green Rain Energy Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/NWPND">NWPN</a>: Pink Current) - Symbol Change - The symbol, NWPN, is no longer a valid symbol for Green Rain Energy Holdings Inc..  As of Mon, Jun 09, 2025, the new trading symbol is NWPND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 07:24:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NWPN&actionDate=1749468257000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Rain Energy Holdings Inc.]]></category>
-<pink:symbol>NWPND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[U.S. Neurosurgical Holdings, Inc. (EHSI: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EHSI&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EHSI/company-info">U.S. Neurosurgical Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/EHSI">EHSI</a>: Pink Current) - Company Name Change - U.S. Neurosurgical Holdings, Inc. has changed its name to Elite Health Systems, Inc.. The change goes into effect as of Tue, Jun 10, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1126,6 +1138,42 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:symbol>BYDDF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Borneo Resource Investments Ltd. (BRNE: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRNE&actionDate=1749618027000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - Borneo Resource Investments Ltd. (BRNE: OTC Link) - Deleted Symbol - As of Wed, Jun 11, 2025, BRNE is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 01:00:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRNE&actionDate=1749618027000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Borneo Resource Investments Ltd.]]></category>
+<pink:symbol>BRNE</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Burcon NutraScience Corp. (BRCNF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRCNF&actionDate=1749618018000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - Burcon NutraScience Corp. (BRCNF: OTC Link) - Deleted Symbol - As of Wed, Jun 11, 2025, BRCNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 01:00:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRCNF&actionDate=1749618018000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Burcon NutraScience Corp.]]></category>
+<pink:symbol>BRCNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[JBS S.A. (JBSAY: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=JBSAY&actionDate=1749618009000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - JBS S.A. (JBSAY: OTC Link) - Deleted Symbol - As of Wed, Jun 11, 2025, JBSAY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 01:00:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=JBSAY&actionDate=1749618009000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[JBS S.A.]]></category>
+<pink:symbol>JBSAY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[CRISM THERAPEUTICS CORP (AMMCF: OTC Link) | Deleted Symbol]]></title>
@@ -1210,42 +1258,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:symbol>BHAC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Focus Impact BH3 Acquisition Company (BHACU: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACU&actionDate=1749445250000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHACU: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHACU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACU&actionDate=1749445250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
-<pink:symbol>BHACU</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Urbi Desarrollos Urbanos SAB de CV (URBDF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=URBDF&actionDate=1749445241000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - Urbi Desarrollos Urbanos SAB de CV (URBDF: Grey Market) - Deleted Symbol - As of Mon, Jun 09, 2025, URBDF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=URBDF&actionDate=1749445241000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Urbi Desarrollos Urbanos SAB de CV]]></category>
-<pink:symbol>URBDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[JSP Pharmaceutical Manufacturing PCL (TNRCF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TNRCF&actionDate=1749445241000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - JSP Pharmaceutical Manufacturing PCL (TNRCF: Grey Market) - Deleted Symbol - As of Mon, Jun 09, 2025, TNRCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=TNRCF&actionDate=1749445241000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JSP Pharmaceutical Manufacturing PCL]]></category>
-<pink:symbol>TNRCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[DLP RES INC. (DLPRF: OTCQB) | Halted Security]]></title>
@@ -1536,6 +1548,54 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTCQB) - Tier Change - The symbol, TSWCF, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, TSWCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sappi Ltd. (SPPJY: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPJY&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPJY/company-info">Sappi Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SPPJY">SPPJY</a>: OTCQX International) - Tier Change - The symbol, SPPJY, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, SPPJY resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPJY&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sappi Ltd.]]></category>
+<pink:symbol>SPPJY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Dirtt Environmental Solutions Ltd (DRTTF: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRTTF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DRTTF/company-info">Dirtt Environmental Solutions Ltd</a> (<a href="http://www.otcmarkets.com/stock/DRTTF">DRTTF</a>: OTCQX International) - Tier Change - The symbol, DRTTF, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, DRTTF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRTTF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Dirtt Environmental Solutions Ltd]]></category>
+<pink:symbol>DRTTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBRA&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CBRA/company-info">Caring Brands, Inc</a> (<a href="http://www.otcmarkets.com/stock/CBRA">CBRA</a>: OTCQB) - Tier Change - The symbol, CBRA, no longer is classified as Grey Market.  As of Wed, Jun 11, 2025, CBRA resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBRA&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Caring Brands, Inc]]></category>
+<pink:symbol>CBRA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZCARW&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: Pink Current) - Tier Change - The symbol, ZCARW, no longer is classified as OTCQB.  As of Tue, Jun 10, 2025, ZCARW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1606,54 +1666,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:59:26 UTC 2025
 <pink:symbol>PURE</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PPC Limited (PPCMF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPCMF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Pink Current) - Tier Change - The symbol, PPCMF, no longer is classified as Grey Market.  As of Tue, Jun 10, 2025, PPCMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PPCMF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PPC Limited]]></category>
-<pink:symbol>PPCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MTL CANNABIS CORP (MTLNF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTLNF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MTLNF/company-info">MTL CANNABIS CORP</a> (<a href="http://www.otcmarkets.com/stock/MTLNF">MTLNF</a>: OTCQX International) - Tier Change - The symbol, MTLNF, no longer is classified as OTCQB.  As of Tue, Jun 10, 2025, MTLNF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MTLNF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MTL CANNABIS CORP]]></category>
-<pink:symbol>MTLNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MARKY CORP. (MRKY: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRKY/company-info">MARKY CORP.</a> (<a href="http://www.otcmarkets.com/stock/MRKY">MRKY</a>: Pink Current) - Tier Change - The symbol, MRKY, no longer is classified as OTCQB.  As of Tue, Jun 10, 2025, MRKY resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MARKY CORP.]]></category>
-<pink:symbol>MRKY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Mayex USA, Inc. (MAYX: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MAYX&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MAYX/company-info">Mayex USA, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MAYX">MAYX</a>: Pink Current) - Tier Change - The symbol, MAYX, no longer is classified as Pink Limited.  As of Tue, Jun 10, 2025, MAYX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MAYX&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mayex USA, Inc.]]></category>
-<pink:symbol>MAYX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
