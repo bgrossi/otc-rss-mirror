@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 12:45:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 07:36:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 08:26:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information on the transactions carried out by Repsol, S.A. under its Buy-back Programme between June 4 y 10, 2025]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[MicroStrategy, Inc. (STRD: null) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STRD&actionDate=1749644765000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STRD/company-info">MicroStrategy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/STRD">STRD</a>: Nasdaq) - Venue Change - The symbol, STRD, no longer trades on OTC Link.  As of Wed, Jun 11, 2025, STRD trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 08:26:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STRD&actionDate=1749644765000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MicroStrategy, Inc.]]></category>
+<pink:symbol>STRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CBRA&actionDate=1749618053000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CBRA/company-info">Caring Brands, Inc</a> (<a href="http://www.otcmarkets.com/stock/CBRA">CBRA</a>: OTC Link) - Venue Change - The symbol, CBRA, no longer trades on Grey Market.  As of Wed, Jun 11, 2025, CBRA trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -972,6 +984,30 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ResourceTec Corporation (BRNE: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRNE&actionDate=1749642162000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRNED/company-info">ResourceTec Corporation</a> (<a href="http://www.otcmarkets.com/stock/BRNED">BRNE</a>: Pink Current) - Symbol Change - The symbol, BRNE, is no longer a valid symbol for ResourceTec Corporation.  As of Wed, Jun 11, 2025, the new trading symbol is BRNED. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 07:42:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRNE&actionDate=1749642162000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ResourceTec Corporation]]></category>
+<pink:symbol>BRNED</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Burcon NutraScience Corp. (BRCNF: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRCNF&actionDate=1749642131000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRCND/company-info">Burcon NutraScience Corp.</a> (<a href="http://www.otcmarkets.com/stock/BRCND">BRCNF</a>: OTCQB) - Symbol Change - The symbol, BRCNF, is no longer a valid symbol for Burcon NutraScience Corp..  As of Wed, Jun 11, 2025, the new trading symbol is BRCND. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 07:42:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRCNF&actionDate=1749642131000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Burcon NutraScience Corp.]]></category>
+<pink:symbol>BRCND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[UMB Financial Corp. (UMBXV: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=UMBXV&actionDate=1749618035000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UMBXL/company-info">UMB Financial Corp.</a> (<a href="http://www.otcmarkets.com/stock/UMBXL">UMBXV</a>: Pink Current) - Symbol Change - The symbol, UMBXV, is no longer a valid symbol for UMB Financial Corp..  As of Wed, Jun 11, 2025, the new trading symbol is UMBXL. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1068,30 +1104,6 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC. (CMHSD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CMHSD&actionDate=1749531620000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMHSF/company-info">COMPREHENSIVE HEALTHCARE SYS INC.</a> (<a href="http://www.otcmarkets.com/stock/CMHSF">CMHSD</a>: Pink Current) - Symbol Change - The symbol, CMHSD, is no longer a valid symbol for COMPREHENSIVE HEALTHCARE SYS INC..  As of Tue, Jun 10, 2025, the new trading symbol is CMHSF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 01:00:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CMHSD&actionDate=1749531620000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[COMPREHENSIVE HEALTHCARE SYS INC.]]></category>
-<pink:symbol>CMHSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Altura Energy Corp. (TTLHD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TTLHD&actionDate=1749531616000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TTLHF/company-info">Altura Energy Corp.</a> (<a href="http://www.otcmarkets.com/stock/TTLHF">TTLHD</a>: Pink Current) - Symbol Change - The symbol, TTLHD, is no longer a valid symbol for Altura Energy Corp..  As of Tue, Jun 10, 2025, the new trading symbol is TTLHF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 01:00:16 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=TTLHD&actionDate=1749531616000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Altura Energy Corp.]]></category>
-<pink:symbol>TTLHF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PREMIUM RESOURCES LTD. (PRMLF: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=PRMLF&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMLF/company-info">PREMIUM RESOURCES LTD.</a> (<a href="http://www.otcmarkets.com/stock/PRMLF">PRMLF</a>: Pink Current) - Company Name Change - PREMIUM RESOURCES LTD. has changed its name to NEXMETALS MINING CORP.. The change goes into effect as of Wed, Jun 11, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1162,6 +1174,30 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:symbol>EMSKD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ResourceTec Corporation (BRNE: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRNE&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRNED/company-info">ResourceTec Corporation</a> (<a href="http://www.otcmarkets.com/stock/BRNED">BRNE</a>: Pink Current) - Splits - Effective Wed, Jun 11, 2025, BRNE: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, BRNE is no longer valid. The new trading symbol is BRNED. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRNE&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ResourceTec Corporation]]></category>
+<pink:symbol>BRNED</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Burcon NutraScience Corp. (BRCNF: OTCQB) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRCNF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRCND/company-info">Burcon NutraScience Corp.</a> (<a href="http://www.otcmarkets.com/stock/BRCND">BRCNF</a>: OTCQB) - Splits - Effective Wed, Jun 11, 2025, BRCNF: OTCQB engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, BRCNF is no longer valid. The new trading symbol is BRCND. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRCNF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Burcon NutraScience Corp.]]></category>
+<pink:symbol>BRCND</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[GERMANIUM MNG CORP. (EMSKF: Pink Current) | Splits]]></title>
@@ -1512,6 +1548,30 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PT ALAMTRI RES INDONESIA TBK (ADOOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285785]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 07:49 - <a href="http://www.otcmarkets.com/stock/ADOOY/company-info">PT ALAMTRI RES INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/ADOOY">ADOOY</a>: Pink Limited) - Scheduled Ex-Dividend - PT ALAMTRI RES INDONESIA TBK has announced a dividend ex-date for (ADOOY: Pink Limited). PT ALAMTRI RES INDONESIA TBK is scheduled to disburse a Cash Dividend dividend of null on Fri, Jun 20, 2025 to shareholders of ADOOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 07:49:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285785]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT ALAMTRI RES INDONESIA TBK]]></category>
+<pink:symbol>ADOOY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[BYD Co., Ltd. (BYDDY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285784]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 07:47 - <a href="http://www.otcmarkets.com/stock/BYDDY/company-info">BYD Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BYDDY">BYDDY</a>: Pink Current) - Scheduled Ex-Dividend - BYD Co., Ltd. has announced a dividend ex-date for (BYDDY: Pink Current). BYD Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 6 shares on Wed, Jul 30, 2025 to shareholders of BYDDY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 07:47:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285784]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BYD Co., Ltd.]]></category>
+<pink:symbol>BYDDY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Strabag SE (SBAGY: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285779]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 02:17 - <a href="http://www.otcmarkets.com/stock/SBAGY/company-info">Strabag SE</a> (<a href="http://www.otcmarkets.com/stock/SBAGY">SBAGY</a>: Pink Current) - Scheduled Ex-Dividend - Strabag SE has announced a dividend ex-date for (SBAGY: Pink Current). Strabag SE is scheduled to disburse a Cash Dividend dividend of $0.38258 on Fri, Jun 20, 2025 to shareholders of SBAGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1606,30 +1666,6 @@ OTC RSS mirror fetched: Wed Jun 11 11:51:43 UTC 2025
 <pink:symbol>ZNNGY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Salmar ASA (SALRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285776]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 10:36 - <a href="http://www.otcmarkets.com/stock/SALRY/company-info">Salmar ASA</a> (<a href="http://www.otcmarkets.com/stock/SALRY">SALRY</a>: Pink Limited) - Scheduled Ex-Dividend - Salmar ASA has announced a dividend ex-date for (SALRY: Pink Limited). Salmar ASA is scheduled to disburse a Cash Dividend dividend of $0.36032 on Fri, Jun 20, 2025 to shareholders of SALRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 10:36:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285776]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Salmar ASA]]></category>
-<pink:symbol>SALRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Leonardo S.P.A. (FINMY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285728]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 02:49 - <a href="http://www.otcmarkets.com/stock/FINMY/company-info">Leonardo S.P.A.</a> (<a href="http://www.otcmarkets.com/stock/FINMY">FINMY</a>: Pink Limited) - Scheduled Ex-Dividend - Leonardo S.P.A. has announced a dividend ex-date for (FINMY: Pink Limited). Leonardo S.P.A. is scheduled to disburse a Cash Dividend dividend of $0.16039 on Tue, Jun 24, 2025 to shareholders of FINMY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 14:49:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285728]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Leonardo S.P.A.]]></category>
-<pink:symbol>FINMY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Tier Change]]></title>
