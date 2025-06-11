@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 16:30:29 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 16:57:03 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 16:30:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 12:26:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 12:46:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482590]]></link>
+<pubDate>Wed, 11 Jun 2025 12:44:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482590]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Director/PDMR Shareholding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482587]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Wed Jun 11 16:30:29 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482330]]></link>
 <pubDate>Mon, 09 Jun 2025 20:05:05 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482330]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
-<pink:symbol>SREMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Invitation Letter]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></link>
-<pubDate>Mon, 09 Jun 2025 20:00:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
 <pink:symbol>SREMF</pink:symbol>
@@ -1352,6 +1352,18 @@ OTC RSS mirror fetched: Wed Jun 11 16:30:29 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Goldquest Mining Corp.]]></category>
 <pink:symbol>GDQMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AMAROQ MINERALS LTD. (AMRQF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AMRQF/company-info">AMAROQ MINERALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/AMRQF">AMRQF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 11, 2025, AMRQF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=AMRQF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AMAROQ MINERALS LTD.]]></category>
+<pink:symbol>AMRQF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
