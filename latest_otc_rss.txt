@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 15:28:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 10:46:24 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 11:26:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Director/PDMR Shareholding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482587]]></link>
+<pubDate>Wed, 11 Jun 2025 11:11:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482587]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Power Metal Resources Plc (POWMF: OTCQB) | Uranium Joint Venture: Fermi Exploration: Exploration Update on the Perch River Property]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=482580]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></link>
 <pubDate>Mon, 09 Jun 2025 20:00:05 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
-<pink:symbol>SREMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Target Market Determination]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482328]]></link>
-<pubDate>Mon, 09 Jun 2025 19:57:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482328]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
 <pink:symbol>SREMF</pink:symbol>
@@ -1224,6 +1224,18 @@ OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Northfield Capital Corp. (NHFLF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NHFLF&actionDate=1749653654000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NHFLF/company-info">Northfield Capital Corp.</a> (<a href="http://www.otcmarkets.com/stock/NHFLF">NHFLF</a>: Grey Market) - Reactivated Symbol -  The symbol, NHFLF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 10:54:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NHFLF&actionDate=1749653654000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Northfield Capital Corp.]]></category>
+<pink:symbol>NHFLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[ResourceTec Corporation (BRNE: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BRNE&actionDate=1749618027000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - ResourceTec Corporation (BRNE: OTC Link) - Deleted Symbol - As of Wed, Jun 11, 2025, BRNE is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1328,18 +1340,6 @@ OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
 <pink:symbol>BHACW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Focus Impact BH3 Acquisition Company (BHAC: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHAC&actionDate=1749445250000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHAC: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHAC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHAC&actionDate=1749445250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
-<pink:symbol>BHAC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
