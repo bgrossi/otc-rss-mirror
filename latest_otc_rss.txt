@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 06:57:27 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 07:26:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 11 06:57:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 02:36:24 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 03:07:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -1320,6 +1320,30 @@ OTC RSS mirror fetched: Wed Jun 11 06:57:27 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VARNF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VARNF/company-info">VARIA US PPTYS LTD.</a> (<a href="http://www.otcmarkets.com/stock/VARNF">VARNF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 11, 2025, VARNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VARNF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VARIA US PPTYS LTD.]]></category>
+<pink:symbol>VARNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSWCF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTCQB) - Piggyback Qualified -  Effective Wed, Jun 11, 2025, TSWCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=TSWCF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PPC Limited (PPCMF: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPCMF&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Jun 10, 2025, PPCMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1596,6 +1620,18 @@ OTC RSS mirror fetched: Wed Jun 11 06:57:27 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VARNF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VARNF/company-info">VARIA US PPTYS LTD.</a> (<a href="http://www.otcmarkets.com/stock/VARNF">VARNF</a>: Pink Limited) - Tier Change - The symbol, VARNF, no longer is classified as Expert Market.  As of Wed, Jun 11, 2025, VARNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VARNF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VARIA US PPTYS LTD.]]></category>
+<pink:symbol>VARNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTCQB) - Tier Change - The symbol, TSWCF, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, TSWCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1702,18 +1738,6 @@ OTC RSS mirror fetched: Wed Jun 11 06:57:27 UTC 2025
 <pink:symbol>SHMCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PURE Bioscience (PURE: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PURE&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PURE/company-info">PURE Bioscience</a> (<a href="http://www.otcmarkets.com/stock/PURE">PURE</a>: OTCQB) - Tier Change - The symbol, PURE, no longer is classified as Pink Current.  As of Tue, Jun 10, 2025, PURE resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PURE&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PURE Bioscience]]></category>
-<pink:symbol>PURE</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
