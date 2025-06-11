@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 14:45:07 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 14:56:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 11 14:45:07 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 10:26:24 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 10:46:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Power Metal Resources Plc (POWMF: OTCQB) | Uranium Joint Venture: Fermi Exploration: Exploration Update on the Perch River Property]]></title>
@@ -246,18 +246,6 @@ OTC RSS mirror fetched: Wed Jun 11 14:45:07 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482462]]></link>
 <pubDate>Tue, 10 Jun 2025 16:05:09 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482462]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Sets the Record Straight on Governance and Strategy in Comprehensive 2025 Annual Meeting Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482458]]></link>
-<pubDate>Tue, 10 Jun 2025 16:05:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482458]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Paragon Technologies, Inc.]]></category>
 <pink:symbol>PGNT</pink:symbol>
@@ -606,6 +594,18 @@ OTC RSS mirror fetched: Wed Jun 11 14:45:07 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></link>
 <pubDate>Mon, 09 Jun 2025 20:00:05 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482329]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
+<pink:symbol>SREMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Target Market Determination]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482328]]></link>
+<pubDate>Mon, 09 Jun 2025 19:57:35 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=482328]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
 <pink:symbol>SREMF</pink:symbol>
