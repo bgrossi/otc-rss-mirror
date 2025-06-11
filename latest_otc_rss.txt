@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 20:22:53 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 20:42:57 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 20:22:53 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 16:06:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 16:36:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Orascom Investment Holding S.A.E. (OSCMY: null) | OSCMY - Books will close today, June 11, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OSCMY/news?id=482604]]></link>
+<pubDate>Wed, 11 Jun 2025 16:25:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OSCMY/news?id=482604]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orascom Investment Holding S.A.E.]]></category>
+<pink:symbol>OSCMY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[null]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Keweenaw Land Association, Ltd. (KEWL: Pink Limited) | Keweenaw Adds 14480 Acres in Upper Michigan Through Mineral Management Agreement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KEWL/news?id=482598]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 11 20:22:53 UTC 2025
 <pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Dogecoin Cash Inc. (DOGP: OTCQB) | Dogecoin Cash Inc. (OTCQB: CBDS) Announces Symbol Change to DOGP, Planting Its Flag in the Memeosphere]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DOGP/news?id=482337]]></link>
-<pubDate>Mon, 09 Jun 2025 23:55:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DOGP/news?id=482337]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dogecoin Cash Inc.]]></category>
-<pink:symbol>DOGP</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
