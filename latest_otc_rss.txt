@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 19:38:26 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 19:51:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 19:38:26 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 15:26:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 15:46:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Southpoint Bancshares Inc. (SOUB: Pink Current) | SOUTHPOINT BANK WELCOMES BILL LOGAN AS EVP AND CHIEF CREDIT OFFICER]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SOUB/news?id=482600]]></link>
+<pubDate>Wed, 11 Jun 2025 15:35:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SOUB/news?id=482600]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Southpoint Bancshares Inc.]]></category>
+<pink:symbol>SOUB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Tri County Financial Group Inc. (TYFG: OTCQX U.S.) | Quarterly Dividend Declaration]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TYFG/news?id=482599]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 11 19:38:26 UTC 2025
 <pink:symbol>EULIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | LOI - A.R.T. Digital - ePIC Blockchain - Force Physics]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482335]]></link>
-<pubDate>Mon, 09 Jun 2025 22:31:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482335]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Code Green Apparel Corp.]]></category>
-<pink:symbol>CGAC</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1342,6 +1342,18 @@ OTC RSS mirror fetched: Wed Jun 11 19:38:26 UTC 2025
 <pink:symbol>BHACW</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Rumble Resources Ltd. (RTRFF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RTRFF&actionDate=1749614400000]]></link>
+<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RTRFF/company-info">Rumble Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/RTRFF">RTRFF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 11, 2025, RTRFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RTRFF&actionDate=1749614400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Rumble Resources Ltd.]]></category>
+<pink:symbol>RTRFF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Goldquest Mining Corp. (GDQMF: Pink Current) | Halted Security]]></title>
