@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 04:43:20 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 10 Jun 2025 23:36:24 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 00:36:24 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Digitalx Ltd. (DGGXF: OTCQB) | Treasury Information - May 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DGGXF/news?id=482482]]></link>
+<pubDate>Wed, 11 Jun 2025 00:27:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DGGXF/news?id=482482]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Digitalx Ltd.]]></category>
+<pink:symbol>DGGXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Green Rain Energy Holdings Inc. (NWPND: Pink Current) | Green Rain Energy Holdings (OTC: NWPND) Announces Launch of New Website: GreenRainEnergy.com]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=482480]]></link>
+<pubDate>Wed, 11 Jun 2025 00:00:25 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=482480]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Green Rain Energy Holdings Inc.]]></category>
+<pink:symbol>NWPND</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Nova Minerals Ltd. (NVAAF: Pink Current) | Antimony-Gold Drilling Commenced at Stibium]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=482479]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Edenred Malakoff (EDNMY: null) | EDNMY - Books will close at the close of business today, June 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EDNMY/news?id=482270]]></link>
-<pubDate>Mon, 09 Jun 2025 08:51:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EDNMY/news?id=482270]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Edenred Malakoff]]></category>
-<pink:symbol>EDNMY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Israel Discount Bank Ltd. (ISDAY: Pink Limited) | ISDAY - Books will close today, June 9, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ISDAY/news?id=482269]]></link>
-<pubDate>Mon, 09 Jun 2025 08:50:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ISDAY/news?id=482269]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Israel Discount Bank Ltd.]]></category>
-<pink:symbol>ISDAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1104,18 +1104,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Now Corporation (The) (NWPND: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=NWPND&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NWPND/company-info">Now Corporation (The)</a> (<a href="http://www.otcmarkets.com/stock/NWPND">NWPND</a>: Pink Current) - Company Name Change - Now Corporation (The) has changed its name to Green Rain Energy Holdings Inc.. The change goes into effect as of Mon, Jun 09, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=NWPND&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Now Corporation (The)]]></category>
-<pink:symbol>NWPND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[GERMANIUM MNG CORP. (EMSKF: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EMSKF&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMSKD/company-info">GERMANIUM MNG CORP.</a> (<a href="http://www.otcmarkets.com/stock/EMSKD">EMSKF</a>: Pink Current) - Splits - Effective Tue, Jun 10, 2025, EMSKF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, EMSKF is no longer valid. The new trading symbol is EMSKD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1138,30 +1126,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 <pink:symbol>BYDDF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Green Rain Energy Holdings Inc. (NWPN: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NWPN&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NWPND/company-info">Green Rain Energy Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/NWPND">NWPN</a>: Pink Current) - Splits - Effective Mon, Jun 09, 2025, NWPN: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 500 split. Due to the split, NWPN is no longer valid. The new trading symbol is NWPND. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NWPN&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Rain Energy Holdings Inc.]]></category>
-<pink:symbol>NWPND</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVY: Pink Limited) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HAPVY&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HAPVD/company-info">HAPVIDA PARTICIPACOES E INVESTIMENTOS SA</a> (<a href="http://www.otcmarkets.com/stock/HAPVD">HAPVY</a>: Pink Limited) - Splits - Effective Mon, Jun 09, 2025, HAPVY: Pink Limited engaged in a rev split. As a result of the split, shs decreased by 0.266667 for 1 split. Due to the split, HAPVY is no longer valid. The new trading symbol is HAPVD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=HAPVY&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA]]></category>
-<pink:symbol>HAPVD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[CRISM THERAPEUTICS CORP (AMMCF: OTC Link) | Deleted Symbol]]></title>
@@ -1296,78 +1260,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[TUDOR GOLD CORP NEW (TDRRF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TDRRF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDRRF/company-info">TUDOR GOLD CORP NEW</a> (<a href="http://www.otcmarkets.com/stock/TDRRF">TDRRF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 09, 2025, TDRRF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TDRRF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TUDOR GOLD CORP NEW]]></category>
-<pink:symbol>TDRRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Canex Metals Inc. (NOMNF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=NOMNF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NOMNF/company-info">Canex Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/NOMNF">NOMNF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 09, 2025, NOMNF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=NOMNF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Canex Metals Inc.]]></category>
-<pink:symbol>NOMNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Surge Battery Metals Inc. (NILIF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=NILIF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NILIF/company-info">Surge Battery Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/NILIF">NILIF</a>: OTCQX International) - Halted Security -  Effective Mon, Jun 09, 2025, NILIF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=NILIF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Surge Battery Metals Inc.]]></category>
-<pink:symbol>NILIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Denarius Metals Corp. (DNRSF: OTCQX International) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DNRSF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DNRSF/company-info">Denarius Metals Corp.</a> (<a href="http://www.otcmarkets.com/stock/DNRSF">DNRSF</a>: OTCQX International) - Halted Security -  Effective Mon, Jun 09, 2025, DNRSF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DNRSF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Denarius Metals Corp.]]></category>
-<pink:symbol>DNRSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atico Mining Corp (ATCMF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATCMF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ATCMF/company-info">Atico Mining Corp</a> (<a href="http://www.otcmarkets.com/stock/ATCMF">ATCMF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 09, 2025, ATCMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ATCMF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atico Mining Corp]]></category>
-<pink:symbol>ATCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[American Creek Resources, Ltd. (ACKRF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ACKRF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ACKRF/company-info">American Creek Resources, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/ACKRF">ACKRF</a>: OTCQB) - Halted Security -  Effective Mon, Jun 09, 2025, ACKRF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=ACKRF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[American Creek Resources, Ltd.]]></category>
-<pink:symbol>ACKRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PPC Limited (PPCMF: Pink Current) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPCMF&actionDate=1749528000000]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Jun 10, 2025, PPCMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1402,18 +1294,6 @@ OTC RSS mirror fetched: Wed Jun 11 04:01:09 UTC 2025
 <pink:symbol>HAPVD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Kidoz Inc. (KDOZF: OTCQB) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KDOZF&actionDate=1749441600000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KDOZF/company-info">Kidoz Inc.</a> (<a href="http://www.otcmarkets.com/stock/KDOZF">KDOZF</a>: OTCQB) - Piggyback Qualified -  Effective Mon, Jun 09, 2025, KDOZF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=KDOZF&actionDate=1749441600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kidoz Inc.]]></category>
-<pink:symbol>KDOZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[NETDRAGON WEBSOFT HLDGS LTD (NDWTY: Pink Current) | Ex-Dividend]]></title>
