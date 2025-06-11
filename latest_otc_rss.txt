@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 11 19:19:44 UTC 2025
+OTC RSS mirror fetched: Wed Jun 11 19:38:26 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 11 19:19:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 15:06:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 15:26:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Tri County Financial Group Inc. (TYFG: OTCQX U.S.) | Quarterly Dividend Declaration]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TYFG/news?id=482599]]></link>
+<pubDate>Wed, 11 Jun 2025 15:22:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TYFG/news?id=482599]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tri County Financial Group Inc.]]></category>
+<pink:symbol>TYFG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ASM International N.V. (ASMIY: OTCQX International) | ASM share buyback update June 2 - 6, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=482488]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 11 19:19:44 UTC 2025
 <pink:symbol>CGAC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Elevate Uranium Ltd. (ELVUF: OTCQX International) | Presentation - Developing our strategic uranium assets to meet carbon free energy demands]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ELVUF/news?id=482333]]></link>
-<pubDate>Mon, 09 Jun 2025 21:29:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ELVUF/news?id=482333]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Elevate Uranium Ltd.]]></category>
-<pink:symbol>ELVUF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
