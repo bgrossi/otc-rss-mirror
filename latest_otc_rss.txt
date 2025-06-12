@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 01:48:49 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 03:17:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 12 01:48:49 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 21:36:23 EDT</lastBuildDate>
+<lastBuildDate>Wed, 11 Jun 2025 23:06:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Peninsula Energy Ltd. (PENMF: OTCQB) | Company Update and Samuel EPC Settlement]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PENMF/news?id=482626]]></link>
+<pubDate>Wed, 11 Jun 2025 22:00:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PENMF/news?id=482626]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Peninsula Energy Ltd.]]></category>
+<pink:symbol>PENMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Conversion of Options to Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=482625]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 12 01:48:49 UTC 2025
 <pink:symbol>ADRNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Limited) | Stock Transactions]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=482338]]></link>
-<pubDate>Tue, 10 Jun 2025 02:00:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=482338]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DATATRAK International, Inc.]]></category>
-<pink:symbol>DTRK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
