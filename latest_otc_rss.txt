@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 15:44:41 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 15:56:17 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun 12 15:44:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 11:26:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 11:46:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Utilities Finance Plc - Publication of Final Terms]]></title>
@@ -864,6 +864,18 @@ OTC RSS mirror fetched: Thu Jun 12 15:44:41 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NISSHIN GROUP HLDGS CO LTD (NSHGF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NSHGF&actionDate=1749742842000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSHGF/company-info">NISSHIN GROUP HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/NSHGF">NSHGF</a>: Grey Market) - Venue Change - The symbol, NSHGF, no longer trades on OTC Link.  As of Thu, Jun 12, 2025, NSHGF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 11:40:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NSHGF&actionDate=1749742842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NISSHIN GROUP HLDGS CO LTD]]></category>
+<pink:symbol>NSHGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[UNITED OIL & GAS PLC (UOGPF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UOGPF&actionDate=1749727259000]]></link>
 <description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UOGPF/company-info">UNITED OIL & GAS PLC</a> (<a href="http://www.otcmarkets.com/stock/UOGPF">UOGPF</a>: OTC Link) - Venue Change - The symbol, UOGPF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, UOGPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -1200,6 +1212,18 @@ OTC RSS mirror fetched: Thu Jun 12 15:44:41 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NISSHIN GROUP HLDGS CO LTD (NSHGF: Grey Market) | Reactivated Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSHGF&actionDate=1749742842000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSHGF/company-info">NISSHIN GROUP HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/NSHGF">NSHGF</a>: Grey Market) - Reactivated Symbol -  The symbol, NSHGF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 11:40:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NSHGF&actionDate=1749742842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NISSHIN GROUP HLDGS CO LTD]]></category>
+<pink:symbol>NSHGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Coolpad Group Ltd (CHWTF: Pink Current) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CHWTF&actionDate=1749704460000]]></link>
 <description><![CDATA[Thu, Jun 12, 2025 12:00 - Coolpad Group Ltd (CHWTF: Pink Current) - Deleted Symbol - As of Thu, Jun 12, 2025, CHWTF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1304,18 +1328,6 @@ OTC RSS mirror fetched: Thu Jun 12 15:44:41 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Burcon NutraScience Corp.]]></category>
 <pink:symbol>BRCNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[JBS S.A. (JBSAY: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=JBSAY&actionDate=1749618009000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - JBS S.A. (JBSAY: OTC Link) - Deleted Symbol - As of Wed, Jun 11, 2025, JBSAY is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 01:00:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=JBSAY&actionDate=1749618009000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[JBS S.A.]]></category>
-<pink:symbol>JBSAY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
