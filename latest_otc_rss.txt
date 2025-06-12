@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 07:25:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 02:36:23 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 03:07:29 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -1284,6 +1284,30 @@ OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Straits Trading Company Ltd. (The) (STTSY: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STTSY&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STTSY/company-info">Straits Trading Company Ltd. (The)</a> (<a href="http://www.otcmarkets.com/stock/STTSY">STTSY</a>: Pink Current) - Piggyback Qualified -  Effective Thu, Jun 12, 2025, STTSY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=STTSY&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Straits Trading Company Ltd. (The)]]></category>
+<pink:symbol>STTSY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MAGMA SILVER CORP. (NDENF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NDENF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NDENF/company-info">MAGMA SILVER CORP.</a> (<a href="http://www.otcmarkets.com/stock/NDENF">NDENF</a>: Pink Current) - Piggyback Qualified -  Effective Thu, Jun 12, 2025, NDENF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NDENF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MAGMA SILVER CORP.]]></category>
+<pink:symbol>NDENF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VARNF&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VARNF/company-info">VARIA US PPTYS LTD.</a> (<a href="http://www.otcmarkets.com/stock/VARNF">VARNF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 11, 2025, VARNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1560,6 +1584,42 @@ OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Integrated Wellness Acquisition Corp. (WELWF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELWF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WELWF/company-info">Integrated Wellness Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/WELWF">WELWF</a>: Pink Current) - Tier Change - The symbol, WELWF, no longer is classified as Expert Market.  As of Thu, Jun 12, 2025, WELWF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELWF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Integrated Wellness Acquisition Corp.]]></category>
+<pink:symbol>WELWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Integrated Wellness Acquisition Corp. (WELUF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELUF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WELUF/company-info">Integrated Wellness Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/WELUF">WELUF</a>: Pink Current) - Tier Change - The symbol, WELUF, no longer is classified as Expert Market.  As of Thu, Jun 12, 2025, WELUF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELUF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Integrated Wellness Acquisition Corp.]]></category>
+<pink:symbol>WELUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Integrated Wellness Acquisition Corp. (WELNF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELNF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/WELNF/company-info">Integrated Wellness Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/WELNF">WELNF</a>: Pink Current) - Tier Change - The symbol, WELNF, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, WELNF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=WELNF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Integrated Wellness Acquisition Corp.]]></category>
+<pink:symbol>WELNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SILVER STORM MINING LTD. (SVRSF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SVRSF&actionDate=1749700800000]]></link>
 <description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVRSF/company-info">SILVER STORM MINING LTD.</a> (<a href="http://www.otcmarkets.com/stock/SVRSF">SVRSF</a>: OTCQB) - Tier Change - The symbol, SVRSF, no longer is classified as Pink Current.  As of Thu, Jun 12, 2025, SVRSF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1570,6 +1630,54 @@ OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
 <pink:symbol>SVRSF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACW: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACW&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUACW/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUACW">SUACW</a>: Pink Current) - Tier Change - The symbol, SUACW, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, SUACW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACW&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACU: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACU&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUACU/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUACU">SUACU</a>: Pink Current) - Tier Change - The symbol, SUACU, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, SUACU resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUACU&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUAC: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUAC&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUAC/company-info">ShoulderUp Technology Acquisition Corp.</a> (<a href="http://www.otcmarkets.com/stock/SUAC">SUAC</a>: Pink Current) - Tier Change - The symbol, SUAC, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, SUAC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUAC&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUAC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Rafarma Pharmaceuticals, Inc. (WY) (RAFA: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RAFA&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RAFA/company-info">Rafarma Pharmaceuticals, Inc. (WY)</a> (<a href="http://www.otcmarkets.com/stock/RAFA">RAFA</a>: Pink Current) - Tier Change - The symbol, RAFA, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, RAFA resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RAFA&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Rafarma Pharmaceuticals, Inc. (WY)]]></category>
+<pink:symbol>RAFA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[AMSC ASA (ASCJF: Pink Current) | Tier Change]]></title>
@@ -1584,64 +1692,16 @@ OTC RSS mirror fetched: Thu Jun 12 06:57:16 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VARNF&actionDate=1749614400000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VARNF/company-info">VARIA US PPTYS LTD.</a> (<a href="http://www.otcmarkets.com/stock/VARNF">VARNF</a>: Pink Limited) - Tier Change - The symbol, VARNF, no longer is classified as Expert Market.  As of Wed, Jun 11, 2025, VARNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VARNF&actionDate=1749614400000]]></guid>
+<title><![CDATA[APx Acquisition Corp. I (APXIF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APXIF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APXIF/company-info">APx Acquisition Corp. I</a> (<a href="http://www.otcmarkets.com/stock/APXIF">APXIF</a>: Pink Current) - Tier Change - The symbol, APXIF, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, APXIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APXIF&actionDate=1749700800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VARIA US PPTYS LTD.]]></category>
-<pink:symbol>VARNF</pink:symbol>
+<category><![CDATA[APx Acquisition Corp. I]]></category>
+<pink:symbol>APXIF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1749614400000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSWCF/company-info">The Smarter Web Company PLC</a> (<a href="http://www.otcmarkets.com/stock/TSWCF">TSWCF</a>: OTCQB) - Tier Change - The symbol, TSWCF, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, TSWCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSWCF&actionDate=1749614400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Smarter Web Company PLC]]></category>
-<pink:symbol>TSWCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Sappi Ltd. (SPPJY: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPJY&actionDate=1749614400000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPJY/company-info">Sappi Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SPPJY">SPPJY</a>: OTCQX International) - Tier Change - The symbol, SPPJY, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, SPPJY resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPJY&actionDate=1749614400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sappi Ltd.]]></category>
-<pink:symbol>SPPJY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dirtt Environmental Solutions Ltd (DRTTF: OTCQX International) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRTTF&actionDate=1749614400000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DRTTF/company-info">Dirtt Environmental Solutions Ltd</a> (<a href="http://www.otcmarkets.com/stock/DRTTF">DRTTF</a>: OTCQX International) - Tier Change - The symbol, DRTTF, no longer is classified as Pink Current.  As of Wed, Jun 11, 2025, DRTTF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DRTTF&actionDate=1749614400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dirtt Environmental Solutions Ltd]]></category>
-<pink:symbol>DRTTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBRA&actionDate=1749614400000]]></link>
-<description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CBRA/company-info">Caring Brands, Inc</a> (<a href="http://www.otcmarkets.com/stock/CBRA">CBRA</a>: OTCQB) - Tier Change - The symbol, CBRA, no longer is classified as Grey Market.  As of Wed, Jun 11, 2025, CBRA resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CBRA&actionDate=1749614400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Caring Brands, Inc]]></category>
-<pink:symbol>CBRA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[MARKY CORP. (MRKY: Pink Current) | Caveat Emptor Status Change]]></title>
