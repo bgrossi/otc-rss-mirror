@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 11:39:32 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 07:06:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 07:36:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[BULLET BLOCKCHAIN INC. (BULT: Pink Current) | Bullet Blockchain Unveils Patent Backed Expansion Strategy and Bullish Bitcoin Forecast at Virtual Investor Conference]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BULT/news?id=482660]]></link>
+<pubDate>Thu, 12 Jun 2025 07:22:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BULT/news?id=482660]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[BULLET BLOCKCHAIN INC.]]></category>
+<pink:symbol>BULT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea to launch share buy-back programme of up to EUR 250 million]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=482632]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Sovereign Metals Ltd. (SVMLF: OTCQX International) | Leading Japanese Titanium Producer Validates Kasiya Rutile]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=482334]]></link>
-<pubDate>Tue, 10 Jun 2025 06:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SVMLF/news?id=482334]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sovereign Metals Ltd.]]></category>
-<pink:symbol>SVMLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -864,6 +864,54 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[UNITED OIL & GAS PLC (UOGPF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UOGPF&actionDate=1749727259000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UOGPF/company-info">UNITED OIL & GAS PLC</a> (<a href="http://www.otcmarkets.com/stock/UOGPF">UOGPF</a>: OTC Link) - Venue Change - The symbol, UOGPF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, UOGPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:20:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UOGPF&actionDate=1749727259000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UNITED OIL & GAS PLC]]></category>
+<pink:symbol>UOGPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TORQUE METALS LTD (TRQMF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRQMF&actionDate=1749727228000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRQMF/company-info">TORQUE METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/TRQMF">TRQMF</a>: OTC Link) - Venue Change - The symbol, TRQMF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, TRQMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:20:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRQMF&actionDate=1749727228000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TORQUE METALS LTD]]></category>
+<pink:symbol>TRQMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Northfield Capital Corp. (NHFLF: Grey Market) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NHFLF&actionDate=1749727206000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NHFLF/company-info">Northfield Capital Corp.</a> (<a href="http://www.otcmarkets.com/stock/NHFLF">NHFLF</a>: OTC Link) - Venue Change - The symbol, NHFLF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, NHFLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:20:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NHFLF&actionDate=1749727206000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Northfield Capital Corp.]]></category>
+<pink:symbol>NHFLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LORDS GROUP TRADING LTD. (LRGTF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LRGTF&actionDate=1749727125000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LRGTF/company-info">LORDS GROUP TRADING LTD.</a> (<a href="http://www.otcmarkets.com/stock/LRGTF">LRGTF</a>: OTC Link) - Venue Change - The symbol, LRGTF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, LRGTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:18:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LRGTF&actionDate=1749727125000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LORDS GROUP TRADING LTD.]]></category>
+<pink:symbol>LRGTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[MicroStrategy, Inc. (STRD: null) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=STRD&actionDate=1749644765000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/STRD/company-info">MicroStrategy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/STRD">STRD</a>: Nasdaq) - Venue Change - The symbol, STRD, no longer trades on OTC Link.  As of Wed, Jun 11, 2025, STRD trades on Nasdaq. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -920,6 +968,30 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Global Blue Group Holding AG]]></category>
 <pink:symbol>GBGWF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AIM ImmunoTech Inc. (AIMI: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMI&actionDate=1749727923000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMID/company-info">AIM ImmunoTech Inc.</a> (<a href="http://www.otcmarkets.com/stock/AIMID">AIMI</a>: Pink Current) - Symbol Change - The symbol, AIMI, is no longer a valid symbol for AIM ImmunoTech Inc..  As of Thu, Jun 12, 2025, the new trading symbol is AIMID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:32:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMI&actionDate=1749727923000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AIM ImmunoTech Inc.]]></category>
+<pink:symbol>AIMID</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AmpliPay Group Inc. (OSKA: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OSKA&actionDate=1749727851000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OSKAD/company-info">AmpliPay Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/OSKAD">OSKA</a>: Pink Current) - Symbol Change - The symbol, OSKA, is no longer a valid symbol for AmpliPay Group Inc..  As of Thu, Jun 12, 2025, the new trading symbol is OSKAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 07:30:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OSKA&actionDate=1749727851000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AmpliPay Group Inc.]]></category>
+<pink:symbol>OSKAD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1020,30 +1092,6 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[88 Energy Ltd. (EEEND: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEEND&actionDate=1749531641000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEENF/company-info">88 Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/EEENF">EEEND</a>: Pink Current) - Symbol Change - The symbol, EEEND, is no longer a valid symbol for 88 Energy Ltd..  As of Tue, Jun 10, 2025, the new trading symbol is EEENF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 01:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=EEEND&actionDate=1749531641000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[88 Energy Ltd.]]></category>
-<pink:symbol>EEENF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Dogecoin Cash Inc. (CBDS: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CBDS&actionDate=1749531639000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DOGP/company-info">Dogecoin Cash Inc.</a> (<a href="http://www.otcmarkets.com/stock/DOGP">CBDS</a>: OTCQB) - Symbol Change - The symbol, CBDS, is no longer a valid symbol for Dogecoin Cash Inc..  As of Tue, Jun 10, 2025, the new trading symbol is DOGP. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CBDS&actionDate=1749531639000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Dogecoin Cash Inc.]]></category>
-<pink:symbol>DOGP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Osyka Corp (OSKAD: Pink Current) | Company Name Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=OSKAD&actionDate=1749700800000]]></link>
 <description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OSKAD/company-info">Osyka Corp</a> (<a href="http://www.otcmarkets.com/stock/OSKAD">OSKAD</a>: Pink Current) - Company Name Change - Osyka Corp has changed its name to AmpliPay Group Inc.. The change goes into effect as of Thu, Jun 12, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
@@ -1100,6 +1148,30 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Borneo Resource Investments Ltd.]]></category>
 <pink:symbol>BRNED</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AmpliPay Group Inc. (OSKA: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=OSKA&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OSKAD/company-info">AmpliPay Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/OSKAD">OSKA</a>: Pink Current) - Splits - Effective Thu, Jun 12, 2025, OSKA: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 500 split. Due to the split, OSKA is no longer valid. The new trading symbol is OSKAD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=OSKA&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AmpliPay Group Inc.]]></category>
+<pink:symbol>OSKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AIM ImmunoTech Inc. (AIMI: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AIMI&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMID/company-info">AIM ImmunoTech Inc.</a> (<a href="http://www.otcmarkets.com/stock/AIMID">AIMI</a>: Pink Current) - Splits - Effective Thu, Jun 12, 2025, AIMI: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 100 split. Due to the split, AIMI is no longer valid. The new trading symbol is AIMID. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=AIMI&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AIM ImmunoTech Inc.]]></category>
+<pink:symbol>AIMID</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1620,6 +1692,30 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[UNITED OIL & GAS PLC (UOGPF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UOGPF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UOGPF/company-info">UNITED OIL & GAS PLC</a> (<a href="http://www.otcmarkets.com/stock/UOGPF">UOGPF</a>: Pink Current) - Tier Change - The symbol, UOGPF, no longer is classified as Grey Market.  As of Thu, Jun 12, 2025, UOGPF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=UOGPF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[UNITED OIL & GAS PLC]]></category>
+<pink:symbol>UOGPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TORQUE METALS LTD (TRQMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRQMF&actionDate=1749700800000]]></link>
+<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRQMF/company-info">TORQUE METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/TRQMF">TRQMF</a>: Pink Current) - Tier Change - The symbol, TRQMF, no longer is classified as Grey Market.  As of Thu, Jun 12, 2025, TRQMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TRQMF&actionDate=1749700800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TORQUE METALS LTD]]></category>
+<pink:symbol>TRQMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SILVER STORM MINING LTD. (SVRSF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SVRSF&actionDate=1749700800000]]></link>
 <description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SVRSF/company-info">SILVER STORM MINING LTD.</a> (<a href="http://www.otcmarkets.com/stock/SVRSF">SVRSF</a>: OTCQB) - Tier Change - The symbol, SVRSF, no longer is classified as Pink Current.  As of Thu, Jun 12, 2025, SVRSF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1676,30 +1772,6 @@ OTC RSS mirror fetched: Thu Jun 12 11:18:35 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Rafarma Pharmaceuticals, Inc. (WY)]]></category>
 <pink:symbol>RAFA</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AMSC ASA (ASCJF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ASCJF&actionDate=1749700800000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ASCJF/company-info">AMSC ASA</a> (<a href="http://www.otcmarkets.com/stock/ASCJF">ASCJF</a>: Pink Current) - Tier Change - The symbol, ASCJF, no longer is classified as OTCQX International.  As of Thu, Jun 12, 2025, ASCJF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ASCJF&actionDate=1749700800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AMSC ASA]]></category>
-<pink:symbol>ASCJF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[APx Acquisition Corp. I (APXIF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APXIF&actionDate=1749700800000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/APXIF/company-info">APx Acquisition Corp. I</a> (<a href="http://www.otcmarkets.com/stock/APXIF">APXIF</a>: Pink Current) - Tier Change - The symbol, APXIF, no longer is classified as Pink Limited.  As of Thu, Jun 12, 2025, APXIF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=APXIF&actionDate=1749700800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[APx Acquisition Corp. I]]></category>
-<pink:symbol>APXIF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
