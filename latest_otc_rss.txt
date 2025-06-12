@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 13:49:51 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 14:21:38 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 12 13:49:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 09:46:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 10:06:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Utilities Finance Plc - Publication of Final Terms]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482711]]></link>
+<pubDate>Thu, 12 Jun 2025 09:53:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482711]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Bebuzee Inc. (BBUZ: Pink Current) | Bebuzee Launches Super App for VIPs and Businesses – A New Era of Digital Ecosystems Begins]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BBUZ/news?id=482709]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 12 13:49:51 UTC 2025
 <pink:symbol>WPGCF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TransGlobal Assets, Inc. (TMSH: Pink Current) | TransGlobal Assets Inc. (OTC:TMSH) Unlocks Strategic Value with Sale of Incued App to Bell Rose Capital Inc. (OTC:BELR)]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=482450]]></link>
-<pubDate>Tue, 10 Jun 2025 12:30:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMSH/news?id=482450]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TransGlobal Assets, Inc.]]></category>
-<pink:symbol>TMSH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
