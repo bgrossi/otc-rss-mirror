@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 04:35:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 11 Jun 2025 23:36:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 00:06:23 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Peninsula Energy Ltd. (PENMF: OTCQB) | Company Update and Samuel EPC Settlement]]></title>
@@ -924,66 +924,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[MicroStrategy, Inc. (MCSYP: OTC Link) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MCSYP&actionDate=1749466531000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MCSYP/company-info">MicroStrategy, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MCSYP">MCSYP</a>: OTC Link) - Venue Change - The symbol, MCSYP, no longer trades on Grey Market.  As of Mon, Jun 09, 2025, MCSYP trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:55:31 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MCSYP&actionDate=1749466531000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MicroStrategy, Inc.]]></category>
-<pink:symbol>MCSYP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LUXOR METALS LTD (LUXMF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LUXMF&actionDate=1749466453000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LUXMF/company-info">LUXOR METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/LUXMF">LUXMF</a>: OTC Link) - Venue Change - The symbol, LUXMF, no longer trades on Grey Market.  As of Mon, Jun 09, 2025, LUXMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:54:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LUXMF&actionDate=1749466453000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LUXOR METALS LTD]]></category>
-<pink:symbol>LUXMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GREENLIGHT METALS INC. (GRLMF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRLMF&actionDate=1749466420000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRLMF/company-info">GREENLIGHT METALS INC.</a> (<a href="http://www.otcmarkets.com/stock/GRLMF">GRLMF</a>: OTC Link) - Venue Change - The symbol, GRLMF, no longer trades on Grey Market.  As of Mon, Jun 09, 2025, GRLMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:53:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=GRLMF&actionDate=1749466420000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GREENLIGHT METALS INC.]]></category>
-<pink:symbol>GRLMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cap XX Ltd. (CPXLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CPXLF&actionDate=1749466387000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CPXLF/company-info">Cap XX Ltd.</a> (<a href="http://www.otcmarkets.com/stock/CPXLF">CPXLF</a>: OTC Link) - Venue Change - The symbol, CPXLF, no longer trades on Grey Market.  As of Mon, Jun 09, 2025, CPXLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:53:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CPXLF&actionDate=1749466387000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cap XX Ltd.]]></category>
-<pink:symbol>CPXLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Allied Gold Corp. (AAUC: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AAUC&actionDate=1749466321000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AAUC/company-info">Allied Gold Corp.</a> (<a href="http://www.otcmarkets.com/stock/AAUC">AAUC</a>: NYSE) - Venue Change - The symbol, AAUC, no longer trades on OTC Link.  As of Mon, Jun 09, 2025, AAUC trades on NYSE. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 06:52:01 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AAUC&actionDate=1749466321000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Allied Gold Corp.]]></category>
-<pink:symbol>AAUC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[ResourceTec Corporation (BRNE: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BRNE&actionDate=1749642162000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRNED/company-info">ResourceTec Corporation</a> (<a href="http://www.otcmarkets.com/stock/BRNED">BRNE</a>: Pink Current) - Symbol Change - The symbol, BRNE, is no longer a valid symbol for ResourceTec Corporation.  As of Wed, Jun 11, 2025, the new trading symbol is BRNED. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1152,30 +1092,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[U.S. Neurosurgical Holdings, Inc. (EHSI: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EHSI&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EHSI/company-info">U.S. Neurosurgical Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/EHSI">EHSI</a>: Pink Current) - Company Name Change - U.S. Neurosurgical Holdings, Inc. has changed its name to Elite Health Systems, Inc.. The change goes into effect as of Tue, Jun 10, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EHSI&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[U.S. Neurosurgical Holdings, Inc.]]></category>
-<pink:symbol>EHSI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MUSK METALS CORP. (EMSKD: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EMSKD&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMSKD/company-info">MUSK METALS CORP.</a> (<a href="http://www.otcmarkets.com/stock/EMSKD">EMSKD</a>: Pink Current) - Company Name Change - MUSK METALS CORP. has changed its name to GERMANIUM MNG CORP.. The change goes into effect as of Tue, Jun 10, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EMSKD&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MUSK METALS CORP.]]></category>
-<pink:symbol>EMSKD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[ResourceTec Corporation (BRNE: Pink Current) | Splits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BRNE&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BRNED/company-info">ResourceTec Corporation</a> (<a href="http://www.otcmarkets.com/stock/BRNED">BRNE</a>: Pink Current) - Splits - Effective Wed, Jun 11, 2025, BRNE: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 1000 split. Due to the split, BRNE is no longer valid. The new trading symbol is BRNED. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
@@ -1198,30 +1114,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:symbol>BRCND</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GERMANIUM MNG CORP. (EMSKF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EMSKF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EMSKD/company-info">GERMANIUM MNG CORP.</a> (<a href="http://www.otcmarkets.com/stock/EMSKD">EMSKF</a>: Pink Current) - Splits - Effective Tue, Jun 10, 2025, EMSKF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 8 split. Due to the split, EMSKF is no longer valid. The new trading symbol is EMSKD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=EMSKF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GERMANIUM MNG CORP.]]></category>
-<pink:symbol>EMSKD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[BYD Co., Ltd. (BYDDF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BYDDF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BYDDF/company-info">BYD Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BYDDF">BYDDF</a>: Pink Current) - Splits - Effective Tue, Jun 10, 2025, BYDDF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 3 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=BYDDF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[BYD Co., Ltd.]]></category>
-<pink:symbol>BYDDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Northfield Capital Corp. (NHFLF: Grey Market) | Reactivated Symbol]]></title>
@@ -1320,30 +1212,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PPC Limited (PPCMF: Pink Current) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PPCMF&actionDate=1749501506000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Pink Current) - Reactivated Symbol -  The symbol, PPCMF, has been reactivated and now trades on Pink Current. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 16:38:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PPCMF&actionDate=1749501506000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PPC Limited]]></category>
-<pink:symbol>PPCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Focus Impact BH3 Acquisition Company (BHACW: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACW&actionDate=1749445250000]]></link>
-<description><![CDATA[Mon, Jun 09, 2025 12:00 - Focus Impact BH3 Acquisition Company (BHACW: OTC Link) - Deleted Symbol - As of Mon, Jun 09, 2025, BHACW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 09 Jun 2025 01:00:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=BHACW&actionDate=1749445250000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Focus Impact BH3 Acquisition Company]]></category>
-<pink:symbol>BHACW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Rumble Resources Ltd. (RTRFF: Pink Current) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=RTRFF&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RTRFF/company-info">Rumble Resources Ltd.</a> (<a href="http://www.otcmarkets.com/stock/RTRFF">RTRFF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 11, 2025, RTRFF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1380,18 +1248,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[DLP RES INC. (DLPRF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DLPRF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DLPRF/company-info">DLP RES INC.</a> (<a href="http://www.otcmarkets.com/stock/DLPRF">DLPRF</a>: OTCQB) - Halted Security -  Effective Tue, Jun 10, 2025, DLPRF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=DLPRF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DLP RES INC.]]></category>
-<pink:symbol>DLPRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[VARIA US PPTYS LTD. (VARNF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=VARNF&actionDate=1749614400000]]></link>
 <description><![CDATA[Wed, Jun 11, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VARNF/company-info">VARIA US PPTYS LTD.</a> (<a href="http://www.otcmarkets.com/stock/VARNF">VARNF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 11, 2025, VARNF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1426,42 +1282,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:symbol>CBRA</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PPC Limited (PPCMF: Pink Current) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPCMF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PPCMF/company-info">PPC Limited</a> (<a href="http://www.otcmarkets.com/stock/PPCMF">PPCMF</a>: Pink Current) - Piggyback Qualified -  Effective Tue, Jun 10, 2025, PPCMF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PPCMF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PPC Limited]]></category>
-<pink:symbol>PPCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ITALGAS SPA (IGARF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IGARF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IGARF/company-info">ITALGAS SPA</a> (<a href="http://www.otcmarkets.com/stock/IGARF">IGARF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 10, 2025, IGARF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=IGARF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ITALGAS SPA]]></category>
-<pink:symbol>IGARF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA (HAPVD: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HAPVD&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HAPVD/company-info">HAPVIDA PARTICIPACOES E INVESTIMENTOS SA</a> (<a href="http://www.otcmarkets.com/stock/HAPVD">HAPVD</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 10, 2025, HAPVD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HAPVD&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HAPVIDA PARTICIPACOES E INVESTIMENTOS SA]]></category>
-<pink:symbol>HAPVD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[NATIONAL BK GREECE S A (NBGRY: Pink Limited) | Ex-Dividend]]></title>
@@ -1762,66 +1582,6 @@ OTC RSS mirror fetched: Thu Jun 12 03:59:52 UTC 2025
 <pink:symbol>CBRA</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Zoomcar Holdings, Inc. (ZCARW: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZCARW&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCARW/company-info">Zoomcar Holdings, Inc.</a> (<a href="http://www.otcmarkets.com/stock/ZCARW">ZCARW</a>: Pink Current) - Tier Change - The symbol, ZCARW, no longer is classified as OTCQB.  As of Tue, Jun 10, 2025, ZCARW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ZCARW&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Zoomcar Holdings, Inc.]]></category>
-<pink:symbol>ZCARW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[TAG Oil Ltd. (TAOIF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TAOIF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TAOIF/company-info">TAG Oil Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TAOIF">TAOIF</a>: OTCQB) - Tier Change - The symbol, TAOIF, no longer is classified as OTCQX International.  As of Tue, Jun 10, 2025, TAOIF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TAOIF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TAG Oil Ltd.]]></category>
-<pink:symbol>TAOIF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Tristar Acquisition Group (TAGP: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TAGP&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TAGP/company-info">Tristar Acquisition Group</a> (<a href="http://www.otcmarkets.com/stock/TAGP">TAGP</a>: Pink Current) - Tier Change - The symbol, TAGP, no longer is classified as Pink Limited.  As of Tue, Jun 10, 2025, TAGP resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TAGP&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tristar Acquisition Group]]></category>
-<pink:symbol>TAGP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Renewi plc (SNKSY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNKSY&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SNKSY/company-info">Renewi plc</a> (<a href="http://www.otcmarkets.com/stock/SNKSY">SNKSY</a>: Pink Limited) - Tier Change - The symbol, SNKSY, no longer is classified as Pink Current.  As of Tue, Jun 10, 2025, SNKSY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SNKSY&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renewi plc]]></category>
-<pink:symbol>SNKSY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Renewi PLC (SHMCF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SHMCF&actionDate=1749528000000]]></link>
-<description><![CDATA[Tue, Jun 10, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SHMCF/company-info">Renewi PLC</a> (<a href="http://www.otcmarkets.com/stock/SHMCF">SHMCF</a>: Pink Limited) - Tier Change - The symbol, SHMCF, no longer is classified as Pink Current.  As of Tue, Jun 10, 2025, SHMCF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SHMCF&actionDate=1749528000000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renewi PLC]]></category>
-<pink:symbol>SHMCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
