@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 12 20:24:15 UTC 2025
+OTC RSS mirror fetched: Thu Jun 12 20:43:27 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu Jun 12 20:24:15 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 16:06:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 16:36:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[IDW Media Holdings, Inc. (IDWM: OTCQB) | IDW Announces Results for Second Quarter Fiscal Year 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IDWM/news?id=482731]]></link>
+<pubDate>Thu, 12 Jun 2025 16:30:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IDWM/news?id=482731]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[IDW Media Holdings, Inc.]]></category>
+<pink:symbol>IDWM</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Technologies Provides Update on CEO Succession Plan]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482728]]></link>
+<pubDate>Thu, 12 Jun 2025 16:05:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482728]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Paragon Technologies, Inc.]]></category>
+<pink:symbol>PGNT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[First Niles Financial, Inc. (FNFI: Pink Current) | First Niles Financial, Inc. Completes Successful Capital Raise]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/FNFI/news?id=482729]]></link>
@@ -575,42 +599,6 @@ OTC RSS mirror fetched: Thu Jun 12 20:24:15 UTC 2025
 <pink:symbol>EULIF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Brainchip Holdings Ltd. (BCHPY: OTCQX International) | Notification of Issue of Unquoted Securities]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=482475]]></link>
-<pubDate>Tue, 10 Jun 2025 18:37:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BCHPY/news?id=482475]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Brainchip Holdings Ltd.]]></category>
-<pink:symbol>BCHPY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Sets the Record Straight on Governance and Strategy in Comprehensive 2025 Annual Meeting Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482462]]></link>
-<pubDate>Tue, 10 Jun 2025 16:05:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482462]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Full Alliance Group, Inc. (FAGI: Pink Current) | Full Alliance Group (OTC: FAGI) Accelerates Commercial Strategy for Aquaox Pure Solutions Featuring Nanobubble HOCl Technology]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FAGI/news?id=482455]]></link>
-<pubDate>Tue, 10 Jun 2025 14:45:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FAGI/news?id=482455]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Full Alliance Group, Inc.]]></category>
-<pink:symbol>FAGI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
