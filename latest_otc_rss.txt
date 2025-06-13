@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 17:53:23 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 18:30:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri Jun 13 17:53:23 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 13:46:20 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 14:26:20 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | A.R.T. Digital Holdings (OTC: CGAC) Secures Non-Dilutive Financing for George West Site Supporting NASDAQ: BTBT]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482797]]></link>
+<pubDate>Fri, 13 Jun 2025 14:03:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482797]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Code Green Apparel Corp.]]></category>
+<pink:symbol>CGAC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | AYA GOLD & SILVER ANNOUNCES FILING OF PROSPECTUS SUPPLEMENT]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482795]]></link>
+<pubDate>Fri, 13 Jun 2025 13:52:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482795]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aya Gold & Silver Inc.]]></category>
+<pink:symbol>AYASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482792]]></link>
@@ -575,30 +599,6 @@ OTC RSS mirror fetched: Fri Jun 13 17:53:23 UTC 2025
 <pink:symbol>POWMF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Pan African Resources PLC (PAFRY: OTCQX International) | Operational update, record half-year production, substantial decrease in gearing and share buyback]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=482573]]></link>
-<pubDate>Wed, 11 Jun 2025 09:42:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PAFRY/news?id=482573]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Pan African Resources PLC]]></category>
-<pink:symbol>PAFRY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Tiderock Companies Inc. (TDRK: Pink Current) | Tiderock Composites Approved as Vendor to Major EU Rail Line with £500 Million Expansion Plan]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TDRK/news?id=482571]]></link>
-<pubDate>Wed, 11 Jun 2025 09:29:09 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TDRK/news?id=482571]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Tiderock Companies Inc.]]></category>
-<pink:symbol>TDRK</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
