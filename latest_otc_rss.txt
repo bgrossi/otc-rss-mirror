@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 11:18:35 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 11:39:40 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 13 11:18:35 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 07:06:21 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 07:36:21 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[CNB Community Bancorp Inc. (CNBB: OTCQX U.S.) | CNB Community Bancorp, Inc. Declares Quarterly Cash Dividend of $0.31 Per Share]]></title>
@@ -972,6 +972,54 @@ OTC RSS mirror fetched: Fri Jun 13 11:18:35 UTC 2025
 <pink:tier><![CDATA[null]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[North Atlantic Smaller Companies Investment Trust Plc. (NAJSF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NAJSF&actionDate=1749813803000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NAJSD/company-info">North Atlantic Smaller Companies Investment Trust Plc.</a> (<a href="http://www.otcmarkets.com/stock/NAJSD">NAJSF</a>: Pink Current) - Symbol Change - The symbol, NAJSF, is no longer a valid symbol for North Atlantic Smaller Companies Investment Trust Plc..  As of Fri, Jun 13, 2025, the new trading symbol is NAJSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 07:23:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NAJSF&actionDate=1749813803000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[North Atlantic Smaller Companies Investment Trust Plc.]]></category>
+<pink:symbol>NAJSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NuLegacy Gold Corporation (NULGF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NULGF&actionDate=1749812981000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NULGD/company-info">NuLegacy Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/NULGD">NULGF</a>: Pink Current) - Symbol Change - The symbol, NULGF, is no longer a valid symbol for NuLegacy Gold Corporation.  As of Fri, Jun 13, 2025, the new trading symbol is NULGD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 07:09:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NULGF&actionDate=1749812981000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NuLegacy Gold Corporation]]></category>
+<pink:symbol>NULGD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Global Strategic Group Ltd (DHKCF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=DHKCF&actionDate=1749812953000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DHKCD/company-info">Global Strategic Group Ltd</a> (<a href="http://www.otcmarkets.com/stock/DHKCD">DHKCF</a>: Pink Current) - Symbol Change - The symbol, DHKCF, is no longer a valid symbol for Global Strategic Group Ltd.  As of Fri, Jun 13, 2025, the new trading symbol is DHKCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 07:09:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=DHKCF&actionDate=1749812953000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Strategic Group Ltd]]></category>
+<pink:symbol>DHKCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Colibri Resource Corp. (CRUCF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CRUCF&actionDate=1749812923000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRUCD/company-info">Colibri Resource Corp.</a> (<a href="http://www.otcmarkets.com/stock/CRUCD">CRUCF</a>: Pink Current) - Symbol Change - The symbol, CRUCF, is no longer a valid symbol for Colibri Resource Corp..  As of Fri, Jun 13, 2025, the new trading symbol is CRUCD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 07:08:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CRUCF&actionDate=1749812923000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Colibri Resource Corp.]]></category>
+<pink:symbol>CRUCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD. (NZSCD: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NZSCD&actionDate=1749790810000]]></link>
 <description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NZSCF/company-info">NEW ZEALAND COASTAL SEAFOODS LTD.</a> (<a href="http://www.otcmarkets.com/stock/NZSCF">NZSCD</a>: Pink Current) - Symbol Change - The symbol, NZSCD, is no longer a valid symbol for NEW ZEALAND COASTAL SEAFOODS LTD..  As of Fri, Jun 13, 2025, the new trading symbol is NZSCF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1076,6 +1124,54 @@ OTC RSS mirror fetched: Fri Jun 13 11:18:35 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Osyka Corp]]></category>
 <pink:symbol>OSKAD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NuLegacy Gold Corporation (NULGF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NULGF&actionDate=1749787200000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NULGD/company-info">NuLegacy Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/NULGD">NULGF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, NULGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 25 split. Due to the split, NULGF is no longer valid. The new trading symbol is NULGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NULGF&actionDate=1749787200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NuLegacy Gold Corporation]]></category>
+<pink:symbol>NULGD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[North Atlantic Smaller Companies Investment Trust Plc. (NAJSF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NAJSF&actionDate=1749787200000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NAJSD/company-info">North Atlantic Smaller Companies Investment Trust Plc.</a> (<a href="http://www.otcmarkets.com/stock/NAJSD">NAJSF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, NAJSF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 10 for 1 split. Due to the split, NAJSF is no longer valid. The new trading symbol is NAJSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NAJSF&actionDate=1749787200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[North Atlantic Smaller Companies Investment Trust Plc.]]></category>
+<pink:symbol>NAJSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Global Strategic Group Ltd (DHKCF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DHKCF&actionDate=1749787200000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DHKCD/company-info">Global Strategic Group Ltd</a> (<a href="http://www.otcmarkets.com/stock/DHKCD">DHKCF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, DHKCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, DHKCF is no longer valid. The new trading symbol is DHKCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DHKCF&actionDate=1749787200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Global Strategic Group Ltd]]></category>
+<pink:symbol>DHKCD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Colibri Resource Corp. (CRUCF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CRUCF&actionDate=1749787200000]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRUCD/company-info">Colibri Resource Corp.</a> (<a href="http://www.otcmarkets.com/stock/CRUCD">CRUCF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, CRUCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, CRUCF is no longer valid. The new trading symbol is CRUCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CRUCF&actionDate=1749787200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Colibri Resource Corp.]]></category>
+<pink:symbol>CRUCD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
