@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 08:28:57 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 08:51:27 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 13 08:28:57 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 04:06:21 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 04:36:21 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482758]]></link>
+<pubDate>Fri, 13 Jun 2025 04:20:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482758]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Paladin Energy Ltd. (PALAF: OTCQX International) | Notification of Cessation of Securities]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/PALAF/news?id=482756]]></link>
@@ -587,18 +599,6 @@ OTC RSS mirror fetched: Fri Jun 13 08:28:57 UTC 2025
 <pink:symbol>EXPGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Admission to Trading on OTCQB Market]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482490]]></link>
-<pubDate>Wed, 11 Jun 2025 04:23:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482490]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Smarter Web Company PLC]]></category>
-<pink:symbol>TSWCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
