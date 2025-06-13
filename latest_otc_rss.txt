@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 01:49:42 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 03:18:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri Jun 13 01:49:42 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 12 Jun 2025 21:36:22 EDT</lastBuildDate>
+<lastBuildDate>Thu, 12 Jun 2025 23:06:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | AYA GOLD AND SILVER ANNOUNCES UPSIZE OF PREVIOUSLY ANNOUNCED BOUGHT DEAL TO $125 MILLION]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482753]]></link>
+<pubDate>Thu, 12 Jun 2025 22:37:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482753]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aya Gold & Silver Inc.]]></category>
+<pink:symbol>AYASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | AYA GOLD AND SILVER ANNOUNCES $100 MILLION BOUGHT DEAL OFFERING OF COMMON SHARES]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482752]]></link>
+<pubDate>Thu, 12 Jun 2025 22:36:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482752]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aya Gold & Silver Inc.]]></category>
+<pink:symbol>AYASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[IDW Media Holdings, Inc. (IDWM: OTCQB) | IDW Announces Results for Second Quarter Fiscal Year 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IDWM/news?id=482731]]></link>
@@ -575,30 +599,6 @@ OTC RSS mirror fetched: Fri Jun 13 01:49:42 UTC 2025
 <pink:symbol>NWPND</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nova Minerals Ltd. (NVAAF: Pink Current) | Antimony-Gold Drilling Commenced at Stibium]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=482479]]></link>
-<pubDate>Tue, 10 Jun 2025 22:24:35 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NVAAF/news?id=482479]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nova Minerals Ltd.]]></category>
-<pink:symbol>NVAAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[EUROPEAN LITHIUM LTD. (EULIF: OTCQB) | Outstanding High Grade REE Diamond Drill Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=482478]]></link>
-<pubDate>Tue, 10 Jun 2025 22:13:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EULIF/news?id=482478]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[EUROPEAN LITHIUM LTD.]]></category>
-<pink:symbol>EULIF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
