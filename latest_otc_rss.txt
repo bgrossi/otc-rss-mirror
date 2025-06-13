@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 15:44:19 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 15:55:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 13 15:44:19 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 11:26:21 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 11:46:21 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aztec Land & Cattle Co., Ltd. (AZLCZ: Pink Limited) | Aztec Investor Update 6.12.25]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AZLCZ/news?id=482790]]></link>
+<pubDate>Fri, 13 Jun 2025 11:46:18 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AZLCZ/news?id=482790]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aztec Land & Cattle Co., Ltd.]]></category>
+<pink:symbol>AZLCZ</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | Net Zero Smelter Strategy Advances with Ex SPMP Executive]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=482789]]></link>
@@ -585,18 +597,6 @@ OTC RSS mirror fetched: Fri Jun 13 15:44:19 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[M.O.B.A. Network AB]]></category>
 <pink:symbol>MOBNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Ilika PLC. (ILIKF: OTCQX International) | Notice of Results]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=482567]]></link>
-<pubDate>Wed, 11 Jun 2025 09:12:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ILIKF/news?id=482567]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ilika PLC.]]></category>
-<pink:symbol>ILIKF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
