@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 08:51:27 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 09:23:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 13 08:51:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 04:36:21 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 05:06:21 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[NIGHTINGALE HEALTH OYJ (NHLTY: OTCQX International) | Nightingale Health strengthens its commercial operations with new EMEA appointment]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482760]]></link>
+<pubDate>Fri, 13 Jun 2025 04:50:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482760]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NIGHTINGALE HEALTH OYJ]]></category>
+<pink:symbol>NHLTY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482758]]></link>
@@ -587,18 +599,6 @@ OTC RSS mirror fetched: Fri Jun 13 08:51:27 UTC 2025
 <pink:symbol>CLLEF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Bond Issue]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482492]]></link>
-<pubDate>Wed, 11 Jun 2025 04:53:21 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=482492]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Experian plc]]></category>
-<pink:symbol>EXPGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
