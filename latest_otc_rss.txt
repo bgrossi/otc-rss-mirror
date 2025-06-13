@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 13 19:51:27 UTC 2025
+OTC RSS mirror fetched: Fri Jun 13 20:23:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 13 19:51:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 13 Jun 2025 15:46:21 EDT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 16:06:20 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Environmental Tectonics Corp. (ETCC: Pink Current) | Environmental Tectonics Corporation - Notice of Annual Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ETCC/news?id=482793]]></link>
+<pubDate>Fri, 13 Jun 2025 16:00:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ETCC/news?id=482793]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Environmental Tectonics Corp.]]></category>
+<pink:symbol>ETCC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | A.R.T. Digital Holdings (OTC: CGAC) Secures Non-Dilutive Financing for George West Site Supporting NASDAQ: BTBT]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=482797]]></link>
@@ -587,18 +599,6 @@ OTC RSS mirror fetched: Fri Jun 13 19:51:27 UTC 2025
 <pink:symbol>EXPGY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Power Metal Resources Plc (POWMF: OTCQB) | Uranium Joint Venture: Fermi Exploration: Exploration Update on the Perch River Property]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=482580]]></link>
-<pubDate>Wed, 11 Jun 2025 10:15:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/POWMF/news?id=482580]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Power Metal Resources Plc]]></category>
-<pink:symbol>POWMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
