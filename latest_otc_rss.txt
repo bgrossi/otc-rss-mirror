@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat Jun 14 11:51:17 UTC 2025
+OTC RSS mirror fetched: Sat Jun 14 12:39:41 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sat Jun 14 11:51:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 14 Jun 2025 07:36:20 EDT</lastBuildDate>
+<lastBuildDate>Sat, 14 Jun 2025 08:36:19 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Community Bancorp of Santa Maria (CYSM: OTCQX U.S.) | Community Bancorp of Santa Maria Announces Share Repurchase Plan and Cash Dividend]]></title>
@@ -742,6 +742,17 @@ OTC RSS mirror fetched: Sat Jun 14 11:51:17 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Latin Metals Inc. (LMSQF: OTCQB) | Company Presentation]]></title>
+<link><![CDATA[http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381]]></link>
+<description><![CDATA[Tue, Jun 10, 2025 - <a href="http://www.otcmarkets.com/stock/LMSQF/company-info">Latin Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/LMSQF">LMSQF</a>: OTCQB) released a Company Presentation called Latin Metals Corporate Presentation. To watch the presentation, please visit: <a href="http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381">http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381</a>.]]></description>
+<pubDate>Tue, 10 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<pink:symbol>LMSQF</pink:symbol>
+<pink:type>presentation</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Greenheart Gold Inc. (GHRTF: OTCQX International) | Company Video]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GHRTF/video-and-presentations?cmdId=2218528]]></link>
 <description><![CDATA[Tue, May 27, 2025 - <a href="http://www.otcmarkets.com/stock/GHRTF/company-info">Greenheart Gold Inc.</a> (<a href="http://www.otcmarkets.com/stock/GHRTF">GHRTF</a>: OTCQX International) released a Company Video called Greenheart Gold (TSXV:GHRT) – Target-Rich, Cash-Backed, and Ready to Drill. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/GHRTF/video-and-presentations?cmdId=2218528">http://www.otcmarkets.com/stock/GHRTF/video-and-presentations?cmdId=2218528</a>.]]></description>
@@ -839,17 +850,6 @@ OTC RSS mirror fetched: Sat Jun 14 11:51:17 UTC 2025
 <pink:symbol>BRELY</pink:symbol>
 <pink:type>presentation</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vertex Minerals Ltd. (VTXXF: OTCQB) | Company Video]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></link>
-<description><![CDATA[Sat, Mar 08, 2025 - <a href="http://www.otcmarkets.com/stock/VTXXF/company-info">Vertex Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/VTXXF">VTXXF</a>: OTCQB) released a Company Video called Noosa Mining Conference 2024 - Vertex Minerals. To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593">http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593</a>.]]></description>
-<pubDate>Sat, 08 Mar 2025 00:00:00 EST</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VTXXF/video-and-presentations?cmdId=2186593]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<pink:symbol>VTXXF</pink:symbol>
-<pink:type>video</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[UMB Financial Corp. (UMBFO: null) | Venue Change]]></title>
