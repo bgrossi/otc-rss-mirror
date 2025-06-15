@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
+OTC RSS mirror fetched: Sun Jun 15 04:16:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 14 Jun 2025 23:06:19 EDT</lastBuildDate>
+<lastBuildDate>Sun, 15 Jun 2025 00:06:19 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Autris (AUTR: Pink Current) | Autris - Company continues to increase shareholdings]]></title>
@@ -912,66 +912,6 @@ OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[NISSHIN GROUP HLDGS CO LTD (NSHGF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NSHGF&actionDate=1749742842000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSHGF/company-info">NISSHIN GROUP HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/NSHGF">NSHGF</a>: Grey Market) - Venue Change - The symbol, NSHGF, no longer trades on OTC Link.  As of Thu, Jun 12, 2025, NSHGF trades on Grey Market. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 11:40:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NSHGF&actionDate=1749742842000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NISSHIN GROUP HLDGS CO LTD]]></category>
-<pink:symbol>NSHGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[UNITED OIL & GAS PLC (UOGPF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UOGPF&actionDate=1749727259000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/UOGPF/company-info">UNITED OIL & GAS PLC</a> (<a href="http://www.otcmarkets.com/stock/UOGPF">UOGPF</a>: OTC Link) - Venue Change - The symbol, UOGPF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, UOGPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:20:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=UOGPF&actionDate=1749727259000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[UNITED OIL & GAS PLC]]></category>
-<pink:symbol>UOGPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[TORQUE METALS LTD (TRQMF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRQMF&actionDate=1749727228000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TRQMF/company-info">TORQUE METALS LTD</a> (<a href="http://www.otcmarkets.com/stock/TRQMF">TRQMF</a>: OTC Link) - Venue Change - The symbol, TRQMF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, TRQMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:20:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=TRQMF&actionDate=1749727228000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TORQUE METALS LTD]]></category>
-<pink:symbol>TRQMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Northfield Capital Corp. (NHFLF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NHFLF&actionDate=1749727206000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NHFLF/company-info">Northfield Capital Corp.</a> (<a href="http://www.otcmarkets.com/stock/NHFLF">NHFLF</a>: OTC Link) - Venue Change - The symbol, NHFLF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, NHFLF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:20:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=NHFLF&actionDate=1749727206000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Northfield Capital Corp.]]></category>
-<pink:symbol>NHFLF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[LORDS GROUP TRADING LTD. (LRGTF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LRGTF&actionDate=1749727125000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LRGTF/company-info">LORDS GROUP TRADING LTD.</a> (<a href="http://www.otcmarkets.com/stock/LRGTF">LRGTF</a>: OTC Link) - Venue Change - The symbol, LRGTF, no longer trades on Grey Market.  As of Thu, Jun 12, 2025, LRGTF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:18:45 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LRGTF&actionDate=1749727125000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[LORDS GROUP TRADING LTD.]]></category>
-<pink:symbol>LRGTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[North Atlantic Smaller Companies Investment Trust Plc. (NAJSF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NAJSF&actionDate=1749813803000]]></link>
 <description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NAJSD/company-info">North Atlantic Smaller Companies Investment Trust Plc.</a> (<a href="http://www.otcmarkets.com/stock/NAJSD">NAJSF</a>: Pink Current) - Symbol Change - The symbol, NAJSF, is no longer a valid symbol for North Atlantic Smaller Companies Investment Trust Plc..  As of Fri, Jun 13, 2025, the new trading symbol is NAJSD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1028,102 +968,6 @@ OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NEW ZEALAND COASTAL SEAFOODS LTD.]]></category>
 <pink:symbol>NZSCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AIM ImmunoTech Inc. (AIMI: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMI&actionDate=1749727923000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIMID/company-info">AIM ImmunoTech Inc.</a> (<a href="http://www.otcmarkets.com/stock/AIMID">AIMI</a>: Pink Current) - Symbol Change - The symbol, AIMI, is no longer a valid symbol for AIM ImmunoTech Inc..  As of Thu, Jun 12, 2025, the new trading symbol is AIMID. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:32:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=AIMI&actionDate=1749727923000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AIM ImmunoTech Inc.]]></category>
-<pink:symbol>AIMID</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AmpliPay Group Inc. (OSKA: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OSKA&actionDate=1749727851000]]></link>
-<description><![CDATA[Thu, Jun 12, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OSKAD/company-info">AmpliPay Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/OSKAD">OSKA</a>: Pink Current) - Symbol Change - The symbol, OSKA, is no longer a valid symbol for AmpliPay Group Inc..  As of Thu, Jun 12, 2025, the new trading symbol is OSKAD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 12 Jun 2025 07:30:51 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=OSKA&actionDate=1749727851000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AmpliPay Group Inc.]]></category>
-<pink:symbol>OSKAD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Trucept, Inc. (TREP: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TREP&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TREP/company-info">Trucept, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TREP">TREP</a>: Pink Current) - Company Name Change - Trucept, Inc. has changed its name to AFINIDA INC. The change goes into effect as of Fri, Jun 13, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=TREP&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trucept, Inc.]]></category>
-<pink:symbol>TREP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Renu Energy Ltd. (GDYMF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDYMF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GDYMF/company-info">Renu Energy Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GDYMF">GDYMF</a>: Pink Current) - Company Name Change - Renu Energy Ltd. has changed its name to JANUS ELEC HLDGS LTD.. The change goes into effect as of Fri, Jun 13, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GDYMF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renu Energy Ltd.]]></category>
-<pink:symbol>GDYMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NuLegacy Gold Corporation (NULGF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NULGF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NULGD/company-info">NuLegacy Gold Corporation</a> (<a href="http://www.otcmarkets.com/stock/NULGD">NULGF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, NULGF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 25 split. Due to the split, NULGF is no longer valid. The new trading symbol is NULGD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NULGF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NuLegacy Gold Corporation]]></category>
-<pink:symbol>NULGD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[North Atlantic Smaller Companies Investment Trust Plc. (NAJSF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NAJSF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NAJSD/company-info">North Atlantic Smaller Companies Investment Trust Plc.</a> (<a href="http://www.otcmarkets.com/stock/NAJSD">NAJSF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, NAJSF: Pink Current engaged in a fwd split. As a result of the split, shs increased by 10 for 1 split. Due to the split, NAJSF is no longer valid. The new trading symbol is NAJSD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=NAJSF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[North Atlantic Smaller Companies Investment Trust Plc.]]></category>
-<pink:symbol>NAJSD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Global Strategic Group Ltd (DHKCF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DHKCF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DHKCD/company-info">Global Strategic Group Ltd</a> (<a href="http://www.otcmarkets.com/stock/DHKCD">DHKCF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, DHKCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, DHKCF is no longer valid. The new trading symbol is DHKCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=DHKCF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Global Strategic Group Ltd]]></category>
-<pink:symbol>DHKCD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Colibri Resource Corp. (CRUCF: Pink Current) | Splits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CRUCF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CRUCD/company-info">Colibri Resource Corp.</a> (<a href="http://www.otcmarkets.com/stock/CRUCD">CRUCF</a>: Pink Current) - Splits - Effective Fri, Jun 13, 2025, CRUCF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 5 split. Due to the split, CRUCF is no longer valid. The new trading symbol is CRUCD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=CRUCF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Colibri Resource Corp.]]></category>
-<pink:symbol>CRUCD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1246,78 +1090,6 @@ OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
 <pink:symbol>DHKCF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SAPPE PUB CO LTD (SAPEF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SAPEF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SAPEF/company-info">SAPPE PUB CO LTD</a> (<a href="http://www.otcmarkets.com/stock/SAPEF">SAPEF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, SAPEF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SAPEF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SAPPE PUB CO LTD]]></category>
-<pink:symbol>SAPEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[REMIXPOINT INC. (RPCDF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RPCDF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RPCDF/company-info">REMIXPOINT INC.</a> (<a href="http://www.otcmarkets.com/stock/RPCDF">RPCDF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, RPCDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=RPCDF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[REMIXPOINT INC.]]></category>
-<pink:symbol>RPCDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INSTITUTE FOR Q SHU PIONEERS OF SPACE INC. (QSHUF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QSHUF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QSHUF/company-info">INSTITUTE FOR Q SHU PIONEERS OF SPACE INC.</a> (<a href="http://www.otcmarkets.com/stock/QSHUF">QSHUF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, QSHUF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=QSHUF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INSTITUTE FOR Q SHU PIONEERS OF SPACE INC.]]></category>
-<pink:symbol>QSHUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NISSHIN GROUP HLDGS CO LTD (NSHGF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NSHGF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSHGF/company-info">NISSHIN GROUP HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/NSHGF">NSHGF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, NSHGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=NSHGF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NISSHIN GROUP HLDGS CO LTD]]></category>
-<pink:symbol>NSHGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Graphex Group Ltd. (GRFXY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRFXY&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRFXY/company-info">Graphex Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRFXY">GRFXY</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, GRFXY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRFXY&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Graphex Group Ltd.]]></category>
-<pink:symbol>GRFXY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Graphex Group Ltd. (GRFXF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRFXF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRFXF/company-info">Graphex Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRFXF">GRFXF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 13, 2025, GRFXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRFXF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Graphex Group Ltd.]]></category>
-<pink:symbol>GRFXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[JTNB Bancorp Inc. (JTNB: Pink Current) | Ex-Dividend]]></title>
@@ -1558,102 +1330,6 @@ OTC RSS mirror fetched: Sun Jun 15 03:34:22 UTC 2025
 <pink:symbol>KBNC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SAPPE PUB CO LTD (SAPEF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAPEF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SAPEF/company-info">SAPPE PUB CO LTD</a> (<a href="http://www.otcmarkets.com/stock/SAPEF">SAPEF</a>: Pink Limited) - Tier Change - The symbol, SAPEF, no longer is classified as Grey Market.  As of Fri, Jun 13, 2025, SAPEF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAPEF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SAPPE PUB CO LTD]]></category>
-<pink:symbol>SAPEF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[REMIXPOINT INC. (RPCDF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RPCDF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/RPCDF/company-info">REMIXPOINT INC.</a> (<a href="http://www.otcmarkets.com/stock/RPCDF">RPCDF</a>: Pink Limited) - Tier Change - The symbol, RPCDF, no longer is classified as Grey Market.  As of Fri, Jun 13, 2025, RPCDF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=RPCDF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[REMIXPOINT INC.]]></category>
-<pink:symbol>RPCDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INSTITUTE FOR Q SHU PIONEERS OF SPACE INC. (QSHUF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QSHUF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QSHUF/company-info">INSTITUTE FOR Q SHU PIONEERS OF SPACE INC.</a> (<a href="http://www.otcmarkets.com/stock/QSHUF">QSHUF</a>: Pink Limited) - Tier Change - The symbol, QSHUF, no longer is classified as Grey Market.  As of Fri, Jun 13, 2025, QSHUF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QSHUF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INSTITUTE FOR Q SHU PIONEERS OF SPACE INC.]]></category>
-<pink:symbol>QSHUF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NISSHIN GROUP HLDGS CO LTD (NSHGF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NSHGF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NSHGF/company-info">NISSHIN GROUP HLDGS CO LTD</a> (<a href="http://www.otcmarkets.com/stock/NSHGF">NSHGF</a>: Pink Limited) - Tier Change - The symbol, NSHGF, no longer is classified as Grey Market.  As of Fri, Jun 13, 2025, NSHGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NSHGF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NISSHIN GROUP HLDGS CO LTD]]></category>
-<pink:symbol>NSHGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Atlas Critical Minerals Corporation (JUPGF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=JUPGF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/JUPGF/company-info">Atlas Critical Minerals Corporation</a> (<a href="http://www.otcmarkets.com/stock/JUPGF">JUPGF</a>: OTCQB) - Tier Change - The symbol, JUPGF, no longer is classified as Pink Current.  As of Fri, Jun 13, 2025, JUPGF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=JUPGF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atlas Critical Minerals Corporation]]></category>
-<pink:symbol>JUPGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Graphex Group Ltd. (GRFXY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRFXY&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRFXY/company-info">Graphex Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRFXY">GRFXY</a>: Pink Limited) - Tier Change - The symbol, GRFXY, no longer is classified as Expert Market.  As of Fri, Jun 13, 2025, GRFXY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRFXY&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Graphex Group Ltd.]]></category>
-<pink:symbol>GRFXY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Graphex Group Ltd. (GRFXF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRFXF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRFXF/company-info">Graphex Group Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GRFXF">GRFXF</a>: Pink Limited) - Tier Change - The symbol, GRFXF, no longer is classified as Expert Market.  As of Fri, Jun 13, 2025, GRFXF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GRFXF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Graphex Group Ltd.]]></category>
-<pink:symbol>GRFXF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adyton Resources Corporation (ADYRF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ADYRF&actionDate=1749787200000]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ADYRF/company-info">Adyton Resources Corporation</a> (<a href="http://www.otcmarkets.com/stock/ADYRF">ADYRF</a>: Pink Current) - Tier Change - The symbol, ADYRF, no longer is classified as Expert Market.  As of Fri, Jun 13, 2025, ADYRF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ADYRF&actionDate=1749787200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adyton Resources Corporation]]></category>
-<pink:symbol>ADYRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
