@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 05:23:30 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 05:46:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun 16 05:23:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 01:06:17 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 01:36:17 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Mon Jun 16 05:23:30 UTC 2025
 <pink:symbol>MAGMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GABO MINING LTD. (MLLOF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MLLOF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MLLOF/company-info">GABO MINING LTD.</a> (<a href="http://www.otcmarkets.com/stock/MLLOF">MLLOF</a>: Pink Current) - Company Name Change - GABO MINING LTD. has changed its name to GAMMA RES LTD,. The change goes into effect as of Mon, Jun 16, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MLLOF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GABO MINING LTD.]]></category>
+<pink:symbol>MLLOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[C-RAD AB (CRADF: Grey Market) | Deleted Symbol]]></title>
