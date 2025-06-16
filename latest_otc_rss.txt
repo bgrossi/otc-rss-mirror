@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 19:51:10 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 20:24:05 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 16 19:51:10 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 15:46:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 16:06:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Monthly Cash Distribution]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482948]]></link>
+<pubDate>Mon, 16 Jun 2025 16:05:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482948]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Artis Real Estate Investment Trust]]></category>
+<pink:symbol>ARESF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Quarterly Cash Distribution]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482949]]></link>
+<pubDate>Mon, 16 Jun 2025 16:05:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482949]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Artis Real Estate Investment Trust]]></category>
+<pink:symbol>ARESF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482943]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon Jun 16 19:51:10 UTC 2025
 <pink:symbol>CGAC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | AYA GOLD & SILVER ANNOUNCES FILING OF PROSPECTUS SUPPLEMENT]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482795]]></link>
-<pubDate>Fri, 13 Jun 2025 13:52:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=482795]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aya Gold & Silver Inc.]]></category>
-<pink:symbol>AYASF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482792]]></link>
-<pubDate>Fri, 13 Jun 2025 12:46:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482792]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1356,6 +1356,18 @@ OTC RSS mirror fetched: Mon Jun 16 19:51:10 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Prologis, Inc. (PLDGP: OTCQB) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286056]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/PLDGP/company-info">Prologis, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PLDGP">PLDGP</a>: OTCQB) - Scheduled Ex-Dividend - Prologis, Inc. has announced a dividend ex-date for (PLDGP: OTCQB). Prologis, Inc. is scheduled to disburse a Cash Dividend dividend of $1.0675 on Tue, Jun 17, 2025 to shareholders of PLDGP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 15:59:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286056]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Prologis, Inc.]]></category>
+<pink:symbol>PLDGP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Partners Value Invts LP (PVILF: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286055]]></link>
 <description><![CDATA[Fri, Jun 13, 2025 03:45 - <a href="http://www.otcmarkets.com/stock/PVILF/company-info">Partners Value Invts LP</a> (<a href="http://www.otcmarkets.com/stock/PVILF">PVILF</a>: Pink Current) - Scheduled Ex-Dividend - Partners Value Invts LP has announced a dividend ex-date for (PVILF: Pink Current). Partners Value Invts LP is scheduled to disburse a Cash Dividend dividend of $0.28125 on Mon, Jun 30, 2025 to shareholders of PVILF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1462,18 +1474,6 @@ OTC RSS mirror fetched: Mon Jun 16 19:51:10 UTC 2025
 <pink:symbol>CBLNY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[KINGSTON BANCSHARES INC (KBNC: Grey Market) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286037]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 11:23 - <a href="http://www.otcmarkets.com/stock/KBNC/company-info">KINGSTON BANCSHARES INC</a> (<a href="http://www.otcmarkets.com/stock/KBNC">KBNC</a>: Grey Market) - Scheduled Ex-Dividend - KINGSTON BANCSHARES INC has announced a dividend ex-date for (KBNC: Grey Market). KINGSTON BANCSHARES INC is scheduled to disburse a Cash Dividend dividend of $1.5 on Mon, Jun 30, 2025 to shareholders of KBNC. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 11:23:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286037]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KINGSTON BANCSHARES INC]]></category>
-<pink:symbol>KBNC</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Shagrir Group Veh Svcs Ltd (SRRPF: Pink Limited) | Tier Change]]></title>
