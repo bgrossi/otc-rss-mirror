@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 22:55:28 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 23:20:51 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 16 22:55:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 18:36:15 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 19:06:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Winsome Resources Ltd. (WRSLF: OTCQB) | Company Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/WRSLF/news?id=482972]]></link>
+<pubDate>Mon, 16 Jun 2025 19:02:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/WRSLF/news?id=482972]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Winsome Resources Ltd.]]></category>
+<pink:symbol>WRSLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Records 44% Higher Lithium Values at Green River Lithium Project after Aquifers Open Up]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=482971]]></link>
+<pubDate>Mon, 16 Jun 2025 18:39:14 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=482971]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Anson Resources]]></category>
+<pink:symbol>ANSNF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[NORSK TITANIUM AS (NORSF: OTCQX International) | Norsk Titanium AS: Agreement on USD 10 million Loan Facility with Claret Capital Partners Ltd. to strengthen liquidity and support strategic growth]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=482967]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Mon Jun 16 22:55:28 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Autris]]></category>
 <pink:symbol>AUTR</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Community Bancorp of Santa Maria (CYSM: OTCQX U.S.) | Community Bancorp of Santa Maria Announces Share Repurchase Plan and Cash Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CYSM/news?id=482821]]></link>
-<pubDate>Fri, 13 Jun 2025 18:06:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYSM/news?id=482821]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Community Bancorp of Santa Maria]]></category>
-<pink:symbol>CYSM</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Environmental Tectonics Corp. (ETCC: Pink Current) | Environmental Tectonics Corporation - Notice of Annual Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ETCC/news?id=482793]]></link>
-<pubDate>Fri, 13 Jun 2025 16:00:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ETCC/news?id=482793]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Environmental Tectonics Corp.]]></category>
-<pink:symbol>ETCC</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
