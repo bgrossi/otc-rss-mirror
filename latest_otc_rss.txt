@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 15:56:33 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 16:32:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 16 15:56:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 11:46:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 12:26:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[ASM International N.V. (ASMIY: OTCQX International) | ASM share buyback update June 9 – 13, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=482942]]></link>
+<pubDate>Mon, 16 Jun 2025 12:16:37 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ASMIY/news?id=482942]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ASM International N.V.]]></category>
+<pink:symbol>ASMIY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Danone (DANOY: OTCQX International) | Information on the total number of voting rights and shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DANOY/news?id=482941]]></link>
+<pubDate>Mon, 16 Jun 2025 12:09:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DANOY/news?id=482941]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Danone]]></category>
+<pink:symbol>DANOY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Gafisa S.A. (GFASY: Pink Limited) | GFASY and GFSAY - Books will close today, June 16, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/GFASY/news?id=482938]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon Jun 16 15:56:33 UTC 2025
 <pink:symbol>AZLCZ</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Trigg Minerals Ltd (TMGLF: OTCQB) | Net Zero Smelter Strategy Advances with Ex SPMP Executive]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=482789]]></link>
-<pubDate>Fri, 13 Jun 2025 11:22:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TMGLF/news?id=482789]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Trigg Minerals Ltd]]></category>
-<pink:symbol>TMGLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[PINEWOOD TECHNOLOGIES GROUP PLC (PINWF: OTCQX International) | 2025 LTIP DSP]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PINWF/news?id=482786]]></link>
-<pubDate>Fri, 13 Jun 2025 10:54:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PINWF/news?id=482786]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PINEWOOD TECHNOLOGIES GROUP PLC]]></category>
-<pink:symbol>PINWF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
