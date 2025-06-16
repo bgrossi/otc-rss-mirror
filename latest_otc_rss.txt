@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 11:52:00 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 12:46:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,92 @@ OTC RSS mirror fetched: Mon Jun 16 11:52:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 07:36:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 08:46:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Sonova Holding AG (SONVY: Pink Limited) | SONVY - Books will close today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SONVY/news?id=482913]]></link>
+<pubDate>Mon, 16 Jun 2025 08:37:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SONVY/news?id=482913]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sonova Holding AG]]></category>
+<pink:symbol>SONVY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Rubis (RBSFY: Pink Limited) | RBSFY - Books will close at the close of business today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RBSFY/news?id=482912]]></link>
+<pubDate>Mon, 16 Jun 2025 08:36:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RBSFY/news?id=482912]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Rubis]]></category>
+<pink:symbol>RBSFY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[PT Perusahaan Gas Negara Persaro (PPAAY: Pink Limited) | PPAAY - Books will close today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PPAAY/news?id=482911]]></link>
+<pubDate>Mon, 16 Jun 2025 08:35:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PPAAY/news?id=482911]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Perusahaan Gas Negara Persaro]]></category>
+<pink:symbol>PPAAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | HCMLY - Books will close at the close of business today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=482910]]></link>
+<pubDate>Mon, 16 Jun 2025 08:34:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=482910]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOLCIM LTD]]></category>
+<pink:symbol>HCMLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Cellnex Telecom SA (CLLNY: Pink Limited) | CLLNY - Books will close today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLLNY/news?id=482906]]></link>
+<pubDate>Mon, 16 Jun 2025 08:33:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLNY/news?id=482906]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cellnex Telecom SA]]></category>
+<pink:symbol>CLLNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Atresmedia Corporacion De Medios De Comunicacion (ATVDY: Pink Limited) | ATVDY - Books will close today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ATVDY/news?id=482905]]></link>
+<pubDate>Mon, 16 Jun 2025 08:32:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATVDY/news?id=482905]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Atresmedia Corporacion De Medios De Comunicacion]]></category>
+<pink:symbol>ATVDY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aena SME S.A. (ANYYY: Pink Limited) | ANYYY - Books will close at the close of business today, June 16, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=482904]]></link>
+<pubDate>Mon, 16 Jun 2025 08:31:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=482904]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aena SME S.A.]]></category>
+<pink:symbol>ANYYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TRANSUITE.ORG INC. (TRSO: OTCQB) | TRSO Signed Letter of Intent for Proposed Acquisition of Goldfinch Group Co., Limited, and Announce Partnership to Build Global Leader in AI + Web3.0 Intelligent Device Asset Management]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TRSO/news?id=482879]]></link>
@@ -518,90 +602,6 @@ OTC RSS mirror fetched: Mon Jun 16 11:52:00 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Paragon Technologies, Inc. (PGNT: Pink Current) | Paragon Technologies Provides Update on CEO Succession Plan]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482728]]></link>
-<pubDate>Thu, 12 Jun 2025 16:05:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PGNT/news?id=482728]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Paragon Technologies, Inc.]]></category>
-<pink:symbol>PGNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[First Niles Financial, Inc. (FNFI: Pink Current) | First Niles Financial, Inc. Completes Successful Capital Raise]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FNFI/news?id=482729]]></link>
-<pubDate>Thu, 12 Jun 2025 16:01:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNFI/news?id=482729]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[First Niles Financial, Inc.]]></category>
-<pink:symbol>FNFI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ResourceTec Corporation (BRNED: Pink Current) | ResourceTec Coporation Announces Name Change and Reverse Stock Split]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BRNED/news?id=482723]]></link>
-<pubDate>Thu, 12 Jun 2025 13:10:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BRNED/news?id=482723]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ResourceTec Corporation]]></category>
-<pink:symbol>BRNED</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482721]]></link>
-<pubDate>Thu, 12 Jun 2025 12:34:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482721]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Severn Trent Utilities Finance Plc - Publication of Final Terms]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482711]]></link>
-<pubDate>Thu, 12 Jun 2025 09:53:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=482711]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bebuzee Inc. (BBUZ: Pink Current) | Bebuzee Launches Super App for VIPs and Businesses – A New Era of Digital Ecosystems Begins]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BBUZ/news?id=482709]]></link>
-<pubDate>Thu, 12 Jun 2025 09:39:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BBUZ/news?id=482709]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bebuzee Inc.]]></category>
-<pink:symbol>BBUZ</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NIGHTINGALE HEALTH OYJ (NHLTY: OTCQX International) | Nightingale Health’s management team members Minja Salmio and Satu Saksman recognized for outstanding leadership]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482700]]></link>
-<pubDate>Thu, 12 Jun 2025 09:15:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482700]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NIGHTINGALE HEALTH OYJ]]></category>
-<pink:symbol>NHLTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1042,6 +1042,18 @@ OTC RSS mirror fetched: Mon Jun 16 11:52:00 UTC 2025
 <pink:symbol>MRTMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCIENCE IN SPORT PLC. (SISPF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SISPF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SISPF/company-info">SCIENCE IN SPORT PLC.</a> (<a href="http://www.otcmarkets.com/stock/SISPF">SISPF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 16, 2025, SISPF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SISPF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCIENCE IN SPORT PLC.]]></category>
+<pink:symbol>SISPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Shagrir Group Veh Svcs Ltd (SRRPF: Pink Limited) | Piggyback Qualified]]></title>
