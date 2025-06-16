@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 14:24:25 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 14:45:49 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 16 14:24:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 10:06:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 10:26:17 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Forza! Bitcoin Treasury Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482933]]></link>
+<pubDate>Mon, 16 Jun 2025 10:25:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=482933]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coinsilium Group Ltd.]]></category>
+<pink:symbol>CINGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Phoenix Copper Limited (PXCLY: OTCQX International) | Final audited results for the year ended 31 December 2024]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/PXCLY/news?id=482932]]></link>
+<pubDate>Mon, 16 Jun 2025 10:20:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PXCLY/news?id=482932]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Phoenix Copper Limited]]></category>
+<pink:symbol>PXCLY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[SulNOx Group Plc (SNOXF: OTCQX International) | Launch of Sulnox Innovations & £1m Subscription for Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=482931]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Mon Jun 16 14:24:25 UTC 2025
 <pink:symbol>VNUE</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[CNB Community Bancorp Inc. (CNBB: OTCQX U.S.) | CNB Community Bancorp, Inc. Declares Quarterly Cash Dividend of $0.31 Per Share]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CNBB/news?id=482744]]></link>
-<pubDate>Fri, 13 Jun 2025 07:00:36 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CNBB/news?id=482744]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CNB Community Bancorp Inc.]]></category>
-<pink:symbol>CNBB</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NIGHTINGALE HEALTH OYJ (NHLTY: OTCQX International) | Nightingale Health strengthens its commercial operations with new EMEA appointment]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482760]]></link>
-<pubDate>Fri, 13 Jun 2025 04:50:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NHLTY/news?id=482760]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NIGHTINGALE HEALTH OYJ]]></category>
-<pink:symbol>NHLTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
