@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 13:55:59 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 14:24:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun 16 13:55:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 09:46:17 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 10:06:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[SulNOx Group Plc (SNOXF: OTCQX International) | Launch of Sulnox Innovations & £1m Subscription for Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=482931]]></link>
+<pubDate>Mon, 16 Jun 2025 09:59:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNOXF/news?id=482931]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SulNOx Group Plc]]></category>
+<pink:symbol>SNOXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[ARCHTIS LTD. (ARHLF: OTCQB) | archTIS Achieves Sale of NC Protect to US Department of Defense]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ARHLF/news?id=482929]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Mon Jun 16 13:55:59 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[NIGHTINGALE HEALTH OYJ]]></category>
 <pink:symbol>NHLTY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482758]]></link>
-<pubDate>Fri, 13 Jun 2025 04:20:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=482758]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
-<pink:symbol>KPGHF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
