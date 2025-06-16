@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 20:24:05 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 20:43:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun 16 20:24:05 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 16:06:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 16:36:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Monthly Cash Distribution]]></title>
@@ -1136,6 +1136,18 @@ OTC RSS mirror fetched: Mon Jun 16 20:24:05 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[SCIENCE IN SPORT PLC.]]></category>
 <pink:symbol>SISPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PRIMARIS REAL ESTATE INV TRUST TR. (PMREF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PMREF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PMREF/company-info">PRIMARIS REAL ESTATE INV TRUST TR.</a> (<a href="http://www.otcmarkets.com/stock/PMREF">PMREF</a>: Pink Current) - Halted Security -  Effective Mon, Jun 16, 2025, PMREF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=PMREF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PRIMARIS REAL ESTATE INV TRUST TR.]]></category>
+<pink:symbol>PMREF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
