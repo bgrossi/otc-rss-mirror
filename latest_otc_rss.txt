@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 11:40:28 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 07:06:16 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 07:36:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TRANSUITE.ORG INC. (TRSO: OTCQB) | TRSO Signed Letter of Intent for Proposed Acquisition of Goldfinch Group Co., Limited, and Announce Partnership to Build Global Leader in AI + Web3.0 Intelligent Device Asset Management]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TRSO/news?id=482879]]></link>
+<pubDate>Mon, 16 Jun 2025 07:08:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TRSO/news?id=482879]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TRANSUITE.ORG INC.]]></category>
+<pink:symbol>TRSO</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 16]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CBRA/news?id=482857]]></link>
@@ -590,18 +602,6 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[KRTL Holding Group, Inc (KRTL: Pink Current) | KRTL Biotech Inc. Advances API Supply Chain Strategy with $240,000 Initial Purchase Order]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KRTL/news?id=482627]]></link>
-<pubDate>Thu, 12 Jun 2025 09:00:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRTL/news?id=482627]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KRTL Holding Group, Inc]]></category>
-<pink:symbol>KRTL</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -852,6 +852,18 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SSGA SPDR ETFS Europe I PLC (SPPMF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SPPMF&actionDate=1750073308000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPMF/company-info">SSGA SPDR ETFS Europe I PLC</a> (<a href="http://www.otcmarkets.com/stock/SPPMF">SPPMF</a>: OTC Link) - Venue Change - The symbol, SPPMF, no longer trades on Grey Market.  As of Mon, Jun 16, 2025, SPPMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 07:28:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SPPMF&actionDate=1750073308000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SSGA SPDR ETFS Europe I PLC]]></category>
+<pink:symbol>SPPMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[OLLANAMI S A B (OLANF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=OLANF&actionDate=1750057104000]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OLANF/company-info">OLLANAMI S A B</a> (<a href="http://www.otcmarkets.com/stock/OLANF">OLANF</a>: OTC Link) - Venue Change - The symbol, OLANF, no longer trades on Grey Market.  As of Mon, Jun 16, 2025, OLANF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -876,6 +888,30 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Maritime Resources Corp. (MRTMF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MRTMF&actionDate=1750073263000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRTMD/company-info">Maritime Resources Corp.</a> (<a href="http://www.otcmarkets.com/stock/MRTMD">MRTMF</a>: Pink Current) - Symbol Change - The symbol, MRTMF, is no longer a valid symbol for Maritime Resources Corp..  As of Mon, Jun 16, 2025, the new trading symbol is MRTMD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 07:27:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=MRTMF&actionDate=1750073263000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Maritime Resources Corp.]]></category>
+<pink:symbol>MRTMD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Inverite Insights Inc. (INVRF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INVRF&actionDate=1750073235000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INVRD/company-info">Inverite Insights Inc.</a> (<a href="http://www.otcmarkets.com/stock/INVRD">INVRF</a>: Pink Current) - Symbol Change - The symbol, INVRF, is no longer a valid symbol for Inverite Insights Inc..  As of Mon, Jun 16, 2025, the new trading symbol is INVRD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 07:27:15 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INVRF&actionDate=1750073235000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Inverite Insights Inc.]]></category>
+<pink:symbol>INVRD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[MAGMA SILVER CORP. (NDENF: OTCQB) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=NDENF&actionDate=1750050049000]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MAGMF/company-info">MAGMA SILVER CORP.</a> (<a href="http://www.otcmarkets.com/stock/MAGMF">NDENF</a>: OTCQB) - Symbol Change - The symbol, NDENF, is no longer a valid symbol for MAGMA SILVER CORP..  As of Mon, Jun 16, 2025, the new trading symbol is MAGMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -896,6 +932,30 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GABO MINING LTD.]]></category>
 <pink:symbol>MLLOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Maritime Resources Corp. (MRTMF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MRTMF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRTMD/company-info">Maritime Resources Corp.</a> (<a href="http://www.otcmarkets.com/stock/MRTMD">MRTMF</a>: Pink Current) - Splits - Effective Mon, Jun 16, 2025, MRTMF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 10 split. Due to the split, MRTMF is no longer valid. The new trading symbol is MRTMD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=MRTMF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Maritime Resources Corp.]]></category>
+<pink:symbol>MRTMD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Inverite Insights Inc. (INVRF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=INVRF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INVRD/company-info">Inverite Insights Inc.</a> (<a href="http://www.otcmarkets.com/stock/INVRD">INVRF</a>: Pink Current) - Splits - Effective Mon, Jun 16, 2025, INVRF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 6 split. Due to the split, INVRF is no longer valid. The new trading symbol is INVRD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=INVRF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Inverite Insights Inc.]]></category>
+<pink:symbol>INVRD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1308,6 +1368,18 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SSGA SPDR ETFS Europe I PLC (SPPMF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPMF&actionDate=1750046400000]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPMF/company-info">SSGA SPDR ETFS Europe I PLC</a> (<a href="http://www.otcmarkets.com/stock/SPPMF">SPPMF</a>: Pink Current) - Tier Change - The symbol, SPPMF, no longer is classified as Grey Market.  As of Mon, Jun 16, 2025, SPPMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPMF&actionDate=1750046400000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SSGA SPDR ETFS Europe I PLC]]></category>
+<pink:symbol>SPPMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Southpoint Bancshares Inc. (SOUB: OTCQX U.S.) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOUB&actionDate=1750046400000]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOUB/company-info">Southpoint Bancshares Inc.</a> (<a href="http://www.otcmarkets.com/stock/SOUB">SOUB</a>: OTCQX U.S.) - Tier Change - The symbol, SOUB, no longer is classified as Pink Current.  As of Mon, Jun 16, 2025, SOUB resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1402,18 +1474,6 @@ OTC RSS mirror fetched: Mon Jun 16 11:18:51 UTC 2025
 <pink:symbol>IDKFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Futurenet, Inc. (FUUN: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FUUN&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FUUN/company-info">Futurenet, Inc.</a> (<a href="http://www.otcmarkets.com/stock/FUUN">FUUN</a>: Pink Current) - Tier Change - The symbol, FUUN, no longer is classified as Pink Limited.  As of Mon, Jun 16, 2025, FUUN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=FUUN&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Futurenet, Inc.]]></category>
-<pink:symbol>FUUN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
