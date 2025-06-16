@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 16 09:31:29 UTC 2025
+OTC RSS mirror fetched: Mon Jun 16 09:52:37 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 16 09:31:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 05:06:17 EDT</lastBuildDate>
+<lastBuildDate>Mon, 16 Jun 2025 05:36:17 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Result of accelerated bookbuild and subscription]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482848]]></link>
+<pubDate>Mon, 16 Jun 2025 05:15:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482848]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Accelerated-bookbuild]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482847]]></link>
+<pubDate>Mon, 16 Jun 2025 05:13:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=482847]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[EXAIL TECHNOLOGIES (EXALF: OTCQX International) | Exail announces several significant orders for navigation systems in land and airland defense applications]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EXALF/news?id=482843]]></link>
@@ -575,30 +599,6 @@ OTC RSS mirror fetched: Mon Jun 16 09:31:29 UTC 2025
 <pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[80 MILE PLC (BLLYF: Pink Current) | Sale of Kangerluarsuk Project for up to US$2m]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=482610]]></link>
-<pubDate>Thu, 12 Jun 2025 02:00:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BLLYF/news?id=482610]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[80 MILE PLC]]></category>
-<pink:symbol>BLLYF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Peninsula Energy Ltd. (PENMF: OTCQB) | Company Update and Samuel EPC Settlement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PENMF/news?id=482626]]></link>
-<pubDate>Wed, 11 Jun 2025 22:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PENMF/news?id=482626]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Peninsula Energy Ltd.]]></category>
-<pink:symbol>PENMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
