@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 13:33:46 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 13:55:23 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 13:33:46 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 09:26:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 09:46:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[VNUE, Inc. (VNUE: Pink Current) | Redacted Optics CEO Issues First Statement to VNUE, Inc. Shareholders Following Transition]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/VNUE/news?id=483074]]></link>
+<pubDate>Tue, 17 Jun 2025 09:30:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VNUE/news?id=483074]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VNUE, Inc.]]></category>
+<pink:symbol>VNUE</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Energy Today Inc. (NRGT: Pink Limited) | ENERGY TODAY Announces Corporate Name Change and Strategic Up-listing Plans]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NRGT/news?id=483075]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 17 13:33:46 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PURE Bioscience]]></category>
 <pink:symbol>PURE</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[SILVER STORM MINING LTD. (SVRSF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 16]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SVRSF/news?id=482863]]></link>
-<pubDate>Mon, 16 Jun 2025 07:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SVRSF/news?id=482863]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SILVER STORM MINING LTD.]]></category>
-<pink:symbol>SVRSF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
