@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 04:01:02 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 04:42:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 04:01:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 16 Jun 2025 23:36:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 00:36:16 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Horizon Oil Ltd. (HZNFF: OTCQB) | Thailand Update - Finalisation of Financing Arrangements]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HZNFF/news?id=482979]]></link>
+<pubDate>Tue, 17 Jun 2025 00:17:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HZNFF/news?id=482979]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Horizon Oil Ltd.]]></category>
+<pink:symbol>HZNFF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Boss Energy Ltd (BQSSF: OTCQX International) | Change in substantial holding]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/BQSSF/news?id=482978]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Tue Jun 17 04:01:02 UTC 2025
 <pink:symbol>HZNFF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[THOR ENERGY PLC. (THORF: Pink Current) | Gas Storage Exploration Licences, South Australia]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/THORF/news?id=482831]]></link>
-<pubDate>Sun, 15 Jun 2025 18:34:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/THORF/news?id=482831]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[THOR ENERGY PLC.]]></category>
-<pink:symbol>THORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1368,18 +1368,6 @@ OTC RSS mirror fetched: Tue Jun 17 04:01:02 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Prologis, Inc. (PLDGP: OTCQB) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286056]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 03:59 - <a href="http://www.otcmarkets.com/stock/PLDGP/company-info">Prologis, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PLDGP">PLDGP</a>: OTCQB) - Scheduled Ex-Dividend - Prologis, Inc. has announced a dividend ex-date for (PLDGP: OTCQB). Prologis, Inc. is scheduled to disburse a Cash Dividend dividend of $1.0675 on Tue, Jun 17, 2025 to shareholders of PLDGP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 15:59:59 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286056]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Prologis, Inc.]]></category>
-<pink:symbol>PLDGP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PT ALAMTRI RES INDONESIA TBK (ADOOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286103]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 01:32 - <a href="http://www.otcmarkets.com/stock/ADOOY/company-info">PT ALAMTRI RES INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/ADOOY">ADOOY</a>: Pink Limited) - Scheduled Ex-Dividend - PT ALAMTRI RES INDONESIA TBK has announced a dividend ex-date for (ADOOY: Pink Limited). PT ALAMTRI RES INDONESIA TBK is scheduled to disburse a Cash Dividend dividend of $0.51207 on Fri, Jun 20, 2025 to shareholders of ADOOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1484,6 +1472,18 @@ OTC RSS mirror fetched: Tue Jun 17 04:01:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Partners Value Invts LP]]></category>
 <pink:symbol>PVFPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[International Consolidated Airlines Group SA (ICAGY: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286035]]></link>
+<description><![CDATA[Fri, Jun 13, 2025 02:40 - <a href="http://www.otcmarkets.com/stock/ICAGY/company-info">International Consolidated Airlines Group SA</a> (<a href="http://www.otcmarkets.com/stock/ICAGY">ICAGY</a>: Pink Current) - Scheduled Ex-Dividend - International Consolidated Airlines Group SA has announced a dividend ex-date for (ICAGY: Pink Current). International Consolidated Airlines Group SA is scheduled to disburse a Cash Dividend dividend of $0.1387 on Fri, Jun 27, 2025 to shareholders of ICAGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 13 Jun 2025 14:40:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286035]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[International Consolidated Airlines Group SA]]></category>
+<pink:symbol>ICAGY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
