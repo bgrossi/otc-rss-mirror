@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 05:26:56 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 05:45:55 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Tue Jun 17 05:26:56 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 01:06:16 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 01:36:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Horizon Oil Ltd. (HZNFF: OTCQB) | Thailand Update - Finalisation of Financing Arrangements]]></title>
@@ -982,6 +982,18 @@ OTC RSS mirror fetched: Tue Jun 17 05:26:56 UTC 2025
 <pink:symbol>MAGMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[EAT & BEYOND GLOBAL HLDGS INC. (EATBF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EATBF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EATBF/company-info">EAT & BEYOND GLOBAL HLDGS INC.</a> (<a href="http://www.otcmarkets.com/stock/EATBF">EATBF</a>: Pink Current) - Company Name Change - EAT & BEYOND GLOBAL HLDGS INC. has changed its name to DIGITAL ASSET TECHNOLOGIES INC.. The change goes into effect as of Tue, Jun 17, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EATBF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[EAT & BEYOND GLOBAL HLDGS INC.]]></category>
+<pink:symbol>EATBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[GABO MINING LTD. (MLLOF: Pink Current) | Company Name Change]]></title>
