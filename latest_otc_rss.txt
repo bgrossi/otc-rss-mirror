@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 07:26:26 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 02:36:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 03:07:26 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize share buyback update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=482988]]></link>
+<pubDate>Tue, 17 Jun 2025 02:44:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=482988]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
+<pink:symbol>ADRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482946]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Samsung Heavy Industries signs Engineering Service Agreement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=482834]]></link>
-<pubDate>Sun, 15 Jun 2025 20:47:15 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=482834]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[FBR Ltd.]]></category>
-<pink:symbol>FBRKF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Cibanco SA Energy Investment Trust (CFEBF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CFEBF&actionDate=1750143264000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFEBF</a>: OTC Link) - Venue Change - The symbol, CFEBF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, CFEBF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 02:54:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CFEBF&actionDate=1750143264000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cibanco SA Energy Investment Trust]]></category>
+<pink:symbol>CFEBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Fukuda Denshi Co., Ltd. (FKDSF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FKDSF&actionDate=1750143264000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FKDSF</a>: OTC Link) - Venue Change - The symbol, FKDSF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, FKDSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 02:54:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FKDSF&actionDate=1750143264000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fukuda Denshi Co., Ltd.]]></category>
+<pink:symbol>FKDSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT Selamat Sempurna (SMSPF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SMSPF&actionDate=1750143263000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: OTC Link) - Venue Change - The symbol, SMSPF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, SMSPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 02:54:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SMSPF&actionDate=1750143263000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Selamat Sempurna]]></category>
+<pink:symbol>SMSPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[SSGA SPDR ETFS Europe I PLC (SPPMF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SPPMF&actionDate=1750073308000]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPMF/company-info">SSGA SPDR ETFS Europe I PLC</a> (<a href="http://www.otcmarkets.com/stock/SPPMF">SPPMF</a>: OTC Link) - Venue Change - The symbol, SPPMF, no longer trades on Grey Market.  As of Mon, Jun 16, 2025, SPPMF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -912,40 +948,40 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Fukuda Denshi Co., Ltd. (FDDSF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[Fukuda Denshi Co., Ltd. (FDDSF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FDDSF&actionDate=1750101834000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FDDSF</a>: Grey Market) - Symbol Change - The symbol, FDDSF, is no longer a valid symbol for Fukuda Denshi Co., Ltd..  As of Mon, Jun 16, 2025, the new trading symbol is FKDSF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FDDSF</a>: Pink Limited) - Symbol Change - The symbol, FDDSF, is no longer a valid symbol for Fukuda Denshi Co., Ltd..  As of Mon, Jun 16, 2025, the new trading symbol is FKDSF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 15:23:54 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FDDSF&actionDate=1750101834000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Fukuda Denshi Co., Ltd.]]></category>
 <pink:symbol>FKDSF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Cibanco SA Energy Investment Trust (CFFEF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[Cibanco SA Energy Investment Trust (CFFEF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CFFEF&actionDate=1750100206000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFFEF</a>: Grey Market) - Symbol Change - The symbol, CFFEF, is no longer a valid symbol for Cibanco SA Energy Investment Trust.  As of Mon, Jun 16, 2025, the new trading symbol is CFEBF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFFEF</a>: Pink Limited) - Symbol Change - The symbol, CFFEF, is no longer a valid symbol for Cibanco SA Energy Investment Trust.  As of Mon, Jun 16, 2025, the new trading symbol is CFEBF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 14:56:46 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=CFFEF&actionDate=1750100206000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Cibanco SA Energy Investment Trust]]></category>
 <pink:symbol>CFEBF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PT Selamat Sempurna (PSSTF: Grey Market) | Symbol Change]]></title>
+<title><![CDATA[PT Selamat Sempurna (PSSTF: Pink Limited) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PSSTF&actionDate=1750085428000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">PSSTF</a>: Grey Market) - Symbol Change - The symbol, PSSTF, is no longer a valid symbol for PT Selamat Sempurna.  As of Mon, Jun 16, 2025, the new trading symbol is SMSPF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">PSSTF</a>: Pink Limited) - Symbol Change - The symbol, PSSTF, is no longer a valid symbol for PT Selamat Sempurna.  As of Mon, Jun 16, 2025, the new trading symbol is SMSPF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 10:50:28 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PSSTF&actionDate=1750085428000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PT Selamat Sempurna]]></category>
 <pink:symbol>SMSPF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Maritime Resources Corp. (MRTMF: Pink Current) | Symbol Change]]></title>
@@ -1080,40 +1116,40 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Fukuda Denshi Co., Ltd. (FKDSF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Fukuda Denshi Co., Ltd. (FKDSF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FKDSF&actionDate=1750101834000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FKDSF</a>: Grey Market) - Reactivated Symbol -  The symbol, FKDSF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FKDSF</a>: Pink Limited) - Reactivated Symbol -  The symbol, FKDSF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 15:23:54 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=FKDSF&actionDate=1750101834000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Fukuda Denshi Co., Ltd.]]></category>
 <pink:symbol>FKDSF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Cibanco SA Energy Investment Trust (CFEBF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[Cibanco SA Energy Investment Trust (CFEBF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CFEBF&actionDate=1750100206000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFEBF</a>: Grey Market) - Reactivated Symbol -  The symbol, CFEBF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFEBF</a>: Pink Limited) - Reactivated Symbol -  The symbol, CFEBF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 14:56:46 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CFEBF&actionDate=1750100206000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Cibanco SA Energy Investment Trust]]></category>
 <pink:symbol>CFEBF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PT Selamat Sempurna (SMSPF: Grey Market) | Reactivated Symbol]]></title>
+<title><![CDATA[PT Selamat Sempurna (SMSPF: Pink Limited) | Reactivated Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SMSPF&actionDate=1750085428000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: Grey Market) - Reactivated Symbol -  The symbol, SMSPF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: Pink Limited) - Reactivated Symbol -  The symbol, SMSPF, has been reactivated and now trades on Pink Limited. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 10:50:28 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SMSPF&actionDate=1750085428000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PT Selamat Sempurna]]></category>
 <pink:symbol>SMSPF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[C-RAD AB (CRADF: Grey Market) | Deleted Symbol]]></title>
@@ -1198,6 +1234,54 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:symbol>LVXFF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Studsvik AB (SUDKY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SUDKY&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUDKY/company-info">Studsvik AB</a> (<a href="http://www.otcmarkets.com/stock/SUDKY">SUDKY</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 17, 2025, SUDKY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SUDKY&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Studsvik AB]]></category>
+<pink:symbol>SUDKY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT Selamat Sempurna (SMSPF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SMSPF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 17, 2025, SMSPF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SMSPF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Selamat Sempurna]]></category>
+<pink:symbol>SMSPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Fukuda Denshi Co., Ltd. (FKDSF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FKDSF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FKDSF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 17, 2025, FKDSF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FKDSF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fukuda Denshi Co., Ltd.]]></category>
+<pink:symbol>FKDSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Cibanco SA Energy Investment Trust (CFEBF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CFEBF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFEBF</a>: Pink Limited) - Piggyback Qualified -  Effective Tue, Jun 17, 2025, CFEBF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CFEBF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Cibanco SA Energy Investment Trust]]></category>
+<pink:symbol>CFEBF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Shagrir Group Veh Svcs Ltd (SRRPF: Pink Limited) | Piggyback Qualified]]></title>
@@ -1393,6 +1477,18 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 </item>
 <item>
 <title><![CDATA[PT ALAMTRI RES INDONESIA TBK (ADOOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285785]]></link>
+<description><![CDATA[Mon, Jun 16, 2025 11:37 - <a href="http://www.otcmarkets.com/stock/ADOOY/company-info">PT ALAMTRI RES INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/ADOOY">ADOOY</a>: Pink Limited) - Scheduled Ex-Dividend - PT ALAMTRI RES INDONESIA TBK has announced a dividend ex-date for (ADOOY: Pink Limited). PT ALAMTRI RES INDONESIA TBK is scheduled to disburse a Cash Dividend dividend of null on Fri, Jun 20, 2025 to shareholders of ADOOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 16 Jun 2025 23:37:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285785]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT ALAMTRI RES INDONESIA TBK]]></category>
+<pink:symbol>ADOOY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT ALAMTRI RES INDONESIA TBK (ADOOY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286103]]></link>
 <description><![CDATA[Mon, Jun 16, 2025 01:32 - <a href="http://www.otcmarkets.com/stock/ADOOY/company-info">PT ALAMTRI RES INDONESIA TBK</a> (<a href="http://www.otcmarkets.com/stock/ADOOY">ADOOY</a>: Pink Limited) - Scheduled Ex-Dividend - PT ALAMTRI RES INDONESIA TBK has announced a dividend ex-date for (ADOOY: Pink Limited). PT ALAMTRI RES INDONESIA TBK is scheduled to disburse a Cash Dividend dividend of $0.51207 on Fri, Jun 20, 2025 to shareholders of ADOOY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 16 Jun 2025 13:32:08 EDT</pubDate>
@@ -1500,16 +1596,100 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[International Consolidated Airlines Group SA (ICAGY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286035]]></link>
-<description><![CDATA[Fri, Jun 13, 2025 02:40 - <a href="http://www.otcmarkets.com/stock/ICAGY/company-info">International Consolidated Airlines Group SA</a> (<a href="http://www.otcmarkets.com/stock/ICAGY">ICAGY</a>: Pink Current) - Scheduled Ex-Dividend - International Consolidated Airlines Group SA has announced a dividend ex-date for (ICAGY: Pink Current). International Consolidated Airlines Group SA is scheduled to disburse a Cash Dividend dividend of $0.1387 on Fri, Jun 27, 2025 to shareholders of ICAGY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Fri, 13 Jun 2025 14:40:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286035]]></guid>
+<title><![CDATA[XTRACKERS IE PLC (XNAQF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XNAQF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XNAQF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XNAQF">XNAQF</a>: Pink Current) - Tier Change - The symbol, XNAQF, no longer is classified as Expert Market.  As of Tue, Jun 17, 2025, XNAQF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XNAQF&actionDate=1750132800000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[International Consolidated Airlines Group SA]]></category>
-<pink:symbol>ICAGY</pink:symbol>
+<category><![CDATA[XTRACKERS IE PLC]]></category>
+<pink:symbol>XNAQF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Studsvik AB (SUDKY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUDKY&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SUDKY/company-info">Studsvik AB</a> (<a href="http://www.otcmarkets.com/stock/SUDKY">SUDKY</a>: Pink Limited) - Tier Change - The symbol, SUDKY, no longer is classified as Expert Market.  As of Tue, Jun 17, 2025, SUDKY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SUDKY&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Studsvik AB]]></category>
+<pink:symbol>SUDKY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PT Selamat Sempurna (SMSPF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SMSPF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: Pink Limited) - Tier Change - The symbol, SMSPF, no longer is classified as Grey Market.  As of Tue, Jun 17, 2025, SMSPF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SMSPF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Selamat Sempurna]]></category>
+<pink:symbol>SMSPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[PreAxia Health Care Payment Systems, Inc. (PAXH: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PAXH&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PAXH/company-info">PreAxia Health Care Payment Systems, Inc.</a> (<a href="http://www.otcmarkets.com/stock/PAXH">PAXH</a>: Pink Current) - Tier Change - The symbol, PAXH, no longer is classified as Pink Limited.  As of Tue, Jun 17, 2025, PAXH resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PAXH&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PreAxia Health Care Payment Systems, Inc.]]></category>
+<pink:symbol>PAXH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Macarthur Minerals Ltd. (MMSDF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MMSDF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MMSDF/company-info">Macarthur Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MMSDF">MMSDF</a>: Pink Current) - Tier Change - The symbol, MMSDF, no longer is classified as Expert Market.  As of Tue, Jun 17, 2025, MMSDF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MMSDF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Macarthur Minerals Ltd.]]></category>
+<pink:symbol>MMSDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Life Stem Genetics Inc. (LIFS: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LIFS&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LIFS/company-info">Life Stem Genetics Inc.</a> (<a href="http://www.otcmarkets.com/stock/LIFS">LIFS</a>: Pink Current) - Tier Change - The symbol, LIFS, no longer is classified as Pink Limited.  As of Tue, Jun 17, 2025, LIFS resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LIFS&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Life Stem Genetics Inc.]]></category>
+<pink:symbol>LIFS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Resonate Blends Inc. (KOAN: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KOAN&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KOAN/company-info">Resonate Blends Inc.</a> (<a href="http://www.otcmarkets.com/stock/KOAN">KOAN</a>: Pink Current) - Tier Change - The symbol, KOAN, no longer is classified as Pink Limited.  As of Tue, Jun 17, 2025, KOAN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KOAN&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Resonate Blends Inc.]]></category>
+<pink:symbol>KOAN</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTORIO, CORP. (ITOR: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITOR&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITOR/company-info">INTORIO, CORP.</a> (<a href="http://www.otcmarkets.com/stock/ITOR">ITOR</a>: Pink Limited) - Tier Change - The symbol, ITOR, no longer is classified as Pink Current.  As of Tue, Jun 17, 2025, ITOR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITOR&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTORIO, CORP.]]></category>
+<pink:symbol>ITOR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[INFINITUM COPPER CORP. (INUMF: Pink Current) | Tier Change]]></title>
@@ -1532,102 +1712,6 @@ OTC RSS mirror fetched: Tue Jun 17 06:57:28 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GEMINA LABORATORIES LTD.]]></category>
 <pink:symbol>GLABF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Elite Health Systems, Inc. (EHSI: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=EHSI&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EHSI/company-info">Elite Health Systems, Inc.</a> (<a href="http://www.otcmarkets.com/stock/EHSI">EHSI</a>: OTCQB) - Tier Change - The symbol, EHSI, no longer is classified as Pink Current.  As of Tue, Jun 17, 2025, EHSI resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=EHSI&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Elite Health Systems, Inc.]]></category>
-<pink:symbol>EHSI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Shagrir Group Veh Svcs Ltd (SRRPF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SRRPF&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SRRPF/company-info">Shagrir Group Veh Svcs Ltd</a> (<a href="http://www.otcmarkets.com/stock/SRRPF">SRRPF</a>: Pink Limited) - Tier Change - The symbol, SRRPF, no longer is classified as Expert Market.  As of Mon, Jun 16, 2025, SRRPF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SRRPF&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Shagrir Group Veh Svcs Ltd]]></category>
-<pink:symbol>SRRPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SSGA SPDR ETFS Europe I PLC (SPPMF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPMF&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SPPMF/company-info">SSGA SPDR ETFS Europe I PLC</a> (<a href="http://www.otcmarkets.com/stock/SPPMF">SPPMF</a>: Pink Current) - Tier Change - The symbol, SPPMF, no longer is classified as Grey Market.  As of Mon, Jun 16, 2025, SPPMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SPPMF&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SSGA SPDR ETFS Europe I PLC]]></category>
-<pink:symbol>SPPMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Southpoint Bancshares Inc. (SOUB: OTCQX U.S.) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOUB&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOUB/company-info">Southpoint Bancshares Inc.</a> (<a href="http://www.otcmarkets.com/stock/SOUB">SOUB</a>: OTCQX U.S.) - Tier Change - The symbol, SOUB, no longer is classified as Pink Current.  As of Mon, Jun 16, 2025, SOUB resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOUB&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Southpoint Bancshares Inc.]]></category>
-<pink:symbol>SOUB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OLLANAMI S A B (OLANF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OLANF&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/OLANF/company-info">OLLANAMI S A B</a> (<a href="http://www.otcmarkets.com/stock/OLANF">OLANF</a>: Pink Limited) - Tier Change - The symbol, OLANF, no longer is classified as Grey Market.  As of Mon, Jun 16, 2025, OLANF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=OLANF&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OLLANAMI S A B]]></category>
-<pink:symbol>OLANF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NorthView Acquisition Corporation (NVACW: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVACW&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NVACW/company-info">NorthView Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/NVACW">NVACW</a>: Pink Current) - Tier Change - The symbol, NVACW, no longer is classified as Pink Limited.  As of Mon, Jun 16, 2025, NVACW resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVACW&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NorthView Acquisition Corporation]]></category>
-<pink:symbol>NVACW</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NorthView Acquisition Corporation (NVACR: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVACR&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NVACR/company-info">NorthView Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/NVACR">NVACR</a>: Pink Current) - Tier Change - The symbol, NVACR, no longer is classified as Pink Limited.  As of Mon, Jun 16, 2025, NVACR resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVACR&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NorthView Acquisition Corporation]]></category>
-<pink:symbol>NVACR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NorthView Acquisition Corporation (NVAC: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVAC&actionDate=1750046400000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NVAC/company-info">NorthView Acquisition Corporation</a> (<a href="http://www.otcmarkets.com/stock/NVAC">NVAC</a>: Pink Current) - Tier Change - The symbol, NVAC, no longer is classified as Expert Market.  As of Mon, Jun 16, 2025, NVAC resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NVAC&actionDate=1750046400000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NorthView Acquisition Corporation]]></category>
-<pink:symbol>NVAC</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
