@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 15:56:36 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 16:33:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Tue Jun 17 15:56:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 11:46:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 12:26:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Director/PDMR Sharedealing]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=483096]]></link>
+<pubDate>Tue, 17 Jun 2025 12:08:27 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=483096]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Severn Trent PLC]]></category>
+<pink:symbol>STRNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Delhi Bank Corp. (DWNX: Pink Current) | DELHI BANK CORP ANNOUNCES QUARTERLY CASH DIVIDEND]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=483093]]></link>
+<pubDate>Tue, 17 Jun 2025 11:59:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=483093]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Delhi Bank Corp.]]></category>
+<pink:symbol>DWNX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=483092]]></link>
+<pubDate>Tue, 17 Jun 2025 11:57:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=483092]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Honat Bancorp, Inc.]]></category>
+<pink:symbol>HONT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[KORYX COPPER INC. (KRYXF: OTCQB) | KORYX COPPER PROVIDES PROJECT DEVELOPMENT UPDATE  FOR THE HAIB COPPER PROJECT, SOUTHERN NAMIBIA]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=483090]]></link>
@@ -573,42 +609,6 @@ OTC RSS mirror fetched: Tue Jun 17 15:56:36 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PT Perusahaan Gas Negara Persaro]]></category>
 <pink:symbol>PPAAY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | HCMLY - Books will close at the close of business today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=482910]]></link>
-<pubDate>Mon, 16 Jun 2025 08:34:22 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=482910]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HOLCIM LTD]]></category>
-<pink:symbol>HCMLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Cellnex Telecom SA (CLLNY: Pink Limited) | CLLNY - Books will close today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CLLNY/news?id=482906]]></link>
-<pubDate>Mon, 16 Jun 2025 08:33:17 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLLNY/news?id=482906]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cellnex Telecom SA]]></category>
-<pink:symbol>CLLNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Atresmedia Corporacion De Medios De Comunicacion (ATVDY: Pink Limited) | ATVDY - Books will close today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ATVDY/news?id=482905]]></link>
-<pubDate>Mon, 16 Jun 2025 08:32:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ATVDY/news?id=482905]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atresmedia Corporacion De Medios De Comunicacion]]></category>
-<pink:symbol>ATVDY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
