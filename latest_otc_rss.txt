@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 15:24:44 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 15:44:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 15:24:44 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 11:06:14 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 11:26:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[KORYX COPPER INC. (KRYXF: OTCQB) | KORYX COPPER PROVIDES PROJECT DEVELOPMENT UPDATE  FOR THE HAIB COPPER PROJECT, SOUTHERN NAMIBIA]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=483090]]></link>
+<pubDate>Tue, 17 Jun 2025 11:06:55 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=483090]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[KORYX COPPER INC.]]></category>
+<pink:symbol>KRYXF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[D3 Energy Limited (DNRGF: OTCQB) | D3E Acquires Highly Prospective Helium and Hydrogen Permits]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DNRGF/news?id=483082]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 17 15:24:44 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Atresmedia Corporacion De Medios De Comunicacion]]></category>
 <pink:symbol>ATVDY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aena SME S.A. (ANYYY: Pink Limited) | ANYYY - Books will close at the close of business today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=482904]]></link>
-<pubDate>Mon, 16 Jun 2025 08:31:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=482904]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aena SME S.A.]]></category>
-<pink:symbol>ANYYY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
