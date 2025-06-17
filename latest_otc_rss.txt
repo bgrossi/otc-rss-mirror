@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 16:58:12 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 17:25:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 16:58:12 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 12:46:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 13:06:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Finch Therapeutics Group, Inc. (FNCH: Pink Limited) | Finch Announces Election of Directors and Reduction in the Number of Authorized Shares of Common and Preferred Stock]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FNCH/news?id=483098]]></link>
+<pubDate>Tue, 17 Jun 2025 13:03:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNCH/news?id=483098]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Finch Therapeutics Group, Inc.]]></category>
+<pink:symbol>FNCH</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483097]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 17 16:58:12 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sonova Holding AG]]></category>
 <pink:symbol>SONVY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Rubis (RBSFY: Pink Limited) | RBSFY - Books will close at the close of business today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RBSFY/news?id=482912]]></link>
-<pubDate>Mon, 16 Jun 2025 08:36:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RBSFY/news?id=482912]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Rubis]]></category>
-<pink:symbol>RBSFY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
