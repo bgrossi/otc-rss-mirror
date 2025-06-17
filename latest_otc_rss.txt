@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 09:56:02 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 10:26:35 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Tue Jun 17 09:56:02 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 05:36:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 06:06:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Kayelekera Restart Commissioning Commenced]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=482996]]></link>
+<pubDate>Tue, 17 Jun 2025 06:00:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=482996]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lotus Resources Ltd]]></category>
+<pink:symbol>LTSRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[White Pearl Technology Group AB (WPTGF: OTCQX International) | Meet the Founder and the CEO of White Pearl Technology Group]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/WPTGF/news?id=482995]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Tue Jun 17 09:56:02 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[EXAIL TECHNOLOGIES]]></category>
 <pink:symbol>EXALF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[J Sainsbury plc (JSAIY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482796]]></link>
-<pubDate>Mon, 16 Jun 2025 02:00:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JSAIY/news?id=482796]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[J Sainsbury plc]]></category>
-<pink:symbol>JSAIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
