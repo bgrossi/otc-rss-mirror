@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
+OTC RSS mirror fetched: Tue Jun 17 13:33:46 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Tue, 17 Jun 2025 08:26:15 EDT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 09:26:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Energy Today Inc. (NRGT: Pink Limited) | ENERGY TODAY Announces Corporate Name Change and Strategic Up-listing Plans]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRGT/news?id=483075]]></link>
+<pubDate>Tue, 17 Jun 2025 09:15:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRGT/news?id=483075]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Energy Today Inc.]]></category>
+<pink:symbol>NRGT</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Director/PDMR Shareholding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483073]]></link>
+<pubDate>Tue, 17 Jun 2025 09:10:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483073]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Aixia Group AB (AIXAF: OTCQX International) | SICS AI invests in NVIDIA DGX B200 from Aixia – accelerating the development of AI brain for next-generation robots]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=483053]]></link>
+<pubDate>Tue, 17 Jun 2025 08:28:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=483053]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aixia Group AB]]></category>
+<pink:symbol>AIXAF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Alternus Clean Energy, Inc. (ALCE: OTCQB) | Alternus Reports Full-Year 2024 Financial Results and Business Update; Eliminates Approximately $208 Million of Liabilities]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ALCE/news?id=483045]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Atlas Critical Minerals Corporation (JUPGF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 16]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/JUPGF/news?id=482856]]></link>
-<pubDate>Mon, 16 Jun 2025 07:00:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/JUPGF/news?id=482856]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Atlas Critical Minerals Corporation]]></category>
-<pink:symbol>JUPGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Kidoz Inc. (KDOZF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 16]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=482858]]></link>
-<pubDate>Mon, 16 Jun 2025 07:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KDOZF/news?id=482858]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Kidoz Inc.]]></category>
-<pink:symbol>KDOZF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Palatin Technologies, Inc. (PTNT: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 16]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=482861]]></link>
-<pubDate>Mon, 16 Jun 2025 07:00:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PTNT/news?id=482861]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Palatin Technologies, Inc.]]></category>
-<pink:symbol>PTNT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -862,6 +862,18 @@ OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
 <pink:symbol>BRELY</pink:symbol>
 <pink:type>presentation</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[XTRACKERS IE PLC (XWTSF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XWTSF&actionDate=1750165888000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XWTSF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XWTSF">XWTSF</a>: OTC Link) - Venue Change - The symbol, XWTSF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, XWTSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 09:11:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XWTSF&actionDate=1750165888000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[XTRACKERS IE PLC]]></category>
+<pink:symbol>XWTSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[AIM ImmunoTech Inc. (AIM: null) | Venue Change]]></title>
@@ -1632,6 +1644,18 @@ OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[XTRACKERS IE PLC (XWTSF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XWTSF&actionDate=1750132800000]]></link>
+<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XWTSF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XWTSF">XWTSF</a>: Pink Current) - Tier Change - The symbol, XWTSF, no longer is classified as Grey Market.  As of Tue, Jun 17, 2025, XWTSF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XWTSF&actionDate=1750132800000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[XTRACKERS IE PLC]]></category>
+<pink:symbol>XWTSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[XTRACKERS IE PLC (XNAQF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XNAQF&actionDate=1750132800000]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XNAQF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XNAQF">XNAQF</a>: Pink Current) - Tier Change - The symbol, XNAQF, no longer is classified as Expert Market.  As of Tue, Jun 17, 2025, XNAQF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1736,18 +1760,6 @@ OTC RSS mirror fetched: Tue Jun 17 12:46:30 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[INFINITUM COPPER CORP.]]></category>
 <pink:symbol>INUMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GEMINA LABORATORIES LTD. (GLABF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GLABF&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GLABF/company-info">GEMINA LABORATORIES LTD.</a> (<a href="http://www.otcmarkets.com/stock/GLABF">GLABF</a>: Pink Current) - Tier Change - The symbol, GLABF, no longer is classified as OTCQB.  As of Tue, Jun 17, 2025, GLABF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GLABF&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GEMINA LABORATORIES LTD.]]></category>
-<pink:symbol>GLABF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
