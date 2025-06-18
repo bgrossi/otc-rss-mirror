@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 15:56:47 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 16:33:21 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 18 15:56:47 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 11:46:13 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 12:26:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Dealing in securities by directors of a major subsidiary]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483219]]></link>
+<pubDate>Wed, 18 Jun 2025 11:53:23 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483219]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Oceana Group Ltd.]]></category>
+<pink:symbol>OCGPF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Limited) | SmartCard Marketing Systems Inc. (OTC:SMKG) and Axepay Inc. Empower BAAS and Cross-Border Payments for Fiat and Stablecoins, Bolstered by Strategic “IFE” US Bank & US Trust Partnership]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=483217]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 18 15:56:47 UTC 2025
 <pink:symbol>CINGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Kayelekera Restart Commissioning Commenced]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=482996]]></link>
-<pubDate>Tue, 17 Jun 2025 06:00:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=482996]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Lotus Resources Ltd]]></category>
-<pink:symbol>LTSRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
