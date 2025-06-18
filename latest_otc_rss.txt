@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 11:40:09 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 07:06:13 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 07:36:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Transaction in Own Shares]]></title>
@@ -1140,6 +1140,18 @@ OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ITALGAS SPA (IGARF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IGARF&actionDate=1750245122000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - ITALGAS SPA (IGARF: OTC Link) - Deleted Symbol - As of Wed, Jun 18, 2025, IGARF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:12:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IGARF&actionDate=1750245122000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ITALGAS SPA]]></category>
+<pink:symbol>IGARF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DMSPF&actionDate=1750222849000]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 12:00 - DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) - Deleted Symbol - As of Wed, Jun 18, 2025, DMSPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1246,18 +1258,6 @@ OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
 <pink:symbol>SMSPF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[C-RAD AB (CRADF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CRADF&actionDate=1750050040000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - C-RAD AB (CRADF: Grey Market) - Deleted Symbol - As of Mon, Jun 16, 2025, CRADF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 01:00:40 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CRADF&actionDate=1750050040000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[C-RAD AB]]></category>
-<pink:symbol>CRADF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[TDG GOLD CORP. (TDGGF: OTCQX International) | Halted Security]]></title>
@@ -1524,6 +1524,54 @@ OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Heiwa Real Estate Co., Ltd. (HWARF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286172]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:28 - <a href="http://www.otcmarkets.com/stock/HWARF/company-info">Heiwa Real Estate Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/HWARF">HWARF</a>: Pink Limited) - Scheduled Ex-Dividend - Heiwa Real Estate Co., Ltd. has announced a dividend ex-date for (HWARF: Pink Limited). Heiwa Real Estate Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Fri, Jun 27, 2025 to shareholders of HWARF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:28:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286172]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Heiwa Real Estate Co., Ltd.]]></category>
+<pink:symbol>HWARF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[AICHI STEEL CORP. (AICHF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286171]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:27 - <a href="http://www.otcmarkets.com/stock/AICHF/company-info">AICHI STEEL CORP.</a> (<a href="http://www.otcmarkets.com/stock/AICHF">AICHF</a>: Pink Limited) - Scheduled Ex-Dividend - AICHI STEEL CORP. has announced a dividend ex-date for (AICHF: Pink Limited). AICHI STEEL CORP. is scheduled to disburse a Stock Dividend/Split dividend of 4 shares on Fri, Jun 27, 2025 to shareholders of AICHF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:27:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286171]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AICHI STEEL CORP.]]></category>
+<pink:symbol>AICHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Yodogawa Steel Works Ltd. (YDWAF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286170]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:27 - <a href="http://www.otcmarkets.com/stock/YDWAF/company-info">Yodogawa Steel Works Ltd.</a> (<a href="http://www.otcmarkets.com/stock/YDWAF">YDWAF</a>: Pink Limited) - Scheduled Ex-Dividend - Yodogawa Steel Works Ltd. has announced a dividend ex-date for (YDWAF: Pink Limited). Yodogawa Steel Works Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 5 shares on Fri, Jun 27, 2025 to shareholders of YDWAF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:27:06 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286170]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Yodogawa Steel Works Ltd.]]></category>
+<pink:symbol>YDWAF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Japan Prime Realty Investment Corp. (JPRRF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286169]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:26 - <a href="http://www.otcmarkets.com/stock/JPRRF/company-info">Japan Prime Realty Investment Corp.</a> (<a href="http://www.otcmarkets.com/stock/JPRRF">JPRRF</a>: Pink Limited) - Scheduled Ex-Dividend - Japan Prime Realty Investment Corp. has announced a dividend ex-date for (JPRRF: Pink Limited). Japan Prime Realty Investment Corp. is scheduled to disburse a Stock Dividend/Split dividend of 4 shares on Fri, Jun 27, 2025 to shareholders of JPRRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:26:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286169]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Japan Prime Realty Investment Corp.]]></category>
+<pink:symbol>JPRRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Alvopetro Energy Ltd (ALVOF: OTCQX International) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286137]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 04:22 - <a href="http://www.otcmarkets.com/stock/ALVOF/company-info">Alvopetro Energy Ltd</a> (<a href="http://www.otcmarkets.com/stock/ALVOF">ALVOF</a>: OTCQX International) - Scheduled Ex-Dividend - Alvopetro Energy Ltd has announced a dividend ex-date for (ALVOF: OTCQX International). Alvopetro Energy Ltd is scheduled to disburse a Cash Dividend dividend of $0.1 on Mon, Jun 30, 2025 to shareholders of ALVOF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1594,54 +1642,6 @@ OTC RSS mirror fetched: Wed Jun 18 11:18:43 UTC 2025
 <pink:symbol>ADKT</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Great Wall Motor Company, Ltd. (GWLLY: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286148]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 01:47 - <a href="http://www.otcmarkets.com/stock/GWLLY/company-info">Great Wall Motor Company, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/GWLLY">GWLLY</a>: Pink Current) - Scheduled Ex-Dividend - Great Wall Motor Company, Ltd. has announced a dividend ex-date for (GWLLY: Pink Current). Great Wall Motor Company, Ltd. is scheduled to disburse a Cash Dividend dividend of $0.49365 on Wed, Jul 09, 2025 to shareholders of GWLLY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 13:47:11 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286148]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Great Wall Motor Company, Ltd.]]></category>
-<pink:symbol>GWLLY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Fubon Financial Holding Co. Ltd. (FUISY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286146]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 01:41 - <a href="http://www.otcmarkets.com/stock/FUISY/company-info">Fubon Financial Holding Co. Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FUISY">FUISY</a>: Pink Limited) - Scheduled Ex-Dividend - Fubon Financial Holding Co. Ltd. has announced a dividend ex-date for (FUISY: Pink Limited). Fubon Financial Holding Co. Ltd. is scheduled to disburse a Cash Dividend dividend of $1.12142 on Wed, Jul 02, 2025 to shareholders of FUISY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 13:41:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286146]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Fubon Financial Holding Co. Ltd.]]></category>
-<pink:symbol>FUISY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Public Service Company of New Mexico (PNMXO: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286159]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 01:39 - <a href="http://www.otcmarkets.com/stock/PNMXO/company-info">Public Service Company of New Mexico</a> (<a href="http://www.otcmarkets.com/stock/PNMXO">PNMXO</a>: Pink Current) - Scheduled Ex-Dividend - Public Service Company of New Mexico has announced a dividend ex-date for (PNMXO: Pink Current). Public Service Company of New Mexico is scheduled to disburse a Cash Dividend dividend of $1.145 on Mon, Jun 30, 2025 to shareholders of PNMXO. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 13:39:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286159]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Public Service Company of New Mexico]]></category>
-<pink:symbol>PNMXO</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Fubon Financial Holding Co. Ltd. (FUIZF: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286147]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 01:38 - <a href="http://www.otcmarkets.com/stock/FUIZF/company-info">Fubon Financial Holding Co. Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FUIZF">FUIZF</a>: Pink Limited) - Scheduled Ex-Dividend - Fubon Financial Holding Co. Ltd. has announced a dividend ex-date for (FUIZF: Pink Limited). Fubon Financial Holding Co. Ltd. is scheduled to disburse a Cash Dividend dividend of $1.12142 on Wed, Jul 02, 2025 to shareholders of FUIZF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 13:38:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286147]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Fubon Financial Holding Co. Ltd.]]></category>
-<pink:symbol>FUIZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SCIENCE IN SPORT PLC. (SISPF: Pink Limited) | Tier Change]]></title>
