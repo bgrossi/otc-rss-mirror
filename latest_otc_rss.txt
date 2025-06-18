@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 09:55:55 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 10:25:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 18 09:55:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 05:36:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 06:06:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Unaudited Group interim results for the six months ended 31 March 2025 and cash dividend declaration]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483139]]></link>
+<pubDate>Wed, 18 Jun 2025 05:56:03 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483139]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Oceana Group Ltd.]]></category>
+<pink:symbol>OCGPF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Alternet Systems, Inc. (ALYI: Pink Current) | Alternet Systems Names new CEO]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ALYI/news?id=483137]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Wed Jun 18 09:55:55 UTC 2025
 <pink:symbol>DANOY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Gafisa S.A. (GFASY: Pink Limited) | GFASY and GFSAY - Books will close today, June 16, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GFASY/news?id=482938]]></link>
-<pubDate>Mon, 16 Jun 2025 11:43:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GFASY/news?id=482938]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gafisa S.A.]]></category>
-<pink:symbol>GFASY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
