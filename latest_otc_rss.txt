@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 00:36:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 01:06:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Limited) | Stock Transactions]]></title>
@@ -960,6 +960,30 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Integrated Ventures, Inc. (INTV: OTCQB) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">Integrated Ventures, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MWAI">INTV</a>: OTCQB) - Symbol Change - The symbol, INTV, is no longer a valid symbol for Integrated Ventures, Inc..  As of Wed, Jun 18, 2025, the new trading symbol is MWAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 01:00:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Integrated Ventures, Inc.]]></category>
+<pink:symbol>MWAI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLDEN CROSS RES INC. (ZCRMD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZCRMD&actionDate=1750222842000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCRMF/company-info">GOLDEN CROSS RES INC.</a> (<a href="http://www.otcmarkets.com/stock/ZCRMF">ZCRMD</a>: Pink Current) - Symbol Change - The symbol, ZCRMD, is no longer a valid symbol for GOLDEN CROSS RES INC..  As of Wed, Jun 18, 2025, the new trading symbol is ZCRMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 01:00:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZCRMD&actionDate=1750222842000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLDEN CROSS RES INC.]]></category>
+<pink:symbol>ZCRMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Search Minerals, Inc. (SHCMF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SHCMF&actionDate=1750158882000]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SHCMD/company-info">Search Minerals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SHCMD">SHCMF</a>: Pink Current) - Symbol Change - The symbol, SHCMF, is no longer a valid symbol for Search Minerals, Inc..  As of Tue, Jun 17, 2025, the new trading symbol is SHCMD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1080,6 +1104,30 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DMSPF&actionDate=1750222849000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) - Deleted Symbol - As of Wed, Jun 18, 2025, DMSPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DMSPF&actionDate=1750222849000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[DOMINICE SWISS PPTY FD.]]></category>
+<pink:symbol>DMSPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF (SICZF: Grey Market) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICZF&actionDate=1750222848000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF (SICZF: Grey Market) - Deleted Symbol - As of Wed, Jun 18, 2025, SICZF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICZF&actionDate=1750222848000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF]]></category>
+<pink:symbol>SICZF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[North Asia Strategic Holdings Ltd (NASRF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NASRF&actionDate=1750136449000]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 12:00 - North Asia Strategic Holdings Ltd (NASRF: OTC Link) - Deleted Symbol - As of Tue, Jun 17, 2025, NASRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1172,30 +1220,6 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[C-RAD AB]]></category>
 <pink:symbol>CRADF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[RSE COLLECTION LLC. (RHARS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RHARS&actionDate=1750050039000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - RSE COLLECTION LLC. (RHARS: Grey Market) - Deleted Symbol - As of Mon, Jun 16, 2025, RHARS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=RHARS&actionDate=1750050039000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[RSE COLLECTION LLC.]]></category>
-<pink:symbol>RHARS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[OTIS GALLERY LLC. (OTSBS: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTSBS&actionDate=1750050039000]]></link>
-<description><![CDATA[Mon, Jun 16, 2025 12:00 - OTIS GALLERY LLC. (OTSBS: Grey Market) - Deleted Symbol - As of Mon, Jun 16, 2025, OTSBS is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 16 Jun 2025 01:00:39 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=OTSBS&actionDate=1750050039000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[OTIS GALLERY LLC.]]></category>
-<pink:symbol>OTSBS</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
@@ -1548,6 +1572,66 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Legible Inc. (LEBGF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LEBGF&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LEBGF/company-info">Legible Inc.</a> (<a href="http://www.otcmarkets.com/stock/LEBGF">LEBGF</a>: Pink Current) - Tier Change - The symbol, LEBGF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, LEBGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LEBGF&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Legible Inc.]]></category>
+<pink:symbol>LEBGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTELLABRIDGE TECHNOLOGY CORP. (KASHF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASHF/company-info">INTELLABRIDGE TECHNOLOGY CORP.</a> (<a href="http://www.otcmarkets.com/stock/KASHF">KASHF</a>: Pink Current) - Tier Change - The symbol, KASHF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, KASHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTELLABRIDGE TECHNOLOGY CORP.]]></category>
+<pink:symbol>KASHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HUAHUI EDUCATION GROUP LIMITED (HHEGF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEGF&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHEGF/company-info">HUAHUI EDUCATION GROUP LIMITED</a> (<a href="http://www.otcmarkets.com/stock/HHEGF">HHEGF</a>: Pink Limited) - Tier Change - The symbol, HHEGF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, HHEGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEGF&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HUAHUI EDUCATION GROUP LIMITED]]></category>
+<pink:symbol>HHEGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Digital Brands Group, Inc. (DBGI: OTCQX U.S.) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBGI&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DBGI/company-info">Digital Brands Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DBGI">DBGI</a>: OTCQX U.S.) - Tier Change - The symbol, DBGI, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, DBGI resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBGI&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Digital Brands Group, Inc.]]></category>
+<pink:symbol>DBGI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Lever Global Corporation (AIUG: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AIUG&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIUG/company-info">Lever Global Corporation</a> (<a href="http://www.otcmarkets.com/stock/AIUG">AIUG</a>: Pink Limited) - Tier Change - The symbol, AIUG, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, AIUG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=AIUG&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lever Global Corporation]]></category>
+<pink:symbol>AIUG</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[XTRACKERS IE PLC (XWTSF: Pink Current) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XWTSF&actionDate=1750132800000]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XWTSF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XWTSF">XWTSF</a>: Pink Current) - Tier Change - The symbol, XWTSF, no longer is classified as Grey Market.  As of Tue, Jun 17, 2025, XWTSF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1604,66 +1688,6 @@ OTC RSS mirror fetched: Wed Jun 18 04:58:48 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[PreAxia Health Care Payment Systems, Inc.]]></category>
 <pink:symbol>PAXH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Macarthur Minerals Ltd. (MMSDF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MMSDF&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MMSDF/company-info">Macarthur Minerals Ltd.</a> (<a href="http://www.otcmarkets.com/stock/MMSDF">MMSDF</a>: Pink Current) - Tier Change - The symbol, MMSDF, no longer is classified as Expert Market.  As of Tue, Jun 17, 2025, MMSDF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MMSDF&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Macarthur Minerals Ltd.]]></category>
-<pink:symbol>MMSDF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Life Stem Genetics Inc. (LIFS: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LIFS&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LIFS/company-info">Life Stem Genetics Inc.</a> (<a href="http://www.otcmarkets.com/stock/LIFS">LIFS</a>: Pink Current) - Tier Change - The symbol, LIFS, no longer is classified as Pink Limited.  As of Tue, Jun 17, 2025, LIFS resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LIFS&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Life Stem Genetics Inc.]]></category>
-<pink:symbol>LIFS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Resonate Blends Inc. (KOAN: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KOAN&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KOAN/company-info">Resonate Blends Inc.</a> (<a href="http://www.otcmarkets.com/stock/KOAN">KOAN</a>: Pink Current) - Tier Change - The symbol, KOAN, no longer is classified as Pink Limited.  As of Tue, Jun 17, 2025, KOAN resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KOAN&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Resonate Blends Inc.]]></category>
-<pink:symbol>KOAN</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INTORIO, CORP. (ITOR: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITOR&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITOR/company-info">INTORIO, CORP.</a> (<a href="http://www.otcmarkets.com/stock/ITOR">ITOR</a>: Pink Limited) - Tier Change - The symbol, ITOR, no longer is classified as Pink Current.  As of Tue, Jun 17, 2025, ITOR resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITOR&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTORIO, CORP.]]></category>
-<pink:symbol>ITOR</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[INFINITUM COPPER CORP. (INUMF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INUMF&actionDate=1750132800000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INUMF/company-info">INFINITUM COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/INUMF">INUMF</a>: Pink Current) - Tier Change - The symbol, INUMF, no longer is classified as OTCQB.  As of Tue, Jun 17, 2025, INUMF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=INUMF&actionDate=1750132800000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INFINITUM COPPER CORP.]]></category>
-<pink:symbol>INUMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
