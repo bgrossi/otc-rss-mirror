@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 05:46:36 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 01:06:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 01:36:15 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Brookside Energy Ltd. (RDFEF: Pink Current) | Two Emerging Sub-Plays Identified in SWISH AOI]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=483128]]></link>
+<pubDate>Wed, 18 Jun 2025 01:29:08 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RDFEF/news?id=483128]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brookside Energy Ltd.]]></category>
+<pink:symbol>RDFEF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[DATATRAK International, Inc. (DTRK: Pink Limited) | Stock Transactions]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/DTRK/news?id=483126]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Guardian Metal Resources PLC (GMTLF: OTCQX International) | Exercise of 25p Warrants]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=482925]]></link>
-<pubDate>Mon, 16 Jun 2025 09:32:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/GMTLF/news?id=482925]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Guardian Metal Resources PLC]]></category>
-<pink:symbol>GMTLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -960,13 +960,13 @@ OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Integrated Ventures, Inc. (INTV: OTCQB) | Symbol Change]]></title>
+<title><![CDATA[MedWellAI Inc.  (INTV: OTCQB) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">Integrated Ventures, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MWAI">INTV</a>: OTCQB) - Symbol Change - The symbol, INTV, is no longer a valid symbol for Integrated Ventures, Inc..  As of Wed, Jun 18, 2025, the new trading symbol is MWAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">MedWellAI Inc. </a> (<a href="http://www.otcmarkets.com/stock/MWAI">INTV</a>: OTCQB) - Symbol Change - The symbol, INTV, is no longer a valid symbol for MedWellAI Inc. .  As of Wed, Jun 18, 2025, the new trading symbol is MWAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Wed, 18 Jun 2025 01:00:46 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Integrated Ventures, Inc.]]></category>
+<category><![CDATA[MedWellAI Inc. ]]></category>
 <pink:symbol>MWAI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
@@ -1078,6 +1078,30 @@ OTC RSS mirror fetched: Wed Jun 18 05:28:25 UTC 2025
 <pink:symbol>MAGMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Integrated Ventures, Inc. (MWAI: OTCQB) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MWAI&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">Integrated Ventures, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MWAI">MWAI</a>: OTCQB) - Company Name Change - Integrated Ventures, Inc. has changed its name to MedWellAI Inc. . The change goes into effect as of Wed, Jun 18, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MWAI&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Integrated Ventures, Inc.]]></category>
+<pink:symbol>MWAI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Argonaut Resources NL (AGREF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGREF&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGREF/company-info">Argonaut Resources NL</a> (<a href="http://www.otcmarkets.com/stock/AGREF">AGREF</a>: Pink Current) - Company Name Change - Argonaut Resources NL has changed its name to ORPHEUS URANIUM LTD.. The change goes into effect as of Wed, Jun 18, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGREF&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Argonaut Resources NL]]></category>
+<pink:symbol>AGREF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[EAT & BEYOND GLOBAL HLDGS INC. (EATBF: Pink Current) | Company Name Change]]></title>
