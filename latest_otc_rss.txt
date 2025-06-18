@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 16:59:05 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 17:27:10 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Wed Jun 18 16:59:05 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 12:46:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 13:26:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | Aya Gold & Silver Closes Bought Deal Offering with Full Exercise of Over-Allotment Option for Gross Proceeds of $143.8 Million]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=483226]]></link>
+<pubDate>Wed, 18 Jun 2025 12:54:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=483226]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aya Gold & Silver Inc.]]></category>
+<pink:symbol>AYASF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483225]]></link>
+<pubDate>Wed, 18 Jun 2025 12:52:21 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483225]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Dealing in securities by directors of a major subsidiary]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483219]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Wed Jun 18 16:59:05 UTC 2025
 <pink:symbol>ADOOY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Renalytix plc (RNLXY: OTCQB) | kidneyintelX.dkd data presented at ERA Congress]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=482993]]></link>
-<pubDate>Tue, 17 Jun 2025 07:00:41 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RNLXY/news?id=482993]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Renalytix plc]]></category>
-<pink:symbol>RNLXY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Exercise of Warrants]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=483003]]></link>
-<pubDate>Tue, 17 Jun 2025 06:33:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=483003]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Coinsilium Group Ltd.]]></category>
-<pink:symbol>CINGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
