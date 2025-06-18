@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 10:25:54 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 10:48:02 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Wed Jun 18 10:25:54 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 06:06:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 06:36:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Adriatic Metals PLC (ADMLF: OTCQX International) | Recommended share and cash offer]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ADMLF/news?id=483144]]></link>
+<pubDate>Wed, 18 Jun 2025 06:20:45 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADMLF/news?id=483144]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Adriatic Metals PLC]]></category>
+<pink:symbol>ADMLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Unaudited Group interim results for the six months ended 31 March 2025 and cash dividend declaration]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483139]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Wed Jun 18 10:25:54 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[ASM International N.V.]]></category>
 <pink:symbol>ASMIY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Danone (DANOY: OTCQX International) | Information on the total number of voting rights and shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DANOY/news?id=482941]]></link>
-<pubDate>Mon, 16 Jun 2025 12:09:12 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DANOY/news?id=482941]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Danone]]></category>
-<pink:symbol>DANOY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
