@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 17:47:12 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 18:30:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Wed Jun 18 17:47:12 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 13:46:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 14:26:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[City of London Investment Group PLC (CLIUF: OTCQX International) | Holding(s) in Company]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483230]]></link>
+<pubDate>Wed, 18 Jun 2025 14:24:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483230]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[City of London Investment Group PLC]]></category>
+<pink:symbol>CLIUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[City of London Investment Group PLC (CLIUF: OTCQX International) | Notification and public disclosure of transactions]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483228]]></link>
+<pubDate>Wed, 18 Jun 2025 14:23:42 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483228]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[City of London Investment Group PLC]]></category>
+<pink:symbol>CLIUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[City of London Investment Group PLC (CLIUF: OTCQX International) | Notification and public disclosure of transactions]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483227]]></link>
+<pubDate>Wed, 18 Jun 2025 14:23:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CLIUF/news?id=483227]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[City of London Investment Group PLC]]></category>
+<pink:symbol>CLIUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Aya Gold & Silver Inc. (AYASF: OTCQX International) | Aya Gold & Silver Closes Bought Deal Offering with Full Exercise of Over-Allotment Option for Gross Proceeds of $143.8 Million]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/AYASF/news?id=483226]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Wed Jun 18 17:47:12 UTC 2025
 <pink:symbol>POWMF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[HOLCIM LTD (HCMLY: Pink Limited) | Books will close today, June 17, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=483041]]></link>
-<pubDate>Tue, 17 Jun 2025 07:43:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HCMLY/news?id=483041]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HOLCIM LTD]]></category>
-<pink:symbol>HCMLY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aena SME S.A. (ANYYY: Pink Limited) | Books will close today, June 17, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=483040]]></link>
-<pubDate>Tue, 17 Jun 2025 07:42:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANYYY/news?id=483040]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aena SME S.A.]]></category>
-<pink:symbol>ANYYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[PT ALAMTRI RES INDONESIA TBK (ADOOY: Pink Limited) | Books will close today, June 17, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADOOY/news?id=483039]]></link>
-<pubDate>Tue, 17 Jun 2025 07:39:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADOOY/news?id=483039]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT ALAMTRI RES INDONESIA TBK]]></category>
-<pink:symbol>ADOOY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
