@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
+OTC RSS mirror fetched: Wed Jun 18 12:46:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,68 @@ OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Wed, 18 Jun 2025 07:36:14 EDT</lastBuildDate>
+<lastBuildDate>Wed, 18 Jun 2025 08:46:14 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Apollo Bancorp, Inc. (APLO: Pink Current) | 2Q 2025 Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/APLO/news?id=483193]]></link>
+<pubDate>Wed, 18 Jun 2025 08:43:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/APLO/news?id=483193]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Apollo Bancorp, Inc.]]></category>
+<pink:symbol>APLO</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[ARCHTIS LTD. (ARHLF: OTCQB) | archTIS Enters UK Market with Defence Industry Award]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ARHLF/news?id=483187]]></link>
+<pubDate>Wed, 18 Jun 2025 08:30:58 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARHLF/news?id=483187]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ARCHTIS LTD.]]></category>
+<pink:symbol>ARHLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | AAC Clyde Space wins strategic order for first phase of ESA-backed satellite swarm mission]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=483004]]></link>
+<pubDate>Wed, 18 Jun 2025 08:30:13 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=483004]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AAC CLYDE SPACE AB]]></category>
+<pink:symbol>ACCMF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Recreatives Industries, Inc. (RECX: Pink Current) | Recreatives Industries, Inc. (OTC: RECX) Engages with Marketing Agency to Launch National Advertising Campaigns]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RECX/news?id=483105]]></link>
+<pubDate>Wed, 18 Jun 2025 08:30:11 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RECX/news?id=483105]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Recreatives Industries, Inc.]]></category>
+<pink:symbol>RECX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information on the transactions carried out by Repsol, S.A. under its Buy-back Programme between June 11 and 17, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=483177]]></link>
+<pubDate>Wed, 18 Jun 2025 08:00:54 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=483177]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Repsol S.A.]]></category>
+<pink:symbol>REPYY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Experian plc (EXPGY: OTCQX International) | Transaction in Own Shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483146]]></link>
@@ -551,66 +611,6 @@ OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
 <pink:symbol>ANSNF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[NORSK TITANIUM AS (NORSF: OTCQX International) | Norsk Titanium AS: Agreement on USD 10 million Loan Facility with Claret Capital Partners Ltd. to strengthen liquidity and support strategic growth]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=482967]]></link>
-<pubDate>Mon, 16 Jun 2025 17:51:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NORSF/news?id=482967]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NORSK TITANIUM AS]]></category>
-<pink:symbol>NORSF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Monthly Cash Distribution]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482948]]></link>
-<pubDate>Mon, 16 Jun 2025 16:05:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482948]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Artis Real Estate Investment Trust]]></category>
-<pink:symbol>ARESF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Artis Real Estate Investment Trust (ARESF: OTCQX International) | Artis Announces Quarterly Cash Distribution]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482949]]></link>
-<pubDate>Mon, 16 Jun 2025 16:05:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARESF/news?id=482949]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Artis Real Estate Investment Trust]]></category>
-<pink:symbol>ARESF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 16.06.2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=483086]]></link>
-<pubDate>Mon, 16 Jun 2025 15:30:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=483086]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Nordea Bank Abp]]></category>
-<pink:symbol>NRDBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482943]]></link>
-<pubDate>Mon, 16 Jun 2025 13:07:26 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=482943]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -1260,6 +1260,18 @@ OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[CYGNUS METALS LTD. (CYGGF: OTCQB) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CYGGF&actionDate=1750219200000]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CYGGF/company-info">CYGNUS METALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CYGGF">CYGGF</a>: OTCQB) - Halted Security -  Effective Wed, Jun 18, 2025, CYGGF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CYGGF&actionDate=1750219200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CYGNUS METALS LTD.]]></category>
+<pink:symbol>CYGGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[TDG GOLD CORP. (TDGGF: OTCQX International) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=TDGGF&actionDate=1750132800000]]></link>
 <description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TDGGF/company-info">TDG GOLD CORP.</a> (<a href="http://www.otcmarkets.com/stock/TDGGF">TDGGF</a>: OTCQX International) - Halted Security -  Effective Tue, Jun 17, 2025, TDGGF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1524,6 +1536,66 @@ OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Aena SME S.A. (ANYYY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286177]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:34 - <a href="http://www.otcmarkets.com/stock/ANYYY/company-info">Aena SME S.A.</a> (<a href="http://www.otcmarkets.com/stock/ANYYY">ANYYY</a>: Pink Limited) - Scheduled Ex-Dividend - Aena SME S.A. has announced a dividend ex-date for (ANYYY: Pink Limited). Aena SME S.A. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Tue, Jul 01, 2025 to shareholders of ANYYY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:34:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286177]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aena SME S.A.]]></category>
+<pink:symbol>ANYYY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Noritsu Koki Co., Ltd. (NKOKF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286176]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:33 - <a href="http://www.otcmarkets.com/stock/NKOKF/company-info">Noritsu Koki Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/NKOKF">NKOKF</a>: Pink Limited) - Scheduled Ex-Dividend - Noritsu Koki Co., Ltd. has announced a dividend ex-date for (NKOKF: Pink Limited). Noritsu Koki Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Fri, Jun 27, 2025 to shareholders of NKOKF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:33:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286176]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Noritsu Koki Co., Ltd.]]></category>
+<pink:symbol>NKOKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kokuyo Co., Ltd. (KUKYF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286175]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:32 - <a href="http://www.otcmarkets.com/stock/KUKYF/company-info">Kokuyo Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/KUKYF">KUKYF</a>: Pink Limited) - Scheduled Ex-Dividend - Kokuyo Co., Ltd. has announced a dividend ex-date for (KUKYF: Pink Limited). Kokuyo Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 4 shares on Fri, Jun 27, 2025 to shareholders of KUKYF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:32:51 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286175]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kokuyo Co., Ltd.]]></category>
+<pink:symbol>KUKYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sumitomo Forestry Co., Ltd. (SMFRF: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286174]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:32 - <a href="http://www.otcmarkets.com/stock/SMFRF/company-info">Sumitomo Forestry Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SMFRF">SMFRF</a>: Pink Limited) - Scheduled Ex-Dividend - Sumitomo Forestry Co., Ltd. has announced a dividend ex-date for (SMFRF: Pink Limited). Sumitomo Forestry Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 3 shares on Fri, Jun 27, 2025 to shareholders of SMFRF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:32:12 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286174]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sumitomo Forestry Co., Ltd.]]></category>
+<pink:symbol>SMFRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Fomento de Construcciones y Contratas Sa (FMOCY: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286173]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 07:31 - <a href="http://www.otcmarkets.com/stock/FMOCY/company-info">Fomento de Construcciones y Contratas Sa</a> (<a href="http://www.otcmarkets.com/stock/FMOCY">FMOCY</a>: Pink Limited) - Scheduled Ex-Dividend - Fomento de Construcciones y Contratas Sa has announced a dividend ex-date for (FMOCY: Pink Limited). Fomento de Construcciones y Contratas Sa is scheduled to disburse a Stock Dividend/Split dividend of 1.04 shares on Fri, Jun 27, 2025 to shareholders of FMOCY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 07:31:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286173]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Fomento de Construcciones y Contratas Sa]]></category>
+<pink:symbol>FMOCY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Heiwa Real Estate Co., Ltd. (HWARF: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286172]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 07:28 - <a href="http://www.otcmarkets.com/stock/HWARF/company-info">Heiwa Real Estate Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/HWARF">HWARF</a>: Pink Limited) - Scheduled Ex-Dividend - Heiwa Real Estate Co., Ltd. has announced a dividend ex-date for (HWARF: Pink Limited). Heiwa Real Estate Co., Ltd. is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Fri, Jun 27, 2025 to shareholders of HWARF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1582,66 +1654,6 @@ OTC RSS mirror fetched: Wed Jun 18 11:51:41 UTC 2025
 <pink:symbol>ALVOF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Neoenergia SA (NRGIY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286155]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 03:21 - <a href="http://www.otcmarkets.com/stock/NRGIY/company-info">Neoenergia SA</a> (<a href="http://www.otcmarkets.com/stock/NRGIY">NRGIY</a>: Pink Limited) - Scheduled Ex-Dividend - Neoenergia SA has announced a dividend ex-date for (NRGIY: Pink Limited). Neoenergia SA is scheduled to disburse a Cash Dividend dividend of $0.10283 on Fri, Jun 27, 2025 to shareholders of NRGIY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 15:21:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286155]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Neoenergia SA]]></category>
-<pink:symbol>NRGIY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[NewLake Capital Partners, Inc. (NLCP: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286156]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 03:16 - <a href="http://www.otcmarkets.com/stock/NLCP/company-info">NewLake Capital Partners, Inc.</a> (<a href="http://www.otcmarkets.com/stock/NLCP">NLCP</a>: OTCQX U.S.) - Scheduled Ex-Dividend - NewLake Capital Partners, Inc. has announced a dividend ex-date for (NLCP: OTCQX U.S.). NewLake Capital Partners, Inc. is scheduled to disburse a Cash Dividend dividend of $0.43 on Mon, Jun 30, 2025 to shareholders of NLCP. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 15:16:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286156]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[NewLake Capital Partners, Inc.]]></category>
-<pink:symbol>NLCP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Solvay Bank (NY) (SOBS: Pink Current) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286164]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 02:47 - <a href="http://www.otcmarkets.com/stock/SOBS/company-info">Solvay Bank (NY)</a> (<a href="http://www.otcmarkets.com/stock/SOBS">SOBS</a>: Pink Current) - Scheduled Ex-Dividend - Solvay Bank (NY) has announced a dividend ex-date for (SOBS: Pink Current). Solvay Bank (NY) is scheduled to disburse a Cash Dividend dividend of $0.44 on Mon, Jun 30, 2025 to shareholders of SOBS. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 14:47:05 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286164]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Solvay Bank (NY)]]></category>
-<pink:symbol>SOBS</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CNB Community Bancorp Inc. (CNBB: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286139]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 02:11 - <a href="http://www.otcmarkets.com/stock/CNBB/company-info">CNB Community Bancorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/CNBB">CNBB</a>: OTCQX U.S.) - Scheduled Ex-Dividend - CNB Community Bancorp Inc. has announced a dividend ex-date for (CNBB: OTCQX U.S.). CNB Community Bancorp Inc. is scheduled to disburse a Cash Dividend dividend of $0.31 on Mon, Jun 30, 2025 to shareholders of CNBB. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 14:11:43 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286139]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CNB Community Bancorp Inc.]]></category>
-<pink:symbol>CNBB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Adirondack Trust Co. (Saratoga Springs, NY) (ADKT: OTC Link) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286136]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 02:01 - <a href="http://www.otcmarkets.com/stock/ADKT/company-info">Adirondack Trust Co. (Saratoga Springs, NY)</a> (<a href="http://www.otcmarkets.com/stock/ADKT">ADKT</a>: OTC Link) - Scheduled Ex-Dividend - Adirondack Trust Co. (Saratoga Springs, NY) has announced a dividend ex-date for (ADKT: OTC Link). Adirondack Trust Co. (Saratoga Springs, NY) is scheduled to disburse a Cash Dividend dividend of $29.5 on Tue, Jul 01, 2025 to shareholders of ADKT. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 14:01:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286136]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Adirondack Trust Co. (Saratoga Springs, NY)]]></category>
-<pink:symbol>ADKT</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[SCIENCE IN SPORT PLC. (SISPF: Pink Limited) | Tier Change]]></title>
