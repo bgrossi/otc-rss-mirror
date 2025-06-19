@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 07:25:52 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 02:36:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 03:07:35 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Silver Crown Royalties Inc. (SLCRF: OTCQX International) | Silver Crown Royalties Executes LOI with Kuya Silver]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SLCRF/news?id=483260]]></link>
+<pubDate>Thu, 19 Jun 2025 03:00:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SLCRF/news?id=483260]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Silver Crown Royalties Inc.]]></category>
+<pink:symbol>SLCRF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Orexo AB (ORXOY: OTCQX International) | Issue and repurchase of class C shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=483268]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[D3 Energy Limited (DNRGF: OTCQB) | D3E Acquires Highly Prospective Helium and Hydrogen Permits]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DNRGF/news?id=483082]]></link>
-<pubDate>Tue, 17 Jun 2025 10:04:50 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DNRGF/news?id=483082]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[D3 Energy Limited]]></category>
-<pink:symbol>DNRGF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1140,6 +1140,30 @@ OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, PTMEY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[PT Media Nusantara Citra TBK]]></category>
+<pink:symbol>PTMEY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ichigo Green Infrastructure (ICGGF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICGGF&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICGGF/company-info">Ichigo Green Infrastructure</a> (<a href="http://www.otcmarkets.com/stock/ICGGF">ICGGF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, ICGGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICGGF&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ichigo Green Infrastructure]]></category>
+<pink:symbol>ICGGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PT WISMILAK INTI MAKMUR TBK (PTWKF: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTWKF&actionDate=1750219200000]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTWKF/company-info">PT WISMILAK INTI MAKMUR TBK</a> (<a href="http://www.otcmarkets.com/stock/PTWKF">PTWKF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 18, 2025, PTWKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1416,124 +1440,124 @@ OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[SCIENCE IN SPORT PLC. (SISPF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SISPF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SISPF/company-info">SCIENCE IN SPORT PLC.</a> (<a href="http://www.otcmarkets.com/stock/SISPF">SISPF</a>: Pink Limited) - Tier Change - The symbol, SISPF, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, SISPF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SISPF&actionDate=1750219200000]]></guid>
+<title><![CDATA[VESYNC CO LTD. (VSYNF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSYNF&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSYNF/company-info">VESYNC CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/VSYNF">VSYNF</a>: Pink Limited) - Tier Change - The symbol, VSYNF, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, VSYNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSYNF&actionDate=1750305600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SCIENCE IN SPORT PLC.]]></category>
-<pink:symbol>SISPF</pink:symbol>
+<category><![CDATA[VESYNC CO LTD.]]></category>
+<pink:symbol>VSYNF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PT WISMILAK INTI MAKMUR TBK (PTWKF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTWKF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTWKF/company-info">PT WISMILAK INTI MAKMUR TBK</a> (<a href="http://www.otcmarkets.com/stock/PTWKF">PTWKF</a>: Pink Limited) - Tier Change - The symbol, PTWKF, no longer is classified as Grey Market.  As of Wed, Jun 18, 2025, PTWKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTWKF&actionDate=1750219200000]]></guid>
+<title><![CDATA[Vicapsys Life Sciences, Inc. (VICP: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VICP&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VICP/company-info">Vicapsys Life Sciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/VICP">VICP</a>: Pink Limited) - Tier Change - The symbol, VICP, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, VICP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VICP&actionDate=1750305600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT WISMILAK INTI MAKMUR TBK]]></category>
-<pink:symbol>PTWKF</pink:symbol>
+<category><![CDATA[Vicapsys Life Sciences, Inc.]]></category>
+<pink:symbol>VICP</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Energy Today Inc. (NRGT: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRGT&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/NRGT/company-info">Energy Today Inc.</a> (<a href="http://www.otcmarkets.com/stock/NRGT">NRGT</a>: Pink Current) - Tier Change - The symbol, NRGT, no longer is classified as Pink Limited.  As of Wed, Jun 18, 2025, NRGT resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=NRGT&actionDate=1750219200000]]></guid>
+<title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTMEY&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Tier Change - The symbol, PTMEY, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, PTMEY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTMEY&actionDate=1750305600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Energy Today Inc.]]></category>
-<pink:symbol>NRGT</pink:symbol>
+<category><![CDATA[PT Media Nusantara Citra TBK]]></category>
+<pink:symbol>PTMEY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[My City Builders, Inc. (MYCB: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MYCB&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MYCB/company-info">My City Builders, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MYCB">MYCB</a>: Pink Limited) - Tier Change - The symbol, MYCB, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, MYCB resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MYCB&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[My City Builders, Inc.]]></category>
+<pink:symbol>MYCB</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[MARKY CORP. (MRKY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRKY/company-info">MARKY CORP.</a> (<a href="http://www.otcmarkets.com/stock/MRKY">MRKY</a>: Pink Limited) - Tier Change - The symbol, MRKY, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, MRKY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[MARKY CORP.]]></category>
+<pink:symbol>MRKY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Mundus Group, Inc. (MNDP: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNDP&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MNDP/company-info">Mundus Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MNDP">MNDP</a>: Pink Limited) - Tier Change - The symbol, MNDP, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, MNDP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNDP&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Mundus Group, Inc.]]></category>
+<pink:symbol>MNDP</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Ichigo Green Infrastructure (ICGGF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICGGF&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICGGF/company-info">Ichigo Green Infrastructure</a> (<a href="http://www.otcmarkets.com/stock/ICGGF">ICGGF</a>: Pink Limited) - Tier Change - The symbol, ICGGF, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, ICGGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICGGF&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Ichigo Green Infrastructure]]></category>
+<pink:symbol>ICGGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Green Star Products, Inc. (GSPI: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GSPI&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GSPI/company-info">Green Star Products, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GSPI">GSPI</a>: Pink Current) - Tier Change - The symbol, GSPI, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, GSPI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GSPI&actionDate=1750305600000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Green Star Products, Inc.]]></category>
+<pink:symbol>GSPI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Moovly Media Inc (MVVYF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MVVYF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MVVYF/company-info">Moovly Media Inc</a> (<a href="http://www.otcmarkets.com/stock/MVVYF">MVVYF</a>: Pink Limited) - Tier Change - The symbol, MVVYF, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, MVVYF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MVVYF&actionDate=1750219200000]]></guid>
+<title><![CDATA[Gold Entertainment Group, Inc. (GEGP: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GEGP&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GEGP/company-info">Gold Entertainment Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GEGP">GEGP</a>: Pink Current) - Tier Change - The symbol, GEGP, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, GEGP resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GEGP&actionDate=1750305600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Moovly Media Inc]]></category>
-<pink:symbol>MVVYF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Legible Inc. (LEBGF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LEBGF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LEBGF/company-info">Legible Inc.</a> (<a href="http://www.otcmarkets.com/stock/LEBGF">LEBGF</a>: Pink Current) - Tier Change - The symbol, LEBGF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, LEBGF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=LEBGF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Legible Inc.]]></category>
-<pink:symbol>LEBGF</pink:symbol>
+<category><![CDATA[Gold Entertainment Group, Inc.]]></category>
+<pink:symbol>GEGP</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[INTELLABRIDGE TECHNOLOGY CORP. (KASHF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASHF/company-info">INTELLABRIDGE TECHNOLOGY CORP.</a> (<a href="http://www.otcmarkets.com/stock/KASHF">KASHF</a>: Pink Current) - Tier Change - The symbol, KASHF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, KASHF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750219200000]]></guid>
+<title><![CDATA[DBV Technologies SA (DBVTF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBVTF&actionDate=1750305600000]]></link>
+<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DBVTF/company-info">DBV Technologies SA</a> (<a href="http://www.otcmarkets.com/stock/DBVTF">DBVTF</a>: Pink Current) - Tier Change - The symbol, DBVTF, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, DBVTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBVTF&actionDate=1750305600000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[INTELLABRIDGE TECHNOLOGY CORP.]]></category>
-<pink:symbol>KASHF</pink:symbol>
+<category><![CDATA[DBV Technologies SA]]></category>
+<pink:symbol>DBVTF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Indo Global Exchanges Pte Ltd (IGEX: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=IGEX&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IGEX/company-info">Indo Global Exchanges Pte Ltd</a> (<a href="http://www.otcmarkets.com/stock/IGEX">IGEX</a>: Pink Limited) - Tier Change - The symbol, IGEX, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, IGEX resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=IGEX&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Indo Global Exchanges Pte Ltd]]></category>
-<pink:symbol>IGEX</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[HUAHUI EDUCATION GROUP LIMITED (HHEGF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEGF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HHEGF/company-info">HUAHUI EDUCATION GROUP LIMITED</a> (<a href="http://www.otcmarkets.com/stock/HHEGF">HHEGF</a>: Pink Limited) - Tier Change - The symbol, HHEGF, no longer is classified as OTCQB.  As of Wed, Jun 18, 2025, HHEGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HHEGF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[HUAHUI EDUCATION GROUP LIMITED]]></category>
-<pink:symbol>HHEGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Digerati Technologies, Inc. (DTGI: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DTGI&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DTGI/company-info">Digerati Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DTGI">DTGI</a>: Pink Limited) - Tier Change - The symbol, DTGI, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, DTGI resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DTGI&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digerati Technologies, Inc.]]></category>
-<pink:symbol>DTGI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Digital Brands Group, Inc. (DBGI: OTCQX U.S.) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBGI&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DBGI/company-info">Digital Brands Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/DBGI">DBGI</a>: OTCQX U.S.) - Tier Change - The symbol, DBGI, no longer is classified as Pink Current.  As of Wed, Jun 18, 2025, DBGI resides in the OTCQX U.S. tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBGI&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Digital Brands Group, Inc.]]></category>
-<pink:symbol>DBGI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
 </item>
 </channel>
 </rss>
