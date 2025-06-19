@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 08:29:27 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 08:52:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,56 @@ OTC RSS mirror fetched: Thu Jun 19 08:29:27 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 04:06:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 04:36:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Bitcoin Purchase and Holdings after Fundraising]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483276]]></link>
+<pubDate>Thu, 19 Jun 2025 04:35:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483276]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Subscription Agreement For A Maximum Of 21 Million New Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483275]]></link>
+<pubDate>Thu, 19 Jun 2025 04:34:52 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483275]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Holding(s) in Company]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483274]]></link>
+<pubDate>Thu, 19 Jun 2025 04:34:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483274]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483272]]></link>
+<pubDate>Thu, 19 Jun 2025 04:15:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483272]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Capital Limited (CAPFF: OTCQX International) | Correction: Contracts Update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483271]]></link>
@@ -563,54 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 08:29:27 UTC 2025
 <pink:symbol>FNCH</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483097]]></link>
-<pubDate>Tue, 17 Jun 2025 12:27:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483097]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Imperial Brands PLC]]></category>
-<pink:symbol>IMBBY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Severn Trent PLC (STRNY: Pink Current) | Director/PDMR Sharedealing]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=483096]]></link>
-<pubDate>Tue, 17 Jun 2025 12:08:27 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/STRNY/news?id=483096]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Severn Trent PLC]]></category>
-<pink:symbol>STRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Delhi Bank Corp. (DWNX: Pink Current) | DELHI BANK CORP ANNOUNCES QUARTERLY CASH DIVIDEND]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=483093]]></link>
-<pubDate>Tue, 17 Jun 2025 11:59:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DWNX/news?id=483093]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Delhi Bank Corp.]]></category>
-<pink:symbol>DWNX</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Honat Bancorp, Inc. (HONT: Pink Current) | Notice of Stock Trasaction]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=483092]]></link>
-<pubDate>Tue, 17 Jun 2025 11:57:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/HONT/news?id=483092]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Honat Bancorp, Inc.]]></category>
-<pink:symbol>HONT</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
