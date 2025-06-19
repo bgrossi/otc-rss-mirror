@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 13:32:58 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 13:54:00 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Thu Jun 19 13:32:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 09:26:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 09:46:12 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Caring Brands commences trading on the OTCQB]]></title>
@@ -179,6 +179,18 @@ OTC RSS mirror fetched: Thu Jun 19 13:32:58 UTC 2025
 <pink:symbol>ANSNF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Nordea Bank Abp (NRDBY: OTCQX International) | Nordea Bank Abp: Repurchase of own shares on 18.06.2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=483328]]></link>
+<pubDate>Wed, 18 Jun 2025 15:30:43 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRDBY/news?id=483328]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Nordea Bank Abp]]></category>
+<pink:symbol>NRDBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 13:32:58 UTC 2025
 <pink:symbol>CHBH</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Koninklijke Ahold Delhaize N.V. (ADRNY: OTCQX International) | Ahold Delhaize announces that its Supervisory Board has decided to nominate Wiebe Draijer for appointment as new Supervisory Board Member and Chair designate; publishes convocation of EGM]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=483104]]></link>
-<pubDate>Tue, 17 Jun 2025 14:53:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ADRNY/news?id=483104]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Koninklijke Ahold Delhaize N.V.]]></category>
-<pink:symbol>ADRNY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
