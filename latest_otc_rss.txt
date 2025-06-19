@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 15:42:59 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 15:54:24 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 19 15:42:59 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 11:26:12 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 11:46:12 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[CYduct Diagnostics Inc. (CYDX: Pink Current) | CYduct Diagnostics Granted Patent for Precision Medicine Test]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CYDX/news?id=483339]]></link>
+<pubDate>Thu, 19 Jun 2025 11:35:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYDX/news?id=483339]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[CYduct Diagnostics Inc.]]></category>
+<pink:symbol>CYDX</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Caring Brands commences trading on the OTCQB]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CBRA/news?id=483253]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 15:42:59 UTC 2025
 <pink:symbol>NRGIY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Croghan Bancshares, Inc. (CHBH: OTCQB) | 2nd Quarter 2025 Dividend Announcement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CHBH/news?id=483107]]></link>
-<pubDate>Tue, 17 Jun 2025 16:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CHBH/news?id=483107]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Croghan Bancshares, Inc.]]></category>
-<pink:symbol>CHBH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
