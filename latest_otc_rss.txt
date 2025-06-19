@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 05:45:55 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 06:32:19 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 19 05:45:55 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 01:36:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 02:06:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Capital Limited (CAPFF: OTCQX International) | Contracts Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483266]]></link>
+<pubDate>Thu, 19 Jun 2025 02:03:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483266]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capital Limited]]></category>
+<pink:symbol>CAPFF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS and Viridien Announce Launch of Laconia Phase III OBN Survey in the Gulf of America]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=483234]]></link>
@@ -597,18 +609,6 @@ OTC RSS mirror fetched: Thu Jun 19 05:45:55 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[VNUE, Inc.]]></category>
 <pink:symbol>VNUE</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Energy Today Inc. (NRGT: Pink Current) | ENERGY TODAY Announces Corporate Name Change and Strategic Up-listing Plans]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NRGT/news?id=483075]]></link>
-<pubDate>Tue, 17 Jun 2025 09:15:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NRGT/news?id=483075]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Energy Today Inc.]]></category>
-<pink:symbol>NRGT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
