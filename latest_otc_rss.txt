@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 07:52:48 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 08:29:27 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 19 07:52:48 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 03:36:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 04:06:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Capital Limited (CAPFF: OTCQX International) | Correction: Contracts Update]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483271]]></link>
+<pubDate>Thu, 19 Jun 2025 03:59:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483271]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Capital Limited]]></category>
+<pink:symbol>CAPFF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Silver Crown Royalties Inc. (SLCRF: OTCQX International) | Silver Crown Royalties Executes LOI with Kuya Silver]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/SLCRF/news?id=483260]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 07:52:48 UTC 2025
 <pink:symbol>HONT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[KORYX COPPER INC. (KRYXF: OTCQB) | KORYX COPPER PROVIDES PROJECT DEVELOPMENT UPDATE  FOR THE HAIB COPPER PROJECT, SOUTHERN NAMIBIA]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=483090]]></link>
-<pubDate>Tue, 17 Jun 2025 11:06:55 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KRYXF/news?id=483090]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[KORYX COPPER INC.]]></category>
-<pink:symbol>KRYXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
