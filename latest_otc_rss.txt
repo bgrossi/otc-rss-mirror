@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 04:57:45 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 05:27:31 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu Jun 19 04:57:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 00:36:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 01:06:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[TGS ASA (TGSGY: OTCQX International) | TGS and Viridien Announce Launch of Laconia Phase III OBN Survey in the Gulf of America]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=483234]]></link>
+<pubDate>Thu, 19 Jun 2025 01:00:17 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TGSGY/news?id=483234]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TGS ASA]]></category>
+<pink:symbol>TGSGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Tolu Minerals Limited (TOLUF: OTCQX International) | Results of Meeting]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=483263]]></link>
+<pubDate>Thu, 19 Jun 2025 00:37:36 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TOLUF/news?id=483263]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Tolu Minerals Limited]]></category>
+<pink:symbol>TOLUF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[CYPRIUM METALS LTD. (CYPMF: OTCQB) | Nifty Virtual Site Visit Webinar Notification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CYPMF/news?id=483259]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 04:57:45 UTC 2025
 <pink:symbol>NRGT</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Director/PDMR Shareholding]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483073]]></link>
-<pubDate>Tue, 17 Jun 2025 09:10:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483073]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Experian plc]]></category>
-<pink:symbol>EXPGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Aixia Group AB (AIXAF: OTCQX International) | SICS AI invests in NVIDIA DGX B200 from Aixia – accelerating the development of AI brain for next-generation robots]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=483053]]></link>
-<pubDate>Tue, 17 Jun 2025 08:28:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AIXAF/news?id=483053]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Aixia Group AB]]></category>
-<pink:symbol>AIXAF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
