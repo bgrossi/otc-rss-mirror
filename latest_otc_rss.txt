@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 12:45:17 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 13:32:58 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Thu Jun 19 12:45:17 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 08:26:12 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 09:26:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Caring Brands, Inc (CBRA: OTCQB) | Caring Brands commences trading on the OTCQB]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CBRA/news?id=483253]]></link>
+<pubDate>Thu, 19 Jun 2025 08:30:40 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CBRA/news?id=483253]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Caring Brands, Inc]]></category>
+<pink:symbol>CBRA</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Bitcoin Purchase and Holdings after Fundraising]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483276]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 12:45:17 UTC 2025
 <pink:symbol>ADRNY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Finch Therapeutics Group, Inc. (FNCH: Pink Limited) | Finch Announces Election of Directors and Reduction in the Number of Authorized Shares of Common and Preferred Stock]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/FNCH/news?id=483098]]></link>
-<pubDate>Tue, 17 Jun 2025 13:03:47 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FNCH/news?id=483098]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Finch Therapeutics Group, Inc.]]></category>
-<pink:symbol>FNCH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
