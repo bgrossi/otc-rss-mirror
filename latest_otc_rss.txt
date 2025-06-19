@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Thu Jun 19 06:32:19 UTC 2025
+OTC RSS mirror fetched: Thu Jun 19 06:57:45 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Thu Jun 19 06:32:19 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 02:06:13 EDT</lastBuildDate>
+<lastBuildDate>Thu, 19 Jun 2025 02:36:13 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Orexo AB (ORXOY: OTCQX International) | Issue and repurchase of class C shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=483268]]></link>
+<pubDate>Thu, 19 Jun 2025 02:32:31 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ORXOY/news?id=483268]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Orexo AB]]></category>
+<pink:symbol>ORXOY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Green Rain Energy Holdings Inc. (NWPND: Pink Current) | Green Rain Energy Holdings (OTC:NWPND) Subsidiary, Green Rain Solar Inc., Targets Southwest Expansion with EV Charging and Community Solar Initiatives]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=483267]]></link>
+<pubDate>Thu, 19 Jun 2025 02:15:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=483267]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Green Rain Energy Holdings Inc.]]></category>
+<pink:symbol>NWPND</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Capital Limited (CAPFF: OTCQX International) | Contracts Update]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/CAPFF/news?id=483266]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Thu Jun 19 06:32:19 UTC 2025
 <pink:symbol>DNRGF</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Invinity Energy Sys Plc. (IESVF: OTCQX International) | Notice of Annual General Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=483080]]></link>
-<pubDate>Tue, 17 Jun 2025 10:00:06 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=483080]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Invinity Energy Sys Plc.]]></category>
-<pink:symbol>IESVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[VNUE, Inc. (VNUE: Pink Current) | Redacted Optics CEO Issues First Statement to VNUE, Inc. Shareholders Following Transition]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/VNUE/news?id=483074]]></link>
-<pubDate>Tue, 17 Jun 2025 09:30:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/VNUE/news?id=483074]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VNUE, Inc.]]></category>
-<pink:symbol>VNUE</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
