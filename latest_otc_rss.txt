@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 17:41:58 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 17:53:08 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri Jun 20 17:41:58 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 13:26:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 13:46:11 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Institute of Biomedical Research Corp. (MRES: Pink Current) | RLAB & MRES: Gary Zavaleta Joins M2MMA Combat Sports Organization Advisory Board]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MRES/news?id=483427]]></link>
+<pubDate>Fri, 20 Jun 2025 13:33:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRES/news?id=483427]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Institute of Biomedical Research Corp.]]></category>
+<pink:symbol>MRES</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Real American Capital Corp. (RLAB: Pink Current) | RLAB & MRES: Gary Zavaleta Joins M2MMA Combat Sports Organization Advisory Board]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/RLAB/news?id=483426]]></link>
+<pubDate>Fri, 20 Jun 2025 13:30:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/RLAB/news?id=483426]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Real American Capital Corp.]]></category>
+<pink:symbol>RLAB</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[LianBio (LIANY: Pink Limited) | LianBio Declares Special Cash Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LIANY/news?id=483425]]></link>
+<pubDate>Fri, 20 Jun 2025 13:30:29 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LIANY/news?id=483425]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LianBio]]></category>
+<pink:symbol>LIANY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483422]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Fri Jun 20 17:41:58 UTC 2025
 <pink:symbol>ANYYY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Apollo Bancorp, Inc. (APLO: Pink Current) | 2Q 2025 Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/APLO/news?id=483193]]></link>
-<pubDate>Wed, 18 Jun 2025 08:43:10 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/APLO/news?id=483193]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Apollo Bancorp, Inc.]]></category>
-<pink:symbol>APLO</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[ARCHTIS LTD. (ARHLF: OTCQB) | archTIS Enters UK Market with Defence Industry Award]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ARHLF/news?id=483187]]></link>
-<pubDate>Wed, 18 Jun 2025 08:30:58 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ARHLF/news?id=483187]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ARCHTIS LTD.]]></category>
-<pink:symbol>ARHLF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AAC CLYDE SPACE AB (ACCMF: OTCQX International) | AAC Clyde Space wins strategic order for first phase of ESA-backed satellite swarm mission]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=483004]]></link>
-<pubDate>Wed, 18 Jun 2025 08:30:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ACCMF/news?id=483004]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AAC CLYDE SPACE AB]]></category>
-<pink:symbol>ACCMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
