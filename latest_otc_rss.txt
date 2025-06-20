@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 15:54:08 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 16:26:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Fri Jun 20 15:54:08 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 11:46:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 12:26:10 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Smart Card Marketing Systems, Inc. (SMKG: Pink Limited) | SmartCard Marketing Systems Inc. Launches Granularchain: A Breakthrough Digital Identity & Governance Platform With Blockchain, IoT, and Fintech Rails Integration]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=483419]]></link>
+<pubDate>Fri, 20 Jun 2025 12:06:33 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SMKG/news?id=483419]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Smart Card Marketing Systems, Inc.]]></category>
+<pink:symbol>SMKG</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Code Green Apparel Corp. (CGAC: Pink Current) | A.R.T. Digital Holdings Announces Strategic Partnership with Synota Inc.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=483417]]></link>
+<pubDate>Fri, 20 Jun 2025 12:02:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CGAC/news?id=483417]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Code Green Apparel Corp.]]></category>
+<pink:symbol>CGAC</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Green Rain Energy Holdings Inc. (NWPND: Pink Current) | Green Rain Energy (OTC: NWPND) Pioneers EV Transformation with Strategic Redevelopment of Closed Gas Stations]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=483413]]></link>
@@ -587,30 +611,6 @@ OTC RSS mirror fetched: Fri Jun 20 15:54:08 UTC 2025
 <pink:symbol>RECX</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Repsol S.A. (REPYY: OTCQX International) | Information on the transactions carried out by Repsol, S.A. under its Buy-back Programme between June 11 and 17, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=483177]]></link>
-<pubDate>Wed, 18 Jun 2025 08:00:54 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/REPYY/news?id=483177]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Repsol S.A.]]></category>
-<pink:symbol>REPYY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Transaction in Own Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483146]]></link>
-<pubDate>Wed, 18 Jun 2025 06:41:04 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483146]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Experian plc]]></category>
-<pink:symbol>EXPGY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
