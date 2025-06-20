@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 08:52:00 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 09:23:11 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 20 08:52:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 04:36:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 05:06:12 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Experian plc (EXPGY: OTCQX International) | Transaction in Own Shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483364]]></link>
+<pubDate>Fri, 20 Jun 2025 04:58:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EXPGY/news?id=483364]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Experian plc]]></category>
+<pink:symbol>EXPGY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[MTM CRITICAL METALS LTD. (MTMCF: OTCQB) | Change of Registered Address]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTMCF/news?id=483363]]></link>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Fri Jun 20 08:52:00 UTC 2025
 <pink:symbol>DTRK</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[TESORO GOLD LTD (TSORF: OTCQB) | Results of Meeting]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=483127]]></link>
-<pubDate>Tue, 17 Jun 2025 22:35:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSORF/news?id=483127]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[TESORO GOLD LTD]]></category>
-<pink:symbol>TSORF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
