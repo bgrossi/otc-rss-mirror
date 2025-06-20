@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 05:27:13 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 05:45:43 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 05:27:13 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 01:06:12 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 01:36:11 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -980,6 +980,54 @@ OTC RSS mirror fetched: Fri Jun 20 05:27:13 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GOLDEN CROSS RES INC.]]></category>
 <pink:symbol>ZCRMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[TONY G CO-INVT HLDGS LTD. (BGRDF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BGRDF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BGRDF/company-info">TONY G CO-INVT HLDGS LTD.</a> (<a href="http://www.otcmarkets.com/stock/BGRDF">BGRDF</a>: Pink Current) - Company Name Change - TONY G CO-INVT HLDGS LTD. has changed its name to HYLQ STRATEGY CORP.. The change goes into effect as of Fri, Jun 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=BGRDF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TONY G CO-INVT HLDGS LTD.]]></category>
+<pink:symbol>BGRDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Green Battery Minerals Inc. (GBMIF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GBMIF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBMIF/company-info">Green Battery Minerals Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBMIF">GBMIF</a>: Pink Current) - Company Name Change - Green Battery Minerals Inc. has changed its name to First Canadian Graphite Inc.. The change goes into effect as of Fri, Jun 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GBMIF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Green Battery Minerals Inc.]]></category>
+<pink:symbol>GBMIF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLD 50 LTD. (GFTYF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GFTYF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GFTYF/company-info">GOLD 50 LTD.</a> (<a href="http://www.otcmarkets.com/stock/GFTYF">GFTYF</a>: Pink Current) - Company Name Change - GOLD 50 LTD. has changed its name to G50 Corp Limited. The change goes into effect as of Fri, Jun 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GFTYF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLD 50 LTD.]]></category>
+<pink:symbol>GFTYF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Empire Energy Group Limited (EEGUF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EEGUF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/EEGUF/company-info">Empire Energy Group Limited</a> (<a href="http://www.otcmarkets.com/stock/EEGUF">EEGUF</a>: Pink Current) - Company Name Change - Empire Energy Group Limited has changed its name to BEETALOO ENERGY AUSTRALIA LTD.. The change goes into effect as of Fri, Jun 20, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=EEGUF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Empire Energy Group Limited]]></category>
+<pink:symbol>EEGUF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
