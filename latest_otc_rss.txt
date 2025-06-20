@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 13:21:41 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 13:47:38 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 13:21:41 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 09:06:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 09:46:10 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[AppLife Digital Solutions, Inc. (ALDS: OTCQB) | APPlife Digital Solutions, Inc. Completes Acquisition of Sugar Auto Parts, Inc.]]></title>
@@ -1172,6 +1172,18 @@ OTC RSS mirror fetched: Fri Jun 20 13:21:41 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Magnum Goldcorp Inc.]]></category>
 <pink:symbol>MGIDD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INFINITUM COPPER CORP. (INUMF: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=INUMF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/INUMF/company-info">INFINITUM COPPER CORP.</a> (<a href="http://www.otcmarkets.com/stock/INUMF">INUMF</a>: Pink Current) - Halted Security -  Effective Fri, Jun 20, 2025, INUMF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=INUMF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INFINITUM COPPER CORP.]]></category>
+<pink:symbol>INUMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
