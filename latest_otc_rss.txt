@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 04:35:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Thu, 19 Jun 2025 23:36:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 00:06:11 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -876,66 +876,6 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[XTRACKERS IE PLC (XWTSF: Pink Current) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XWTSF&actionDate=1750165888000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XWTSF/company-info">XTRACKERS IE PLC</a> (<a href="http://www.otcmarkets.com/stock/XWTSF">XWTSF</a>: OTC Link) - Venue Change - The symbol, XWTSF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, XWTSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 09:11:28 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=XWTSF&actionDate=1750165888000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[XTRACKERS IE PLC]]></category>
-<pink:symbol>XWTSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[AIM ImmunoTech Inc. (AIM: null) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIM&actionDate=1750157868000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AIM/company-info">AIM ImmunoTech Inc.</a> (<a href="http://www.otcmarkets.com/stock/AIM">AIM</a>: NYSE MKT) - Venue Change - The symbol, AIM, no longer trades on OTC Link.  As of Tue, Jun 17, 2025, AIM trades on NYSE MKT. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 06:57:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=AIM&actionDate=1750157868000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AIM ImmunoTech Inc.]]></category>
-<pink:symbol>AIM</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[null]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Cibanco SA Energy Investment Trust (CFEBF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CFEBF&actionDate=1750143264000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CFEBF/company-info">Cibanco SA Energy Investment Trust</a> (<a href="http://www.otcmarkets.com/stock/CFEBF">CFEBF</a>: OTC Link) - Venue Change - The symbol, CFEBF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, CFEBF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=CFEBF&actionDate=1750143264000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Cibanco SA Energy Investment Trust]]></category>
-<pink:symbol>CFEBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Fukuda Denshi Co., Ltd. (FKDSF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FKDSF&actionDate=1750143264000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FKDSF/company-info">Fukuda Denshi Co., Ltd.</a> (<a href="http://www.otcmarkets.com/stock/FKDSF">FKDSF</a>: OTC Link) - Venue Change - The symbol, FKDSF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, FKDSF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FKDSF&actionDate=1750143264000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Fukuda Denshi Co., Ltd.]]></category>
-<pink:symbol>FKDSF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Selamat Sempurna (SMSPF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SMSPF&actionDate=1750143263000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SMSPF/company-info">PT Selamat Sempurna</a> (<a href="http://www.otcmarkets.com/stock/SMSPF">SMSPF</a>: OTC Link) - Venue Change - The symbol, SMSPF, no longer trades on Grey Market.  As of Tue, Jun 17, 2025, SMSPF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 02:54:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=SMSPF&actionDate=1750143263000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Selamat Sempurna]]></category>
-<pink:symbol>SMSPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[MedWellAI Inc.  (INTV: OTCQB) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">MedWellAI Inc. </a> (<a href="http://www.otcmarkets.com/stock/MWAI">INTV</a>: OTCQB) - Symbol Change - The symbol, INTV, is no longer a valid symbol for MedWellAI Inc. .  As of Wed, Jun 18, 2025, the new trading symbol is MWAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -956,54 +896,6 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[GOLDEN CROSS RES INC.]]></category>
 <pink:symbol>ZCRMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Search Minerals, Inc. (SHCMF: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SHCMF&actionDate=1750158882000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SHCMD/company-info">Search Minerals, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SHCMD">SHCMF</a>: Pink Current) - Symbol Change - The symbol, SHCMF, is no longer a valid symbol for Search Minerals, Inc..  As of Tue, Jun 17, 2025, the new trading symbol is SHCMD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 07:14:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=SHCMF&actionDate=1750158882000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Search Minerals, Inc.]]></category>
-<pink:symbol>SHCMD</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[YouneeqAI Technical Services, Inc. (YQAID: Pink Limited) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAID&actionDate=1750136438000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/YQAI/company-info">YouneeqAI Technical Services, Inc.</a> (<a href="http://www.otcmarkets.com/stock/YQAI">YQAID</a>: Pink Limited) - Symbol Change - The symbol, YQAID, is no longer a valid symbol for YouneeqAI Technical Services, Inc..  As of Tue, Jun 17, 2025, the new trading symbol is YQAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 01:00:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=YQAID&actionDate=1750136438000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[YouneeqAI Technical Services, Inc.]]></category>
-<pink:symbol>YQAI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Integrated Ventures, Inc. (MWAI: OTCQB) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MWAI&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">Integrated Ventures, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MWAI">MWAI</a>: OTCQB) - Company Name Change - Integrated Ventures, Inc. has changed its name to MedWellAI Inc. . The change goes into effect as of Wed, Jun 18, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=MWAI&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Integrated Ventures, Inc.]]></category>
-<pink:symbol>MWAI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Argonaut Resources NL (AGREF: Pink Current) | Company Name Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGREF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGREF/company-info">Argonaut Resources NL</a> (<a href="http://www.otcmarkets.com/stock/AGREF">AGREF</a>: Pink Current) - Company Name Change - Argonaut Resources NL has changed its name to ORPHEUS URANIUM LTD.. The change goes into effect as of Wed, Jun 18, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGREF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Argonaut Resources NL]]></category>
-<pink:symbol>AGREF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1056,90 +948,6 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[North Asia Strategic Holdings Ltd (NASRF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NASRF&actionDate=1750136449000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - North Asia Strategic Holdings Ltd (NASRF: OTC Link) - Deleted Symbol - As of Tue, Jun 17, 2025, NASRF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=NASRF&actionDate=1750136449000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[North Asia Strategic Holdings Ltd]]></category>
-<pink:symbol>NASRF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ISHARES MSCI EMERGING MKTS ETF (IMEMF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IMEMF&actionDate=1750136449000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - ISHARES MSCI EMERGING MKTS ETF (IMEMF: Grey Market) - Deleted Symbol - As of Tue, Jun 17, 2025, IMEMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IMEMF&actionDate=1750136449000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ISHARES MSCI EMERGING MKTS ETF]]></category>
-<pink:symbol>IMEMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ISHARES V PLC (IVPBF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IVPBF&actionDate=1750136448000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - ISHARES V PLC (IVPBF: Grey Market) - Deleted Symbol - As of Tue, Jun 17, 2025, IVPBF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IVPBF&actionDate=1750136448000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ISHARES V PLC]]></category>
-<pink:symbol>IVPBF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Search Minerals, Inc. (SHCMF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHCMF&actionDate=1750136419000]]></link>
-<description><![CDATA[Tue, Jun 17, 2025 12:00 - Search Minerals, Inc. (SHCMF: OTC Link) - Deleted Symbol - As of Tue, Jun 17, 2025, SHCMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Tue, 17 Jun 2025 01:00:19 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHCMF&actionDate=1750136419000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Search Minerals, Inc.]]></category>
-<pink:symbol>SHCMF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SEAHAWK VENTURES INC. (SEHKF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SEHKF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SEHKF/company-info">SEAHAWK VENTURES INC.</a> (<a href="http://www.otcmarkets.com/stock/SEHKF">SEHKF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 18, 2025, SEHKF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=SEHKF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SEAHAWK VENTURES INC.]]></category>
-<pink:symbol>SEHKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CYGNUS METALS LTD. (CYGGF: OTCQB) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CYGGF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CYGGF/company-info">CYGNUS METALS LTD.</a> (<a href="http://www.otcmarkets.com/stock/CYGGF">CYGGF</a>: OTCQB) - Halted Security -  Effective Wed, Jun 18, 2025, CYGGF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CYGGF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CYGNUS METALS LTD.]]></category>
-<pink:symbol>CYGGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[CANADIAN LIFE COS SPLIT CORP. (CLSPF: Pink Current) | Halted Security]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CLSPF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CLSPF/company-info">CANADIAN LIFE COS SPLIT CORP.</a> (<a href="http://www.otcmarkets.com/stock/CLSPF">CLSPF</a>: Pink Current) - Halted Security -  Effective Wed, Jun 18, 2025, CLSPF is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=CLSPF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CANADIAN LIFE COS SPLIT CORP.]]></category>
-<pink:symbol>CLSPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></link>
 <description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, PTMEY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1160,42 +968,6 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Ichigo Green Infrastructure]]></category>
 <pink:symbol>ICGGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT WISMILAK INTI MAKMUR TBK (PTWKF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTWKF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTWKF/company-info">PT WISMILAK INTI MAKMUR TBK</a> (<a href="http://www.otcmarkets.com/stock/PTWKF">PTWKF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 18, 2025, PTWKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTWKF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT WISMILAK INTI MAKMUR TBK]]></category>
-<pink:symbol>PTWKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Agfa-Gavaert NV (AFGVY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFGVY&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFGVY/company-info">Agfa-Gavaert NV</a> (<a href="http://www.otcmarkets.com/stock/AFGVY">AFGVY</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 18, 2025, AFGVY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFGVY&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Agfa-Gavaert NV]]></category>
-<pink:symbol>AFGVY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Agfa-Gavaert NV (AFGVF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFGVF&actionDate=1750219200000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AFGVF/company-info">Agfa-Gavaert NV</a> (<a href="http://www.otcmarkets.com/stock/AFGVF">AFGVF</a>: Pink Limited) - Piggyback Qualified -  Effective Wed, Jun 18, 2025, AFGVF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=AFGVF&actionDate=1750219200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Agfa-Gavaert NV]]></category>
-<pink:symbol>AFGVF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
@@ -1320,30 +1092,6 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Salmar ASA (SALRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285776]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 04:20 - <a href="http://www.otcmarkets.com/stock/SALRY/company-info">Salmar ASA</a> (<a href="http://www.otcmarkets.com/stock/SALRY">SALRY</a>: Pink Limited) - Scheduled Ex-Dividend - Salmar ASA has announced a dividend ex-date for (SALRY: Pink Limited). Salmar ASA is scheduled to disburse a Cash Dividend dividend of $0.36032 on Fri, Jun 20, 2025 to shareholders of SALRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 16:20:32 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=285776]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Salmar ASA]]></category>
-<pink:symbol>SALRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Salmar ASA (SALRY: Pink Limited) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286178]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 04:20 - <a href="http://www.otcmarkets.com/stock/SALRY/company-info">Salmar ASA</a> (<a href="http://www.otcmarkets.com/stock/SALRY">SALRY</a>: Pink Limited) - Scheduled Ex-Dividend - Salmar ASA has announced a dividend ex-date for (SALRY: Pink Limited). Salmar ASA is scheduled to disburse a Cash Dividend dividend of $0.36032 on Fri, Jun 20, 2025 to shareholders of SALRY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 16:20:18 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286178]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Salmar ASA]]></category>
-<pink:symbol>SALRY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Fleetwood Bank Corporation (FLEW: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286243]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 04:16 - <a href="http://www.otcmarkets.com/stock/FLEW/company-info">Fleetwood Bank Corporation</a> (<a href="http://www.otcmarkets.com/stock/FLEW">FLEW</a>: Pink Current) - Scheduled Ex-Dividend - Fleetwood Bank Corporation has announced a dividend ex-date for (FLEW: Pink Current). Fleetwood Bank Corporation is scheduled to disburse a Cash Dividend dividend of $0.5 on Fri, Jun 27, 2025 to shareholders of FLEW. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1438,6 +1186,30 @@ OTC RSS mirror fetched: Fri Jun 20 03:59:37 UTC 2025
 <pink:symbol>CHBH</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[First Farmers Financial Corp (FFMR: OTCQX U.S.) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286242]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 03:43 - <a href="http://www.otcmarkets.com/stock/FFMR/company-info">First Farmers Financial Corp</a> (<a href="http://www.otcmarkets.com/stock/FFMR">FFMR</a>: OTCQX U.S.) - Scheduled Ex-Dividend - First Farmers Financial Corp has announced a dividend ex-date for (FFMR: OTCQX U.S.). First Farmers Financial Corp is scheduled to disburse a Cash Dividend dividend of $0.5 on Mon, Jun 30, 2025 to shareholders of FFMR. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 15:43:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286242]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Farmers Financial Corp]]></category>
+<pink:symbol>FFMR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[First Farmers & Merchants Corp. (FFMH: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286241]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 03:36 - <a href="http://www.otcmarkets.com/stock/FFMH/company-info">First Farmers & Merchants Corp.</a> (<a href="http://www.otcmarkets.com/stock/FFMH">FFMH</a>: Pink Current) - Scheduled Ex-Dividend - First Farmers & Merchants Corp. has announced a dividend ex-date for (FFMH: Pink Current). First Farmers & Merchants Corp. is scheduled to disburse a Cash Dividend dividend of $0.27 on Tue, Jul 01, 2025 to shareholders of FFMH. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 15:36:30 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286241]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[First Farmers & Merchants Corp.]]></category>
+<pink:symbol>FFMH</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[VESYNC CO LTD. (VSYNF: Pink Limited) | Tier Change]]></title>
