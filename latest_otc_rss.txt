@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 05:27:13 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 00:36:12 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 01:06:12 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
@@ -864,6 +864,54 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Lipella Pharmaceuticals Inc. (LIPO: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LIPO&actionDate=1750395648000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LIPO/company-info">Lipella Pharmaceuticals Inc.</a> (<a href="http://www.otcmarkets.com/stock/LIPO">LIPO</a>: OTC Link) - Venue Change - The symbol, LIPO, no longer trades on Nasdaq.  As of Fri, Jun 20, 2025, LIPO trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LIPO&actionDate=1750395648000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lipella Pharmaceuticals Inc.]]></category>
+<pink:symbol>LIPO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTDF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDTDF&actionDate=1750395648000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTDF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTDF">LDTDF</a>: OTC Link) - Venue Change - The symbol, LDTDF, no longer trades on Nasdaq.  As of Fri, Jun 20, 2025, LDTDF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDTDF&actionDate=1750395648000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTCF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDTCF&actionDate=1750395647000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTCF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTCF">LDTCF</a>: OTC Link) - Venue Change - The symbol, LDTCF, no longer trades on Nasdaq.  As of Fri, Jun 20, 2025, LDTCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=LDTCF&actionDate=1750395647000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brooge Energy Limited (BROGF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BROGF&actionDate=1750395647000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BROGF/company-info">Brooge Energy Limited</a> (<a href="http://www.otcmarkets.com/stock/BROGF">BROGF</a>: OTC Link) - Venue Change - The symbol, BROGF, no longer trades on Nasdaq.  As of Fri, Jun 20, 2025, BROGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=BROGF&actionDate=1750395647000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brooge Energy Limited]]></category>
+<pink:symbol>BROGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PT WISMILAK INTI MAKMUR TBK (PTWKF: Pink Limited) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTWKF&actionDate=1750229664000]]></link>
 <description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTWKF/company-info">PT WISMILAK INTI MAKMUR TBK</a> (<a href="http://www.otcmarkets.com/stock/PTWKF">PTWKF</a>: OTC Link) - Venue Change - The symbol, PTWKF, no longer trades on Grey Market.  As of Wed, Jun 18, 2025, PTWKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -874,6 +922,42 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 <pink:symbol>PTWKF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTCW: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LDTCW&actionDate=1750395648000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTDF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTDF">LDTCW</a>: Pink Current) - Symbol Change - The symbol, LDTCW, is no longer a valid symbol for LeddarTech Holdings Inc..  As of Fri, Jun 20, 2025, the new trading symbol is LDTDF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:48 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LDTCW&actionDate=1750395648000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTC: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LDTC&actionDate=1750395647000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTCF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTCF">LDTC</a>: Pink Current) - Symbol Change - The symbol, LDTC, is no longer a valid symbol for LeddarTech Holdings Inc..  As of Fri, Jun 20, 2025, the new trading symbol is LDTCF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LDTC&actionDate=1750395647000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brooge Energy Limited (BROG: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BROG&actionDate=1750395647000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BROGF/company-info">Brooge Energy Limited</a> (<a href="http://www.otcmarkets.com/stock/BROGF">BROG</a>: Pink Current) - Symbol Change - The symbol, BROG, is no longer a valid symbol for Brooge Energy Limited.  As of Fri, Jun 20, 2025, the new trading symbol is BROGF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:47 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BROG&actionDate=1750395647000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brooge Energy Limited]]></category>
+<pink:symbol>BROGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[MedWellAI Inc.  (INTV: OTCQB) | Symbol Change]]></title>
@@ -898,6 +982,54 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 <pink:symbol>ZCRMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NEXMETALS MINING CORP. (PRMLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRMLF&actionDate=1750395649000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - NEXMETALS MINING CORP. (PRMLF: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, PRMLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRMLF&actionDate=1750395649000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEXMETALS MINING CORP.]]></category>
+<pink:symbol>PRMLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[De Grey Mining, Ltd. (DGMLF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGMLF&actionDate=1750395641000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - De Grey Mining, Ltd. (DGMLF: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, DGMLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DGMLF&actionDate=1750395641000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[De Grey Mining, Ltd.]]></category>
+<pink:symbol>DGMLF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aena SME S.A. (ANNSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ANNSF&actionDate=1750395616000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - Aena SME S.A. (ANNSF: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, ANNSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:16 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ANNSF&actionDate=1750395616000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aena SME S.A.]]></category>
+<pink:symbol>ANNSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Calibre Mining Corp. (CXBMF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CXBMF&actionDate=1750395609000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - Calibre Mining Corp. (CXBMF: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, CXBMF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 01:00:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CXBMF&actionDate=1750395609000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Calibre Mining Corp.]]></category>
+<pink:symbol>CXBMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ITSEC ASIA PT TBK (IAPTF: Grey Market) | Reactivated Symbol]]></title>
@@ -1212,6 +1344,42 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[HOMELAND URANIUM CORP (HLUCF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HLUCF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HLUCF/company-info">HOMELAND URANIUM CORP</a> (<a href="http://www.otcmarkets.com/stock/HLUCF">HLUCF</a>: OTCQB) - Tier Change - The symbol, HLUCF, no longer is classified as Pink Current.  As of Fri, Jun 20, 2025, HLUCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HLUCF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HOMELAND URANIUM CORP]]></category>
+<pink:symbol>HLUCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Greenway Technologies, Inc. (GWTI: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWTI&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GWTI/company-info">Greenway Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GWTI">GWTI</a>: OTCQB) - Tier Change - The symbol, GWTI, no longer is classified as Pink Current.  As of Fri, Jun 20, 2025, GWTI resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GWTI&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Greenway Technologies, Inc.]]></category>
+<pink:symbol>GWTI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ALLIED CRITICAL METALS INC (ALCMF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ALCMF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ALCMF/company-info">ALLIED CRITICAL METALS INC</a> (<a href="http://www.otcmarkets.com/stock/ALCMF">ALCMF</a>: OTCQB) - Tier Change - The symbol, ALCMF, no longer is classified as Pink Current.  As of Fri, Jun 20, 2025, ALCMF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ALCMF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ALLIED CRITICAL METALS INC]]></category>
+<pink:symbol>ALCMF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[VESYNC CO LTD. (VSYNF: Pink Limited) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSYNF&actionDate=1750305600000]]></link>
 <description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSYNF/company-info">VESYNC CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/VSYNF">VSYNF</a>: Pink Limited) - Tier Change - The symbol, VSYNF, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, VSYNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1294,42 +1462,6 @@ OTC RSS mirror fetched: Fri Jun 20 04:57:05 UTC 2025
 <pink:symbol>ICGGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Green Star Products, Inc. (GSPI: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GSPI&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GSPI/company-info">Green Star Products, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GSPI">GSPI</a>: Pink Current) - Tier Change - The symbol, GSPI, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, GSPI resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GSPI&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Star Products, Inc.]]></category>
-<pink:symbol>GSPI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Gold Entertainment Group, Inc. (GEGP: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GEGP&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GEGP/company-info">Gold Entertainment Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GEGP">GEGP</a>: Pink Current) - Tier Change - The symbol, GEGP, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, GEGP resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GEGP&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Gold Entertainment Group, Inc.]]></category>
-<pink:symbol>GEGP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DBV Technologies SA (DBVTF: Pink Current) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBVTF&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/DBVTF/company-info">DBV Technologies SA</a> (<a href="http://www.otcmarkets.com/stock/DBVTF">DBVTF</a>: Pink Current) - Tier Change - The symbol, DBVTF, no longer is classified as Pink Limited.  As of Thu, Jun 19, 2025, DBVTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=DBVTF&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DBV Technologies SA]]></category>
-<pink:symbol>DBVTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 </channel>
 </rss>
