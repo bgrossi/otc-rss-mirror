@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 07:25:33 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 02:36:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 03:07:33 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Kelly Partners Group Holdings Ltd. (KPGHF: OTCQX International) | Change of Director's Interest Notice - BK]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=483361]]></link>
+<pubDate>Fri, 20 Jun 2025 03:02:32 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/KPGHF/news?id=483361]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kelly Partners Group Holdings Ltd.]]></category>
+<pink:symbol>KPGHF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483340]]></link>
@@ -602,18 +614,6 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Playtech PLC  (PYTCY: Pink Current) | PYTCY - Books will close at the close of business today, June 17, 2025]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PYTCY/news?id=483114]]></link>
-<pubDate>Tue, 17 Jun 2025 16:50:13 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PYTCY/news?id=483114]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Playtech PLC ]]></category>
-<pink:symbol>PYTCY</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1128,6 +1128,78 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Lipella Pharmaceuticals Inc. (LIPO: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LIPO&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LIPO/company-info">Lipella Pharmaceuticals Inc.</a> (<a href="http://www.otcmarkets.com/stock/LIPO">LIPO</a>: Pink Current) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, LIPO is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LIPO&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lipella Pharmaceuticals Inc.]]></category>
+<pink:symbol>LIPO</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTDF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LDTDF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTDF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTDF">LDTDF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, LDTDF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LDTDF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[LeddarTech Holdings Inc. (LDTCF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LDTCF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTCF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTCF">LDTCF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, LDTCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=LDTCF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[LeddarTech Holdings Inc.]]></category>
+<pink:symbol>LDTCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Greenway Technologies, Inc. (GWTI: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GWTI&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GWTI/company-info">Greenway Technologies, Inc.</a> (<a href="http://www.otcmarkets.com/stock/GWTI">GWTI</a>: OTCQB) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, GWTI is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GWTI&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Greenway Technologies, Inc.]]></category>
+<pink:symbol>GWTI</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Corporacion Moctezuma S.A. de C.V (CMZOF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMZOF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMZOF/company-info">Corporacion Moctezuma S.A. de C.V</a> (<a href="http://www.otcmarkets.com/stock/CMZOF">CMZOF</a>: Pink Limited) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, CMZOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=CMZOF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Corporacion Moctezuma S.A. de C.V]]></category>
+<pink:symbol>CMZOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Brooge Energy Limited (BROGF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BROGF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/BROGF/company-info">Brooge Energy Limited</a> (<a href="http://www.otcmarkets.com/stock/BROGF">BROGF</a>: Pink Current) - Piggyback Qualified -  Effective Fri, Jun 20, 2025, BROGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=BROGF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Brooge Energy Limited]]></category>
+<pink:symbol>BROGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Piggyback Qualified]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></link>
 <description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, PTMEY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
@@ -1392,6 +1464,30 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[XLMEDIA PLC (XLMDF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XLMDF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/XLMDF/company-info">XLMEDIA PLC</a> (<a href="http://www.otcmarkets.com/stock/XLMDF">XLMDF</a>: Pink Limited) - Tier Change - The symbol, XLMDF, no longer is classified as Pink Current.  As of Fri, Jun 20, 2025, XLMDF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=XLMDF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[XLMEDIA PLC]]></category>
+<pink:symbol>XLMDF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Third Point Offshore Investors Land (TPNTF: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TPNTF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TPNTF/company-info">Third Point Offshore Investors Land</a> (<a href="http://www.otcmarkets.com/stock/TPNTF">TPNTF</a>: Pink Current) - Tier Change - The symbol, TPNTF, no longer is classified as Pink Limited.  As of Fri, Jun 20, 2025, TPNTF resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TPNTF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Third Point Offshore Investors Land]]></category>
+<pink:symbol>TPNTF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[HOMELAND URANIUM CORP (HLUCF: OTCQB) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=HLUCF&actionDate=1750392000000]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HLUCF/company-info">HOMELAND URANIUM CORP</a> (<a href="http://www.otcmarkets.com/stock/HLUCF">HLUCF</a>: OTCQB) - Tier Change - The symbol, HLUCF, no longer is classified as Pink Current.  As of Fri, Jun 20, 2025, HLUCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1414,6 +1510,18 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 <pink:symbol>GWTI</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Corporacion Moctezuma S.A. de C.V (CMZOF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMZOF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CMZOF/company-info">Corporacion Moctezuma S.A. de C.V</a> (<a href="http://www.otcmarkets.com/stock/CMZOF">CMZOF</a>: Pink Limited) - Tier Change - The symbol, CMZOF, no longer is classified as Expert Market.  As of Fri, Jun 20, 2025, CMZOF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=CMZOF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Corporacion Moctezuma S.A. de C.V]]></category>
+<pink:symbol>CMZOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[ALLIED CRITICAL METALS INC (ALCMF: OTCQB) | Tier Change]]></title>
@@ -1472,42 +1580,6 @@ OTC RSS mirror fetched: Fri Jun 20 06:57:30 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[My City Builders, Inc.]]></category>
 <pink:symbol>MYCB</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MARKY CORP. (MRKY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MRKY/company-info">MARKY CORP.</a> (<a href="http://www.otcmarkets.com/stock/MRKY">MRKY</a>: Pink Limited) - Tier Change - The symbol, MRKY, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, MRKY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MRKY&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MARKY CORP.]]></category>
-<pink:symbol>MRKY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Mundus Group, Inc. (MNDP: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNDP&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MNDP/company-info">Mundus Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/MNDP">MNDP</a>: Pink Limited) - Tier Change - The symbol, MNDP, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, MNDP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MNDP&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Mundus Group, Inc.]]></category>
-<pink:symbol>MNDP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Ichigo Green Infrastructure (ICGGF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICGGF&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICGGF/company-info">Ichigo Green Infrastructure</a> (<a href="http://www.otcmarkets.com/stock/ICGGF">ICGGF</a>: Pink Limited) - Tier Change - The symbol, ICGGF, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, ICGGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ICGGF&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ichigo Green Infrastructure]]></category>
-<pink:symbol>ICGGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
