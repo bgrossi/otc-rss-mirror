@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 12:44:36 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 13:21:41 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Fri Jun 20 12:44:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 08:26:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 09:06:11 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[AppLife Digital Solutions, Inc. (ALDS: OTCQB) | APPlife Digital Solutions, Inc. Completes Acquisition of Sugar Auto Parts, Inc.]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ALDS/news?id=483355]]></link>
+<pubDate>Fri, 20 Jun 2025 09:03:53 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALDS/news?id=483355]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[AppLife Digital Solutions, Inc.]]></category>
+<pink:symbol>ALDS</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Autris (AUTR: Pink Current) | Autris - Autris enters into substantial land purchase agreement in Costa Rica]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/AUTR/news?id=483330]]></link>
+<pubDate>Fri, 20 Jun 2025 09:00:38 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/AUTR/news?id=483330]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Autris]]></category>
+<pink:symbol>AUTR</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Barloworld Ltd. (BRRAY: Pink Current) | BRRAY - Books will close today, June 20, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/BRRAY/news?id=483392]]></link>
+<pubDate>Fri, 20 Jun 2025 08:44:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BRRAY/news?id=483392]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Barloworld Ltd.]]></category>
+<pink:symbol>BRRAY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Everything Blockchain, Inc. (EBZT: Pink Current) | Everything Blockchain Plans $10M Strategic Acquisition of SOL, XRP, SUI, TAO & HYPE — Front Running Wall Street]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EBZT/news?id=483358]]></link>
@@ -578,42 +614,6 @@ OTC RSS mirror fetched: Fri Jun 20 12:44:36 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Oceana Group Ltd. (OCGPF: OTCQX International) | Unaudited Group interim results for the six months ended 31 March 2025 and cash dividend declaration]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483139]]></link>
-<pubDate>Wed, 18 Jun 2025 05:56:03 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/OCGPF/news?id=483139]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Oceana Group Ltd.]]></category>
-<pink:symbol>OCGPF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Alternet Systems, Inc. (ALYI: Pink Current) | Alternet Systems Names new CEO]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ALYI/news?id=483137]]></link>
-<pubDate>Wed, 18 Jun 2025 05:00:29 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALYI/news?id=483137]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Alternet Systems, Inc.]]></category>
-<pink:symbol>ALYI</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Phase Holographic Imaging PHI AB (PHIXF: OTCQB) | Proposal to amend the Altium Distribution Agreement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/PHIXF/news?id=483135]]></link>
-<pubDate>Wed, 18 Jun 2025 03:09:34 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/PHIXF/news?id=483135]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Phase Holographic Imaging PHI AB]]></category>
-<pink:symbol>PHIXF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -1056,6 +1056,18 @@ OTC RSS mirror fetched: Fri Jun 20 12:44:36 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[ENGlobal Corp. (ENGCQ: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ENGCQ&actionDate=1750424024000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - ENGlobal Corp. (ENGCQ: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, ENGCQ is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 08:53:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=ENGCQ&actionDate=1750424024000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ENGlobal Corp.]]></category>
+<pink:symbol>ENGCQ</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[NEXMETALS MINING CORP. (PRMLF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=PRMLF&actionDate=1750395649000]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 12:00 - NEXMETALS MINING CORP. (PRMLF: OTC Link) - Deleted Symbol - As of Fri, Jun 20, 2025, PRMLF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -1150,6 +1162,18 @@ OTC RSS mirror fetched: Fri Jun 20 12:44:36 UTC 2025
 <pink:symbol>SICZF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Magnum Goldcorp Inc. (MGIDD: Pink Current) | Halted Security]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MGIDD&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDD</a>: Pink Current) - Halted Security -  Effective Fri, Jun 20, 2025, MGIDD is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MGIDD&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Magnum Goldcorp Inc.]]></category>
+<pink:symbol>MGIDD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Greatland Gold PLC (GRLGF: Pink Current) | Halted Security]]></title>
