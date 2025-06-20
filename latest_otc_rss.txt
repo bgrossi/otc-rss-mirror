@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 21:19:14 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 21:39:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 21:19:14 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 17:06:10 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 17:36:10 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces Results of Tender Offer and Proration]]></title>
@@ -1440,6 +1440,18 @@ OTC RSS mirror fetched: Fri Jun 20 21:19:14 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[SPC NICKEL CORP. (SPCNF: Pink Current) | Scheduled Ex-Dividend]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286261]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 05:02 - <a href="http://www.otcmarkets.com/stock/SPCNF/company-info">SPC NICKEL CORP.</a> (<a href="http://www.otcmarkets.com/stock/SPCNF">SPCNF</a>: Pink Current) - Scheduled Ex-Dividend - SPC NICKEL CORP. has announced a dividend ex-date for (SPCNF: Pink Current). SPC NICKEL CORP. is scheduled to disburse a Ex-Rights dividend of null on Tue, Jun 24, 2025 to shareholders of SPCNF. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 17:02:22 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286261]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SPC NICKEL CORP.]]></category>
+<pink:symbol>SPCNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Industria de Diseno Textil Inditex SA (IDEXY: Pink Limited) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286260]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 03:58 - <a href="http://www.otcmarkets.com/stock/IDEXY/company-info">Industria de Diseno Textil Inditex SA</a> (<a href="http://www.otcmarkets.com/stock/IDEXY">IDEXY</a>: Pink Limited) - Scheduled Ex-Dividend - Industria de Diseno Textil Inditex SA has announced a dividend ex-date for (IDEXY: Pink Limited). Industria de Diseno Textil Inditex SA is scheduled to disburse a Stock Dividend/Split dividend of 2 shares on Wed, Jun 25, 2025 to shareholders of IDEXY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1546,18 +1558,6 @@ OTC RSS mirror fetched: Fri Jun 20 21:19:14 UTC 2025
 <pink:symbol>WRIV</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Croghan Bancshares, Inc. (CHBH: OTCQB) | Scheduled Ex-Dividend]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286236]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 03:47 - <a href="http://www.otcmarkets.com/stock/CHBH/company-info">Croghan Bancshares, Inc.</a> (<a href="http://www.otcmarkets.com/stock/CHBH">CHBH</a>: OTCQB) - Scheduled Ex-Dividend - Croghan Bancshares, Inc. has announced a dividend ex-date for (CHBH: OTCQB). Croghan Bancshares, Inc. is scheduled to disburse a Cash Dividend dividend of $0.58 on Fri, Jul 11, 2025 to shareholders of CHBH. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 15:47:20 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286236]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Croghan Bancshares, Inc.]]></category>
-<pink:symbol>CHBH</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[XLMEDIA PLC (XLMDF: Pink Limited) | Tier Change]]></title>
