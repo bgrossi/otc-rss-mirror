@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Fri Jun 20 11:18:20 UTC 2025
+OTC RSS mirror fetched: Fri Jun 20 11:40:42 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Fri Jun 20 11:18:20 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 07:06:11 EDT</lastBuildDate>
+<lastBuildDate>Fri, 20 Jun 2025 07:36:11 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Digital Domain Holdings Limited (DDHLY: OTCQX International) | Poll Results of the Annual General Meeting held on 20 June 2025]]></title>
@@ -924,6 +924,18 @@ OTC RSS mirror fetched: Fri Jun 20 11:18:20 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[NEXMETALS MINING CORP. (PRMLF: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRMLF&actionDate=1750417886000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMLD/company-info">NEXMETALS MINING CORP.</a> (<a href="http://www.otcmarkets.com/stock/PRMLD">PRMLF</a>: Pink Current) - Symbol Change - The symbol, PRMLF, is no longer a valid symbol for NEXMETALS MINING CORP..  As of Fri, Jun 20, 2025, the new trading symbol is PRMLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 07:11:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRMLF&actionDate=1750417886000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEXMETALS MINING CORP.]]></category>
+<pink:symbol>PRMLD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[LeddarTech Holdings Inc. (LDTCW: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=LDTCW&actionDate=1750395648000]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/LDTDF/company-info">LeddarTech Holdings Inc.</a> (<a href="http://www.otcmarkets.com/stock/LDTDF">LDTCW</a>: Pink Current) - Symbol Change - The symbol, LDTCW, is no longer a valid symbol for LeddarTech Holdings Inc..  As of Fri, Jun 20, 2025, the new trading symbol is LDTDF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -1028,6 +1040,18 @@ OTC RSS mirror fetched: Fri Jun 20 11:18:20 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Empire Energy Group Limited]]></category>
 <pink:symbol>EEGUF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[NEXMETALS MINING CORP. (PRMLF: Pink Current) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRMLF&actionDate=1750392000000]]></link>
+<description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMLD/company-info">NEXMETALS MINING CORP.</a> (<a href="http://www.otcmarkets.com/stock/PRMLD">PRMLF</a>: Pink Current) - Splits - Effective Fri, Jun 20, 2025, PRMLF: Pink Current engaged in a rev split. As a result of the split, shs decreased by 1 for 20 split. Due to the split, PRMLF is no longer valid. The new trading symbol is PRMLD. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Fri, 20 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=PRMLF&actionDate=1750392000000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[NEXMETALS MINING CORP.]]></category>
+<pink:symbol>PRMLD</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
