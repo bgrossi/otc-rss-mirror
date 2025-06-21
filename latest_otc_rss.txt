@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat Jun 21 13:51:33 UTC 2025
+OTC RSS mirror fetched: Sat Jun 21 14:19:39 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sat Jun 21 13:51:33 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Sat, 21 Jun 2025 07:36:09 EDT</lastBuildDate>
+<lastBuildDate>Sat, 21 Jun 2025 10:06:10 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces Results of Tender Offer and Proration]]></title>
@@ -754,6 +754,17 @@ OTC RSS mirror fetched: Sat Jun 21 13:51:33 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Alvopetro Energy Ltd (ALVOF: OTCQX International) | Company Video]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/ALVOF/video-and-presentations?cmdId=2226021]]></link>
+<description><![CDATA[Wed, Jun 18, 2025 - <a href="http://www.otcmarkets.com/stock/ALVOF/company-info">Alvopetro Energy Ltd</a> (<a href="http://www.otcmarkets.com/stock/ALVOF">ALVOF</a>: OTCQX International) released a Company Video called Alvopetro Annual General and Special Meeting - June 18, 2025 (Replay). To watch the video, please visit: <a href="http://www.otcmarkets.com/stock/ALVOF/video-and-presentations?cmdId=2226021">http://www.otcmarkets.com/stock/ALVOF/video-and-presentations?cmdId=2226021</a>.]]></description>
+<pubDate>Wed, 18 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ALVOF/video-and-presentations?cmdId=2226021]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<pink:symbol>ALVOF</pink:symbol>
+<pink:type>video</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Latin Metals Inc. (LMSQF: OTCQB) | Company Presentation]]></title>
 <link><![CDATA[http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381]]></link>
 <description><![CDATA[Tue, Jun 10, 2025 - <a href="http://www.otcmarkets.com/stock/LMSQF/company-info">Latin Metals Inc.</a> (<a href="http://www.otcmarkets.com/stock/LMSQF">LMSQF</a>: OTCQB) released a Company Presentation called Latin Metals Corporate Presentation. To watch the presentation, please visit: <a href="http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381">http://www.otcmarkets.com/companyPresentationViewer?cmdId=2223381</a>.]]></description>
@@ -851,17 +862,6 @@ OTC RSS mirror fetched: Sat Jun 21 13:51:33 UTC 2025
 <pink:symbol>EDGM</pink:symbol>
 <pink:type>video</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Brazilian Rare Earths Ltd. (BRELY: OTCQX International) | Company Presentation]]></title>
-<link><![CDATA[http://www.otcmarkets.com/companyPresentationViewer?cmdId=2186595]]></link>
-<description><![CDATA[Sun, Mar 09, 2025 - <a href="http://www.otcmarkets.com/stock/BRELY/company-info">Brazilian Rare Earths Ltd.</a> (<a href="http://www.otcmarkets.com/stock/BRELY">BRELY</a>: OTCQX International) released a Company Presentation called Corporate Presentation - March 2025. To watch the presentation, please visit: <a href="http://www.otcmarkets.com/companyPresentationViewer?cmdId=2186595">http://www.otcmarkets.com/companyPresentationViewer?cmdId=2186595</a>.]]></description>
-<pubDate>Sun, 09 Mar 2025 00:00:00 EST</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/companyPresentationViewer?cmdId=2186595]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<pink:symbol>BRELY</pink:symbol>
-<pink:type>presentation</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[HELIUM VENTURES PLC (HEVVF: Grey Market) | Venue Change]]></title>
