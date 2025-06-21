@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
+OTC RSS mirror fetched: Sat Jun 21 04:26:47 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Fri, 20 Jun 2025 23:36:10 EDT</lastBuildDate>
+<lastBuildDate>Sat, 21 Jun 2025 00:06:10 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces Results of Tender Offer and Proration]]></title>
@@ -924,18 +924,6 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[PT WISMILAK INTI MAKMUR TBK (PTWKF: Pink Limited) | Venue Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTWKF&actionDate=1750229664000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTWKF/company-info">PT WISMILAK INTI MAKMUR TBK</a> (<a href="http://www.otcmarkets.com/stock/PTWKF">PTWKF</a>: OTC Link) - Venue Change - The symbol, PTWKF, no longer trades on Grey Market.  As of Wed, Jun 18, 2025, PTWKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 02:54:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=PTWKF&actionDate=1750229664000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT WISMILAK INTI MAKMUR TBK]]></category>
-<pink:symbol>PTWKF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[NEXMETALS MINING CORP. (PRMLF: Pink Current) | Symbol Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=PRMLF&actionDate=1750417886000]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PRMLD/company-info">NEXMETALS MINING CORP.</a> (<a href="http://www.otcmarkets.com/stock/PRMLD">PRMLF</a>: Pink Current) - Symbol Change - The symbol, PRMLF, is no longer a valid symbol for NEXMETALS MINING CORP..  As of Fri, Jun 20, 2025, the new trading symbol is PRMLD. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
@@ -980,30 +968,6 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Brooge Energy Limited]]></category>
 <pink:symbol>BROGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[MedWellAI Inc.  (INTV: OTCQB) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MWAI/company-info">MedWellAI Inc. </a> (<a href="http://www.otcmarkets.com/stock/MWAI">INTV</a>: OTCQB) - Symbol Change - The symbol, INTV, is no longer a valid symbol for MedWellAI Inc. .  As of Wed, Jun 18, 2025, the new trading symbol is MWAI. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 01:00:46 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=INTV&actionDate=1750222846000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[MedWellAI Inc. ]]></category>
-<pink:symbol>MWAI</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[GOLDEN CROSS RES INC. (ZCRMD: Pink Current) | Symbol Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZCRMD&actionDate=1750222842000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZCRMF/company-info">GOLDEN CROSS RES INC.</a> (<a href="http://www.otcmarkets.com/stock/ZCRMF">ZCRMD</a>: Pink Current) - Symbol Change - The symbol, ZCRMD, is no longer a valid symbol for GOLDEN CROSS RES INC..  As of Wed, Jun 18, 2025, the new trading symbol is ZCRMF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 01:00:42 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=ZCRMD&actionDate=1750222842000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[GOLDEN CROSS RES INC.]]></category>
-<pink:symbol>ZCRMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
@@ -1140,54 +1104,6 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[ITSEC ASIA PT TBK (IAPTF: Grey Market) | Reactivated Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IAPTF&actionDate=1750260810000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/IAPTF/company-info">ITSEC ASIA PT TBK</a> (<a href="http://www.otcmarkets.com/stock/IAPTF">IAPTF</a>: Grey Market) - Reactivated Symbol -  The symbol, IAPTF, has been reactivated and now trades on Grey Market. You may find a complete list of reactivated symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 11:33:30 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IAPTF&actionDate=1750260810000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ITSEC ASIA PT TBK]]></category>
-<pink:symbol>IAPTF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[ITALGAS SPA (IGARF: OTC Link) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IGARF&actionDate=1750245122000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - ITALGAS SPA (IGARF: OTC Link) - Deleted Symbol - As of Wed, Jun 18, 2025, IGARF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 07:12:02 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=IGARF&actionDate=1750245122000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[ITALGAS SPA]]></category>
-<pink:symbol>IGARF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTC Link]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DMSPF&actionDate=1750222849000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - DOMINICE SWISS PPTY FD. (DMSPF: Grey Market) - Deleted Symbol - As of Wed, Jun 18, 2025, DMSPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 01:00:49 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=DMSPF&actionDate=1750222849000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[DOMINICE SWISS PPTY FD.]]></category>
-<pink:symbol>DMSPF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF (SICZF: Grey Market) | Deleted Symbol]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICZF&actionDate=1750222848000]]></link>
-<description><![CDATA[Wed, Jun 18, 2025 12:00 - SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF (SICZF: Grey Market) - Deleted Symbol - As of Wed, Jun 18, 2025, SICZF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
-<pubDate>Wed, 18 Jun 2025 01:00:48 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SICZF&actionDate=1750222848000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[SWISSCANTO CH REAL ESTATE FUND IFCA ANTEILE FA CHF]]></category>
-<pink:symbol>SICZF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Grey Market]]></pink:tier>
-</item>
-<item>
 <title><![CDATA[Magnum Goldcorp Inc. (MGIDD: Pink Current) | Halted Security]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=6&symbol=MGIDD&actionDate=1750392000000]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MGIDD/company-info">Magnum Goldcorp Inc.</a> (<a href="http://www.otcmarkets.com/stock/MGIDD">MGIDD</a>: Pink Current) - Halted Security -  Effective Fri, Jun 20, 2025, MGIDD is designated with the status Halted. You may find a complete list of revoked/suspended securities at <a href="http://www.otcmarkets.com/market-activity/suspended-symbols">otcmarkets.com</a>.]]></description>
@@ -1294,30 +1210,6 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 <pink:symbol>BROGF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, PTMEY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=PTMEY&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Media Nusantara Citra TBK]]></category>
-<pink:symbol>PTMEY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Ichigo Green Infrastructure (ICGGF: Pink Limited) | Piggyback Qualified]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICGGF&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ICGGF/company-info">Ichigo Green Infrastructure</a> (<a href="http://www.otcmarkets.com/stock/ICGGF">ICGGF</a>: Pink Limited) - Piggyback Qualified -  Effective Thu, Jun 19, 2025, ICGGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ICGGF&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Ichigo Green Infrastructure]]></category>
-<pink:symbol>ICGGF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[Tianjin Port Development Holdings, Ltd. (TJIPY: Pink Current) | Ex-Dividend]]></title>
@@ -1642,42 +1534,6 @@ OTC RSS mirror fetched: Sat Jun 21 03:53:13 UTC 2025
 <pink:symbol>ALCMF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[VESYNC CO LTD. (VSYNF: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSYNF&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VSYNF/company-info">VESYNC CO LTD.</a> (<a href="http://www.otcmarkets.com/stock/VSYNF">VSYNF</a>: Pink Limited) - Tier Change - The symbol, VSYNF, no longer is classified as Pink Current.  As of Thu, Jun 19, 2025, VSYNF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VSYNF&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[VESYNC CO LTD.]]></category>
-<pink:symbol>VSYNF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Vicapsys Life Sciences, Inc. (VICP: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VICP&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/VICP/company-info">Vicapsys Life Sciences, Inc.</a> (<a href="http://www.otcmarkets.com/stock/VICP">VICP</a>: Pink Limited) - Tier Change - The symbol, VICP, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, VICP resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=VICP&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Vicapsys Life Sciences, Inc.]]></category>
-<pink:symbol>VICP</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[PT Media Nusantara Citra TBK (PTMEY: Pink Limited) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTMEY&actionDate=1750305600000]]></link>
-<description><![CDATA[Thu, Jun 19, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/PTMEY/company-info">PT Media Nusantara Citra TBK</a> (<a href="http://www.otcmarkets.com/stock/PTMEY">PTMEY</a>: Pink Limited) - Tier Change - The symbol, PTMEY, no longer is classified as Expert Market.  As of Thu, Jun 19, 2025, PTMEY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Thu, 19 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=PTMEY&actionDate=1750305600000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[PT Media Nusantara Citra TBK]]></category>
-<pink:symbol>PTMEY</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
