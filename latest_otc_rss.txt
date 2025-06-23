@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 08:58:36 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 09:31:54 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun 23 08:58:36 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 04:36:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 05:06:07 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Coinsilium Group Ltd. (CINGF: OTCQB) | Website Update and Bitcoin Treasury Policy and Strategic Plan]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=483484]]></link>
+<pubDate>Mon, 23 Jun 2025 04:46:44 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CINGF/news?id=483484]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Coinsilium Group Ltd.]]></category>
+<pink:symbol>CINGF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Lotus Resources Ltd (LTSRF: OTCQX International) | Appendix 2A - Application for Quotation of Securities]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LTSRF/news?id=483483]]></link>
@@ -594,18 +606,6 @@ OTC RSS mirror fetched: Mon Jun 23 08:58:36 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483276]]></link>
 <pubDate>Thu, 19 Jun 2025 04:35:48 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483276]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[The Smarter Web Company PLC]]></category>
-<pink:symbol>TSWCF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Subscription Agreement For A Maximum Of 21 Million New Shares]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483275]]></link>
-<pubDate>Thu, 19 Jun 2025 04:34:52 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483275]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[The Smarter Web Company PLC]]></category>
 <pink:symbol>TSWCF</pink:symbol>
