@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 05:45:53 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 01:06:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 01:36:07 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice of Additional Purchase of Bitcoin]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=483468]]></link>
+<pubDate>Mon, 23 Jun 2025 01:14:07 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=483468]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Metaplanet Inc. (MTPLF: OTCQX International) | Notice Regarding Completion of Payment for the Issuance of the 20th to 22nd Series of Stock Acquisition Rights with Exercise Price Adjustment and Suspension Clauses]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=483467]]></link>
+<pubDate>Mon, 23 Jun 2025 01:13:28 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MTPLF/news?id=483467]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Metaplanet Inc.]]></category>
+<pink:symbol>MTPLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/JNDAF/news?id=483466]]></link>
@@ -590,30 +614,6 @@ OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[CYPRIUM METALS LTD. (CYPMF: OTCQB) | Nifty Virtual Site Visit Webinar Notification]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/CYPMF/news?id=483259]]></link>
-<pubDate>Wed, 18 Jun 2025 20:47:57 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/CYPMF/news?id=483259]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[CYPRIUM METALS LTD.]]></category>
-<pink:symbol>CYPMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Anson Resources (ANSNF: OTCQB) | Anson Completes a “Static” and “Dynamic” Petrel Model for its Green River Lithium Project]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=483258]]></link>
-<pubDate>Wed, 18 Jun 2025 19:40:23 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/ANSNF/news?id=483258]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Anson Resources]]></category>
-<pink:symbol>ANSNF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
 <title><![CDATA[Jack Nathan Medical Corp. (JNHMF: OTCQB) | 12g3-2(b) Certification]]></title>
 <link><![CDATA[http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022]]></link>
 <description><![CDATA[Mon, Jun 02, 2025 10:45 - <a href="http://www.otcmarkets.com/stock/JNHMF/company-info">Jack Nathan Medical Corp.</a> (<a href="http://www.otcmarkets.com/stock/JNHMF">JNHMF</a>: OTCQB) released their 12g3-2(b) Certification concerning 12g3-2(b) Confirmation. To read the complete report, please visit: <a href="http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022">http://www.otcmarkets.com/financialReportViewer?symbol=JNHMF&id=471022</a>.]]></description>
@@ -924,6 +924,54 @@ OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Willow Biosciences Inc. (CANSD: OTCQB) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CANSD&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/CANSD/company-info">Willow Biosciences Inc.</a> (<a href="http://www.otcmarkets.com/stock/CANSD">CANSD</a>: OTCQB) - Company Name Change - Willow Biosciences Inc. has changed its name to ATLAS ENERGY CORP. The change goes into effect as of Mon, Jun 23, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=CANSD&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Willow Biosciences Inc.]]></category>
+<pink:symbol>CANSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GREAT EAGLE GOLD CORP. (GEGCF: Pink Current) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GEGCF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GEGCF/company-info">GREAT EAGLE GOLD CORP.</a> (<a href="http://www.otcmarkets.com/stock/GEGCF">GEGCF</a>: Pink Current) - Company Name Change - GREAT EAGLE GOLD CORP. has changed its name to NATBRIDGE RES LTD. The change goes into effect as of Mon, Jun 23, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=GEGCF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GREAT EAGLE GOLD CORP.]]></category>
+<pink:symbol>GEGCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Agility Real Estate Inc. (AGLRF: Grey Market) | Company Name Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGLRF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AGLRF/company-info">Agility Real Estate Inc.</a> (<a href="http://www.otcmarkets.com/stock/AGLRF">AGLRF</a>: Grey Market) - Company Name Change - Agility Real Estate Inc. has changed its name to AGILITY CAPITAL HOLDING INC.. The change goes into effect as of Mon, Jun 23, 2025. You may find a complete list of company name changes at <a href="http://www.otcmarkets.com/market-activity/company-name-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=2&symbol=AGLRF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Agility Real Estate Inc.]]></category>
+<pink:symbol>AGLRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Grey Market]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Kongsberg Gruppen ASA (KBGGY: Pink Limited) | Splits]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KBGGY&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KBGGY/company-info">Kongsberg Gruppen ASA</a> (<a href="http://www.otcmarkets.com/stock/KBGGY">KBGGY</a>: Pink Limited) - Splits - Effective Mon, Jun 23, 2025, KBGGY: Pink Limited engaged in a fwd split. As a result of the split, shs increased by 5 for 1 split. You may find a complete list of splits at <a href="http://www.otcmarkets.com/market-activity/splits">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=4&symbol=KBGGY&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Kongsberg Gruppen ASA]]></category>
+<pink:symbol>KBGGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[VERSES AI INC. (VRSSF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VRSSF&actionDate=1750654865000]]></link>
 <description><![CDATA[Mon, Jun 23, 2025 12:00 - VERSES AI INC. (VRSSF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, VRSSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
@@ -948,13 +996,13 @@ OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Willow Biosciences Inc. (CANSF: OTC Link) | Deleted Symbol]]></title>
+<title><![CDATA[ATLAS ENERGY CORP (CANSF: OTC Link) | Deleted Symbol]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CANSF&actionDate=1750654864000]]></link>
-<description><![CDATA[Mon, Jun 23, 2025 12:00 - Willow Biosciences Inc. (CANSF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, CANSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - ATLAS ENERGY CORP (CANSF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, CANSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 23 Jun 2025 01:01:04 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CANSF&actionDate=1750654864000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Willow Biosciences Inc.]]></category>
+<category><![CDATA[ATLAS ENERGY CORP]]></category>
 <pink:symbol>CANSF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
