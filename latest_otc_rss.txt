@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 12:47:29 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 13:36:07 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 23 12:47:29 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 08:46:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 09:26:07 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Full Alliance Group, Inc. (FAGI: Pink Current) | Full Alliance Group (OTC: FAGI) Announces Strategic Joint Venture with Italian Marketing group ECOMTEK to Integrate Profitable Brand Portfolio and Accelerate E-commerce Growth Strategy]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FAGI/news?id=483564]]></link>
+<pubDate>Mon, 23 Jun 2025 09:24:34 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FAGI/news?id=483564]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Full Alliance Group, Inc.]]></category>
+<pink:symbol>FAGI</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[FBR Ltd. (FBRKF: OTCQB) | Change in substantial holding]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=483563]]></link>
+<pubDate>Mon, 23 Jun 2025 09:24:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/FBRKF/news?id=483563]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[FBR Ltd.]]></category>
+<pink:symbol>FBRKF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[LianBio (LIANY: Pink Limited) | LIANY - Books will close at the close of business today, June 23, 2025]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LIANY/news?id=483540]]></link>
@@ -585,30 +609,6 @@ OTC RSS mirror fetched: Mon Jun 23 12:47:29 UTC 2025
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Aoxing Pharmaceutical Company, Inc.]]></category>
 <pink:symbol>AOXG</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Bexil Corp. (BXLCD: Pink Current) | Bexil Corporation Announces Results of Tender Offer and Proration]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=483438]]></link>
-<pubDate>Fri, 20 Jun 2025 16:03:56 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BXLCD/news?id=483438]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Bexil Corp.]]></category>
-<pink:symbol>BXLCD</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Institute of Biomedical Research Corp. (MRES: Pink Current) | RLAB & MRES: Gary Zavaleta Joins M2MMA Combat Sports Organization Advisory Board]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/MRES/news?id=483427]]></link>
-<pubDate>Fri, 20 Jun 2025 13:33:24 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/MRES/news?id=483427]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Institute of Biomedical Research Corp.]]></category>
-<pink:symbol>MRES</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
