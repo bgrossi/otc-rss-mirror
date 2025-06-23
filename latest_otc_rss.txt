@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 19:39:00 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 19:51:34 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,44 @@ OTC RSS mirror fetched: Mon Jun 23 19:39:00 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 15:26:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 15:46:07 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[United Bank Ltd. (UDBKL: Pink Limited) | UDBKL - Books will close at the close of business today, June 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/UDBKL/news?id=483609]]></link>
+<pubDate>Mon, 23 Jun 2025 15:40:57 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/UDBKL/news?id=483609]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[United Bank Ltd.]]></category>
+<pink:symbol>UDBKL</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[VEND MARKETPLACES ASA (SBSNY: Pink Limited) | SBSNY - Books will close today, June 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SBSNY/news?id=483608]]></link>
+<pubDate>Mon, 23 Jun 2025 15:31:10 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SBSNY/news?id=483608]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VEND MARKETPLACES ASA]]></category>
+<pink:symbol>SBSNY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[Renewi plc (SNKSY: Pink Limited) | SNKSY - Books will close today, June 23, 2025]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/SNKSY/news?id=483607]]></link>
+<pubDate>Mon, 23 Jun 2025 15:29:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SNKSY/news?id=483607]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Renewi plc]]></category>
+<pink:symbol>SNKSY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Locksley Resources Limited (LKYRF: Grey Market) | Strategic US collaboration drive for Mojave Project]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/LKYRF/news?id=483605]]></link>
@@ -575,42 +611,6 @@ OTC RSS mirror fetched: Mon Jun 23 19:39:00 UTC 2025
 <pink:symbol>BRZH</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Breeze Holdings Acquisition Corp. (BRZH: OTCQX U.S.) | OTC Markets Group Welcomes New OTCQB Companies – June 23]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/BRZH/news?id=483409]]></link>
-<pubDate>Mon, 23 Jun 2025 07:00:08 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/BRZH/news?id=483409]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Breeze Holdings Acquisition Corp.]]></category>
-<pink:symbol>BRZH</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX U.S.]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Invinity Energy Sys Plc. (IESVF: OTCQX International) | Holding(s) in Company]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=483477]]></link>
-<pubDate>Mon, 23 Jun 2025 07:00:07 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IESVF/news?id=483477]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Invinity Energy Sys Plc.]]></category>
-<pink:symbol>IESVF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[AMERICAN TUNGSTEN CORP. (DEMRF: OTCQB) | OTC Markets Group Welcomes New OTCQB Companies – June 23]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/DEMRF/news?id=483410]]></link>
-<pubDate>Mon, 23 Jun 2025 07:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/DEMRF/news?id=483410]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[AMERICAN TUNGSTEN CORP.]]></category>
-<pink:symbol>DEMRF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
