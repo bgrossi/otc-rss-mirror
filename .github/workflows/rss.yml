@@ -1,81 +1,52 @@
-name: OTC RSS mirror (lite)
+name: OTC Positive-Impact Report
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"
+  # manual trigger
   workflow_dispatch:
+  # 09:00 ET on trading days (≈ 13:00 UTC; adjust for DST if needed)
+  schedule:
+    - cron: '0 13 * * 1-5'
 
 jobs:
-  build:
+  otc-report:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # 1️⃣ Checkout repository (needed if you commit results)
+      - uses: actions/checkout@v4
 
-      - name: Fetch RSS feed
-        shell: bash
+      # 2️⃣ Fetch the RSS (primary → fallback)
+      - name: Download OTC RSS feed
         run: |
-          set -e
-          UA="Mozilla/5.0 ChatGPT-RSS-Mirror"
-          curl -sSL --http1.1 \
-               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
-               -A "$UA" -o rss_full.xml \
-               https://www.otcmarkets.com/syndicate/rss.xml || \
-          curl -sSLk --http1.1 \
-               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
-               -A "$UA" -o rss_full.xml \
-               https://content.otcmarkets.com/syndicate/rss.xml
-          test -s rss_full.xml
+          set -euo pipefail
+          curl -fsSL https://www.otcmarkets.com/syndicate/rss.xml \
+            -o rss.xml || \
+          curl -fsSL https://content.otcmarkets.com/syndicate/rss.xml \
+            -o rss.xml
 
-      - name: Trim, wrap, and add XML wrappers
-        shell: bash
+      # 3️⃣ Trim to first 250 <item>s but keep header intact
+      - name: Trim feed to 250 items
         run: |
-          awk '
-            /<item>/ {c++}
-            c<=250   {print}
-            /<\/item>/ && c==250 {exit}
-          ' rss_full.xml > items.xml
+          awk 'BEGIN{n=0}
+               /<item>/{n++}
+               {print}
+               n==250 && /<\/item>/{exit}' rss.xml > rss_trimmed.xml
+          # ▶ Patch: always close the RSS properly so XML is valid
+          printf '</channel>\n</rss>\n' >> rss_trimmed.xml
 
-          {
-            echo '<?xml version="1.0" encoding="UTF-8"?>'
-            echo '<rss version="2.0"><channel>'
-            cat items.xml
-            echo '</channel></rss>'
-          } > rss_full_valid.xml
-
-          mv rss_full_valid.xml rss_trimmed.xml
-
-      - name: Validate well‑formed XML
-        shell: bash
-        run: |
-          python - <<'PY'
-import xml.etree.ElementTree as ET, sys
-try:
-    ET.parse("rss_trimmed.xml")
-except ET.ParseError as e:
-    print("XML malformed:", e)
-    sys.exit(1)
-PY
-
-      - name: Build mirror file
-        shell: bash
-        run: |
-          {
-            echo "OTC RSS mirror fetched: $(date -u)"
-            cat rss_trimmed.xml
-          } > latest_otc_rss.txt
-
-      - name: Commit & push if changed
-        shell: bash
+      # 4️⃣ Run the Python script that parses & posts the report
+      - name: Generate report
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          YF_API_TOKEN: ${{ secrets.YF_API_TOKEN }}   # if your script needs it
         run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add latest_otc_rss.txt
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update trimmed RSS [skip ci]"
-            git push
-          else
-            echo "No change – skipping commit"
-          fi
+          python scripts/otc_report.py rss_trimmed.xml
+
+      # 5️⃣ (Optional) Commit the generated report back to the repo
+      - name: Commit report
+        if: success()                      # only on success
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name  "GitHub Action"
+          git add report.md
+          git commit -m "Auto-update OTC report ($(date -u +'%Y-%m-%d'))" || echo "No changes"
+          git push
