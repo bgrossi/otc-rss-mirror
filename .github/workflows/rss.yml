@@ -19,10 +19,26 @@ jobs:
       - name: Download OTC RSS feed
         run: |
           set -euo pipefail
-          curl -fsSL https://www.otcmarkets.com/syndicate/rss.xml \
-            -o rss.xml || \
-          curl -fsSL https://content.otcmarkets.com/syndicate/rss.xml \
-            -o rss.xml
+          fetch() {
+            local url="$1"
+            local outfile="$2"
+            # first try — strict TLS
+            if curl -fsSL "$url" -o "$outfile"; then
+              echo "Fetched $url ✅"
+              return 0
+            fi
+            rc=$?
+            # if TLS failed (60), retry once with --insecure
+            if [ "$rc" -eq 60 ]; then
+              echo "TLS verification failed for $url – retrying without cert check…" >&2
+              curl -fsSLk "$url" -o "$outfile"
+            else
+              return "$rc"
+            fi
+          }
+      
+          fetch https://www.otcmarkets.com/syndicate/rss.xml rss.xml || \
+          fetch https://content.otcmarkets.com/syndicate/rss.xml rss.xml
 
       # 3️⃣ Trim to first 250 <item>s but keep header intact
       - name: Trim feed to 250 items
