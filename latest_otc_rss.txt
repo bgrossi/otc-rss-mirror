@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 16:57:37 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 17:25:29 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,32 @@ OTC RSS mirror fetched: Mon Jun 23 16:57:37 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 12:46:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 13:06:06 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Imperial Brands PLC (IMBBY: OTCQX International) | Transaction in own shares]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483586]]></link>
+<pubDate>Mon, 23 Jun 2025 13:03:09 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/IMBBY/news?id=483586]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Imperial Brands PLC]]></category>
+<pink:symbol>IMBBY</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
+<item>
+<title><![CDATA[The Smarter Web Company PLC (TSWCF: OTCQB) | Direct Subscription and Change Of Registered Address]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483583]]></link>
+<pubDate>Mon, 23 Jun 2025 12:50:41 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/TSWCF/news?id=483583]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[The Smarter Web Company PLC]]></category>
+<pink:symbol>TSWCF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[Viskase Companies, Inc. (VKSC: Pink Limited) | Enzon and Viskase Merger Agreement]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/VKSC/news?id=483582]]></link>
@@ -582,30 +606,6 @@ OTC RSS mirror fetched: Mon Jun 23 16:57:37 UTC 2025
 <link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483461]]></link>
 <pubDate>Sun, 22 Jun 2025 20:41:50 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483461]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
-<pink:symbol>SREMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Application for quotation of securities - SRL]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483460]]></link>
-<pubDate>Sun, 22 Jun 2025 20:39:44 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483460]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
-<pink:symbol>SREMF</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Sunrise Energy Metals Ltd. (SREMF: OTCQX International) | Completion of Placement]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483459]]></link>
-<pubDate>Sun, 22 Jun 2025 20:26:33 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/SREMF/news?id=483459]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[Sunrise Energy Metals Ltd.]]></category>
 <pink:symbol>SREMF</pink:symbol>
