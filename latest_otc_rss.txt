@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 04:54:45 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 05:23:50 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,7 +11,7 @@ OTC RSS mirror fetched: Mon Jun 23 04:54:45 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 00:36:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 01:06:07 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
 <item>
 <title><![CDATA[Jindalee Lithium Ltd. (JNDAF: OTCQX International) | Application for quotation of securities - JLL]]></title>
@@ -864,6 +864,186 @@ OTC RSS mirror fetched: Mon Jun 23 04:54:45 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Femto Technologies Inc. (FMTOF: Pink Current) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FMTOF&actionDate=1750654862000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMTOF/company-info">Femto Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/FMTOF">FMTOF</a>: OTC Link) - Venue Change - The symbol, FMTOF, no longer trades on Nasdaq.  As of Mon, Jun 23, 2025, FMTOF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FMTOF&actionDate=1750654862000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Femto Technologies Inc.]]></category>
+<pink:symbol>FMTOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Femto Technologies Inc. (FMTO: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FMTO&actionDate=1750654862000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMTOF/company-info">Femto Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/FMTOF">FMTO</a>: Pink Current) - Symbol Change - The symbol, FMTO, is no longer a valid symbol for Femto Technologies Inc..  As of Mon, Jun 23, 2025, the new trading symbol is FMTOF. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=FMTO&actionDate=1750654862000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Femto Technologies Inc.]]></category>
+<pink:symbol>FMTOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aquiva Group Inc. (BHPAD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BHPAD&actionDate=1750654846000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/AQIA/company-info">Aquiva Group Inc.</a> (<a href="http://www.otcmarkets.com/stock/AQIA">BHPAD</a>: Pink Current) - Symbol Change - The symbol, BHPAD, is no longer a valid symbol for Aquiva Group Inc..  As of Mon, Jun 23, 2025, the new trading symbol is AQIA. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:46 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=BHPAD&actionDate=1750654846000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aquiva Group Inc.]]></category>
+<pink:symbol>AQIA</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Zhengduozhe Technology, Inc (KASTD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KASTD&actionDate=1750654824000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ZDZT/company-info">Zhengduozhe Technology, Inc</a> (<a href="http://www.otcmarkets.com/stock/ZDZT">KASTD</a>: Pink Current) - Symbol Change - The symbol, KASTD, is no longer a valid symbol for Zhengduozhe Technology, Inc.  As of Mon, Jun 23, 2025, the new trading symbol is ZDZT. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KASTD&actionDate=1750654824000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Zhengduozhe Technology, Inc]]></category>
+<pink:symbol>ZDZT</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GOLKOR INC. (KATXD: Pink Current) | Symbol Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATXD&actionDate=1750654819000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GKOR/company-info">GOLKOR INC.</a> (<a href="http://www.otcmarkets.com/stock/GKOR">KATXD</a>: Pink Current) - Symbol Change - The symbol, KATXD, is no longer a valid symbol for GOLKOR INC..  As of Mon, Jun 23, 2025, the new trading symbol is GKOR. You may find a complete list of symbol changes at <a href="http://www.otcmarkets.com/market-activity/symbol-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:19 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=1&symbol=KATXD&actionDate=1750654819000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GOLKOR INC.]]></category>
+<pink:symbol>GKOR</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[VERSES AI INC. (VRSSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VRSSF&actionDate=1750654865000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - VERSES AI INC. (VRSSF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, VRSSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=VRSSF&actionDate=1750654865000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[VERSES AI INC.]]></category>
+<pink:symbol>VRSSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACU: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUACU&actionDate=1750654865000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - ShoulderUp Technology Acquisition Corp. (SUACU: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, SUACU is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:05 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUACU&actionDate=1750654865000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACU</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Willow Biosciences Inc. (CANSF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CANSF&actionDate=1750654864000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - Willow Biosciences Inc. (CANSF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, CANSF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CANSF&actionDate=1750654864000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Willow Biosciences Inc.]]></category>
+<pink:symbol>CANSF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Asanuma Corp. (AGMCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AGMCF&actionDate=1750654864000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - Asanuma Corp. (AGMCF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, AGMCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:04 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AGMCF&actionDate=1750654864000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Asanuma Corp.]]></category>
+<pink:symbol>AGMCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUACW: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUACW&actionDate=1750654862000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - ShoulderUp Technology Acquisition Corp. (SUACW: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, SUACW is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:02 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUACW&actionDate=1750654862000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUACW</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[ShoulderUp Technology Acquisition Corp. (SUAC: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUAC&actionDate=1750654861000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - ShoulderUp Technology Acquisition Corp. (SUAC: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, SUAC is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:01 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SUAC&actionDate=1750654861000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[ShoulderUp Technology Acquisition Corp.]]></category>
+<pink:symbol>SUAC</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Renewi PLC (SHMCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHMCF&actionDate=1750654860000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - Renewi PLC (SHMCF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, SHMCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:01:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SHMCF&actionDate=1750654860000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Renewi PLC]]></category>
+<pink:symbol>SHMCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[SCIENCE IN SPORT PLC. (SISPF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SISPF&actionDate=1750654859000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - SCIENCE IN SPORT PLC. (SISPF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, SISPF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=SISPF&actionDate=1750654859000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[SCIENCE IN SPORT PLC.]]></category>
+<pink:symbol>SISPF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Alice Queen Ltd. (AQXNF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AQXNF&actionDate=1750654850000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - Alice Queen Ltd. (AQXNF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, AQXNF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:50 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=AQXNF&actionDate=1750654850000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Alice Queen Ltd.]]></category>
+<pink:symbol>AQXNF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Contel Technology Co Ltd. (CNTCF: OTC Link) | Deleted Symbol]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CNTCF&actionDate=1750654849000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - Contel Technology Co Ltd. (CNTCF: OTC Link) - Deleted Symbol - As of Mon, Jun 23, 2025, CNTCF is no longer a valid symbol. You may find a complete list of deleted symbols at <a href="http://www.otcmarkets.com/market-activity/deleted-symbols">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 01:00:49 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=5&symbol=CNTCF&actionDate=1750654849000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Contel Technology Co Ltd.]]></category>
+<pink:symbol>CNTCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTC Link]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tianjin Port Development Holdings, Ltd. (TJIPY: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=170780]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/TJIPY/company-info">Tianjin Port Development Holdings, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TJIPY">TJIPY</a>: Pink Current) - Ex-Dividend -  As of Mon, Jun 23, 2025, Tianjin Port Development Holdings, Ltd. traded ex-dividend. Tianjin Port Development Holdings, Ltd. will disburse a Cash Dividend dividend of $0.36398 to shareholders of TJIPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1102,6 +1282,54 @@ OTC RSS mirror fetched: Mon Jun 23 04:54:45 UTC 2025
 <pink:symbol>PHDWY</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Torex Gold Resources Inc. (TORXF: OTCQX International) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TORXF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TORXF/company-info">Torex Gold Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/TORXF">TORXF</a>: OTCQX International) - Tier Change - The symbol, TORXF, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, TORXF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TORXF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Torex Gold Resources Inc.]]></category>
+<pink:symbol>TORXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTELLABRIDGE TECHNOLOGY CORP. (KASHF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/KASHF/company-info">INTELLABRIDGE TECHNOLOGY CORP.</a> (<a href="http://www.otcmarkets.com/stock/KASHF">KASHF</a>: OTCQB) - Tier Change - The symbol, KASHF, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, KASHF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=KASHF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTELLABRIDGE TECHNOLOGY CORP.]]></category>
+<pink:symbol>KASHF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Selectis Health,Inc. (GBCS: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBCS&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBCS/company-info">Selectis Health,Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBCS">GBCS</a>: OTCQB) - Tier Change - The symbol, GBCS, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, GBCS resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBCS&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Selectis Health,Inc.]]></category>
+<pink:symbol>GBCS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Erdene Resource Development Corp. (ERDCF: OTCQB) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ERDCF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ERDCF/company-info">Erdene Resource Development Corp.</a> (<a href="http://www.otcmarkets.com/stock/ERDCF">ERDCF</a>: OTCQB) - Tier Change - The symbol, ERDCF, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, ERDCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ERDCF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Erdene Resource Development Corp.]]></category>
+<pink:symbol>ERDCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 </channel>
 </rss>
