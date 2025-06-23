@@ -1,4 +1,4 @@
-OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
+OTC RSS mirror fetched: Mon Jun 23 07:28:44 UTC 2025
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:pink="http://xml.otcmarkets.com/ns/rss/1.0">
 <channel>
@@ -11,8 +11,20 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 </image>
 <description><![CDATA[OTC Markets Group Inc. - RSS Feed]]></description>
 <copyright>Copyright 2025 - OTC Markets Group Inc.</copyright>
-<lastBuildDate>Mon, 23 Jun 2025 02:36:07 EDT</lastBuildDate>
+<lastBuildDate>Mon, 23 Jun 2025 03:07:22 EDT</lastBuildDate>
 <docs><![CDATA[http://www.rssboard.org/rss-specification]]></docs>
+<item>
+<title><![CDATA[Lexington Gold Ltd. (LEXLF: OTCQB) | Financial Results Year ended 31 December 2024]]></title>
+<link><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=483474]]></link>
+<pubDate>Mon, 23 Jun 2025 02:53:59 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/LEXLF/news?id=483474]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Lexington Gold Ltd.]]></category>
+<pink:symbol>LEXLF</pink:symbol>
+<pink:type>news</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:source><![CDATA[OTCM]]></pink:source>
+</item>
 <item>
 <title><![CDATA[MOTOMOVA INC. (MTMV: Pink Current) | New Purchase Agreement of the Company shares]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/MTMV/news?id=483471]]></link>
@@ -386,7 +398,7 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
-<title><![CDATA[Everything Blockchain, Inc. (EBZT: Pink Current) | Everything Blockchain Plans $10M Strategic Acquisition of SOL, XRP, SUI, TAO & HYPE — Front Running Wall Street]]></title>
+<title><![CDATA[Everything Blockchain, Inc. (EBZT: Pink Limited) | Everything Blockchain Plans $10M Strategic Acquisition of SOL, XRP, SUI, TAO & HYPE — Front Running Wall Street]]></title>
 <link><![CDATA[http://www.otcmarkets.com/stock/EBZT/news?id=483358]]></link>
 <pubDate>Fri, 20 Jun 2025 08:08:02 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/EBZT/news?id=483358]]></guid>
@@ -394,7 +406,7 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <category><![CDATA[Everything Blockchain, Inc.]]></category>
 <pink:symbol>EBZT</pink:symbol>
 <pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -599,18 +611,6 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:symbol>ORXOY</pink:symbol>
 <pink:type>news</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
-<pink:source><![CDATA[OTCM]]></pink:source>
-</item>
-<item>
-<title><![CDATA[Green Rain Energy Holdings Inc. (NWPND: Pink Current) | Green Rain Energy Holdings (OTC:NWPND) Subsidiary, Green Rain Solar Inc., Targets Southwest Expansion with EV Charging and Community Solar Initiatives]]></title>
-<link><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=483267]]></link>
-<pubDate>Thu, 19 Jun 2025 02:15:38 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/stock/NWPND/news?id=483267]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Green Rain Energy Holdings Inc.]]></category>
-<pink:symbol>NWPND</pink:symbol>
-<pink:type>news</pink:type>
-<pink:tier><![CDATA[Pink Current]]></pink:tier>
 <pink:source><![CDATA[OTCM]]></pink:source>
 </item>
 <item>
@@ -864,6 +864,42 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[HECKLER & KOCH BETEILIGUNGS AG (MLHKF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MLHKF&actionDate=1750661666000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MLHKF/company-info">HECKLER & KOCH BETEILIGUNGS AG</a> (<a href="http://www.otcmarkets.com/stock/MLHKF">MLHKF</a>: OTC Link) - Venue Change - The symbol, MLHKF, no longer trades on Grey Market.  As of Mon, Jun 23, 2025, MLHKF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 02:54:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=MLHKF&actionDate=1750661666000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HECKLER & KOCH BETEILIGUNGS AG]]></category>
+<pink:symbol>MLHKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTEGRAL CORP. (ITEGF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITEGF&actionDate=1750661666000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITEGF/company-info">INTEGRAL CORP.</a> (<a href="http://www.otcmarkets.com/stock/ITEGF">ITEGF</a>: OTC Link) - Venue Change - The symbol, ITEGF, no longer trades on Grey Market.  As of Mon, Jun 23, 2025, ITEGF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 02:54:26 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=ITEGF&actionDate=1750661666000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTEGRAL CORP.]]></category>
+<pink:symbol>ITEGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Haad Thip Public Company Limited (HTPCF: Pink Limited) | Venue Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HTPCF&actionDate=1750661664000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HTPCF/company-info">Haad Thip Public Company Limited</a> (<a href="http://www.otcmarkets.com/stock/HTPCF">HTPCF</a>: OTC Link) - Venue Change - The symbol, HTPCF, no longer trades on Grey Market.  As of Mon, Jun 23, 2025, HTPCF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 02:54:24 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=HTPCF&actionDate=1750661664000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Haad Thip Public Company Limited]]></category>
+<pink:symbol>HTPCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Femto Technologies Inc. (FMTOF: Pink Current) | Venue Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=0&symbol=FMTOF&actionDate=1750654862000]]></link>
 <description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMTOF/company-info">Femto Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/FMTOF">FMTOF</a>: OTC Link) - Venue Change - The symbol, FMTOF, no longer trades on Nasdaq.  As of Mon, Jun 23, 2025, FMTOF trades on OTC Link. You may find a complete list of venue changes at <a href="http://www.otcmarkets.com/market-activity/venue-changes">otcmarkets.com</a>.]]></description>
@@ -1092,6 +1128,126 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:tier><![CDATA[OTC Link]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[Sohgo Security Services Co Ltd. (SOHGY: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SOHGY&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOHGY/company-info">Sohgo Security Services Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SOHGY">SOHGY</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, SOHGY is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SOHGY&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sohgo Security Services Co Ltd.]]></category>
+<pink:symbol>SOHGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sohgo Security Services Co Ltd. (SOHGF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SOHGF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOHGF/company-info">Sohgo Security Services Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SOHGF">SOHGF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, SOHGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SOHGF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sohgo Security Services Co Ltd.]]></category>
+<pink:symbol>SOHGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Seabird Exploration Ltd. (SBDXF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SBDXF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SBDXF/company-info">Seabird Exploration Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SBDXF">SBDXF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, SBDXF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=SBDXF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Seabird Exploration Ltd.]]></category>
+<pink:symbol>SBDXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HECKLER & KOCH BETEILIGUNGS AG (MLHKF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MLHKF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MLHKF/company-info">HECKLER & KOCH BETEILIGUNGS AG</a> (<a href="http://www.otcmarkets.com/stock/MLHKF">MLHKF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, MLHKF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=MLHKF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HECKLER & KOCH BETEILIGUNGS AG]]></category>
+<pink:symbol>MLHKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[INTEGRAL CORP. (ITEGF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITEGF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITEGF/company-info">INTEGRAL CORP.</a> (<a href="http://www.otcmarkets.com/stock/ITEGF">ITEGF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, ITEGF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ITEGF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[INTEGRAL CORP.]]></category>
+<pink:symbol>ITEGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Haad Thip Public Company Limited (HTPCF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HTPCF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/HTPCF/company-info">Haad Thip Public Company Limited</a> (<a href="http://www.otcmarkets.com/stock/HTPCF">HTPCF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, HTPCF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=HTPCF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Haad Thip Public Company Limited]]></category>
+<pink:symbol>HTPCF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[GRUPO ROTOPLAS S A B (GRPRF: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRPRF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GRPRF/company-info">GRUPO ROTOPLAS S A B</a> (<a href="http://www.otcmarkets.com/stock/GRPRF">GRPRF</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, GRPRF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GRPRF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[GRUPO ROTOPLAS S A B]]></category>
+<pink:symbol>GRPRF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Selectis Health,Inc. (GBCS: OTCQB) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GBCS&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBCS/company-info">Selectis Health,Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBCS">GBCS</a>: OTCQB) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, GBCS is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=GBCS&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Selectis Health,Inc.]]></category>
+<pink:symbol>GBCS</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[OTCQB]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Femto Technologies Inc. (FMTOF: Pink Current) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FMTOF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/FMTOF/company-info">Femto Technologies Inc.</a> (<a href="http://www.otcmarkets.com/stock/FMTOF">FMTOF</a>: Pink Current) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, FMTOF is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=FMTOF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Femto Technologies Inc.]]></category>
+<pink:symbol>FMTOF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Aena SME S.A. (ANNSD: Pink Limited) | Piggyback Qualified]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ANNSD&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ANNSD/company-info">Aena SME S.A.</a> (<a href="http://www.otcmarkets.com/stock/ANNSD">ANNSD</a>: Pink Limited) - Piggyback Qualified -  Effective Mon, Jun 23, 2025, ANNSD is designated with the status of piggyback qualified. Piggyback qualification allows market participants, in addition to the original 211 form filer, to quote the respective security. You may find a complete list of piggyback qualifications at <a href="http://www.otcmarkets.com/market-activity/piggyback-qualified">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=7&symbol=ANNSD&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Aena SME S.A.]]></category>
+<pink:symbol>ANNSD</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Tianjin Port Development Holdings, Ltd. (TJIPY: Pink Current) | Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=9&id=170780]]></link>
 <description><![CDATA[Fri, Jun 20, 2025 08:00 - <a href="http://www.otcmarkets.com/stock/TJIPY/company-info">Tianjin Port Development Holdings, Ltd.</a> (<a href="http://www.otcmarkets.com/stock/TJIPY">TJIPY</a>: Pink Current) - Ex-Dividend -  As of Mon, Jun 23, 2025, Tianjin Port Development Holdings, Ltd. traded ex-dividend. Tianjin Port Development Holdings, Ltd. will disburse a Cash Dividend dividend of $0.36398 to shareholders of TJIPY. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/ex-dividends">otcmarkets.com</a>.]]></description>
@@ -1284,16 +1440,16 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[AMEN Properties, Inc. (AMEN: Pink Limited) | Scheduled Ex-Dividend]]></title>
+<title><![CDATA[AMEN Properties, Inc. (AMEN: Pink Current) | Scheduled Ex-Dividend]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286360]]></link>
-<description><![CDATA[Fri, Jun 20, 2025 03:12 - <a href="http://www.otcmarkets.com/stock/AMEN/company-info">AMEN Properties, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AMEN">AMEN</a>: Pink Limited) - Scheduled Ex-Dividend - AMEN Properties, Inc. has announced a dividend ex-date for (AMEN: Pink Limited). AMEN Properties, Inc. is scheduled to disburse a Cash Dividend dividend of $10 on Mon, Jun 30, 2025 to shareholders of AMEN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
+<description><![CDATA[Fri, Jun 20, 2025 03:12 - <a href="http://www.otcmarkets.com/stock/AMEN/company-info">AMEN Properties, Inc.</a> (<a href="http://www.otcmarkets.com/stock/AMEN">AMEN</a>: Pink Current) - Scheduled Ex-Dividend - AMEN Properties, Inc. has announced a dividend ex-date for (AMEN: Pink Current). AMEN Properties, Inc. is scheduled to disburse a Cash Dividend dividend of $10 on Mon, Jun 30, 2025 to shareholders of AMEN. You may find a complete list of dividends at <a href="http://www.otcmarkets.com/market-activity/scheduled-ex-dividends">otcmarkets.com</a>.]]></description>
 <pubDate>Fri, 20 Jun 2025 15:12:41 EDT</pubDate>
 <guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=10&id=286360]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
 <category><![CDATA[AMEN Properties, Inc.]]></category>
 <pink:symbol>AMEN</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[LianBio (LIANY: Pink Limited) | Scheduled Ex-Dividend]]></title>
@@ -1332,6 +1488,18 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
+<title><![CDATA[TGI Solar Power Group, Inc. (TSPG: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSPG&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TSPG/company-info">TGI Solar Power Group, Inc.</a> (<a href="http://www.otcmarkets.com/stock/TSPG">TSPG</a>: Pink Limited) - Tier Change - The symbol, TSPG, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, TSPG resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TSPG&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[TGI Solar Power Group, Inc.]]></category>
+<pink:symbol>TSPG</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
 <title><![CDATA[Torex Gold Resources Inc. (TORXF: OTCQX International) | Tier Change]]></title>
 <link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=TORXF&actionDate=1750651200000]]></link>
 <description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/TORXF/company-info">Torex Gold Resources Inc.</a> (<a href="http://www.otcmarkets.com/stock/TORXF">TORXF</a>: OTCQX International) - Tier Change - The symbol, TORXF, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, TORXF resides in the OTCQX International tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
@@ -1342,6 +1510,78 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:symbol>TORXF</pink:symbol>
 <pink:type>action</pink:type>
 <pink:tier><![CDATA[OTCQX International]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sohgo Security Services Co Ltd. (SOHGY: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOHGY&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOHGY/company-info">Sohgo Security Services Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SOHGY">SOHGY</a>: Pink Limited) - Tier Change - The symbol, SOHGY, no longer is classified as Expert Market.  As of Mon, Jun 23, 2025, SOHGY resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOHGY&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sohgo Security Services Co Ltd.]]></category>
+<pink:symbol>SOHGY</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Sohgo Security Services Co Ltd. (SOHGF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOHGF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SOHGF/company-info">Sohgo Security Services Co Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SOHGF">SOHGF</a>: Pink Limited) - Tier Change - The symbol, SOHGF, no longer is classified as Expert Market.  As of Mon, Jun 23, 2025, SOHGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SOHGF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Sohgo Security Services Co Ltd.]]></category>
+<pink:symbol>SOHGF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Seabird Exploration Ltd. (SBDXF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SBDXF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SBDXF/company-info">Seabird Exploration Ltd.</a> (<a href="http://www.otcmarkets.com/stock/SBDXF">SBDXF</a>: Pink Limited) - Tier Change - The symbol, SBDXF, no longer is classified as Expert Market.  As of Mon, Jun 23, 2025, SBDXF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SBDXF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Seabird Exploration Ltd.]]></category>
+<pink:symbol>SBDXF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Seven Arts Entertainment, Inc. (SAPX: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAPX&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/SAPX/company-info">Seven Arts Entertainment, Inc.</a> (<a href="http://www.otcmarkets.com/stock/SAPX">SAPX</a>: Pink Current) - Tier Change - The symbol, SAPX, no longer is classified as Pink Limited.  As of Mon, Jun 23, 2025, SAPX resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=SAPX&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Seven Arts Entertainment, Inc.]]></category>
+<pink:symbol>SAPX</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[Quantumzyme Corp. (QTZM: Pink Current) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTZM&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/QTZM/company-info">Quantumzyme Corp.</a> (<a href="http://www.otcmarkets.com/stock/QTZM">QTZM</a>: Pink Current) - Tier Change - The symbol, QTZM, no longer is classified as Expert Market.  As of Mon, Jun 23, 2025, QTZM resides in the Pink Current tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=QTZM&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[Quantumzyme Corp.]]></category>
+<pink:symbol>QTZM</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Current]]></pink:tier>
+</item>
+<item>
+<title><![CDATA[HECKLER & KOCH BETEILIGUNGS AG (MLHKF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MLHKF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/MLHKF/company-info">HECKLER & KOCH BETEILIGUNGS AG</a> (<a href="http://www.otcmarkets.com/stock/MLHKF">MLHKF</a>: Pink Limited) - Tier Change - The symbol, MLHKF, no longer is classified as Grey Market.  As of Mon, Jun 23, 2025, MLHKF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=MLHKF&actionDate=1750651200000]]></guid>
+<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
+<category><![CDATA[HECKLER & KOCH BETEILIGUNGS AG]]></category>
+<pink:symbol>MLHKF</pink:symbol>
+<pink:type>action</pink:type>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 <item>
 <title><![CDATA[INTELLABRIDGE TECHNOLOGY CORP. (KASHF: OTCQB) | Tier Change]]></title>
@@ -1356,28 +1596,16 @@ OTC RSS mirror fetched: Mon Jun 23 06:59:18 UTC 2025
 <pink:tier><![CDATA[OTCQB]]></pink:tier>
 </item>
 <item>
-<title><![CDATA[Selectis Health,Inc. (GBCS: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBCS&actionDate=1750651200000]]></link>
-<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/GBCS/company-info">Selectis Health,Inc.</a> (<a href="http://www.otcmarkets.com/stock/GBCS">GBCS</a>: OTCQB) - Tier Change - The symbol, GBCS, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, GBCS resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
+<title><![CDATA[INTEGRAL CORP. (ITEGF: Pink Limited) | Tier Change]]></title>
+<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITEGF&actionDate=1750651200000]]></link>
+<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ITEGF/company-info">INTEGRAL CORP.</a> (<a href="http://www.otcmarkets.com/stock/ITEGF">ITEGF</a>: Pink Limited) - Tier Change - The symbol, ITEGF, no longer is classified as Grey Market.  As of Mon, Jun 23, 2025, ITEGF resides in the Pink Limited tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
 <pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=GBCS&actionDate=1750651200000]]></guid>
+<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ITEGF&actionDate=1750651200000]]></guid>
 <author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Selectis Health,Inc.]]></category>
-<pink:symbol>GBCS</pink:symbol>
+<category><![CDATA[INTEGRAL CORP.]]></category>
+<pink:symbol>ITEGF</pink:symbol>
 <pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
-</item>
-<item>
-<title><![CDATA[Erdene Resource Development Corp. (ERDCF: OTCQB) | Tier Change]]></title>
-<link><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ERDCF&actionDate=1750651200000]]></link>
-<description><![CDATA[Mon, Jun 23, 2025 12:00 - <a href="http://www.otcmarkets.com/stock/ERDCF/company-info">Erdene Resource Development Corp.</a> (<a href="http://www.otcmarkets.com/stock/ERDCF">ERDCF</a>: OTCQB) - Tier Change - The symbol, ERDCF, no longer is classified as Pink Current.  As of Mon, Jun 23, 2025, ERDCF resides in the OTCQB tier. You may find a complete list of tier changes at <a href="http://www.otcmarkets.com/market-activity/otc-tier-changes">otcmarkets.com</a>.]]></description>
-<pubDate>Mon, 23 Jun 2025 00:00:00 EDT</pubDate>
-<guid isPermaLink="false"><![CDATA[http://www.otcmarkets.com/market-activity/corpActions.jsp?index=11&symbol=ERDCF&actionDate=1750651200000]]></guid>
-<author><![CDATA[OTC Markets Group - News, Filings & Corporate Actions]]></author>
-<category><![CDATA[Erdene Resource Development Corp.]]></category>
-<pink:symbol>ERDCF</pink:symbol>
-<pink:type>action</pink:type>
-<pink:tier><![CDATA[OTCQB]]></pink:tier>
+<pink:tier><![CDATA[Pink Limited]]></pink:tier>
 </item>
 </channel>
 </rss>
