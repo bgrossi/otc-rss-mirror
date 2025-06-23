@@ -2,7 +2,7 @@ name: OTC RSS mirror (lite)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1 ─ Check out repo
       - uses: actions/checkout@v3
 
-      # 2 ─ Fetch RSS (primary, then fallback)
-      - name: Fetch RSS
+      - name: Fetch RSS feed
         shell: bash
         run: |
           set -e
@@ -29,30 +27,37 @@ jobs:
                https://content.otcmarkets.com/syndicate/rss.xml
           test -s rss_full.xml
 
-      # 3 ─ Trim to 250 <item> blocks
-      - name: Trim to latest 250 items
+      - name: Trim, wrap, and add XML wrappers
         shell: bash
         run: |
           awk '
             /<item>/ {c++}
             c<=250   {print}
             /<\/item>/ && c==250 {exit}
-          ' rss_full.xml > rss_trimmed.xml
+          ' rss_full.xml > items.xml
 
-      # 4 ─ Validate XML with Python (std‑lib only)
-      - name: Validate trimmed XML
+          {
+            echo '<?xml version="1.0" encoding="UTF-8"?>'
+            echo '<rss version="2.0"><channel>'
+            cat items.xml
+            echo '</channel></rss>'
+          } > rss_full_valid.xml
+
+          mv rss_full_valid.xml rss_trimmed.xml
+
+      - name: Validate well‑formed XML
         shell: bash
         run: |
           python - <<'PY'
-          import xml.etree.ElementTree as ET, sys
-          try:
-              ET.parse("rss_trimmed.xml")
-          except ET.ParseError as e:
-              sys.exit(f"XML malformed: {e}")
-          PY
+import xml.etree.ElementTree as ET, sys
+try:
+    ET.parse("rss_trimmed.xml")
+except ET.ParseError as e:
+    print("XML malformed:", e)
+    sys.exit(1)
+PY
 
-      # 5 ─ Assemble final file
-      - name: Assemble latest_otc_rss.txt
+      - name: Build mirror file
         shell: bash
         run: |
           {
@@ -60,14 +65,13 @@ jobs:
             cat rss_trimmed.xml
           } > latest_otc_rss.txt
 
-      # 6 ─ Commit & push only if file changed
-      - name: Commit & push
+      - name: Commit & push if changed
+        shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        shell: bash
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git add latest_otc_rss.txt
           if ! git diff --cached --quiet; then
             git commit -m "chore: update trimmed RSS [skip ci]"
