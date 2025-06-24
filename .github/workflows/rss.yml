@@ -1,79 +1,69 @@
-name: OTC-Positive News
+# .github/workflows/rss.yml  (complete, ready to paste)
 
+name: OTC-Positive-Impact-Report
 on:
-  # 09:00 ET on US trading days (Mon-Fri)
+  workflow_dispatch:        # allow manual trigger
   schedule:
-    - cron: '0 13 * * 1-5'
-  # enables manual “Run workflow” button
-  workflow_dispatch:
+    - cron: '0 13 * * 1-5'  # 09:00 ET (13:00 UTC) on trading days
 
 jobs:
-  report:
+  build:
     runs-on: ubuntu-latest
-
-    env:
-      TZ: America/New_York      # guarantee ET timestamps
-
+    defaults:
+      run:
+        shell: bash
     steps:
-    # ------------------------------------------------
-    # 0) Checkout repo
-    # ------------------------------------------------
-    - uses: actions/checkout@v4
-
-    # ------------------------------------------------
-    # 1) Tools we need
-    # ------------------------------------------------
-    - name: Install XML & helper utilities
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y libxml2-utils jq
-
-    # ------------------------------------------------
-    # 2) Download RSS feed (handles TLS-60 fallback)
-    # ------------------------------------------------
+    # 1) ----------  Fetch the latest RSS -------------------------------------------------
     - name: Fetch OTC RSS feed
-      id: fetch
+      id: fetchrss
       run: |
         set -euo pipefail
-
-        # Helper that retries & handles TLS error-60 once with -k
-        fetch() {
-          local url="$1" tmp="$(mktemp)"
-          echo "→ Trying $url"
-          if curl -fsSL --retry 3 --retry-delay 2 "$url" -o "$tmp"; then
-            echo "$tmp"; return 0
+        fetch() {                              # $1 = url
+          echo "::group::Fetching $1"
+          if curl --http1.1 -sSL --retry 3 --retry-delay 4 \
+              --connect-timeout 15 "$1" -o feed.xml ; then
+            if [ -s feed.xml ] && grep -q '<item>' feed.xml ; then
+              echo "✅  Got feed from $1"
+              echo "::endgroup::"
+              return 0
+            fi
           fi
-          rc=$?
-          if [ "$rc" -eq 60 ]; then
-            echo "TLS error 60 – retrying insecurely…" >&2
-            curl -fsSLk --retry 3 --retry-delay 2 "$url" -o "$tmp"
-            echo "$tmp"; return 0
-          fi
-          return "$rc"
+          echo "⚠️  Feed empty or bad from $1"
+          echo "::endgroup::"
+          return 1
         }
 
-        # Primary then mirror
-        FILE="$(fetch https://www.otcmarkets.com/syndicate/rss.xml || \
-                 fetch https://content.otcmarkets.com/syndicate/rss.xml)"
+        fetch "https://www.otcmarkets.com/syndicate/rss.xml" ||
+        fetch "https://content.otcmarkets.com/syndicate/rss.xml"
 
-        # Sanity: non-empty & well-formed XML
-        [ -s "$FILE" ]           || { echo "Download empty"; exit 1; }
-        xmllint --noout "$FILE"  || { echo "RSS not valid XML"; exit 1; }
-
-        mv "$FILE" rss.xml
-        echo "rss_path=rss.xml" >> "$GITHUB_OUTPUT"
-
-    # ------------------------------------------------
-    # 3) (optional) keep first 250 items
-    # ------------------------------------------------
-    - name: Trim feed to 250 items
+    # 2) ----------  Trim to first 250 items (keeps header) -------------------------------
+    - name: Trim feed (first 250 <item> nodes)
       run: |
-        awk 'BEGIN{n=0} /<item>/{n++} n<=250{print}' \
-          "${{ steps.fetch.outputs.rss_path }}" > feed.xml
+        awk '
+          BEGIN {c=0}
+          /<item>/ {c++}
+          {print}
+          c==250 {print "</channel></rss>"; exit}
+        ' feed.xml > feed_250.xml
 
-    # ------------------------------------------------
-    # 4) Run your report-generator script
-    # ------------------------------------------------
+    # 3) ----------  Set up Python environment -------------------------------------------
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install deps
+      run: |
+        python -m pip install --upgrade pip
+        pip install yfinance feedparser pandas tabulate
+
+    # 4) ----------  Generate the report -------------------------------------------------
     - name: Generate OTC report
       run: |
-        python scripts/generate_otc_report.py feed.xml
+        python scripts/generate_otc_report.py feed_250.xml > report.md
+
+    # 5) ----------  Dump report to job summary ------------------------------------------
+    - name: Publish report
+      run: |
+        echo "### OTC Positive-Impact News Report $(date -u '+%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+        cat report.md >> $GITHUB_STEP_SUMMARY
