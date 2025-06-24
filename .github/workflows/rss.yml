@@ -1,68 +1,75 @@
-name: OTC Positive-Impact Report
+name: OTC-Positive News
 
 on:
-  # manual trigger
-  workflow_dispatch:
-  # 09:00 ET on trading days (≈ 13:00 UTC; adjust for DST if needed)
   schedule:
-    - cron: '0 13 * * 1-5'
+    - cron: '0 13 * * 1-5'     # 09:00 ET on US trading days
+  workflow_dispatch:
 
 jobs:
-  otc-report:
+  report:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
 
     steps:
-      # 1️⃣ Checkout repository (needed if you commit results)
-      - uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      # 2️⃣ Fetch the RSS (primary → fallback)
-      - name: Download OTC RSS feed
-        run: |
-          set -euo pipefail
-          fetch() {
-            local url="$1"
-            local outfile="$2"
-            # first try — strict TLS
-            if curl -fsSL "$url" -o "$outfile"; then
-              echo "Fetched $url ✅"
-              return 0
-            fi
-            rc=$?
-            # if TLS failed (60), retry once with --insecure
-            if [ "$rc" -eq 60 ]; then
-              echo "TLS verification failed for $url – retrying without cert check…" >&2
-              curl -fsSLk "$url" -o "$outfile"
-            else
-              return "$rc"
-            fi
-          }
-      
-          fetch https://www.otcmarkets.com/syndicate/rss.xml rss.xml || \
-          fetch https://content.otcmarkets.com/syndicate/rss.xml rss.xml
+    # ------------------------------------------------------------
+    # 1) Tools we need (xmllint + jq for later parsing, curl already there)
+    # ------------------------------------------------------------
+    - name: Install xml utilities
+      run: sudo apt-get update && sudo apt-get install -y libxml2-utils jq
 
-      # 3️⃣ Trim to first 250 <item>s but keep header intact
-      - name: Trim feed to 250 items
-        run: |
-          awk 'BEGIN{n=0}
-               /<item>/{n++}
-               {print}
-               n==250 && /<\/item>/{exit}' rss.xml > rss_trimmed.xml
-          # ▶ Patch: always close the RSS properly so XML is valid
-          printf '</channel>\n</rss>\n' >> rss_trimmed.xml
+    # ------------------------------------------------------------
+    # 2) Download feed – retry smartly, fall back, and verify XML
+    # ------------------------------------------------------------
+    - name: Fetch OTC RSS feed
+      id: fetch
+      run: |
+        set -euo pipefail
 
-      # 4️⃣ Run the Python script that parses & posts the report
-      - name: Generate report
-        env:
-          YF_API_TOKEN: ${{ secrets.YF_API_TOKEN }}   # if your script needs it
-        run: |
-          python scripts/otc_report.py rss_trimmed.xml
+        fetch() {
+          local url="$1" out="$2" tmp="$(mktemp)"
+          echo "→ Trying $url"
+          # 1st attempt - strict TLS
+          if curl -fsSL --retry 3 --retry-delay 2 "$url" -o "$tmp"; then
+            echo "$tmp"
+            return 0
+          fi
+          rc=$?
+          # TLS cert hiccup → retry once with -k
+          if [ "$rc" -eq 60 ]; then
+            echo "TLS error 60 – retrying insecurely…" >&2
+            curl -fsSLk --retry 3 --retry-delay 2 "$url" -o "$tmp"
+          else
+            return "$rc"
+          fi
+          echo "$tmp"
+        }
 
-      # 5️⃣ (Optional) Commit the generated report back to the repo
-      - name: Commit report
-        if: success()                      # only on success
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name  "GitHub Action"
-          git add report.md
-          git commit -m "Auto-update OTC report ($(date -u +'%Y-%m-%d'))" || echo "No changes"
-          git push
+        # Try primary, then mirror
+        tmp_file="$(fetch https://www.otcmarkets.com/syndicate/rss.xml rss.xml || \
+                     fetch https://content.otcmarkets.com/syndicate/rss.xml rss.xml)"
+
+        # Sanity-check: non-empty & valid XML
+        if [ ! -s "$tmp_file" ]; then
+          echo "Downloaded file is empty – aborting."; exit 1; fi
+        if ! xmllint --noout "$tmp_file"; then
+          echo "RSS is not well-formed XML – aborting."; exit 1; fi
+
+        mv "$tmp_file" rss.xml
+        echo "rss_path=rss.xml" >> "$GITHUB_OUTPUT"
+
+    # ------------------------------------------------------------
+    # 3) (optional) keep only first 250 items – guards against 10 k-item feeds
+    # ------------------------------------------------------------
+    - name: Trim feed to 250 items
+      run: |
+        awk 'BEGIN{n=0} /<item>/{n++} n<=250{print}' "${{ steps.fetch.outputs.rss_path }}" > feed.xml
+
+    # ------------------------------------------------------------
+    # 4) Generate & post your table      (replace with your real script)
+    # ------------------------------------------------------------
+    - name: Generate OTC report
+      run: |
+        python scripts/generate_otc_report.py feed.xml
