@@ -16,12 +16,19 @@ jobs:
     # 1) ----------  Fetch the latest RSS -------------------------------------------------
     - name: Fetch OTC RSS feed
       id: fetchrss
+      timeout-minutes: 3        # abort the whole step after 3 min
       run: |
         set -euo pipefail
-        fetch() {                              # $1 = url
+
+        fetch() {               # $1 = url
           echo "::group::Fetching $1"
-          if curl --http1.1 -sSL --retry 3 --retry-delay 4 \
-              --connect-timeout 15 "$1" -o feed.xml ; then
+          #   timeout 60s → kill curl after 60 s no matter what
+          #   --max-time 50 → curl gives up its transfer after 50 s
+          #   --connect-timeout 10 → fail quickly if TCP handshake stalls
+          if timeout 60s \
+               curl --http1.1 -fSL --retry 2 --retry-delay 4 \
+                    --connect-timeout 10 --max-time 50 \
+                    "$1" -o feed.xml ; then
             if [ -s feed.xml ] && grep -q '<item>' feed.xml ; then
               echo "✅  Got feed from $1"
               echo "::endgroup::"
@@ -32,7 +39,7 @@ jobs:
           echo "::endgroup::"
           return 1
         }
-
+  
         fetch "https://www.otcmarkets.com/syndicate/rss.xml" ||
         fetch "https://content.otcmarkets.com/syndicate/rss.xml"
 
