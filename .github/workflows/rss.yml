@@ -1,75 +1,79 @@
 name: OTC-Positive News
 
 on:
+  # 09:00 ET on US trading days (Mon-Fri)
   schedule:
-    - cron: '0 13 * * 1-5'     # 09:00 ET on US trading days
+    - cron: '0 13 * * 1-5'
+  # enables manual “Run workflow” button
   workflow_dispatch:
 
 jobs:
   report:
     runs-on: ubuntu-latest
+
     env:
-      TZ: America/New_York
+      TZ: America/New_York      # guarantee ET timestamps
 
     steps:
+    # ------------------------------------------------
+    # 0) Checkout repo
+    # ------------------------------------------------
     - uses: actions/checkout@v4
 
-    # ------------------------------------------------------------
-    # 1) Tools we need (xmllint + jq for later parsing, curl already there)
-    # ------------------------------------------------------------
-    - name: Install xml utilities
-      run: sudo apt-get update && sudo apt-get install -y libxml2-utils jq
+    # ------------------------------------------------
+    # 1) Tools we need
+    # ------------------------------------------------
+    - name: Install XML & helper utilities
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libxml2-utils jq
 
-    # ------------------------------------------------------------
-    # 2) Download feed – retry smartly, fall back, and verify XML
-    # ------------------------------------------------------------
+    # ------------------------------------------------
+    # 2) Download RSS feed (handles TLS-60 fallback)
+    # ------------------------------------------------
     - name: Fetch OTC RSS feed
       id: fetch
       run: |
         set -euo pipefail
 
+        # Helper that retries & handles TLS error-60 once with -k
         fetch() {
-          local url="$1" out="$2" tmp="$(mktemp)"
+          local url="$1" tmp="$(mktemp)"
           echo "→ Trying $url"
-          # 1st attempt - strict TLS
           if curl -fsSL --retry 3 --retry-delay 2 "$url" -o "$tmp"; then
-            echo "$tmp"
-            return 0
+            echo "$tmp"; return 0
           fi
           rc=$?
-          # TLS cert hiccup → retry once with -k
           if [ "$rc" -eq 60 ]; then
             echo "TLS error 60 – retrying insecurely…" >&2
             curl -fsSLk --retry 3 --retry-delay 2 "$url" -o "$tmp"
-          else
-            return "$rc"
+            echo "$tmp"; return 0
           fi
-          echo "$tmp"
+          return "$rc"
         }
 
-        # Try primary, then mirror
-        tmp_file="$(fetch https://www.otcmarkets.com/syndicate/rss.xml rss.xml || \
-                     fetch https://content.otcmarkets.com/syndicate/rss.xml rss.xml)"
+        # Primary then mirror
+        FILE="$(fetch https://www.otcmarkets.com/syndicate/rss.xml || \
+                 fetch https://content.otcmarkets.com/syndicate/rss.xml)"
 
-        # Sanity-check: non-empty & valid XML
-        if [ ! -s "$tmp_file" ]; then
-          echo "Downloaded file is empty – aborting."; exit 1; fi
-        if ! xmllint --noout "$tmp_file"; then
-          echo "RSS is not well-formed XML – aborting."; exit 1; fi
+        # Sanity: non-empty & well-formed XML
+        [ -s "$FILE" ]           || { echo "Download empty"; exit 1; }
+        xmllint --noout "$FILE"  || { echo "RSS not valid XML"; exit 1; }
 
-        mv "$tmp_file" rss.xml
+        mv "$FILE" rss.xml
         echo "rss_path=rss.xml" >> "$GITHUB_OUTPUT"
 
-    # ------------------------------------------------------------
-    # 3) (optional) keep only first 250 items – guards against 10 k-item feeds
-    # ------------------------------------------------------------
+    # ------------------------------------------------
+    # 3) (optional) keep first 250 items
+    # ------------------------------------------------
     - name: Trim feed to 250 items
       run: |
-        awk 'BEGIN{n=0} /<item>/{n++} n<=250{print}' "${{ steps.fetch.outputs.rss_path }}" > feed.xml
+        awk 'BEGIN{n=0} /<item>/{n++} n<=250{print}' \
+          "${{ steps.fetch.outputs.rss_path }}" > feed.xml
 
-    # ------------------------------------------------------------
-    # 4) Generate & post your table      (replace with your real script)
-    # ------------------------------------------------------------
+    # ------------------------------------------------
+    # 4) Run your report-generator script
+    # ------------------------------------------------
     - name: Generate OTC report
       run: |
         python scripts/generate_otc_report.py feed.xml
