@@ -23,7 +23,7 @@ jobs:
         run: pip install feedparser
 
       - name: Run script
-        run: .github/workflows/fetch_and_filter_rss.py
+        run: fetch_and_filter_rss.py
 
       - name: Commit & push (if the file changed)
         run: |
