@@ -1,76 +1,77 @@
-# .github/workflows/rss.yml  (complete, ready to paste)
+name: OTC RSS mirror (lite)
 
-name: OTC-Positive-Impact-Report
 on:
-  workflow_dispatch:        # allow manual trigger
   schedule:
-    - cron: '0 13 * * 1-5'  # 09:00 ET (13:00 UTC) on trading days
+    - cron: "*/15 * * * *"   # every 15 min
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
+
     steps:
-    # 1) ----------  Fetch the latest RSS -------------------------------------------------
-    - name: Fetch OTC RSS feed
-      id: fetchrss
-      timeout-minutes: 3        # abort the whole step after 3 min
-      run: |
-        set -euo pipefail
+      # 1 ─ Check out repo
+      - uses: actions/checkout@v3
 
-        fetch() {               # $1 = url
-          echo "::group::Fetching $1"
-          #   timeout 60s → kill curl after 60 s no matter what
-          #   --max-time 50 → curl gives up its transfer after 50 s
-          #   --connect-timeout 10 → fail quickly if TCP handshake stalls
-          if timeout 60s \
-               curl --http1.1 -fSL --retry 2 --retry-delay 4 \
-                    --connect-timeout 10 --max-time 50 \
-                    "$1" -o feed.xml ; then
-            if [ -s feed.xml ] && grep -q '<item>' feed.xml ; then
-              echo "✅  Got feed from $1"
-              echo "::endgroup::"
-              return 0
-            fi
+      # 2 ─ Fetch RSS (primary, then fallback)
+      - name: Fetch RSS
+        shell: bash
+        run: |
+          set -e
+          UA="Mozilla/5.0 ChatGPT-RSS-Mirror"
+          curl -sSL --http1.1 \
+               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://www.otcmarkets.com/syndicate/rss.xml || \
+          curl -sSLk --http1.1 \
+               --connect-timeout 10 --max-time 40 --retry 3 --retry-delay 5 \
+               -A "$UA" -o rss_full.xml \
+               https://content.otcmarkets.com/syndicate/rss.xml
+          test -s rss_full.xml
+
+      # 3 ─ Trim to 250 <item> blocks
+      - name: Trim to latest 250 items
+        shell: bash
+        run: |
+          awk '
+            /<item>/ {c++}
+            c<=250   {print}
+            /<\/item>/ && c==250 {exit}
+          ' rss_full.xml > rss_trimmed.xml
+
+      # 4 ─ Validate XML with Python (std‑lib only)
+      - name: Validate trimmed XML
+        shell: bash
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET, sys
+          try:
+              ET.parse("rss_trimmed.xml")
+          except ET.ParseError as e:
+              sys.exit(f"XML malformed: {e}")
+          PY
+
+      # 5 ─ Assemble final file
+      - name: Assemble latest_otc_rss.txt
+        shell: bash
+        run: |
+          {
+            echo "OTC RSS mirror fetched: $(date -u)"
+            cat rss_trimmed.xml
+          } > latest_otc_rss.txt
+
+      # 6 ─ Commit & push only if file changed
+      - name: Commit & push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add latest_otc_rss.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update trimmed RSS [skip ci]"
+            git push
+          else
+            echo "No change – skipping commit"
           fi
-          echo "⚠️  Feed empty or bad from $1"
-          echo "::endgroup::"
-          return 1
-        }
-  
-        fetch "https://www.otcmarkets.com/syndicate/rss.xml" ||
-        fetch "https://content.otcmarkets.com/syndicate/rss.xml"
-
-    # 2) ----------  Trim to first 250 items (keeps header) -------------------------------
-    - name: Trim feed (first 250 <item> nodes)
-      run: |
-        awk '
-          BEGIN {c=0}
-          /<item>/ {c++}
-          {print}
-          c==250 {print "</channel></rss>"; exit}
-        ' feed.xml > feed_250.xml
-
-    # 3) ----------  Set up Python environment -------------------------------------------
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-
-    - name: Install deps
-      run: |
-        python -m pip install --upgrade pip
-        pip install yfinance feedparser pandas tabulate
-
-    # 4) ----------  Generate the report -------------------------------------------------
-    - name: Generate OTC report
-      run: |
-        python scripts/generate_otc_report.py feed_250.xml > report.md
-
-    # 5) ----------  Dump report to job summary ------------------------------------------
-    - name: Publish report
-      run: |
-        echo "### OTC Positive-Impact News Report $(date -u '+%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
-        cat report.md >> $GITHUB_STEP_SUMMARY
