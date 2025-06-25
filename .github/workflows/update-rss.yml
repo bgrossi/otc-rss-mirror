@@ -25,7 +25,7 @@ jobs:
           pip install feedparser pytz
 
       - name: Fetch & filter RSS
-        run: python fetch_and_filter_rss.py
+        run: python workflows/fetch_and_filter_rss.py
 
       - name: Commit & push rss.txt
         run: |
