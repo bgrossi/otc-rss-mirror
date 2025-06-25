@@ -33,7 +33,39 @@ if os.path.exists(OUT_FILE):
                 continue
 
 # ---------- fetch feed ---------- #
-feed = feedparser.parse(FEED_URL)
+import requests, time, http.client, socket
+import feedparser
+
+MAX_RETRIES = 4           # 1 try + up to 3 retries
+SLEEP_BASE  = 3           # seconds; grows exponentially
+
+headers = {
+    "User-Agent": (
+        "Mozilla/5.0 (compatible; otc-rss-fetcher/1.0; "
+        "+https://github.com/<your-user>/otc_rss_mirror)"
+    )
+}
+
+for attempt in range(1, MAX_RETRIES + 1):
+    try:
+        resp = requests.get(
+            FEED_URL,
+            headers=headers,
+            timeout=30,            # seconds
+            allow_redirects=True
+        )
+        resp.raise_for_status()    # raises for HTTP 4xx/5xx
+        feed = feedparser.parse(resp.content)
+        break                      # success! exit loop
+    except (requests.exceptions.RequestException,
+            http.client.RemoteDisconnected,
+            socket.timeout) as exc:
+        if attempt == MAX_RETRIES:
+            raise                   # bubble up on final failure
+        wait = SLEEP_BASE ** attempt
+        print(f"Fetch failed ({exc}); retrying in {wait}s…", file=sys.stderr)
+        time.sleep(wait)
+
 for e in feed.entries:
     published = (
         datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
