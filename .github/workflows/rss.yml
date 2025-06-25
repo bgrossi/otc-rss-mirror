@@ -1,0 +1,38 @@
+name: Fetch OTC RSS
+
+on:
+  # ❶ Scheduled: every 15 min
+  schedule:
+    - cron: "*/15 * * * *"
+  # ❷ Manual run button in the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run script
+        run: python fetch_and_filter_rss.py
+
+      - name: Commit & push (if the file changed)
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add data/otc_rss_latest.txt
+            git commit -m "Update RSS snapshot $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
