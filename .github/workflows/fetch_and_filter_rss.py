@@ -1,6 +1,8 @@
 import feedparser
 import feedparser
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import time
 from datetime import datetime, timedelta
 import pytz
@@ -8,22 +10,32 @@ import pytz
 FEED_URL = "https://www.otcmarkets.com/syndicate/rss.xml"
 CUT_OFF = datetime.now(pytz.utc) - timedelta(days=4)
 
-## robust fetch with 3 retries
-for attempt in range(3):
-    try:
-        resp = requests.get(
-            FEED_URL,
-            timeout=10,
-            headers={"User-Agent": "GitHub-Actions-RSS-Mirror/1.0"}
-        )
-        resp.raise_for_status()
-        feed = feedparser.parse(resp.content)
-        break
-    except Exception as e:
-        print(f"[Attempt {attempt+1}/3] Fetch failed: {e}")
-        time.sleep(5)
-else:
-    raise RuntimeError("Failed to retrieve RSS feed after 3 attempts")
+## set up a session with retry on connect/read failures
+session = requests.Session()
+retry_strategy = Retry(
+    total=5,
+    backoff_factor=1,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["GET"]
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+session.mount("https://", adapter)
+session.mount("http://", adapter)
+
+try:
+    # timeout=(connect, read)
+    resp = session.get(
+        FEED_URL,
+        timeout=(5, 30),
+        headers={"User-Agent": "GitHub-Actions-RSS-Mirror/1.0"}
+    )
+    resp.raise_for_status()
+    feed = feedparser.parse(resp.content)
+except requests.exceptions.ReadTimeout as e:
+    raise RuntimeError(f"Read timed out after 30s: {e}")
+except Exception as e:
+    raise RuntimeError(f"Failed to fetch RSS feed: {e}")
+
 lines = []
 
 for entry in feed.entries:
