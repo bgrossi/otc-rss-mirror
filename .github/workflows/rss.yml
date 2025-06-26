@@ -27,6 +27,7 @@ jobs:
 
       - name: Commit & push (if the file changed)
         run: |
+          git add -A data/otc_rss_latest.txt          # stage new + modified
           if git diff --quiet; then
             echo "No changes to commit"
           else
